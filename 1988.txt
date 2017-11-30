@@ -1,0 +1,70 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+5043,"611","2","Town","Special","1988","Air Canada Jet Plane",,92,,,,,"https://images.brickset.com/sets/images/611-2.jpg",36,318
+7856,"1067","1","Dacta","","1988","Community Vehicles",14,203,,,,,"https://images.brickset.com/sets/images/1067-1.jpg",37,88
+357,"1490","1","Town","Shops and Services","1988","Town Bank",3,187,,,,,"https://images.brickset.com/sets/images/1490-1.jpg",287,830
+5383,"1530","2","Space","Bonus/Value Pack","1988","Space Value Pack",,91,,,,,"https://images.brickset.com/sets/images/1530-2.jpg",59,124
+400,"1544","1","Duplo","","1988","Duplo Building Set",2,55,,,,,"https://images.brickset.com/sets/images/1544-1.jpg",50,18
+433,"1584","1","Castle","Lion Knights","1988","Knight's Challenge",8,132,,,,,"https://images.brickset.com/sets/images/1584-1.jpg",529,936
+452,"1612","1","Town","Racing","1988","Victory Racer",1,25,,,,,"https://images.brickset.com/sets/images/1612-1.jpg",614,256
+6376,"2395","1","Duplo","","1988","{duplo box}",,,,,,,5,16
+547,"2612","1","Duplo","","1988","Motorbike & Rider",1,1,,,,,"https://images.brickset.com/sets/images/2612-1.jpg",135,19
+5022,"2614","1","Duplo","","1988","Mother and Baby",2,1,,4.75,,,51,17
+23103,"2626","1","Duplo","","1988","Car and Boat Vacation Trailer",1,4,,,,,"https://images.brickset.com/sets/images/2626-1.jpg",13,13
+23268,"2641","2","Duplo","","1988","Jumbo Plane",1,10,,,,,11,13
+5002,"2652","1","Duplo","","1988","Circus Caravan",4,16,,35.25,,,"https://images.brickset.com/sets/images/2652-1.jpg",56,23
+5007,"2701","1","Duplo","Trains","1988","Train and Station Set",2,42,,44,,,40,22
+5008,"2706","1","Duplo","Trains","1988","Barnyard Express",1,10,,,,,16,21
+5009,"2720","1","Duplo","Trains","1988","Goods Station",1,32,,,,,8,19
+1690,"3622","1","Fabuland","","1988","Rowboat with Lionel Lion and Hannah Hippopotamus",2,12,,,,,"https://images.brickset.com/sets/images/3622-1.jpg",177,69
+1691,"3623","1","Fabuland","","1988","Beauty Salon",2,24,,,,,"https://images.brickset.com/sets/images/3623-1.jpg",149,68
+1710,"3646","1","Fabuland","","1988","Catherine Cat in her Kitchen",2,53,,,,,"https://images.brickset.com/sets/images/3646-1.jpg",221,87
+1740,"3680","1","Fabuland","","1988","Caravan and Rowboat",3,27,,,,,"https://images.brickset.com/sets/images/3680-1.jpg",115,83
+1743,"3683","1","Fabuland","","1988","Amusement Park",4,93,,,,,"https://images.brickset.com/sets/images/3683-1.jpg",113,91
+1767,"3721","1","Fabuland","","1988","Clive Crocodile on his Skateboard",1,10,,,,,"https://images.brickset.com/sets/images/3721-1.jpg",213,79
+1825,"3798","1","Fabuland","","1988","Hannah Hippopotamus on a Picnic",1,24,,,,,"https://images.brickset.com/sets/images/3798-1.jpg",198,67
+2595,"5200","1","Service Packs","Trains","1988","Signal Masts and Base Supports",,8,,,,,"https://images.brickset.com/sets/images/5200-1.jpg",39,62
+2984,"6016","1","Castle","Lion Knights","1988","Knights' Arsenal",1,37,,4.25,,,"https://images.brickset.com/sets/images/6016-1.jpg",3046,611
+3003,"6035","1","Castle","Black Falcons","1988","Castle Guard",2,52,,5.75,,,"https://images.brickset.com/sets/images/6035-1.jpg",2332,784
+3007,"6039","1","Castle","Lion Knights","1988","Twin-Arm Launcher",2,77,,8.5,,,"https://images.brickset.com/sets/images/6039-1.jpg",3299,688
+3020,"6054","1","Castle","Forestmen","1988","Forestmen's Hideout",2,201,,17.5,,,"https://images.brickset.com/sets/images/6054-1.jpg",4175,1175
+3048,"6085","1","Castle","Black Knights","1988","Black Monarch's Castle",12,702,,68,,,"https://images.brickset.com/sets/images/6085-1.jpg",2536,1629
+3066,"6103","1","Castle","Accessories","1988","Castle Mini Figures",6,42,3.75,6.75,,,"https://images.brickset.com/sets/images/6103-1.jpg",2216,818
+3156,"6309","1","Town","Accessories","1988","Town Mini-Figures",6,37,,6,,,"https://images.brickset.com/sets/images/6309-1.jpg",1082,360
+3163,"6315","1","Town","Accessories","1988","Road Signs",,11,1.5,3,,,"https://images.brickset.com/sets/images/6315-1.jpg",2609,452
+3164,"6316","1","Town","Accessories","1988","Flags and Fences",,38,2.5,4,,,"https://images.brickset.com/sets/images/6316-1.jpg",920,295
+3165,"6317","1","Town","Accessories","1988","Trees and Flowers",,24,2.5,4,,,"https://images.brickset.com/sets/images/6317-1.jpg",1565,412
+3199,"6349","1","Town","Leisure","1988","Holiday Villa",2,205,,,,,"https://images.brickset.com/sets/images/6349-1.jpg",1259,1070
+3207,"6356","1","Town","Medical","1988","Med-Star Rescue Plane",3,159,,15.5,,,"https://images.brickset.com/sets/images/6356-1.jpg",2445,615
+3208,"6357","1","Town","Vehicles","1988","Stunt 'Copter N' Truck",2,177,,17,,,"https://images.brickset.com/sets/images/6357-1.jpg",3121,483
+3250,"6394","1","Town","Shops and Services","1988","Metro Park & Service Tower",6,620,,58.25,,,"https://images.brickset.com/sets/images/6394-1.jpg",1939,1181
+3251,"6395","1","Town","Racing","1988","Victory Lap Raceway",13,606,,58.25,,,"https://images.brickset.com/sets/images/6395-1.jpg",1457,834
+3352,"6503","1","Town","Racing","1988","Sprint Racer",1,32,,,,,"https://images.brickset.com/sets/images/6503-1.jpg",3643,299
+3353,"6504","1","Town","Construction","1988","Tractor",1,25,,,,,"https://images.brickset.com/sets/images/6504-1.jpg",1592,332
+3354,"6505","1","Town","Fire","1988","Fire Chief's Car",1,29,,,,,"https://images.brickset.com/sets/images/6505-1.jpg",1315,270
+3380,"6524","1","Town","Maintenance","1988","Blizzard Blazer",1,50,2.5,4,,,"https://images.brickset.com/sets/images/6524-1.jpg",2124,390
+3445,"6590","1","Town","Leisure","1988","Vacation Camper",2,116,,,,,"https://images.brickset.com/sets/images/6590-1.jpg",2657,656
+3495,"6642","1","Town","Police","1988","Police Helicopter",1,66,,15,,,"https://images.brickset.com/sets/images/6642-1.jpg",2455,315
+3496,"6643","1","Town","Fire","1988","Fire Chief's Truck",1,74,,,,,"https://images.brickset.com/sets/images/6643-1.jpg",1715,429
+3528,"6674","1","Town","Vehicles","1988","Crane Truck",1,94,,,,,"https://images.brickset.com/sets/images/6674-1.jpg",1633,436
+3529,"6675","1","Town","Vehicles","1988","Road & Trail 4 x 4",1,81,,,,,"https://images.brickset.com/sets/images/6675-1.jpg",2478,479
+3558,"6703","1","Space","Miscellaneous","1988","Minifig Pack",6,42,,,,,"https://images.brickset.com/sets/images/6703-1.jpg",1232,548
+3602,"6770","1","Space","Futuron","1988","Lunar Transporter Patroller",1,117,,,,,"https://images.brickset.com/sets/images/6770-1.jpg",782,554
+3642,"6828","1","Space","Futuron","1988","Twin-Winged Spoiler",1,57,,,,,"https://images.brickset.com/sets/images/6828-1.jpg",1664,424
+3644,"6830","1","Space","Futuron","1988","Space Patroller",3,51,,,,,"https://images.brickset.com/sets/images/6830-1.jpg",1966,540
+3659,"6848","1","Space","Futuron","1988","Strategic Pursuer",1,54,,,,,"https://images.brickset.com/sets/images/6848-1.jpg",2343,542
+3673,"6875","1","Space","Futuron","1988","Hovercraft",1,93,,,,,"https://images.brickset.com/sets/images/6875-1.jpg",1664,488
+3674,"6876","1","Space","Blacktron","1988","Alienator",1,86,,,,,"https://images.brickset.com/sets/images/6876-1.jpg",3480,671
+3683,"6885","1","Space","Futuron","1988","Crater Crawler",1,100,,,,,"https://images.brickset.com/sets/images/6885-1.jpg",928,516
+3707,"6921","1","Space","Futuron","1988","Monorail Accessory Track",,46,,34.95,,,"https://images.brickset.com/sets/images/6921-1.jpg",695,740
+3709,"6925","1","Space","Futuron","1988","Interplanetary Rover",4,217,,,,,"https://images.brickset.com/sets/images/6925-1.jpg",826,556
+3755,"6987","1","Space","Blacktron","1988","Message Intercept Base",5,569,,,,,"https://images.brickset.com/sets/images/6987-1.jpg",1331,1216
+4436,"8712","1","Technic","Supplementary","1988","Technic Figures",3,10,,8.25,,,"https://images.brickset.com/sets/images/8712-1.jpg",1088,280
+4476,"8832","1","Technic","","1988","Roadster",,86,,,,,"https://images.brickset.com/sets/images/8832-1.jpg",2452,206
+4496,"8853","1","Technic","","1988","Excavator",,326,,,,,"https://images.brickset.com/sets/images/8853-1.jpg",1188,301
+4498,"8855","1","Technic","","1988","Prop Plane",1,569,,,,,"https://images.brickset.com/sets/images/8855-1.jpg",1537,386
+4508,"8865","1","Technic","","1988","Test Car",,900,,,,,"https://images.brickset.com/sets/images/8865-1.jpg",2396,575
+4866,"9058","1","Dacta","","1988","Large Building Plates",,2,,22,,,"https://images.brickset.com/sets/images/9058-1.jpg",38,55
+22625,"9155","1","Dacta","Duplo","1988","Circus",,,,,,,"https://images.brickset.com/sets/images/9155-1.jpg",6,19
+22623,"9220","1","Dacta","Duplo","1988","Farm Scene Mosaics",,81,,,,,"https://images.brickset.com/sets/images/9220-1.jpg",4,17
+22624,"9221","1","Dacta","Duplo","1988","Town Scene Mosaics",,81,,,,,"https://images.brickset.com/sets/images/9221-1.jpg",4,17
+27347,"9850","1","Gear","Furniture","1988","Duplo Play wall",,,,,,,2,2

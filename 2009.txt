@@ -1,0 +1,480 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+7649,"2009","1","Miscellaneous","Employee gift","2009","Heart",,92,,,,,"https://images.brickset.com/sets/images/2009-1.jpg",110,189
+9698,"3592","1","Games","","2009","Knights' Kingdom Board Game",,,,,,,27,106
+6751,"3594","1","Duplo","Bob the Builder","2009","Bob's Workshop",1,14,12.69,14.99,,,"https://images.brickset.com/sets/images/3594-1.jpg",89,46
+6825,"3595","1","Duplo","Bob the Builder","2009","Scoop at Bobland Bay",,28,15.65,19.99,,,"https://images.brickset.com/sets/images/3595-1.jpg",116,46
+6826,"3596","1","Duplo","Bob the Builder","2009","Muck Can Do It",,39,22.49,29.99,,,"https://images.brickset.com/sets/images/3596-1.jpg",100,47
+6827,"3597","1","Duplo","Bob the Builder","2009","Lofty and Dizzy Hard At Work",1,51,29.35,39.99,,,"https://images.brickset.com/sets/images/3597-1.jpg",74,47
+6888,"3833","1","SpongeBob SquarePants","","2009","Krusty Krab Adventures",3,209,24.99,24.99,34.99,26.99,"https://images.brickset.com/sets/images/3833-1.jpg",2586,704
+6889,"3834","1","SpongeBob SquarePants","","2009","Good Neighbours at Bikini Bottom",3,425,39.99,39.99,54.99,52.99,"https://images.brickset.com/sets/images/3834-1.jpg",1862,727
+7146,"3835","1","Games","","2009","Robo Champ",,118,7.99,4.99,12.99,,"https://images.brickset.com/sets/images/3835-1.jpg",1796,275
+7147,"3836","1","Games","","2009","Magikus ",,108,7.99,9.99,12.99,,"https://images.brickset.com/sets/images/3836-1.jpg",1634,295
+7148,"3837","1","Games","","2009","Monster 4",,141,9.99,14.99,19.99,,"https://images.brickset.com/sets/images/3837-1.jpg",1731,349
+7149,"3838","1","Games","","2009","Lava Dragon ",4,131,9.99,14.99,19.99,12.99,"https://images.brickset.com/sets/images/3838-1.jpg",1645,341
+7151,"3839","1","Games","","2009","Race 3000",,166,14.99,9.99,26.99,,"https://images.brickset.com/sets/images/3839-1.jpg",1559,378
+7155,"3840","1","Games","","2009","Pirate Code",1,268,16.99,9.99,26.99,,"https://images.brickset.com/sets/images/3840-1.jpg",1445,387
+7150,"3841","1","Games","","2009","Minotaurus",12,211,17.99,24.99,34.99,24.99,"https://images.brickset.com/sets/images/3841-1.jpg",3328,401
+7152,"3842","1","Games","","2009","Lunar Command ",6,271,19.99,,,,"https://images.brickset.com/sets/images/3842-1.jpg",592,486
+7153,"3843","1","Games","","2009","Ramses Pyramid ",13,217,19.99,9.99,39.99,29.99,"https://images.brickset.com/sets/images/3843-1.jpg",2663,411
+7154,"3844","1","Games","","2009","Creationary ",2,338,24.99,34.99,39.99,34.99,"https://images.brickset.com/sets/images/3844-1.jpg",3855,578
+7103,"4899","1","City","Farm","2009","Tractor",1,28,,,,,"https://images.brickset.com/sets/images/4899-1.jpg",2751,1672
+6989,"5486","1","Duplo","","2009","Fun With Duplo Bricks",,90,21.99,29.99,39.99,,"https://images.brickset.com/sets/images/5486-1.jpg",48,18
+6966,"5487","1","Bricks and More","","2009","Fun With LEGO Bricks",,700,21.99,29.99,39.99,,"https://images.brickset.com/sets/images/5487-1.jpg",193,120
+6990,"5488","1","Duplo","","2009","Duplo Farm Building Set",2,102,29.99,39.99,64.99,,"https://images.brickset.com/sets/images/5488-1.jpg",74,23
+6965,"5489","1","Bricks and More","","2009","Ultimate LEGO Vehicle Building Set",1,675,29.99,44.99,64.99,44.99,"https://images.brickset.com/sets/images/5489-1.jpg",294,175
+6942,"5538","1","Duplo","","2009","Duplo Creative Bucket",,76,19.99,29.99,39.99,24.99,"https://images.brickset.com/sets/images/5538-1.jpg",99,18
+6943,"5539","1","Bricks and More","","2009","Creative Bucket",,480,19.99,29.99,39.99,24.99,"https://images.brickset.com/sets/images/5539-1.jpg",166,93
+6999,"5545","1","Duplo","Thomas the Tank Engine","2009","Stanley at Great Waterton",,19,17.59,19.99,,,"https://images.brickset.com/sets/images/5545-1.jpg",144,68
+7000,"5546","1","Duplo","Thomas the Tank Engine","2009","Thomas at Morgan's Mine",,22,22.99,29.99,,,"https://images.brickset.com/sets/images/5546-1.jpg",133,86
+7001,"5547","1","Duplo","Thomas the Tank Engine","2009","James Celebrates Sodor Day",1,34,24.99,29.99,,,"https://images.brickset.com/sets/images/5547-1.jpg",121,69
+6964,"5560","1","Bricks and More","","2009","Large Pink Brick Box",1,402,25.99,29.99,39.99,27.99,"https://images.brickset.com/sets/images/5560-1.jpg",1488,147
+6834,"5586","1","Duplo","","2009","Duplo Basic Bricks with Fun Figures",,50,12.69,,,,"https://images.brickset.com/sets/images/5586-1.jpg",21,19
+6835,"5587","1","Bricks and More","","2009","Basic Bricks with Fun Figures",,390,13.35,19.99,,,"https://images.brickset.com/sets/images/5587-1.jpg",101,80
+7012,"5588","1","Duplo","","2009","Duplo Giant Box",,201,48.96,,,,"https://images.brickset.com/sets/images/5588-1.jpg",30,22
+7013,"5589","1","Bricks and More","","2009","LEGO Giant Box",,1600,48.96,,,,"https://images.brickset.com/sets/images/5589-1.jpg",137,113
+6992,"5592","1","Duplo","LEGO Ville","2009","My First Plane",2,8,14.99,14.99,19.99,13.99,"https://images.brickset.com/sets/images/5592-1.jpg",524,45
+6993,"5594","1","Duplo","LEGO Ville","2009","Cargo Plane",2,28,34.99,49.99,64.99,,"https://images.brickset.com/sets/images/5594-1.jpg",334,82
+6994,"5595","1","Duplo","LEGO Ville","2009","Airport",4,59,69.99,89.99,119.99,84.99,"https://images.brickset.com/sets/images/5595-1.jpg",211,135
+6828,"5632","1","Duplo","LEGO Ville","2009","Animal Care",1,4,4.99,7.99,9.99,4.99,"https://images.brickset.com/sets/images/5632-1.jpg",571,39
+6829,"5633","1","Duplo","LEGO Ville","2009","Polar Zoo",1,32,20.99,29.99,39.99,24.99,"https://images.brickset.com/sets/images/5633-1.jpg",425,68
+6830,"5634","1","Duplo","LEGO Ville","2009","Feeding Zoo",3,53,40.99,49.99,64.99,54.99,"https://images.brickset.com/sets/images/5634-1.jpg",346,61
+6997,"5635","1","Duplo","LEGO Ville","2009","Big City Zoo",4,125,69.99,89.99,129.99,94.99,"https://images.brickset.com/sets/images/5635-1.jpg",309,79
+6831,"5636","1","Duplo","LEGO Ville","2009","Bus",3,14,20.99,24.99,29.99,24.99,"https://images.brickset.com/sets/images/5636-1.jpg",712,64
+6832,"5637","1","Duplo","LEGO Ville","2009","Garbage Truck",1,12,14.99,16.99,19.99,15.99,"https://images.brickset.com/sets/images/5637-1.jpg",600,71
+6833,"5638","1","Duplo","LEGO Ville","2009","Postman",1,9,7.99,9.99,12.99,,"https://images.brickset.com/sets/images/5638-1.jpg",497,54
+6998,"5639","1","Duplo","LEGO Ville","2009","Family House",4,71,49.99,69.99,89.99,59.99,"https://images.brickset.com/sets/images/5639-1.jpg",393,106
+6995,"5640","1","Duplo","LEGO Ville","2009","Petrol Station",1,24,18.99,24.99,29.99,19.99,"https://images.brickset.com/sets/images/5640-1.jpg",345,59
+6996,"5641","1","Duplo","LEGO Ville","2009","Busy Garage",2,51,35.99,49.99,64.99,39.99,"https://images.brickset.com/sets/images/5641-1.jpg",239,54
+7031,"5642","1","City","Construction","2009","Tipper Truck",1,27,,,,,"https://images.brickset.com/sets/images/5642-1.jpg",542,1302
+6917,"5969","1","Space","Space Police 3","2009","Squidman Escape",2,42,4.99,5.99,7.99,,"https://images.brickset.com/sets/images/5969-1.jpg",4715,723
+6918,"5970","1","Space","Space Police 3","2009","Freeze Ray Frenzy",2,80,9.99,9.99,,,"https://images.brickset.com/sets/images/5970-1.jpg",3461,793
+6919,"5971","1","Space","Space Police 3","2009","Gold Heist",2,205,17.99,19.99,,,"https://images.brickset.com/sets/images/5971-1.jpg",2868,1011
+6920,"5972","1","Space","Space Police 3","2009","Container Heist",2,282,24.99,29.99,,,"https://images.brickset.com/sets/images/5972-1.jpg",2165,1025
+6921,"5973","1","Space","Space Police 3","2009","Hyperspeed Pursuit",3,456,39.99,49.99,64.99,,"https://images.brickset.com/sets/images/5973-1.jpg",2192,1301
+6922,"5974","1","Space","Space Police 3","2009","Galactic Enforcer",7,825,64.99,99.99,129.99,,"https://images.brickset.com/sets/images/5974-1.jpg",2068,1588
+6960,"5979","1","Space","Space Police 3","2009","Max Security Transport",3,330,29.35,39.99,,,"https://images.brickset.com/sets/images/5979-1.jpg",766,1152
+6961,"5980","1","Space","Space Police 3","2009","Squidman's Pitstop",4,389,34.25,49.99,,,"https://images.brickset.com/sets/images/5980-1.jpg",831,1019
+6836,"6191","1","Bricks and More","","2009","Fire Fighter Building Set",1,117,7.99,9.99,12.99,,"https://images.brickset.com/sets/images/6191-1.jpg",1075,160
+6837,"6192","1","Bricks and More","","2009","Pirate Building Set",1,150,7.99,9.99,,,"https://images.brickset.com/sets/images/6192-1.jpg",1303,222
+6838,"6193","1","Bricks and More","","2009","Castle Building Set",1,137,6.85,9.99,,,"https://images.brickset.com/sets/images/6193-1.jpg",1142,192
+6967,"6194","1","Bricks and More","","2009","My LEGO Town",2,516,20.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/6194-1.jpg",317,184
+6768,"6239","1","Pirates","","2009","Cannon Battle",2,45,4.99,5.99,6.99,,"https://images.brickset.com/sets/images/6239-1.jpg",5360,907
+6769,"6240","1","Pirates","","2009","Kraken Attackin'",2,78,8.99,9.99,11.99,,"https://images.brickset.com/sets/images/6240-1.jpg",4721,1068
+6770,"6241","1","Pirates","","2009","Loot Island",3,142,17.99,19.99,24.99,,"https://images.brickset.com/sets/images/6241-1.jpg",4088,1398
+6771,"6242","1","Pirates","","2009","Soldiers' Fort",6,367,39.99,49.99,64.99,,"https://images.brickset.com/sets/images/6242-1.jpg",3187,1847
+6772,"6243","1","Pirates","","2009","Brickbeard's Bounty",8,592,59.99,99.99,119.99,,"https://images.brickset.com/sets/images/6243-1.jpg",3843,2348
+6868,"6253","1","Pirates","","2009","Shipwreck Hideout",6,310,26.45,39.99,,,"https://images.brickset.com/sets/images/6253-1.jpg",2073,1800
+6968,"6299","1","Pirates","Seasonal","2009","Pirates Advent Calendar",8,148,15.79,,,,"https://images.brickset.com/sets/images/6299-1.jpg",1343,1074
+6744,"6741","1","Creator","","2009","Mini Jet",,63,4.99,5.99,6.99,,"https://images.brickset.com/sets/images/6741-1.jpg",3081,451
+6745,"6742","1","Creator","","2009","Mini Off-Roader",,64,4.99,5.99,6.99,,"https://images.brickset.com/sets/images/6742-1.jpg",2902,404
+6746,"6743","1","Creator","","2009","Street Speeder",,165,9.99,12.99,17.99,9.99,"https://images.brickset.com/sets/images/6743-1.jpg",4440,581
+6747,"6745","1","Creator","","2009","Propeller Power",,247,18.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/6745-1.jpg",2602,576
+6748,"6747","1","Creator","","2009","Race Rider",,266,15.99,19.99,26.99,,"https://images.brickset.com/sets/images/6747-1.jpg",1549,470
+6979,"6751","1","Creator","","2009","Fiery Legend",,479,34.99,39.99,49.99,,"https://images.brickset.com/sets/images/6751-1.jpg",853,779
+6980,"6752","1","Creator","","2009","Fire Rescue",,771,44.99,59.99,79.99,,"https://images.brickset.com/sets/images/6752-1.jpg",1580,981
+6981,"6753","1","Creator","","2009","Highway Transport",,1294,69.99,89.99,119.99,,"https://images.brickset.com/sets/images/6753-1.jpg",1873,1280
+6982,"6754","1","Creator","","2009","Family Home",,976,59.99,59.99,79.99,,"https://images.brickset.com/sets/images/6754-1.jpg",4549,3539
+6911,"7078","1","Castle","Fantasy Era","2009","King's Battle Chariot",4,103,13.99,19.99,,,"https://images.brickset.com/sets/images/7078-1.jpg",2314,1299
+6912,"7079","1","Castle","Fantasy Era","2009","Drawbridge Defense",7,335,26.99,39.99,,,"https://images.brickset.com/sets/images/7079-1.jpg",2512,1831
+6913,"7097","1","Castle","Fantasy Era","2009","Trolls' Mountain Fortress",10,844,74.99,99.99,,,"https://images.brickset.com/sets/images/7097-1.jpg",2289,2066
+6901,"7195","1","Indiana Jones","Raiders of the Lost Ark","2009","Ambush In Cairo",4,79,9.99,10.99,,,"https://images.brickset.com/sets/images/7195-1.jpg",4909,1810
+6902,"7196","1","Indiana Jones","Kingdom of the Crystal Skull","2009","Chauchilla Cemetery Battle",5,187,18.99,19.99,,,"https://images.brickset.com/sets/images/7196-1.jpg",2007,1709
+6903,"7197","1","Indiana Jones","Last Crusade","2009","Venice Canal Chase",4,420,29.99,39.99,,,"https://images.brickset.com/sets/images/7197-1.jpg",2844,1922
+6904,"7198","1","Indiana Jones","Last Crusade","2009","Fighter Plane Attack",3,384,47.99,49.99,,,"https://images.brickset.com/sets/images/7198-1.jpg",2251,2248
+6905,"7199","1","Indiana Jones","Temple of Doom","2009","The Temple of Doom",6,652,74.99,89.99,,,"https://images.brickset.com/sets/images/7199-1.jpg",2082,2364
+7008,"7614","1","Duplo","","2009","Elephant Bucket",2,,,,,,"https://images.brickset.com/sets/images/7614-1.jpg",11,25
+7009,"7615","1","Bricks and More","","2009","Basic Blue Bucket",2,465,,,,,"https://images.brickset.com/sets/images/7615-1.jpg",51,106
+7010,"7616","1","Bricks and More","","2009","Basic Red Bucket",,427,,,,,"https://images.brickset.com/sets/images/7616-1.jpg",40,72
+7011,"7618","1","Duplo","","2009","Fun Zoo",1,,,,,,17,21
+6749,"7630","1","City","Construction","2009","Front-End Loader",1,108,9.99,12.99,14.99,,"https://images.brickset.com/sets/images/7630-1.jpg",5882,1711
+6750,"7631","1","City","Construction","2009","Dump Truck",1,189,14.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/7631-1.jpg",5541,1861
+6752,"7632","1","City","Construction","2009","Crawler Crane",2,481,44.99,59.99,69.99,,"https://images.brickset.com/sets/images/7632-1.jpg",3495,2390
+6753,"7633","1","City","Construction","2009","Construction Site",5,898,69.99,99.99,119.99,,"https://images.brickset.com/sets/images/7633-1.jpg",3568,3206
+6757,"7634","1","City","Farm","2009","Tractor",1,78,8.49,12.99,17.99,,"https://images.brickset.com/sets/images/7634-1.jpg",6632,2098
+6758,"7635","1","City","Farm","2009","4WD with Horse Trailer",2,176,14.99,17.48,24.99,,"https://images.brickset.com/sets/images/7635-1.jpg",6318,2104
+6760,"7636","1","City","Farm","2009","Combine Harvester",1,360,34.99,44.99,59.99,,"https://images.brickset.com/sets/images/7636-1.jpg",2784,2796
+6759,"7637","1","City","Farm","2009","Farm",3,609,61.99,89.99,109.99,,"https://images.brickset.com/sets/images/7637-1.jpg",3831,2928
+6923,"7638","1","City","Traffic","2009","Tow Truck",1,129,9.99,12.99,17.99,,"https://images.brickset.com/sets/images/7638-1.jpg",6462,1571
+6924,"7639","1","City","Traffic","2009","Camper",2,165,14.99,16.99,19.99,16.99,"https://images.brickset.com/sets/images/7639-1.jpg",11305,2178
+6925,"7641","1","City","Traffic","2009","City Corner",5,483,49.99,59.99,79.99,52.99,"https://images.brickset.com/sets/images/7641-1.jpg",7716,3098
+6926,"7642","1","City","Traffic","2009","Garage",4,953,69.99,99.99,129.99,,"https://images.brickset.com/sets/images/7642-1.jpg",3619,3486
+6952,"7643","1","City","Airport","2009","Air-Show Plane",2,115,,,,,"https://images.brickset.com/sets/images/7643-1.jpg",580,1651
+6788,"7682","1","Indiana Jones","Temple of Doom","2009","Shanghai Chase",5,244,26.45,29.99,,,"https://images.brickset.com/sets/images/7682-1.jpg",4125,2362
+6789,"7683","1","Indiana Jones","Raiders of the Lost Ark","2009","Fight on the Flying Wing",4,376,41.09,49.99,,,"https://images.brickset.com/sets/images/7683-1.jpg",2515,2448
+6754,"7685","1","City","Construction","2009","Dozer",1,352,19.55,39.99,,,"https://images.brickset.com/sets/images/7685-1.jpg",3858,2043
+6927,"7686","1","City","Traffic","2009","Helicopter Transporter",3,377,19.55,39.99,,,"https://images.brickset.com/sets/images/7686-1.jpg",3066,1936
+6928,"7687","1","City","Seasonal","2009","City Advent Calendar",9,257,19.55,29.99,,,"https://images.brickset.com/sets/images/7687-1.jpg",2601,845
+6756,"7746","1","City","Construction","2009","Single-Drum Roller",2,208,24.99,29.99,,,"https://images.brickset.com/sets/images/7746-1.jpg",3216,2307
+6975,"7747","1","City","Traffic","2009","Wind Turbine Transport",2,444,41.99,59.99,79.99,,"https://images.brickset.com/sets/images/7747-1.jpg",3178,3066
+6934,"7748","1","Star Wars","The Clone Wars","2009","Corporate Alliance Tank Droid",4,216,24.99,24.99,29.99,,"https://images.brickset.com/sets/images/7748-1.jpg",6717,2309
+6935,"7749","1","Star Wars","Episode V","2009","Echo Base",5,155,24.99,24.99,29.99,,"https://images.brickset.com/sets/images/7749-1.jpg",11130,3132
+6893,"7751","1","Star Wars","The Clone Wars","2009","Ahsoka's Starfighter and Droids",4,291,31.29,39.99,,,"https://images.brickset.com/sets/images/7751-1.jpg",2924,2992
+6951,"7752","1","Star Wars","The Clone Wars","2009","Count Dooku's Solar Sailer",4,385,39.99,54.99,74.99,,"https://images.brickset.com/sets/images/7752-1.jpg",3739,2843
+6969,"7753","1","Star Wars","The Clone Wars","2009","Pirate Tank",3,372,34.99,39.99,49.99,,"https://images.brickset.com/sets/images/7753-1.jpg",3369,2646
+6970,"7754","1","Star Wars","Episode VI","2009","Home One Mon Calamari Star Cruiser",6,789,89.99,109.99,139.99,,"https://images.brickset.com/sets/images/7754-1.jpg",5073,4071
+6936,"7778","1","Star Wars","Miscellaneous","2009","Midi-scale Millennium Falcon",,356,34.99,39.99,,,"https://images.brickset.com/sets/images/7778-1.jpg",3946,2497
+7087,"7800","1","Racers","Tiny Turbos","2009","Off Road Racer",,28,,,,,"https://images.brickset.com/sets/images/7800-1.jpg",526,179
+7088,"7801","1","Racers","Tiny Turbos","2009","Rally Racer",,42,,,,,"https://images.brickset.com/sets/images/7801-1.jpg",572,212
+7089,"7802","1","Racers","Tiny Turbos","2009","Le Mans Racer",,29,,2.99,,,"https://images.brickset.com/sets/images/7802-1.jpg",943,249
+7090,"7803","1","Creator","","2009","Jeep",,38,,,,,"https://images.brickset.com/sets/images/7803-1.jpg",1251,361
+7091,"7804","1","Creator","","2009","Lizard",,33,,,,,"https://images.brickset.com/sets/images/7804-1.jpg",1083,354
+7092,"7805","1","Creator","","2009","Shark",,44,,,,,"https://images.brickset.com/sets/images/7805-1.jpg",981,373
+7093,"7806","1","Creator","","2009","Truck",,,,,,,"https://images.brickset.com/sets/images/7806-1.jpg",31,248
+7094,"7807","1","Creator","","2009","Airliner",,,,,,,"https://images.brickset.com/sets/images/7807-1.jpg",22,282
+7095,"7808","1","Creator","","2009","Yellow Airplane",,34,,,,,"https://images.brickset.com/sets/images/7808-1.jpg",1352,330
+6790,"8014","1","Star Wars","The Clone Wars","2009","Clone Walker Battle Pack",4,72,9.99,11.99,14.99,,"https://images.brickset.com/sets/images/8014-1.jpg",13382,2322
+6791,"8015","1","Star Wars","The Clone Wars","2009","Assassin Droids Battle Pack",5,94,9.99,11.99,14.99,,"https://images.brickset.com/sets/images/8015-1.jpg",9812,1848
+6792,"8016","1","Star Wars","The Clone Wars","2009","Hyena Droid Bomber",3,232,24.99,19.99,26.99,,"https://images.brickset.com/sets/images/8016-1.jpg",6988,2075
+6793,"8017","1","Star Wars","Episode IV","2009","Darth Vader's TIE Fighter",1,251,34.99,29.99,39.99,,"https://images.brickset.com/sets/images/8017-1.jpg",10128,3936
+6794,"8018","1","Star Wars","The Clone Wars","2009","Armored Assault Tank (AAT)",7,407,39.99,49.99,64.99,,"https://images.brickset.com/sets/images/8018-1.jpg",6477,3107
+6795,"8019","1","Star Wars","The Clone Wars","2009","Republic Attack Shuttle",3,636,49.99,59.99,79.99,,"https://images.brickset.com/sets/images/8019-1.jpg",5062,3025
+7030,"8033","1","Star Wars","The Clone Wars","2009","General Grievous' Starfighter",,44,,3.99,,,"https://images.brickset.com/sets/images/8033-1.jpg",2359,1237
+6937,"8036","1","Star Wars","The Clone Wars","2009","Separatist Shuttle",5,259,34.99,29.99,39.99,,"https://images.brickset.com/sets/images/8036-1.jpg",6786,2497
+6938,"8037","1","Star Wars","The Clone Wars","2009","Anakin's Y-wing Starfighter",3,570,49.99,59.99,79.99,,"https://images.brickset.com/sets/images/8037-1.jpg",3738,2979
+6939,"8038","1","Star Wars","Episode VI","2009","The Battle of Endor",12,890,84.99,99.99,129.99,99.99,"https://images.brickset.com/sets/images/8038-1.jpg",8214,4950
+6940,"8039","1","Star Wars","The Clone Wars","2009","Venator-Class Republic Attack Cruiser",5,1170,102.99,119.99,149.99,139.99,"https://images.brickset.com/sets/images/8039-1.jpg",4862,4980
+7203,"8063","1","Technic","","2009","Tractor with Trailer",,1100,63.59,99.99,,,"https://images.brickset.com/sets/images/8063-1.jpg",1006,1210
+6817,"8119","1","Racers","Tiny Turbos","2009","Thunder Racer",,48,3.89,4.99,,,"https://images.brickset.com/sets/images/8119-1.jpg",1307,248
+6818,"8120","1","Racers","Tiny Turbos","2009","Rally Sprinter",,47,3.89,4.99,,,"https://images.brickset.com/sets/images/8120-1.jpg",1342,258
+6816,"8121","1","Racers","Tiny Turbos","2009","Track Marshall",,48,3.89,4.99,,,"https://images.brickset.com/sets/images/8121-1.jpg",1319,259
+6819,"8122","1","Racers","Tiny Turbos","2009","Desert Viper",,41,3.89,4.99,,,"https://images.brickset.com/sets/images/8122-1.jpg",1229,217
+6820,"8123","1","Racers","Tiny Turbos","2009","Ferrari F1 Racers",,139,9.79,14.99,,,"https://images.brickset.com/sets/images/8123-1.jpg",672,341
+6821,"8124","1","Racers","Tiny Turbos","2009","Ice Rally",,170,9.79,14.99,,,"https://images.brickset.com/sets/images/8124-1.jpg",923,282
+6822,"8125","1","Racers","Tiny Turbos","2009","Thunder Raceway",,160,9.79,14.99,,,"https://images.brickset.com/sets/images/8125-1.jpg",886,260
+6823,"8126","1","Racers","Tiny Turbos","2009","Desert Challenge",,144,9.79,14.99,,,"https://images.brickset.com/sets/images/8126-1.jpg",725,277
+6761,"8162","1","Racers","Power Racers","2009","Race Rig",,104,7.85,12.99,,,"https://images.brickset.com/sets/images/8162-1.jpg",460,165
+6762,"8163","1","Racers","Power Racers","2009","Blue Sprinter",,110,7.85,12.99,,,"https://images.brickset.com/sets/images/8163-1.jpg",423,168
+6763,"8164","1","Racers","Power Racers","2009","Extreme Wheelie",,87,7.85,12.99,,,"https://images.brickset.com/sets/images/8164-1.jpg",381,152
+6764,"8165","1","Racers","Power Racers","2009","Monster Jumper",,91,7.85,12.99,,,"https://images.brickset.com/sets/images/8165-1.jpg",429,162
+6765,"8166","1","Racers","Power Racers","2009","Wing Jumper",,203,14.65,19.99,,,"https://images.brickset.com/sets/images/8166-1.jpg",237,151
+6766,"8167","1","Racers","Power Racers","2009","Jump Riders",,209,15.65,19.99,,,"https://images.brickset.com/sets/images/8167-1.jpg",293,158
+6824,"8168","1","Racers","Ferrari","2009","Ferrari Victory",3,202,15.65,19.99,,,"https://images.brickset.com/sets/images/8168-1.jpg",672,496
+6914,"8169","1","Racers","Lamborghini","2009","Lamborghini Gallardo LP 560-4",,741,59.99,59.99,79.99,,"https://images.brickset.com/sets/images/8169-1.jpg",1332,1004
+6915,"8182","1","Racers","Tiny Turbos","2009","Monster Crushers",,388,31.29,39.99,,,"https://images.brickset.com/sets/images/8182-1.jpg",218,271
+6767,"8183","1","Racers","Radio-Control","2009","Track Turbo RC",,92,24.99,39.99,49.99,,"https://images.brickset.com/sets/images/8183-1.jpg",1005,353
+6815,"8184","1","Racers","Radio-Control","2009","Twin X-treme RC",,239,36.19,,,,"https://images.brickset.com/sets/images/8184-1.jpg",355,315
+6984,"8185","1","Racers","Ferrari","2009","Ferrari Truck",5,534,59.99,79.99,99.99,,"https://images.brickset.com/sets/images/8185-1.jpg",649,722
+6916,"8186","1","Racers","Tiny Turbos","2009","Street Extreme",,757,49.99,69.99,89.99,,"https://images.brickset.com/sets/images/8186-1.jpg",315,412
+6811,"8256","1","Technic","","2009","Go-Kart",,144,14.99,14.99,,,"https://images.brickset.com/sets/images/8256-1.jpg",1679,545
+6977,"8258","1","Technic","","2009","Crane Truck",,1877,129.99,149.99,,159.99,"https://images.brickset.com/sets/images/8258-1.jpg",3931,2446
+6894,"8259","1","Technic","","2009","Mini Bulldozer",,165,9.99,9.99,12.99,,"https://images.brickset.com/sets/images/8259-1.jpg",2552,495
+6812,"8260","1","Technic","","2009","Tractor",,104,9.99,9.99,,,"https://images.brickset.com/sets/images/8260-1.jpg",1498,414
+6813,"8261","1","Technic","","2009","Rally Truck",,198,19.99,24.99,,,"https://images.brickset.com/sets/images/8261-1.jpg",1290,465
+6810,"8262","1","Technic","","2009","Quad-Bike",,308,29.99,39.99,,,"https://images.brickset.com/sets/images/8262-1.jpg",1561,614
+7051,"8263","1","Technic","","2009","Snow Groomer",,590,39.99,49.99,64.99,,"https://images.brickset.com/sets/images/8263-1.jpg",1470,1315
+6814,"8264","1","Technic","","2009","Hauler",,575,59.99,69.99,,,"https://images.brickset.com/sets/images/8264-1.jpg",2150,1159
+6978,"8265","1","Technic","","2009","Front Loader",,1061,74.99,79.99,129.99,,"https://images.brickset.com/sets/images/8265-1.jpg",2917,1655
+6851,"8396","1","Pirates","","2009","Soldier's Arsenal",1,17,2.45,3.49,,,"https://images.brickset.com/sets/images/8396-1.jpg",4031,974
+6852,"8397","1","Pirates","","2009","Pirate Survival",1,16,2.49,3.49,,,"https://images.brickset.com/sets/images/8397-1.jpg",4187,930
+6850,"8398","1","City","General","2009","BBQ Stand",1,22,2.49,3.49,,,"https://images.brickset.com/sets/images/8398-1.jpg",6634,2057
+6962,"8399","1","Space","Space Police 3","2009","K-9 Bot",1,22,1.95,3.49,,,"https://images.brickset.com/sets/images/8399-1.jpg",2635,1084
+6963,"8400","1","Space","Space Police 3","2009","Space Speeder",1,14,1.95,3.49,,,"https://images.brickset.com/sets/images/8400-1.jpg",2416,718
+6755,"8401","1","City","General","2009","City Minifigure Collection",4,60,7.99,9.99,12.99,,"https://images.brickset.com/sets/images/8401-1.jpg",7058,1614
+6976,"8402","1","City","Traffic","2009","Sports Car",1,68,7.99,9.99,12.99,,"https://images.brickset.com/sets/images/8402-1.jpg",7131,1489
+6983,"8547","1","Mindstorms","NXT 2.0","2009","Mindstorms NXT 2.0",,619,234.99,279.99,349.99,299,"https://images.brickset.com/sets/images/8547-1.jpg",2469,686
+6953,"8707","1","Power Miners","","2009","Boulder Blaster",2,293,26.45,26.99,,,"https://images.brickset.com/sets/images/8707-1.jpg",1117,939
+6971,"8708","1","Power Miners","","2009","Cave Crusher",3,259,34.25,49.99,,,"https://images.brickset.com/sets/images/8708-1.jpg",806,1144
+6972,"8709","1","Power Miners","","2009","Underground Mining Station",4,637,51.85,79.99,,,"https://images.brickset.com/sets/images/8709-1.jpg",666,1294
+7114,"8866","1","Power Functions","Trains","2009","Train Motor",,7,9.99,10.99,14.99,12.99,"https://images.brickset.com/sets/images/8866-1.jpg",551,284
+7111,"8867","1","City","Trains","2009","Flexible Train Tracks",,64,24.99,24.99,29.99,14.99,"https://images.brickset.com/sets/images/8867-1.jpg",1626,956
+7004,"8869","1","Power Functions","Accessories","2009","Polarity Switch",,1,4.99,5.79,7.99,6.69,"https://images.brickset.com/sets/images/8869-1.jpg",857,260
+7005,"8870","1","Power Functions","Accessories","2009","Light Set",,1,5.49,6.49,7.99,7.49,"https://images.brickset.com/sets/images/8870-1.jpg",2267,445
+7006,"8871","1","Power Functions","Accessories","2009","Extension Cable (50cm)",,1,3.49,3.99,4.99,4.69,"https://images.brickset.com/sets/images/8871-1.jpg",1120,298
+7106,"8878","1","Power Functions","Accessories","2009","Rechargeable Battery Box",,1,42.99,49.99,64.99,69.99,"https://images.brickset.com/sets/images/8878-1.jpg",940,491
+7104,"8879","1","Power Functions","Accessories","2009","IR Speed Remote Control",,1,10.99,12.99,17.99,14.49,"https://images.brickset.com/sets/images/8879-1.jpg",2122,423
+7112,"8887","1","Power Functions","Accessories","2009","Transformer 10V DC",,1,19.99,29.99,35.99,24.99,"https://images.brickset.com/sets/images/8887-1.jpg",649,295
+7035,"8907","1","Power Miners","Promotional","2009","Rock Hacker",1,28,,,,,"https://images.brickset.com/sets/images/8907-1.jpg",507,801
+7036,"8908","1","Power Miners","Promotional","2009","Monster Launcher",1,13,,,,,"https://images.brickset.com/sets/images/8908-1.jpg",431,806
+6860,"8956","1","Power Miners","","2009","Stone Chopper",2,31,3.89,5.99,,,"https://images.brickset.com/sets/images/8956-1.jpg",4806,611
+6846,"8957","1","Power Miners","","2009","Mine Mech",2,67,6.85,7.99,,,"https://images.brickset.com/sets/images/8957-1.jpg",4900,697
+6847,"8958","1","Power Miners","","2009","Granite Grinder",2,94,8.79,9.99,,,"https://images.brickset.com/sets/images/8958-1.jpg",4632,716
+6848,"8959","1","Power Miners","","2009","Claw Digger",2,197,15.65,19.99,,,"https://images.brickset.com/sets/images/8959-1.jpg",3010,804
+6859,"8960","1","Power Miners","","2009","Thunder Driller",3,235,21.99,29.99,,,"https://images.brickset.com/sets/images/8960-1.jpg",3775,982
+6849,"8961","1","Power Miners","","2009","Crystal Sweeper",4,474,41.09,69.99,,,"https://images.brickset.com/sets/images/8961-1.jpg",1990,1090
+6985,"8962","1","Power Miners","","2009","Crystal King",2,168,14.99,19.99,,,"https://images.brickset.com/sets/images/8962-1.jpg",2873,1044
+6973,"8963","1","Power Miners","","2009","Rock Wrecker",2,225,24.99,34.99,44.99,,"https://images.brickset.com/sets/images/8963-1.jpg",1761,935
+6974,"8964","1","Power Miners","","2009","Titanium Command Rig",5,706,59.99,99.99,129.99,,"https://images.brickset.com/sets/images/8964-1.jpg",1450,1229
+6906,"8967","1","Agents","","2009","Gold Tooth's Getaway",2,68,8.79,9.99,,,"https://images.brickset.com/sets/images/8967-1.jpg",2099,801
+6907,"8968","1","Agents","","2009","River Heist",3,203,15.65,19.99,,,"https://images.brickset.com/sets/images/8968-1.jpg",1616,855
+6908,"8969","1","Agents","","2009","4-Wheeling Pursuit",2,320,21.49,29.99,,,"https://images.brickset.com/sets/images/8969-1.jpg",1237,848
+6909,"8970","1","Agents","","2009","Robo Attack",6,414,31.29,49.99,,,"https://images.brickset.com/sets/images/8970-1.jpg",1377,1268
+6910,"8971","1","Agents","","2009","Aerial Defence Unit",7,733,41.09,79.99,,,"https://images.brickset.com/sets/images/8971-1.jpg",1088,1194
+6796,"8972","1","Bionicle","Agori","2009","Atakus",,13,4.89,6.99,,,"https://images.brickset.com/sets/images/8972-1.jpg",1319,489
+6797,"8973","1","Bionicle","Agori","2009","Raanu",,14,4.89,6.99,,,"https://images.brickset.com/sets/images/8973-1.jpg",1320,456
+6798,"8974","1","Bionicle","Agori","2009","Tarduk",,17,4.89,6.99,,,"https://images.brickset.com/sets/images/8974-1.jpg",1351,463
+6799,"8975","1","Bionicle","Agori","2009","Berix",,15,4.89,6.99,,,"https://images.brickset.com/sets/images/8975-1.jpg",1329,466
+6800,"8976","1","Bionicle","Agori","2009","Metus",,14,4.89,6.99,,,"https://images.brickset.com/sets/images/8976-1.jpg",1357,494
+6801,"8977","1","Bionicle","Agori","2009","Zesk",,16,4.89,6.99,,,"https://images.brickset.com/sets/images/8977-1.jpg",1371,543
+6802,"8978","1","Bionicle","Glatorian","2009","Skrall",,50,8.79,12.99,,,"https://images.brickset.com/sets/images/8978-1.jpg",1610,560
+6803,"8979","1","Bionicle","Glatorian","2009","Malum",,59,8.79,12.99,,,"https://images.brickset.com/sets/images/8979-1.jpg",1549,552
+6804,"8980","1","Bionicle","Glatorian","2009","Gresh",,55,8.79,12.99,,,"https://images.brickset.com/sets/images/8980-1.jpg",1634,529
+6805,"8981","1","Bionicle","Glatorian","2009","Tarix",,57,8.79,12.99,,,"https://images.brickset.com/sets/images/8981-1.jpg",1377,529
+6806,"8982","1","Bionicle","Glatorian","2009","Strakk",,46,8.79,12.99,,,"https://images.brickset.com/sets/images/8982-1.jpg",1479,547
+6807,"8983","1","Bionicle","Glatorian","2009","Vorox",,51,8.79,12.99,,,"https://images.brickset.com/sets/images/8983-1.jpg",1403,586
+6954,"8984","1","Bionicle","Glatorian Legends","2009","Stronius",,55,8.99,12.99,,,"https://images.brickset.com/sets/images/8984-1.jpg",1321,517
+6955,"8985","1","Bionicle","Glatorian Legends","2009","Ackar",,55,8.99,12.99,14.99,,"https://images.brickset.com/sets/images/8985-1.jpg",1428,488
+6956,"8986","1","Bionicle","Glatorian Legends","2009","Vastus",,52,8.99,12.99,,,"https://images.brickset.com/sets/images/8986-1.jpg",1258,489
+6957,"8987","1","Bionicle","Glatorian Legends","2009","Kiina",,43,8.99,12.99,14.99,,"https://images.brickset.com/sets/images/8987-1.jpg",1219,488
+6958,"8988","1","Bionicle","Glatorian Legends","2009","Gelu",,52,8.99,12.99,14.99,,"https://images.brickset.com/sets/images/8988-1.jpg",1234,534
+6959,"8989","1","Bionicle","Glatorian Legends","2009","Mata Nui",,52,8.99,12.99,,,"https://images.brickset.com/sets/images/8989-1.jpg",1866,577
+6808,"8990","1","Bionicle","Vehicles/Creatures","2009","Fero and Skirmix",,148,14.65,19.99,,,"https://images.brickset.com/sets/images/8990-1.jpg",836,672
+6809,"8991","1","Bionicle","Warriors","2009","Tuma",,188,14.65,19.99,,,"https://images.brickset.com/sets/images/8991-1.jpg",1105,677
+6929,"8992","1","Bionicle","Vehicles/Creatures","2009","Cendox V1",,151,14.99,19.99,24.99,,"https://images.brickset.com/sets/images/8992-1.jpg",853,567
+6930,"8993","1","Bionicle","Vehicles/Creatures","2009","Kaxium V3",,251,19.99,29.99,,,"https://images.brickset.com/sets/images/8993-1.jpg",703,598
+6931,"8994","1","Bionicle","Vehicles/Creatures","2009","Baranus V7",,263,29.35,39.99,49.99,,"https://images.brickset.com/sets/images/8994-1.jpg",475,613
+6932,"8995","1","Bionicle","Vehicles/Creatures","2009","Thornatus V9",,438,44.99,59.99,79.99,,"https://images.brickset.com/sets/images/8995-1.jpg",547,660
+6933,"8996","1","Bionicle","Vehicles/Creatures","2009","Skopio XV-1",,849,59.99,89.99,,,"https://images.brickset.com/sets/images/8996-1.jpg",602,828
+7190,"8998","1","Bionicle","Warriors","2009","Toa Mata Nui",,366,29.35,49.99,,,"https://images.brickset.com/sets/images/8998-1.jpg",447,688
+7741,"9077","1","Education","Duplo","2009","Brick Runner Set",,132,,116,,,"https://images.brickset.com/sets/images/9077-1.jpg",17,34
+7887,"9078","1","Education","Duplo","2009","Duplo Special Elements Set",,109,,90,,,"https://images.brickset.com/sets/images/9078-1.jpg",20,32
+7742,"9079","1","Education","Duplo","2009","Small Building Plates",,15,,40,,,11,22
+7025,"9580","1","Education","","2009","WeDo Construction Set",,158,,130,,,"https://images.brickset.com/sets/images/9580-1.jpg",131,73
+8148,"9581","1","Education","Mindstorms","2009","LEGO USB Hub",,1,,,,,19,43
+8149,"9583","1","Education","Mindstorms","2009","Motion Sensor",,1,,,,,20,40
+8150,"9584","1","Education","Mindstorms","2009","Tilt Sensor",,1,,,,,20,39
+7888,"9686","1","Education","","2009","Simple & Powered Machines Set",2,396,,135,,,"https://images.brickset.com/sets/images/9686-1.jpg",136,134
+26235,"9690","1","Education","Duplo","2009","Unknown",2,172,,,,,"https://images.brickset.com/sets/images/9690-1.jpg",4,7
+22476,"9698","1","Miscellaneous","FIRST LEGO League","2009","FIRST LEGO League Challenge 2009 - Smart Move",,,,,,,15,36
+7045,"9749","1","Mindstorms","NXT","2009","NXT Temperature Sensor",,1,,,,,"https://images.brickset.com/sets/images/9749-1.jpg",59,183
+7026,"9999","1","Education","Duplo","2009","Upgrade Kit for 9654",,7,,,,,"https://images.brickset.com/sets/images/9999-1.jpg",10,34
+6869,"10193","1","Castle","","2009","Medieval Market Village",8,1601,71.99,99.99,134.99,99.99,"https://images.brickset.com/sets/images/10193-1.jpg",8778,4196
+7085,"10194","1","Advanced Models","Trains","2009","Emerald Night",3,1085,69.99,99.99,129.99,89.99,"https://images.brickset.com/sets/images/10194-1.jpg",4898,3541
+7086,"10195","1","Star Wars","The Clone Wars","2009","Republic Dropship with AT-OT Walker",8,1758,183.99,249.99,349.99,249.99,"https://images.brickset.com/sets/images/10195-1.jpg",2815,5587
+7125,"10196","1","Advanced Models","Fairground","2009","Grand Carousel",9,3263,179.99,249.99,349.99,,"https://images.brickset.com/sets/images/10196-1.jpg",1884,5383
+7156,"10197","1","Advanced Models","Modular Buildings","2009","Fire Brigade",4,2231,99.99,149.99,199.99,149.99,"https://images.brickset.com/sets/images/10197-1.jpg",12715,6779
+7127,"10198","1","Star Wars","Episode IV","2009","Tantive IV",5,1408,122.99,149.99,199.99,149.99,"https://images.brickset.com/sets/images/10198-1.jpg",4438,6306
+7126,"10199","1","Advanced Models","Winter Village","2009","Winter Village Toy Shop",7,815,44.99,59.99,79.99,59.99,"https://images.brickset.com/sets/images/10199-1.jpg",8550,3278
+7029,"10287","1","Mindstorms","NXT","2009","Intelligent NXT Brick (Black)",,1,107.65,169.99,,,"https://images.brickset.com/sets/images/10287-1.jpg",87,191
+6676,"20007","1","Star Wars","The Clone Wars","2009","Republic Attack Cruiser",,84,,,,,"https://images.brickset.com/sets/images/20007-1.jpg",1490,1686
+7113,"20008","1","Creator","","2009","BrickMaster - Creator",,79,4.59,,,,"https://images.brickset.com/sets/images/20008-1.jpg",972,417
+7180,"20009","1","Star Wars","The Clone Wars","2009","AT-TE Walker",,94,4.59,,,,"https://images.brickset.com/sets/images/20009-1.jpg",1657,1387
+7132,"20010","1","Star Wars","The Clone Wars","2009","Republic Gunship",,99,4.59,,,,"https://images.brickset.com/sets/images/20010-1.jpg",1556,1481
+6890,"20011","1","Creator","","2009","BrickMaster - Creator",,74,4.59,,,,"https://images.brickset.com/sets/images/20011-1.jpg",983,520
+7129,"20012","1","Bionicle","","2009","BrickMaster - Bionicle",,33,4.59,,,,"https://images.brickset.com/sets/images/20012-1.jpg",878,458
+6896,"21002","1","Architecture","Landmark Series","2009","Empire State Building",,77,19.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/21002-1.jpg",4367,1418
+6897,"21003","1","Architecture","Landmark Series","2009","Seattle Space Needle",,57,19.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/21003-1.jpg",4942,1481
+7130,"21004","1","Architecture","Architect Series","2009","Solomon Guggenheim Museum",,208,34.99,39.99,49.99,39.99,"https://images.brickset.com/sets/images/21004-1.jpg",2829,1693
+7131,"21005","1","Architecture","Architect Series","2009","Fallingwater",,811,74.99,99.99,129.99,89.99,"https://images.brickset.com/sets/images/21005-1.jpg",3763,2417
+7118,"30000","1","City","Medical","2009","Medic's Car",1,32,0,,,,"https://images.brickset.com/sets/images/30000-1.jpg",1224,926
+7232,"30001","1","City","Fire","2009","Fireman's Car",1,38,,,,,"https://images.brickset.com/sets/images/30001-1.jpg",1105,767
+7233,"30002","1","City","Police","2009","Police Boat",1,30,,2.99,,,"https://images.brickset.com/sets/images/30002-1.jpg",2253,743
+7234,"30003","1","City","Construction","2009","Road Roller",1,31,,,,,"https://images.brickset.com/sets/images/30003-1.jpg",1576,1503
+7199,"30004","1","Star Wars","The Clone Wars","2009","Battle Droid on STAP",1,28,,,,,"https://images.brickset.com/sets/images/30004-1.jpg",2019,1616
+7230,"30005","1","Star Wars","Legends","2009","Imperial Speeder Bike",1,30,3.99,3.99,,,"https://images.brickset.com/sets/images/30005-1.jpg",3331,1729
+7231,"30006","1","Star Wars","The Clone Wars","2009","Clone Walker",1,30,3.99,,,,"https://images.brickset.com/sets/images/30006-1.jpg",1891,1764
+7296,"30008","1","Creator","Seasonal","2009","Snowman",,44,,3.5,,,"https://images.brickset.com/sets/images/30008-1.jpg",2976,425
+7297,"30009","1","Creator","Seasonal","2009","Christmas Tree",,47,,3.5,,,"https://images.brickset.com/sets/images/30009-1.jpg",2455,456
+7283,"40000","1","Seasonal","Christmas","2009","Cool Santa Set",,152,6.85,9.99,,,"https://images.brickset.com/sets/images/40000-1.jpg",306,184
+7284,"40001","1","Seasonal","Christmas","2009","Santa Claus",,42,2.95,4.99,,,"https://images.brickset.com/sets/images/40001-1.jpg",327,189
+7285,"40002","1","Seasonal","Christmas","2009","Xmas Tree",,61,2.95,4.99,,,"https://images.brickset.com/sets/images/40002-1.jpg",386,212
+7286,"40003","1","Seasonal","Christmas","2009","Snowman",,44,2.95,4.99,,,"https://images.brickset.com/sets/images/40003-1.jpg",390,221
+6991,"66283","1","Duplo","Product Collection","2009","Bonus/Value Pack",,,,,,,6,20
+6987,"66284","1","Bricks and More","Product Collection","2009","LEGO Build and Play Value Pack",,1021,,,,,"https://images.brickset.com/sets/images/66284-1.jpg",54,93
+7737,"66305","1","City","Product Collection","2009","City Police Super Pack 3-in-1",,650,,,,,"https://images.brickset.com/sets/images/66305-1.jpg",89,314
+7120,"66307","1","City","Product Collection","2009","City Super Pack 3 in 1",,246,,,,,"https://images.brickset.com/sets/images/66307-1.jpg",68,296
+7547,"66308","1","Star Wars","Product Collection","2009","3 in 1 Superpack",,414,,,,,"https://images.brickset.com/sets/images/66308-1.jpg",184,666
+14707,"66309","1","Pirates","Product Collection","2009","Bonus/Value Pack",,123,,,,,10,73
+7305,"66318","1","Technic","Product Collection","2009","Super Pack 4 in 1",,984,,,,,"https://images.brickset.com/sets/images/66318-1.jpg",124,374
+7566,"66319","1","Power Miners","Product Collection","2009","Power Miners Super Pack 3 in 1",,928,,,,,"https://images.brickset.com/sets/images/66319-1.jpg",37,285
+7548,"66320","1","Duplo","Product Collection","2009","Zoo Super Pack",,95,,,,,"https://images.brickset.com/sets/images/66320-1.jpg",19,25
+13317,"66321","1","Duplo","Product Collection","2009","Bonus/Value Pack",,125,,,,,5,11
+8118,"66325","1","City","Product Collection","2009","City Super Pack 4 in 1",,1267,,,,,"https://images.brickset.com/sets/images/66325-1.jpg",88,408
+8119,"66326","1","City","Product Collection","2009","City Super Pack 4 in 1",,501,,,,,"https://images.brickset.com/sets/images/66326-1.jpg",46,235
+8124,"66329","1","City","Product Collection","2009","City Super Pack 3 in 1",,284,,,,,"https://images.brickset.com/sets/images/66329-1.jpg",79,228
+8022,"66331","1","City","Product Collection","2009","City Super Pack 3 in 1",,1219,,,,,"https://images.brickset.com/sets/images/66331-1.jpg",112,384
+10814,"66333","1","Bionicle","Product Collection","2009","Bonus/Value Pack",,107,,,,,6,36
+10816,"66334","1","Bionicle","Product Collection","2009","Bonus/Value Pack",,95,,,,,6,36
+10818,"66335","1","Bionicle","Product Collection","2009","Bonus/Value Pack",,107,,,,,5,36
+11279,"66340","1","Bricks and More","Product Collection","2009","Bonus/Value Pack",,516,,,,,4,32
+11281,"66385","1","Creator","Product Collection","2009","Bonus/Value Pack",,570,,,,,4,37
+7102,"852227","1","Gear","Trading/Playing cards","2009","Pirate Playing Cards",,,2.99,4.99,6.99,,"https://images.brickset.com/sets/images/852227-1.jpg",180,82
+6533,"852243","1","Gear","Clothing","2009","SW Darth Vader T-shirt",,,13.69,,,,"https://images.brickset.com/sets/images/852243-1.jpg",42,97
+7066,"852490","1","Gear","Bags","2009","Belville Lunch Box",,,9.79,14.99,,,"https://images.brickset.com/sets/images/852490-1.jpg",11,14
+7080,"852492","1","Gear","Housewares","2009","Belville Placemat",,,2.95,,,,"https://images.brickset.com/sets/images/852492-1.jpg",7,13
+7110,"852494","1","Gear","Clothing","2009","Bionicle T-shirt",,,11.99,,,,"https://images.brickset.com/sets/images/852494-1.jpg",6,48
+7081,"852495","1","Gear","Role-play toys","2009","Foam Ice Sword",,,4.89,9.99,,,"https://images.brickset.com/sets/images/852495-1.jpg",18,47
+7067,"852496","1","Gear","Role-play toys","2009","Bionicle Ball Shooter",,,12.25,19.99,,,"https://images.brickset.com/sets/images/852496-1.jpg",11,59
+7068,"852497","1","Gear","Role-play toys","2009","Bionicle Backpack",,,14.65,24.99,,,"https://images.brickset.com/sets/images/852497-1.jpg",12,47
+7082,"852498","1","Gear","Clothing","2009","Bionicle Cap",,,9.79,,,,"https://images.brickset.com/sets/images/852498-1.jpg",21,58
+7121,"852499","1","Gear","Clothing","2009","Polar Bear Cub T-shirt",,,11.99,,,,"https://images.brickset.com/sets/images/852499-1.jpg",5,18
+7044,"852504","1","Gear","Magnets/Indiana Jones","2009","Magnet Set Indiana Jones",3,,8.79,14.99,,,"https://images.brickset.com/sets/images/852504-1.jpg",348,131
+7083,"852505","1","Gear","Key Chains/Power Miners","2009","Green Rock Monster Key Chain",,,2.99,4.99,5.99,,"https://images.brickset.com/sets/images/852505-1.jpg",207,104
+7084,"852506","1","Gear","Key Chains/Power Miners","2009","Red Rock Monster Key Chain",,,2.99,4.99,5.99,,"https://images.brickset.com/sets/images/852506-1.jpg",194,100
+7076,"852512","1","Gear","Role-play toys","2009","Archer Set",,,16.65,24.99,,,"https://images.brickset.com/sets/images/852512-1.jpg",15,62
+7069,"852513","1","Gear","Magnets/City","2009","City Hero Magnet Set",3,,7.99,12.99,16.99,,"https://images.brickset.com/sets/images/852513-1.jpg",147,103
+7071,"852516","1","Gear","Housewares","2009","City Placemat",,,2.95,,,,"https://images.brickset.com/sets/images/852516-1.jpg",20,55
+7072,"852517","1","Gear","Bags","2009","Police Lunch Box",,,9.79,14.99,,,"https://images.brickset.com/sets/images/852517-1.jpg",17,36
+7096,"852520","1","Gear","Clothing","2009","LEGO Classic T-shirt",,,13.69,16.99,,,"https://images.brickset.com/sets/images/852520-1.jpg",74,56
+7075,"852521","1","Gear","Housewares","2009","LEGO Classic Book Ends",,,14.65,22.99,,,"https://images.brickset.com/sets/images/852521-1.jpg",163,204
+7107,"852522","1","Gear","Miscellaneous","2009","LEGO Letters Building System",,,14.65,19.99,,,"https://images.brickset.com/sets/images/852522-1.jpg",154,129
+7108,"852524","1","Gear","Housewares","2009","Minifigure Cookie Cutters",,,4.89,7.99,,,"https://images.brickset.com/sets/images/852524-1.jpg",173,201
+7074,"852525","1","Gear","Housewares","2009","LEGO Cutlery - Silicone Studs",,,16.65,24.99,,,"https://images.brickset.com/sets/images/852525-1.jpg",58,134
+7128,"852527","1","Gear","Housewares","2009","LEGO City Coat Rack",,,14.65,22.99,,,"https://images.brickset.com/sets/images/852527-1.jpg",48,171
+7100,"852528","1","Gear","Housewares","2009","Kitchen Storage Set",,,19.55,29.99,,,"https://images.brickset.com/sets/images/852528-1.jpg",67,162
+7109,"852529","1","Gear","Storage","2009","Pro-Builder Toolbox",,,19.55,29.99,,,"https://images.brickset.com/sets/images/852529-1.jpg",101,153
+7101,"852530","1","Gear","Housewares","2009","Rolling Cookie Cutter",,,6.85,9.99,,,"https://images.brickset.com/sets/images/852530-1.jpg",88,201
+7097,"852534","1","Gear","Housewares","2009","Kitchen Scale MF",,,17.59,,,,"https://images.brickset.com/sets/images/852534-1.jpg",69,170
+7077,"852535","1","Miscellaneous","Minifigure collection","2009","Vintage Minifigure Collection Vol. 2",5,24,11.75,17.99,,,"https://images.brickset.com/sets/images/852535-1.jpg",546,627
+7070,"852543","1","Gear","Magnets/Pirates","2009","Pirates Magnet Set",3,,7.99,12.99,16.99,,"https://images.brickset.com/sets/images/852543-1.jpg",229,137
+7073,"852544","1","Gear","Key Chains/Pirates","2009","Pirate Captain Key Chain",,,2.99,4.99,5.99,,"https://images.brickset.com/sets/images/852544-1.jpg",205,95
+7138,"852545","1","Gear","Miscellaneous","2009","Treasure Box with Pop Up",,,9.79,16.99,,,"https://images.brickset.com/sets/images/852545-1.jpg",45,79
+7099,"852547","1","Gear","Magnets/SpongeBob SquarePants","2009","SpongeBob Spacesuit Magnet Set",3,,8.99,14.99,19.99,,"https://images.brickset.com/sets/images/852547-1.jpg",203,90
+7191,"852548","1","Gear","Key Chains/Star Wars","2009","CW R7-A7",,,2.95,4.99,,,"https://images.brickset.com/sets/images/852548-1.jpg",188,151
+7062,"852549","1","Gear","Key Chains/Star Wars","2009","CW Count Dooku",,,2.99,4.99,5.99,,"https://images.brickset.com/sets/images/852549-1.jpg",231,138
+7063,"852550","1","Gear","Key Chains/Star Wars","2009","CW Yoda",,,2.99,4.99,5.49,1.99,"https://images.brickset.com/sets/images/852550-1.jpg",676,128
+7061,"852551","1","Gear","Magnets/Star Wars","2009","Magnet Set Darth Maul 2009",3,,8.99,14.99,,,"https://images.brickset.com/sets/images/852551-1.jpg",661,249
+7060,"852552","1","Gear","Magnets/Star Wars","2009","Magnet Set Royal Guard 2009",3,,9.99,14.99,15.49,9.99,"https://images.brickset.com/sets/images/852552-1.jpg",1206,258
+7137,"852553","1","Gear","Magnets/Star Wars","2009","Magnet Set Stormtrooper 2009",3,,8.99,14.99,,,"https://images.brickset.com/sets/images/852553-1.jpg",508,224
+7052,"852555","1","Gear","Magnets/Star Wars","2009","Magnet Set CW Yoda 2009",3,,9.99,14.99,15.49,9.99,"https://images.brickset.com/sets/images/852555-1.jpg",1278,238
+7159,"852673","1","Gear","Stationery","2009","LEGO City Eraser Set",,,2.95,4.99,,,"https://images.brickset.com/sets/images/852673-1.jpg",22,59
+7220,"852676","1","Gear","Board Games","2009","LEGO Travel Game",,,17.59,24.99,,,"https://images.brickset.com/sets/images/852676-1.jpg",83,125
+7160,"852678","1","Gear","Bags","2009","LEGO Classic Shoulder Bag",,,24.99,29.99,30.49,29.99,"https://images.brickset.com/sets/images/852678-1.jpg",174,152
+7186,"852683","1","Gear","Housewares","2009","Belville Fairy Wash Towel",,,2.95,,,,"https://images.brickset.com/sets/images/852683-1.jpg",7,13
+7161,"852685","1","Gear","Board Games","2009","Duplo Puzzle",1,,8.79,14.99,,,"https://images.brickset.com/sets/images/852685-1.jpg",28,23
+7157,"852688","1","Gear","Key Chains/Miscellaneous","2009","LEGO Gold Minifigure Key Chain",,,2.95,4.99,,,"https://images.brickset.com/sets/images/852688-1.jpg",699,248
+7162,"852689","1","Gear","Stationery","2009","LEGO Brick Sticky Notes",,,3.89,4.99,,,"https://images.brickset.com/sets/images/852689-1.jpg",76,77
+8755,"852690","1","Gear","Stationery","2009","Designers' Tool Set",,,,,,,"https://images.brickset.com/sets/images/852690-1.jpg",179,140
+7187,"852695","1","Gear","Stationery","2009","Bionicle Classic Pencil Case and Stationery Set",,,9.79,14.99,,,"https://images.brickset.com/sets/images/852695-1.jpg",18,47
+7188,"852696","1","Gear","Miscellaneous","2009","Duplo Picture Lottery",,,8.79,14.99,,,"https://images.brickset.com/sets/images/852696-1.jpg",13,19
+7136,"852697","1","Miscellaneous","Minifigure collection","2009","Vintage Minifigure Collection Vol. 3",5,22,11.75,17.99,,,"https://images.brickset.com/sets/images/852697-1.jpg",546,614
+7163,"852701","1","Castle","Battle Pack","2009","Troll Warrior Battle Pack",5,36,8.79,14.99,,,"https://images.brickset.com/sets/images/852701-1.jpg",695,889
+7164,"852702","1","Castle","Battle Pack","2009","Dwarf Warrior Battle Pack",5,45,8.79,14.99,,,"https://images.brickset.com/sets/images/852702-1.jpg",791,940
+7185,"852703","1","Gear","Stationery","2009","City Activity Book",,,8.79,14.99,,,"https://images.brickset.com/sets/images/852703-1.jpg",15,51
+8778,"852704","1","Gear","Key Chains/Town","2009","Classic Girl Key Chain",,,,,,,"https://images.brickset.com/sets/images/852704-1.jpg",73,43
+7165,"852706","1","Gear","Stationery","2009","LEGO Brick Erasers",,,1.95,4.99,,,"https://images.brickset.com/sets/images/852706-1.jpg",158,65
+7166,"852708","1","Gear","Housewares","2009","LEGO Minifigure Cake Mould",,,,17.99,,,"https://images.brickset.com/sets/images/852708-1.jpg",115,310
+7167,"852709","1","Gear","Bags","2009","LEGO Space Shoulder Bag",,,19.55,29.99,,,"https://images.brickset.com/sets/images/852709-1.jpg",71,289
+10050,"852711","1","Gear","Key Chains/Pirates","2009","Admiral's Daughter keychain",,,,,,,"https://images.brickset.com/sets/images/852711-1.jpg",38,39
+7168,"852713","1","Gear","Magnets/SpongeBob SquarePants","2009","SpongeBob Magnet Set",3,,8.99,14.99,,,"https://images.brickset.com/sets/images/852713-1.jpg",230,109
+7169,"852714","1","Gear","Key Chains/SpongeBob SquarePants","2009","Squidward Key Chain",,,2.95,4.99,,,"https://images.brickset.com/sets/images/852714-1.jpg",63,71
+7170,"852715","1","Gear","Magnets/Star Wars","2009","Star Wars Magnet Set",3,,8.99,14.99,19.99,,"https://images.brickset.com/sets/images/852715-1.jpg",691,247
+7171,"852716","1","Gear","Key Chains/Indiana Jones","2009","Mutt Williams Key Chain",,,2.95,4.99,,,"https://images.brickset.com/sets/images/852716-1.jpg",88,82
+7172,"852717","1","Gear","Key Chains/Indiana Jones","2009","Irina Spalko Key Chain",,,2.95,4.99,,,"https://images.brickset.com/sets/images/852717-1.jpg",86,70
+7173,"852718","1","Gear","Key Chains/Indiana Jones","2009","Colonel Dovchenko Key Chain",,,2.95,4.99,,,"https://images.brickset.com/sets/images/852718-1.jpg",68,83
+7174,"852719","1","Gear","Magnets/Indiana Jones","2009","Indiana Jones Magnet Set",3,,8.79,14.99,,,"https://images.brickset.com/sets/images/852719-1.jpg",338,131
+7184,"852733","1","Gear","Stationery","2009","Felt Tip Pen Set",,,,4.99,,,"https://images.brickset.com/sets/images/852733-1.jpg",5,33
+10156,"852735","1","Gear","Miscellaneous","2009","Zipper Puller (Pink)",,,,,,,"https://images.brickset.com/sets/images/852735-1.jpg",11,22
+7189,"852736","1","Gear","Clothing","2009","LEGO Star Wars 10yr Anniversary T-shirt",,,13.69,,,,"https://images.brickset.com/sets/images/852736-1.jpg",51,102
+7158,"852737","1","Gear","Magnets/Star Wars","2009","Star Wars 10th Anniversary Stormtrooper Magnet",1,,4.99,9.99,,,"https://images.brickset.com/sets/images/852737-1.jpg",1153,400
+7224,"852741","1","Gear","Seasonal","2009","LEGO Holiday Countdown Candle",,,14.65,19.99,,,"https://images.brickset.com/sets/images/852741-1.jpg",158,194
+7225,"852742","1","Gear","Seasonal","2009","LEGO Holiday Magnet",1,,6.99,9.99,,,"https://images.brickset.com/sets/images/852742-1.jpg",463,163
+7226,"852744","1","Seasonal","Christmas","2009","Holiday LEGO Ornaments",,,14.99,19.99,,,"https://images.brickset.com/sets/images/852744-1.jpg",276,147
+7227,"852745","1","Gear","Seasonal","2009","Metallized Magnet Set",,,6.85,9.99,,,"https://images.brickset.com/sets/images/852745-1.jpg",134,193
+7201,"852747","1","Pirates","Accessories","2009","Pirates Battle Pack",4,37,8.79,14.99,,,"https://images.brickset.com/sets/images/852747-1.jpg",467,696
+7287,"852748","1","Gear","Miscellaneous","2009","Pirates Coin Bank",1,,14.65,19.99,,,"https://images.brickset.com/sets/images/852748-1.jpg",92,119
+7236,"852749","1","Gear","Key Chains/Pirates","2009","Pirates Soldier Key Chain",,,2.95,4.99,,,"https://images.brickset.com/sets/images/852749-1.jpg",104,72
+7200,"852750","1","Gear","Board Games","2009","Pirates Tic Tac Toe",10,,14.65,19.99,,,"https://images.brickset.com/sets/images/852750-1.jpg",341,286
+7292,"852751","1","Gear","Board Games","2009","Pirates Chess Set",24,,,,,,"https://images.brickset.com/sets/images/852751-1.jpg",135,449
+7202,"852753","1","Miscellaneous","Minifigure collection","2009","Vintage Minifigure Collection Vol. 4",5,41,11.75,17.99,,,"https://images.brickset.com/sets/images/852753-1.jpg",422,668
+7235,"852754","1","Gear","Miscellaneous","2009","LEGO Coin Bank (2x2)",,,6.85,9.99,,,"https://images.brickset.com/sets/images/852754-1.jpg",72,103
+7175,"852759","1","Gear","Stationery","2009","LEGO Ruler",,,1.95,4.99,,,"https://images.brickset.com/sets/images/852759-1.jpg",379,213
+7196,"852760","1","Gear","Clothing","2009","Bionicle T-shirt",,,,16.99,,,"https://images.brickset.com/sets/images/852760-1.jpg",3,39
+7193,"852761","1","Gear","Clothing","2009","Troll T-shirt",,,,16.99,,,"https://images.brickset.com/sets/images/852761-1.jpg",4,27
+7194,"852762","1","Gear","Clothing","2009","LEGO Indiana Jones T-shirt",,,,16.99,,,"https://images.brickset.com/sets/images/852762-1.jpg",47,58
+7195,"852763","1","Gear","Clothing","2009","LEGO Star Wars Stormtrooper T-shirt",,,,16.99,,,"https://images.brickset.com/sets/images/852763-1.jpg",40,65
+7197,"852764","1","Gear","Clothing","2009","LEGO Star Wars Darth Vader T-shirt",,,,16.99,,,"https://images.brickset.com/sets/images/852764-1.jpg",44,73
+7198,"852765","1","Gear","Clothing","2009","LEGO Star Wars 10yr Anniversary T-shirt",,,,16.99,,,"https://images.brickset.com/sets/images/852765-1.jpg",33,77
+7053,"2851070","1","Gear","Pens","2009","LEGO Star Wars Jango Fett Pen",,,,9.99,,,"https://images.brickset.com/sets/images/2851070-1.jpg",134,114
+7054,"2851126","1","Gear","Pens","2009","LEGO Star Wars Darth Maul Pen",,,,9.99,,,"https://images.brickset.com/sets/images/2851126-1.jpg",85,98
+7055,"2851134","1","Gear","Pens","2009","LEGO Star Wars Luke Skywalker Pen",,,,9.99,,,"https://images.brickset.com/sets/images/2851134-1.jpg",123,93
+7056,"2851135","1","Gear","Pens","2009","LEGO Star Wars Tusken Raider Pen",,,,9.99,,,"https://images.brickset.com/sets/images/2851135-1.jpg",61,95
+7046,"2851185","1","Gear","Watches/Clocks","2009","Stormtrooper Adult Watch",,,24.99,29.99,39.99,,"https://images.brickset.com/sets/images/2851185-1.jpg",49,74
+7047,"2851190","1","Gear","Watches/Clocks","2009","Darth Vader Adult Watch",,,24.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/2851190-1.jpg",44,79
+7048,"2851191","1","Gear","Watches/Clocks","2009","Obi-Wan Kenobi Adult Watch",,,24.99,29.99,,,"https://images.brickset.com/sets/images/2851191-1.jpg",29,67
+7039,"2851192","1","Gear","Watches/Clocks","2009","C-3PO Watch",,,14.99,19.99,29.99,,"https://images.brickset.com/sets/images/2851192-1.jpg",93,69
+7040,"2851193","1","Gear","Watches/Clocks","2009","Darth Maul Watch",,,20.99,24.99,24.99,19.99,"https://images.brickset.com/sets/images/2851193-1.jpg",192,81
+7041,"2851194","1","Gear","Watches/Clocks","2009","Han Solo Watch",,,14.99,19.99,,,"https://images.brickset.com/sets/images/2851194-1.jpg",46,71
+7042,"2851195","1","Gear","Watches/Clocks","2009","Obi-Wan Kenobi Watch",,,14.99,19.99,29.99,19.99,"https://images.brickset.com/sets/images/2851195-1.jpg",53,63
+7043,"2851196","1","Gear","Watches/Clocks","2009","Classic Brick Adult Watch",,,24.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/2851196-1.jpg",49,66
+7049,"2851198","1","Gear","Watches/Clocks","2009","Luke Skywalker & Han Solo Adult Watch",,,24.99,29.99,39.99,,"https://images.brickset.com/sets/images/2851198-1.jpg",34,69
+7240,"2853367","1","Gear","Digital media","2009","BIONICLE: The Legend Reborn",,,15.99,19.99,,,"https://images.brickset.com/sets/images/2853367-1.jpg",388,70
+7552,"2853399","1","Gear","Watches/Clocks","2009","Space Police Watch",,,14.99,19.99,29.99,,"https://images.brickset.com/sets/images/2853399-1.jpg",40,46
+7553,"2853401","1","Gear","Watches/Clocks","2009","Power Miners Watch",,,14.99,19.99,29.99,,"https://images.brickset.com/sets/images/2853401-1.jpg",45,54
+7237,"2853505","1","Gear","Stationery","2009","LEGO UK Charity Calendar 2010",,,7.99,,,,"https://images.brickset.com/sets/images/2853505-1.jpg",34,71
+7541,"2853586","1","Gear","Video Games/Wii","2009","LEGO Rock Band",,,34.99,39.99,39.99,,"https://images.brickset.com/sets/images/2853586-1.jpg",218,79
+7542,"2853587","1","Gear","Video Games/DS","2009","LEGO Rock Band",,,29.99,19.99,,,"https://images.brickset.com/sets/images/2853587-1.jpg",100,49
+7543,"2853591","1","Gear","Video Games/Xbox 360","2009","LEGO Rock Band",,,39.99,39.99,39.99,,"https://images.brickset.com/sets/images/2853591-1.jpg",167,46
+7544,"2853592","1","Gear","Video Games/PS3","2009","LEGO Rock Band",,,39.99,39.99,39.99,,"https://images.brickset.com/sets/images/2853592-1.jpg",137,50
+7554,"2853593","1","Gear","Video Games/Xbox 360","2009","LEGO Indiana Jones 2: The Adventure Continues",,,39.99,49.99,49.99,,"https://images.brickset.com/sets/images/2853593-1.jpg",397,73
+7555,"2853594","1","Gear","Video Games/PS3","2009","LEGO Indiana Jones 2: The Adventure Continues",,,39.99,49.99,49.99,,"https://images.brickset.com/sets/images/2853594-1.jpg",328,57
+7556,"2853595","1","Gear","Video Games/PSP","2009","LEGO Indiana Jones 2: The Adventure Continues",,,29.99,29.99,,,"https://images.brickset.com/sets/images/2853595-1.jpg",78,34
+7557,"2853596","1","Gear","Video Games/Wii","2009","LEGO Indiana Jones 2: The Adventure Continues",,,39.99,49.99,,,"https://images.brickset.com/sets/images/2853596-1.jpg",570,84
+7558,"2853597","1","Gear","Video Games/DS","2009","LEGO Indiana Jones 2: The Adventure Continues",,,29.99,29.99,,,"https://images.brickset.com/sets/images/2853597-1.jpg",212,48
+7559,"2853656","1","Gear","Furniture","2009","3-Seat Playtable",,,,299.99,329.99,,"https://images.brickset.com/sets/images/2853656-1.jpg",15,58
+8615,"2853694","1","Gear","Video Games/PC","2009","LEGO Indiana Jones 2: The Adventure Continues",,,19.99,,,,"https://images.brickset.com/sets/images/2853694-1.jpg",189,45
+6988,"4540313","1","Duplo","Bonus/Value Pack","2009","Duplo Creative Bucket",,,,,,,"https://images.brickset.com/sets/images/4540313-1.jpg",38,24
+6986,"4540315","1","Bricks and More","Bonus/Value Pack","2009","LEGO Creative Bucket",,480,,,,,"https://images.brickset.com/sets/images/4540315-1.jpg",102,107
+7135,"4547551","1","Star Wars","Minifig Pack","2009","Chrome  Darth Vader",1,7,,,,,"https://images.brickset.com/sets/images/4547551-1.jpg",1721,2520
+23559,"4559288","1","Power Miners","","2009","{Power Miners Promotional Polybag}",1,,,,,,17,71
+23558,"4559385","1","Power Miners","","2009","{Power Miners Promotional Polybag}",1,,,,,,13,71
+23560,"4559387","1","Power Miners","","2009","{Power Miners Promotional Polybag}",1,,,,,,14,73
+7182,"4580305","1","Gear","Video Games/DS","2009","LEGO Battles",,,29.99,,,,"https://images.brickset.com/sets/images/4580305-1.jpg",216,55
+7183,"4580306","1","Gear","Video Games/DS","2009","LEGO Strategie",,,29.99,,,,"https://images.brickset.com/sets/images/4580306-1.jpg",16,35
+7139,"4580307","1","Gear","Video Games/DS","2009","LEGO Battles",,,,29.99,,,"https://images.brickset.com/sets/images/4580307-1.jpg",228,64
+8094,"9001857","1","Gear","Watches/Clocks","2009","Space Police Watch",,,,,,,10,25
+8180,"ANNAPOLIS","1","Promotional","LEGO brand store opening set","2009","{Chessie}",,45,,,,,"https://images.brickset.com/sets/images/ANNAPOLIS-1.jpg",19,105
+8160,"BERLIN","1","Promotional","LEGO brand store opening set","2009","{Bear}",,69,,,,,"https://images.brickset.com/sets/images/BERLIN-1.jpg",20,96
+8174,"BIRMINGHAM","1","Promotional","LEGO brand store opening set","2009","{Vulcan}",,81,,,,,"https://images.brickset.com/sets/images/BIRMINGHAM-1.jpg",14,101
+8184,"CINCINNATI","1","Promotional","LEGO brand store opening set","2009","{Flying Pig}",,93,,0,,,"https://images.brickset.com/sets/images/CINCINNATI-1.jpg",15,109
+8165,"COLUMBUS","1","Promotional","LEGO brand store opening set","2009","{Salamander}",,72,,0,,,"https://images.brickset.com/sets/images/COLUMBUS-1.jpg",17,100
+8656,"COMCON004","1","Star Wars","Miscellaneous","2009","Collectable Display Set 1",3,5,,49.99,,,"https://images.brickset.com/sets/images/COMCON004-1.jpg",57,808
+8655,"COMCON005","1","Star Wars","Miscellaneous","2009","Collectable Display Set 2",3,2,,49.99,,,"https://images.brickset.com/sets/images/COMCON005-1.jpg",58,827
+8657,"COMCON006","1","Star Wars","Miscellaneous","2009","Collectable Display Set 4",3,15,,49.99,,,"https://images.brickset.com/sets/images/COMCON006-1.jpg",56,821
+8658,"COMCON007","1","Star Wars","Miscellaneous","2009","Collectable Display Set 5",3,4,,49.99,,,"https://images.brickset.com/sets/images/COMCON007-1.jpg",58,855
+8659,"COMCON008","1","Star Wars","Miscellaneous","2009","Collectable Display Set 3",3,5,,49.99,,,"https://images.brickset.com/sets/images/COMCON008-1.jpg",67,883
+8660,"COMCON009","1","Star Wars","Miscellaneous","2009","Collectable Display Set 6",3,5,,49.99,,,"https://images.brickset.com/sets/images/COMCON009-1.jpg",96,798
+9348,"COMCON010","1","Star Wars","The Clone Wars","2009","Mini Republic Dropship Mini AT-TE Brickmaster Pack (SDCC 2009 exclusive)",,94,,50,,,114,477
+9349,"COMCON011","1","Star Wars","Miscellaneous","2009","Holo-Brick Archives (SDCC 2009 exclusive)",,3,,,,,20,401
+8163,"CONCORD","1","Promotional","LEGO brand store opening set","2009","{Nascar}",,70,,0,,,"https://images.brickset.com/sets/images/CONCORD-1.jpg",19,190
+8170,"DALLAS","1","Promotional","LEGO brand store opening set","2009","{Skull}",,92,,0,,,"https://images.brickset.com/sets/images/DALLAS-1.jpg",16,117
+8169,"FRANKFURT","1","Promotional","LEGO brand store opening set","2009","{The Römer}",,157,,,,,"https://images.brickset.com/sets/images/FRANKFURT-1.jpg",26,111
+8177,"FRISCO","1","Promotional","LEGO brand store opening set","2009","{Bronco}",,60,,,,,"https://images.brickset.com/sets/images/FRISCO-1.jpg",15,85
+26985,"GMRACER1","1","Promotional","General Mills","2009","Race Car 1",,,,,,,6,9
+26986,"GMRACER2","1","Promotional","General Mills","2009","Race Car 2",,,,,,,6,9
+26987,"GMRACER3","1","Promotional","General Mills","2009","Race Car 3",,,,,,,7,9
+26988,"GMRACER4","1","Promotional","General Mills","2009","Race Car 4",,,,,,,6,9
+26989,"GMRACER5","1","Promotional","General Mills","2009","Race Car 5",,,,,,,3,9
+26990,"GMRACER6","1","Promotional","General Mills","2009","Race Car 6",,,,,,,5,9
+8156,"HANOVER","1","Promotional","LEGO brand store opening set","2009","{Crab}",,69,,0,,,"https://images.brickset.com/sets/images/HANOVER-1.jpg",21,132
+8154,"HONOLULU","1","Promotional","LEGO brand store opening set","2009","{Fish and Coral}",,85,,,,,"https://images.brickset.com/sets/images/HONOLULU-1.jpg",13,102
+7223,"ISBN0756655196","1","Books","Dorling Kindersley","2009","LEGO Pirates: Brickmaster",,,,,,,"https://images.brickset.com/sets/images/ISBN0756655196-1.jpg",1206,269
+7222,"ISBN0756672813","1","Books","Dorling Kindersley","2009","LEGO Castle: Brickmaster",,,,,,,"https://images.brickset.com/sets/images/ISBN0756672813-1.jpg",1223,298
+7293,"ISBN1405341696","1","Books","Dorling Kindersley","2009","The LEGO Book",,,25,,,,"https://images.brickset.com/sets/images/ISBN1405341696-1.jpg",2387,337
+8102,"ISBN1405345640","1","Books","Dorling Kindersley","2009","Standing Small: A Celebration of 30 Years of the LEGO Minifigure",,,,,,,"https://images.brickset.com/sets/images/ISBN1405345640-1.jpg",1292,211
+7294,"ISBN1405347473","1","Books","Dorling Kindersley","2009","LEGO Star Wars: The Visual Dictionary",1,4,,21.99,24.99,,"https://images.brickset.com/sets/images/ISBN1405347473-1.jpg",4848,395
+25715,"ISBN1593272162","1","Books","No Starch Press","2009","LEGO MINDSTORMS NXT Thinking Robots",,,,,,,"https://images.brickset.com/sets/images/ISBN1593272162-1.jpg",4,21
+9451,"LIGHTBULB","1","Promotional","Miscellaneous","2009","Celebrating Moments That CLICK! Light Bulb",,57,0,0,,,7,42
+8478,"LIT2009","1","Miscellaneous","LEGO Inside Tour Exclusive","2009","Ole Kirk's House",,,,,,,"https://images.brickset.com/sets/images/LIT2009-1.jpg",51,688
+9307,"M8465934","1","Miscellaneous","Muji","2009","Christmas set",,120,,,,,"https://images.brickset.com/sets/images/M8465934-1.jpg",5,42
+9309,"M8465958","1","Miscellaneous","Muji","2009","Hole punch",,2,,,,,"https://images.brickset.com/sets/images/M8465958-1.jpg",40,45
+9305,"M8465972","1","Miscellaneous","Muji","2009","Basic set",,200,,,,,"https://images.brickset.com/sets/images/M8465972-1.jpg",14,46
+9306,"M8465989","1","Miscellaneous","Muji","2009","Basic set, transparent",,120,,,,,"https://images.brickset.com/sets/images/M8465989-1.jpg",10,35
+9308,"M8465996","1","Miscellaneous","Muji","2009","Paper and brick set",,187,,,,,"https://images.brickset.com/sets/images/M8465996-1.jpg",10,42
+23209,"MCDR1","1","Gear","Fast food toys","2009","6 x 2 Turbo",,,,,,,"https://images.brickset.com/sets/images/MCDR1-1.jpg",48,36
+23210,"MCDR2","1","Gear","Fast food toys","2009","Rally Fire",,,,,,,"https://images.brickset.com/sets/images/MCDR2-1.jpg",81,34
+23211,"MCDR3","1","Gear","Fast food toys","2009","Curve Cruiser",,,,,,,"https://images.brickset.com/sets/images/MCDR3-1.jpg",62,33
+23212,"MCDR4","1","Gear","Fast food toys","2009","Circuit Star",,,,,,,"https://images.brickset.com/sets/images/MCDR4-1.jpg",60,34
+23489,"MCDR5","1","Gear","Fast food toys","2009","Lap Star",,,,,,,"https://images.brickset.com/sets/images/MCDR5-1.jpg",84,36
+23490,"MCDR6","1","Gear","Fast food toys","2009","EZ Rally",,,,,,,"https://images.brickset.com/sets/images/MCDR6-1.jpg",82,34
+23491,"MCDR7","1","Gear","Fast food toys","2009","Curve Chaser",,,,,,,"https://images.brickset.com/sets/images/MCDR7-1.jpg",104,37
+23492,"MCDR8","1","Gear","Fast food toys","2009","Sport Racer",,,,,,,"https://images.brickset.com/sets/images/MCDR8-1.jpg",48,40
+7423,"MMMB002","1","Promotional","Monthly Mini Model Build","2009","Penguin",,16,0,0,,,"https://images.brickset.com/sets/images/MMMB002-1.jpg",57,200
+7424,"MMMB003","1","Promotional","Monthly Mini Model Build","2009","Heart",,15,0,0,,,"https://images.brickset.com/sets/images/MMMB003-1.jpg",72,144
+7425,"MMMB004","1","Promotional","Monthly Mini Model Build","2009","Leprechaun",,,0,0,,,"https://images.brickset.com/sets/images/MMMB004-1.jpg",66,149
+7426,"MMMB005","1","Promotional","Monthly Mini Model Build","2009","Rabbit",,,0,0,,,"https://images.brickset.com/sets/images/MMMB005-1.jpg",66,177
+7427,"MMMB006","1","Promotional","Monthly Mini Model Build","2009","House",,,0,0,,,"https://images.brickset.com/sets/images/MMMB006-1.jpg",38,196
+7428,"MMMB007","1","Promotional","Monthly Mini Model Build","2009","Tractor",,,0,0,,,"https://images.brickset.com/sets/images/MMMB007-1.jpg",51,157
+7429,"MMMB008","1","Promotional","Monthly Mini Model Build","2009","Flower",,,0,0,,,"https://images.brickset.com/sets/images/MMMB008-1.jpg",55,146
+7430,"MMMB009","1","Promotional","Monthly Mini Model Build","2009","Sailing Boat",,,0,0,,,"https://images.brickset.com/sets/images/MMMB009-1.jpg",66,134
+7431,"MMMB010","1","Promotional","Monthly Mini Model Build","2009","US Flag",,,0,0,,,"https://images.brickset.com/sets/images/MMMB010-1.jpg",82,160
+7432,"MMMB011","1","Promotional","Monthly Mini Model Build","2009","Ice Cream",,,0,0,,,"https://images.brickset.com/sets/images/MMMB011-1.jpg",27,180
+7433,"MMMB012","1","Promotional","Monthly Mini Model Build","2009","Lobster",,,0,0,,,"https://images.brickset.com/sets/images/MMMB012-1.jpg",77,191
+7434,"MMMB013","1","Promotional","Monthly Mini Model Build","2009","Book and Pencil",,,0,0,,,"https://images.brickset.com/sets/images/MMMB013-1.jpg",77,177
+7435,"MMMB014","1","Promotional","Monthly Mini Model Build","2009","Pumpkin",,,0,0,,,"https://images.brickset.com/sets/images/MMMB014-1.jpg",85,147
+7450,"MMMB015","1","Promotional","Monthly Mini Model Build","2009","Turkey",,,0,0,,,"https://images.brickset.com/sets/images/MMMB015-1.jpg",66,147
+7510,"MMMB016","1","Promotional","Monthly Mini Model Build","2009","Fireworks",,,0,0,,,"https://images.brickset.com/sets/images/MMMB016-1.jpg",27,163
+7564,"MMMB017","1","Promotional","Monthly Mini Model Build","2009","Christmas Wreath",,29,0,0,,,"https://images.brickset.com/sets/images/MMMB017-1.jpg",89,159
+8172,"OKLAHOMACITY","1","Promotional","LEGO brand store opening set","2009","{Cowboy}",,58,,0,,,"https://images.brickset.com/sets/images/OKLAHOMACITY-1.jpg",12,106
+8182,"ORLANDPARK","1","Promotional","LEGO brand store opening set","2009","{Baseball Player}",,58,,0,,,"https://images.brickset.com/sets/images/ORLANDPARK-1.jpg",15,112
+8171,"PARAMUS","1","Promotional","LEGO brand store opening set","2009","{Wild Turkey}",,73,,0,,,"https://images.brickset.com/sets/images/PARAMUS-1.jpg",11,117
+8164,"RALEIGH","1","Promotional","LEGO brand store opening set","2009","{Lighthouse}",,121,,0,,,"https://images.brickset.com/sets/images/RALEIGH-1.jpg",22,180

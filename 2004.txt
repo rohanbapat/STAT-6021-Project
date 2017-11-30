@@ -1,0 +1,412 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+278,"1386","1","Clikits","","2004","Jewelry Sample",,16,,,,,"https://images.brickset.com/sets/images/1386-1.jpg",25,22
+1343,"3125","1","Explore","Imagination","2004","Preschool Playtable",,18,19.99,20,,,"https://images.brickset.com/sets/images/3125-1.jpg",42,36
+1379,"3194","1","Clikits","","2004","Heart",,9,,,,,"https://images.brickset.com/sets/images/3194-1.jpg",49,23
+1380,"3195","1","Clikits","","2004","Daisy",,9,,,,,"https://images.brickset.com/sets/images/3195-1.jpg",43,24
+4624,"3196","1","Clikits","","2004","Star",,9,,,,,"https://images.brickset.com/sets/images/3196-1.jpg",31,24
+1654,"3578","1","Sports","Hockey","2004","NHL Championship Challenge",8,374,29.99,40,,,"https://images.brickset.com/sets/images/3578-1.jpg",300,392
+1655,"3579","1","Sports","Hockey","2004","NHL Street Hockey",2,114,12.99,20,,,"https://images.brickset.com/sets/images/3579-1.jpg",243,235
+6564,"4033","1","Creator","Designer Set","2004","Car",,,,,,,10,73
+6565,"4034","1","Creator","Designer Set","2004","Aeroplane",,,,,,,11,80
+6566,"4035","1","Creator","Designer Set","2004","Boat",,,,,,,9,74
+6567,"4036","1","Creator","Designer Set","2004","Space Plane",,,,,,,8,83
+6568,"4037","1","Creator","Designer Set","2004","Helicopter",,9,,,,,"https://images.brickset.com/sets/images/4037-1.jpg",20,101
+2065,"4296","1","Duplo","","2004","Green Duplo Strata",,139,,,,,"https://images.brickset.com/sets/images/4296-1.jpg",16,22
+2073,"4308","1","Racers","Drome Racers","2004","Yellow Racer",,28,,,,,"https://images.brickset.com/sets/images/4308-1.jpg",301,134
+2074,"4309","1","Racers","Drome Racers","2004","Blue Racer",,31,,1,,,"https://images.brickset.com/sets/images/4309-1.jpg",421,134
+2075,"4310","1","Racers","Drome Racers","2004","Orange Racer",,24,,,,,"https://images.brickset.com/sets/images/4310-1.jpg",195,144
+2076,"4335","1","Creator","X-Pod","2004","Black Robot Pod",,50,,3.5,,,"https://images.brickset.com/sets/images/4335-1.jpg",554,297
+2084,"4346","1","Creator","X-Pod","2004","Robo Pod",,50,3.99,3.5,,,"https://images.brickset.com/sets/images/4346-1.jpg",1655,216
+23129,"4346","2","Creator","X-Pod","2004","Robo Pod",,,,,,,33,50
+2085,"4347","1","Creator","X-Pod","2004","Auto Pod",,39,3.99,3.5,,,"https://images.brickset.com/sets/images/4347-1.jpg",1620,179
+23128,"4347","2","Creator","X-Pod","2004","Auto Pod",,,,,,,34,43
+2086,"4348","1","Creator","X-Pod","2004","Aero Pod",,36,3.99,3.5,,,"https://images.brickset.com/sets/images/4348-1.jpg",1750,190
+23126,"4348","2","Creator","X-Pod","2004","Aero Pod",,,,,,,30,44
+2087,"4349","1","Creator","X-Pod","2004","Wild Pod",,44,3.99,3.5,,,"https://images.brickset.com/sets/images/4349-1.jpg",1624,184
+23127,"4349","2","Creator","X-Pod","2004","Wild Pod",,,,,,,24,37
+2098,"4406","1","Creator","","2004","Buildings",,506,24.99,30,,,"https://images.brickset.com/sets/images/4406-1.jpg",137,106
+2099,"4407","1","Creator","","2004","Transportation",,301,14.99,20,,,"https://images.brickset.com/sets/images/4407-1.jpg",169,98
+2100,"4408","1","Creator","","2004","Animals",,202,9.99,10,,,"https://images.brickset.com/sets/images/4408-1.jpg",151,97
+2101,"4410","1","Creator","","2004","Build and Create",,500,9.99,,,,"https://images.brickset.com/sets/images/4410-1.jpg",164,63
+2102,"4411","1","Creator","","2004","Blue Strata XXL",,1200,,,,,"https://images.brickset.com/sets/images/4411-1.jpg",144,95
+2103,"4412","1","Creator","","2004","Olympia Bucket",,200,,,,,"https://images.brickset.com/sets/images/4412-1.jpg",49,69
+4973,"4414","1","Creator","","2004","Creator Half Tub Blue",,500,9.99,,,,"https://images.brickset.com/sets/images/4414-1.jpg",33,56
+2105,"4425","1","Creator","","2004","Better Building More Fun",,2000,,,,,"https://images.brickset.com/sets/images/4425-1.jpg",54,99
+2153,"4492","1","Star Wars","Mini Building Set","2004","Star Destroyer",,87,6.99,7,,,"https://images.brickset.com/sets/images/4492-1.jpg",4226,1415
+2154,"4493","1","Star Wars","Mini Building Set","2004","Sith Infiltrator",,55,6.99,7,,,"https://images.brickset.com/sets/images/4493-1.jpg",2751,1217
+2155,"4494","1","Star Wars","Mini Building Set","2004","Imperial Shuttle",,82,6.99,7,,,"https://images.brickset.com/sets/images/4494-1.jpg",3718,1418
+2156,"4495","1","Star Wars","Mini Building Set","2004","AT-TE",,63,6.99,7,,,"https://images.brickset.com/sets/images/4495-1.jpg",2687,1305
+2157,"4496","1","Creator","","2004","Fun with Building Tub",,1000,19.99,20,,,"https://images.brickset.com/sets/images/4496-1.jpg",449,77
+2158,"4497","1","Creator","","2004","Pretend and Create",,1000,29.99,20,,,"https://images.brickset.com/sets/images/4497-1.jpg",118,73
+2160,"4500","1","Star Wars","Episode V","2004","Rebel Snowspeeder",3,214,19.99,20,,,"https://images.brickset.com/sets/images/4500-1.jpg",5360,2277
+2161,"4501","1","Star Wars","Episode IV","2004","Mos Eisley Cantina",5,193,27.99,30,,,"https://images.brickset.com/sets/images/4501-1.jpg",4017,3151
+2162,"4502","1","Star Wars","Episode V","2004","X-wing Fighter",3,563,49.99,50,,,"https://images.brickset.com/sets/images/4502-1.jpg",4450,3088
+2163,"4504","1","Star Wars","Episode V","2004","Millennium Falcon",5,985,99.99,100,,,"https://images.brickset.com/sets/images/4504-1.jpg",4546,2874
+2164,"4505","1","Creator","Designer Set","2004","Sea Machines",,168,5.99,7,,,"https://images.brickset.com/sets/images/4505-1.jpg",610,247
+2165,"4506","1","Creator","Designer Set","2004","Deep Sea Predators",,352,14.99,20,,,"https://images.brickset.com/sets/images/4506-1.jpg",972,490
+2166,"4507","1","Creator","Designer Set","2004","Prehistoric Creatures",,726,24.99,30,,,"https://images.brickset.com/sets/images/4507-1.jpg",1471,540
+2167,"4508","1","Creator","Designer Set","2004","Titan XP",,784,34.99,50,,,"https://images.brickset.com/sets/images/4508-1.jpg",816,529
+2168,"4509","1","Gear","Furniture","2004","3-Seat Playtable",,,,249.99,,,"https://images.brickset.com/sets/images/4509-1.jpg",24,76
+2174,"4518","1","Creator","","2004","Creator Value Pack",,800,,,,,"https://images.brickset.com/sets/images/4518-1.jpg",66,78
+2188,"4538","1","Creator","","2004","Special Edition Tub",,200,,,,,"https://images.brickset.com/sets/images/4538-1.jpg",76,57
+2209,"4562","1","Creator","","2004","Creator Box",,400,,6,,,"https://images.brickset.com/sets/images/4562-1.jpg",77,56
+2271,"4666","1","4 Juniors","City","2004","Speedy Police Car",1,24,3.99,5,,,"https://images.brickset.com/sets/images/4666-1.jpg",348,101
+2272,"4667","1","4 Juniors","City","2004","Loadin' Digger",1,29,6.99,8,,,"https://images.brickset.com/sets/images/4667-1.jpg",354,111
+2273,"4668","1","4 Juniors","City","2004","Outrigger Construction Crane",2,61,14.99,13,,,"https://images.brickset.com/sets/images/4668-1.jpg",204,119
+2274,"4669","1","4 Juniors","City","2004","Turbo-Charged Police Boat",2,52,14.99,20,,,"https://images.brickset.com/sets/images/4669-1.jpg",365,138
+2275,"4676","1","Gear","Key Chains/Miscellaneous","2004","Police Key Chain",,,,5,,,"https://images.brickset.com/sets/images/4676-1.jpg",52,74
+2276,"4677","1","Gear","Key Chains/Miscellaneous","2004","Name Letter Pack",,,,2,,,"https://images.brickset.com/sets/images/4677-1.jpg",138,136
+2277,"4678","1","Gear","Photo frames","2004","Picture Holder",1,,,5,,,"https://images.brickset.com/sets/images/4678-1.jpg",74,81
+2278,"4679","2","Creator","","2004","Bricks and Creations",,1531,,20,,,116,64
+2279,"4680","1","Duplo","LEGO Ville","2004","Traffic Patrol",1,3,2.99,3,,,"https://images.brickset.com/sets/images/4680-1.jpg",162,30
+2280,"4681","1","Duplo","LEGO Ville","2004","Fire Truck",2,18,14.99,13,,,"https://images.brickset.com/sets/images/4681-1.jpg",156,42
+2281,"4683","1","Duplo","LEGO Ville","2004","Pony and Cart",1,5,3.99,4.99,,,"https://images.brickset.com/sets/images/4683-1.jpg",120,35
+2282,"4684","1","Duplo","LEGO Ville","2004","Pick-Up Truck",1,4,4.99,5,,,"https://images.brickset.com/sets/images/4684-1.jpg",108,26
+2283,"4685","1","Duplo","LEGO Ville","2004","Fork Lift",1,10,7.99,8,,,"https://images.brickset.com/sets/images/4685-1.jpg",125,52
+2284,"4686","1","Duplo","LEGO Ville","2004","Little Farm",2,50,19.99,20,,,"https://images.brickset.com/sets/images/4686-1.jpg",85,24
+2285,"4687","1","Duplo","LEGO Ville","2004","Tractor-Trailer",1,8,7.99,12.99,,,"https://images.brickset.com/sets/images/4687-1.jpg",262,36
+2286,"4688","1","Duplo","LEGO Ville","2004","Team Construction",2,22,17.99,20,,,"https://images.brickset.com/sets/images/4688-1.jpg",111,36
+2287,"4689","1","Duplo","LEGO Ville","2004","Playhouse",4,60,19.99,25,,,"https://images.brickset.com/sets/images/4689-1.jpg",52,33
+2288,"4690","1","Duplo","LEGO Ville","2004","Horse Stable",2,29,14.99,10,,,"https://images.brickset.com/sets/images/4690-1.jpg",48,23
+2289,"4691","1","Duplo","LEGO Ville","2004","Police Station",3,61,29.99,40,,,"https://images.brickset.com/sets/images/4691-1.jpg",57,36
+2290,"4692","1","Duplo","LEGO Ville","2004","Fire Car",1,2,2.99,,,,"https://images.brickset.com/sets/images/4692-1.jpg",78,29
+2291,"4693","1","Duplo","Ferrari","2004","Ferrari F1 Race Car",1,5,7.99,10,,,"https://images.brickset.com/sets/images/4693-1.jpg",114,75
+2292,"4694","1","Duplo","Ferrari","2004","Ferrari F1 Racing Team",2,37,29.99,40,,,"https://images.brickset.com/sets/images/4694-1.jpg",90,76
+2293,"4695","1","Harry Potter","Prisoner of Azkaban","2004","Mini Harry Potter Knight Bus",,58,,,,,"https://images.brickset.com/sets/images/4695-1.jpg",1784,988
+4972,"4696","1","Creator","","2004","Blue Bucket",,400,,8.5,,,49,56
+2318,"4742","1","Alpha Team","Mission Deep Freeze","2004","Chill Speeder",1,58,3.99,4,,,"https://images.brickset.com/sets/images/4742-1.jpg",1590,360
+2319,"4743","1","Alpha Team","Mission Deep Freeze","2004","Ice Blade",1,108,9.99,10,,,"https://images.brickset.com/sets/images/4743-1.jpg",1496,412
+2320,"4744","1","Alpha Team","Mission Deep Freeze","2004","Tundra Tracker",2,141,17.99,20,,,"https://images.brickset.com/sets/images/4744-1.jpg",948,470
+2321,"4745","1","Alpha Team","Mission Deep Freeze","2004","Blue Eagle vs. Snow Crawler",2,258,24.99,30,,,"https://images.brickset.com/sets/images/4745-1.jpg",902,450
+2322,"4746","1","Alpha Team","Mission Deep Freeze","2004","Mobile Command Center",5,426,39.99,50,,,"https://images.brickset.com/sets/images/4746-1.jpg",694,500
+2323,"4748","1","Alpha Team","Mission Deep Freeze","2004","Ogel's Mountain Fortress",5,436,49.99,70,,,"https://images.brickset.com/sets/images/4748-1.jpg",551,597
+2324,"4750","1","Harry Potter","Prisoner of Azkaban","2004","Draco's Encounter with Buckbeak",1,36,5.99,8,,,"https://images.brickset.com/sets/images/4750-1.jpg",2094,1272
+2325,"4751","1","Harry Potter","Prisoner of Azkaban","2004","Harry and the Marauder's Map",3,109,8.99,10,,,"https://images.brickset.com/sets/images/4751-1.jpg",1821,1199
+2326,"4752","1","Harry Potter","Prisoner of Azkaban","2004","Professor Lupin's Classroom",3,156,17.99,20,,,"https://images.brickset.com/sets/images/4752-1.jpg",1629,1328
+2327,"4753","1","Harry Potter","Prisoner of Azkaban","2004","Sirius Black's Escape",3,188,17.99,20,,,"https://images.brickset.com/sets/images/4753-1.jpg",1882,1432
+2328,"4754","1","Harry Potter","Prisoner of Azkaban","2004","Hagrid's Hut",2,302,19.99,30,,,"https://images.brickset.com/sets/images/4754-1.jpg",1499,1254
+2329,"4755","1","Harry Potter","Prisoner of Azkaban","2004","Knight Bus",2,243,19.99,30,,,"https://images.brickset.com/sets/images/4755-1.jpg",2305,1183
+2330,"4756","1","Harry Potter","Prisoner of Azkaban","2004","Shrieking Shack",4,444,39.99,50,,,"https://images.brickset.com/sets/images/4756-1.jpg",1813,1881
+2331,"4757","1","Harry Potter","Prisoner of Azkaban","2004","Hogwarts Castle",9,944,79.99,90,,,"https://images.brickset.com/sets/images/4757-1.jpg",1566,1898
+2332,"4758","1","Harry Potter","Prisoner of Azkaban","2004","Hogwarts Express",4,389,34.99,40,,,"https://images.brickset.com/sets/images/4758-1.jpg",1023,1343
+2333,"4759","1","Seasonal","Christmas","2004","3 Christmas Decorations",,127,,7,,,"https://images.brickset.com/sets/images/4759-1.jpg",109,200
+2334,"4775","1","Duplo","Castle","2004","Knight and Squire",2,19,6.99,10,,,"https://images.brickset.com/sets/images/4775-1.jpg",148,73
+2335,"4776","1","Duplo","Castle","2004","Dragon Tower",2,63,24.99,30,,,"https://images.brickset.com/sets/images/4776-1.jpg",178,95
+2336,"4777","1","Duplo","Castle","2004","Knights' Castle",4,164,49.99,50,,,"https://images.brickset.com/sets/images/4777-1.jpg",203,89
+2367,"4853","1","Spider-Man","","2004","Spider-Man's Street Chase",3,73,7.99,10,,,"https://images.brickset.com/sets/images/4853-1.jpg",1030,673
+2368,"4854","1","Spider-Man","","2004","Doc Ock's Bank Robbery",5,174,17.99,20,,,"https://images.brickset.com/sets/images/4854-1.jpg",1218,825
+2369,"4855","1","Spider-Man","","2004","Spider-Man's Train Rescue",4,299,29.99,30,,,"https://images.brickset.com/sets/images/4855-1.jpg",1323,986
+2370,"4856","1","Spider-Man","","2004","Doc Ock's Hideout",5,486,39.99,50,,,"https://images.brickset.com/sets/images/4856-1.jpg",1066,835
+2371,"4857","1","Spider-Man","","2004","Doc Ock's Fusion Lab",4,237,17.99,20,,,"https://images.brickset.com/sets/images/4857-1.jpg",1154,749
+2372,"4858","1","4 Juniors","Spider-Man","2004","Doc Ock's Crime Spree",3,55,12.99,15,,,"https://images.brickset.com/sets/images/4858-1.jpg",238,185
+2373,"4860","1","4 Juniors","Spider-Man","2004","Doc Ock's Cafe Attack",3,130,24.99,30,,,"https://images.brickset.com/sets/images/4860-1.jpg",210,194
+2378,"4886","1","Creator","Designer Set","2004","Building Bonanza",,667,24.99,40,,,"https://images.brickset.com/sets/images/4886-1.jpg",1889,1713
+5345,"4908","1","Duplo","","2004","DUPLO Basic Bricks",,100,,,,,15,15
+2381,"4924","1","Creator","Seasonal","2004","Advent Calendar",,335,12.99,15,,,"https://images.brickset.com/sets/images/4924-1.jpg",411,174
+2722,"5350","1","Explore","Together","2004","Large Explore Bucket",,90,14.99,,,,"https://images.brickset.com/sets/images/5350-1.jpg",11,18
+2723,"5351","1","Duplo","","2004","Duplo Bucket",,90,14.99,,,,"https://images.brickset.com/sets/images/5351-1.jpg",7,14
+2724,"5352","1","Duplo","","2004","Duplo Tub",,139,29.99,20,,,"https://images.brickset.com/sets/images/5352-1.jpg",60,16
+2725,"5353","1","Duplo","","2004","Duplo Tub",,139,19.99,,,,"https://images.brickset.com/sets/images/5353-1.jpg",13,14
+2726,"5354","1","Duplo","","2004","Tube",,80,9.99,,,,"https://images.brickset.com/sets/images/5354-1.jpg",10,13
+2727,"5355","1","Quatro","","2004","Small Quatro Bucket",,20,7.49,10,,,"https://images.brickset.com/sets/images/5355-1.jpg",43,20
+2728,"5356","1","Quatro","","2004","Medium Quatro Bucket",,50,19.99,15,,,"https://images.brickset.com/sets/images/5356-1.jpg",46,21
+2729,"5357","1","Quatro","","2004","Large Quatro Bucket",,75,18.99,20,,,"https://images.brickset.com/sets/images/5357-1.jpg",122,24
+2730,"5358","1","Quatro","","2004","Quatro XL",,100,29.99,,,,"https://images.brickset.com/sets/images/5358-1.jpg",31,25
+2731,"5359","1","Explore","Imagination","2004","BRICK-O-DILE",,26,19.99,15,,,"https://images.brickset.com/sets/images/5359-1.jpg",59,29
+2736,"5385","1","Duplo","","2004","Special Edition Bucket",,40,,,,,"https://images.brickset.com/sets/images/5385-1.jpg",16,12
+5199,"5436","1","Baby","","2004","Stack 'n' Learn",,2,,,,,"https://images.brickset.com/sets/images/5436-1.jpg",14,22
+2788,"5453","1","Baby","","2004","Baby Elephant Stacker",,6,4.99,,,,"https://images.brickset.com/sets/images/5453-1.jpg",46,21
+2789,"5454","1","Baby","","2004","Stack & Learn Giraffe",,5,7.99,10,,,"https://images.brickset.com/sets/images/5454-1.jpg",43,22
+2790,"5455","1","Baby","","2004","Stacking Jungle Set",,8,14.99,25,,,"https://images.brickset.com/sets/images/5455-1.jpg",29,22
+2791,"5458","1","Baby","","2004","Pull Along Duck and Duckling",,7,12.99,20,,,"https://images.brickset.com/sets/images/5458-1.jpg",39,22
+6450,"5513","1","Duplo","","2004","Duplo Tubular Chest",2,113,29.99,,,,7,15
+2919,"5877","1","Belville","","2004","The Royal Wedding Coach",2,73,29.99,,,,"https://images.brickset.com/sets/images/5877-1.jpg",81,47
+2951,"5940","1","Belville","","2004","Doll House",3,203,39.99,60,,,"https://images.brickset.com/sets/images/5940-1.jpg",88,55
+2952,"5941","1","Belville","","2004","Riding School",2,179,29.99,47,,,"https://images.brickset.com/sets/images/5941-1.jpg",93,51
+2953,"5942","1","Belville","","2004","Pop Studio",1,102,14.99,22.99,,,"https://images.brickset.com/sets/images/5942-1.jpg",128,53
+2954,"5943","1","Belville","","2004","Interior Designer",1,96,7.99,10,,,"https://images.brickset.com/sets/images/5943-1.jpg",85,53
+2955,"5944","1","Belville","","2004","Cat Show",,31,4.99,6,,,"https://images.brickset.com/sets/images/5944-1.jpg",135,66
+3735,"6963","1","Star Wars","Mini Building Set","2004","X-wing Fighter",,41,,,,,"https://images.brickset.com/sets/images/6963-1.jpg",1517,1334
+3736,"6964","1","Star Wars","Mini Building Set","2004","Boba Fett's Slave I",,25,,,,,"https://images.brickset.com/sets/images/6964-1.jpg",1263,1460
+3737,"6965","1","Star Wars","Mini Building Set","2004","TIE Interceptor",,32,,5,,,"https://images.brickset.com/sets/images/6965-1.jpg",1435,1451
+3772,"7042","1","World City","Police and Rescue","2004","Dune Patrol",1,36,2.99,4,,,"https://images.brickset.com/sets/images/7042-1.jpg",1151,394
+3773,"7043","1","World City","Police and Rescue","2004","Firefighter",1,69,5.99,8,,,"https://images.brickset.com/sets/images/7043-1.jpg",1205,381
+3774,"7044","1","World City","Police and Rescue","2004","Rescue Chopper",2,205,14.99,20,,,"https://images.brickset.com/sets/images/7044-1.jpg",1440,592
+3775,"7045","1","World City","Police and Rescue","2004","Hovercraft Hideout",2,274,24.99,30,,,"https://images.brickset.com/sets/images/7045-1.jpg",1100,573
+3776,"7046","1","World City","Police and Rescue","2004","Fire Command Craft",3,269,24.99,30,,,"https://images.brickset.com/sets/images/7046-1.jpg",975,490
+3777,"7047","1","World City","Police and Rescue","2004","Coast Watch HQ",4,367,39.99,50,,,"https://images.brickset.com/sets/images/7047-1.jpg",919,729
+3778,"7070","1","4 Juniors","Pirates","2004","Catapult Raft",1,22,3.99,5,,,"https://images.brickset.com/sets/images/7070-1.jpg",442,116
+3779,"7071","1","4 Juniors","Pirates","2004","Treasure Island",2,24,6.99,8,,,"https://images.brickset.com/sets/images/7071-1.jpg",320,127
+3780,"7072","1","4 Juniors","Pirates","2004","Captain Kragg's Pirate Boat",1,36,9.99,13,,,"https://images.brickset.com/sets/images/7072-1.jpg",442,142
+3781,"7073","1","4 Juniors","Pirates","2004","Pirate Dock",2,61,14.99,20,,,"https://images.brickset.com/sets/images/7073-1.jpg",190,112
+3782,"7074","1","4 Juniors","Pirates","2004","Skull Island",3,76,24.99,30,,,"https://images.brickset.com/sets/images/7074-1.jpg",303,119
+3783,"7075","1","4 Juniors","Pirates","2004","Captain Redbeard's Pirate Ship",4,131,49.99,40,,,"https://images.brickset.com/sets/images/7075-1.jpg",502,223
+3784,"7080","1","4 Juniors","Pirates","2004","Scurvy Dog and Crocodile",1,4,2.49,,,,"https://images.brickset.com/sets/images/7080-1.jpg",254,108
+3785,"7081","1","4 Juniors","Pirates","2004","Harry Hardtack and Monkey",1,9,2.49,,,,"https://images.brickset.com/sets/images/7081-1.jpg",267,105
+3786,"7082","1","4 Juniors","Pirates","2004","Cannonball Jimmy and Shark",1,4,2.49,,,,"https://images.brickset.com/sets/images/7082-1.jpg",227,105
+3788,"7099","1","4 Juniors","Accessories","2004","Accessory Motor",,1,,,,,"https://images.brickset.com/sets/images/7099-1.jpg",84,83
+3839,"7209","1","Creator","Designer Set","2004","Flying Dino",,28,,,,,"https://images.brickset.com/sets/images/7209-1.jpg",70,236
+3840,"7210","1","Creator","Designer Set","2004","Long Neck Dino",,33,,,,,"https://images.brickset.com/sets/images/7210-1.jpg",113,214
+3842,"7214","1","World City","Special","2004","Airline Promotional Set",1,125,,12,,,"https://images.brickset.com/sets/images/7214-1.jpg",223,607
+4728,"7218","1","Creator","Designer Set","2004","Boat",,26,,,,,"https://images.brickset.com/sets/images/7218-1.jpg",50,149
+3843,"7219","1","Creator","Designer Set","2004","Dino",,34,,,,,"https://images.brickset.com/sets/images/7219-1.jpg",227,190
+4627,"7220","1","Seasonal","Christmas","2004","Snowman",,19,,,,,"https://images.brickset.com/sets/images/7220-1.jpg",73,211
+3874,"7262","1","Star Wars","Episode IV","2004","TIE Fighter and Y-Wing",3,412,,50,,,"https://images.brickset.com/sets/images/7262-1.jpg",1253,1704
+3876,"7290","1","4 Juniors","Pirates","2004","Captain Kragg in Barrel",1,4,,,,,"https://images.brickset.com/sets/images/7290-1.jpg",83,117
+3896,"7330","1","Explore","Dora the Explorer","2004","Dora's Treasure Island",1,21,9.99,10,,,"https://images.brickset.com/sets/images/7330-1.jpg",61,29
+3897,"7331","1","Explore","Dora the Explorer","2004","Diego's Rescue Truck",1,10,9.99,10,,,"https://images.brickset.com/sets/images/7331-1.jpg",28,25
+3898,"7332","1","Explore","Dora the Explorer","2004","Dora and Boots at Play Park",2,29,19.99,20,,,"https://images.brickset.com/sets/images/7332-1.jpg",59,31
+3899,"7333","1","Explore","Dora the Explorer","2004","Dora and Diego's Animal Adventure",2,39,29.99,30,,,"https://images.brickset.com/sets/images/7333-1.jpg",50,34
+7123,"7349","1","Duplo","","2004","Skater Boy",1,2,,,,,7,13
+3937,"7442","1","Explore","Little Robots","2004","Tiny's Lift Cart",1,3,7.99,,,,"https://images.brickset.com/sets/images/7442-1.jpg",13,27
+3938,"7443","1","Explore","Little Robots","2004","Stretchy's Junk Cart",1,3,7.99,,,,"https://images.brickset.com/sets/images/7443-1.jpg",17,21
+3939,"7444","1","Explore","Little Robots","2004","Sporty's Gym Cart",1,2,7.99,,,,"https://images.brickset.com/sets/images/7444-1.jpg",16,23
+3940,"7445","1","Explore","Little Robots","2004","Stripy's Flower Cart",1,3,7.99,,,,"https://images.brickset.com/sets/images/7445-1.jpg",16,23
+3960,"7495","1","Explore","Little Robots","2004","Sporty's Skate Park",1,11,4.99,,,,"https://images.brickset.com/sets/images/7495-1.jpg",9,22
+3961,"7496","1","Explore","Little Robots","2004","Stretchy at Work",1,10,4.99,,,,"https://images.brickset.com/sets/images/7496-1.jpg",10,23
+3965,"7504","1","Clikits","","2004","Friendship Frame / Mirror",,15,1.99,4,,,"https://images.brickset.com/sets/images/7504-1.jpg",54,21
+3966,"7505","1","Clikits","","2004","Flowered Hair Bands",,16,1.99,4,,,"https://images.brickset.com/sets/images/7505-1.jpg",26,20
+3967,"7506","1","Clikits","","2004","Starry Bangles & Rings",,9,1.99,4,,,"https://images.brickset.com/sets/images/7506-1.jpg",28,22
+3975,"7514","1","Clikits","","2004","Sweet Dreamy Jewels",,48,6.99,7,,,"https://images.brickset.com/sets/images/7514-1.jpg",39,21
+3976,"7515","1","Clikits","","2004","Striped Sunny Jewels",,48,6.99,7,,,"https://images.brickset.com/sets/images/7515-1.jpg",27,22
+3977,"7516","1","Clikits","","2004","Cool Starry Jewels",,52,6.99,7,,,"https://images.brickset.com/sets/images/7516-1.jpg",26,21
+3984,"7524","1","Clikits","","2004","Glamour Girl Purse",,18,4.99,5,,,"https://images.brickset.com/sets/images/7524-1.jpg",39,20
+3985,"7525","1","Clikits","","2004","Sunshine Picture Stand",,22,4.99,5,,,"https://images.brickset.com/sets/images/7525-1.jpg",48,21
+3986,"7526","1","Clikits","","2004","My Starry Notes",,27,4.99,5,,,"https://images.brickset.com/sets/images/7526-1.jpg",29,23
+3987,"7528","1","Clikits","","2004","Designer Desk Set",,69,9.99,13,,,"https://images.brickset.com/sets/images/7528-1.jpg",41,22
+3988,"7529","1","Clikits","","2004","Stylin' Stationery Set",,72,9.99,13,,,"https://images.brickset.com/sets/images/7529-1.jpg",36,22
+3989,"7530","1","Clikits","","2004","Starry Decoration Set",,70,9.99,13,,,"https://images.brickset.com/sets/images/7530-1.jpg",35,23
+3990,"7531","1","Clikits","","2004","The Ultimate Jewelry Collection",,150,19.99,20,,,"https://images.brickset.com/sets/images/7531-1.jpg",32,25
+3991,"7532","1","Clikits","","2004","My Special Storage Space",,115,24.99,35,,,"https://images.brickset.com/sets/images/7532-1.jpg",27,25
+3992,"7575","1","Clikits","Seasonal","2004","Clikits Advent Calendar",,,11.99,15,,,"https://images.brickset.com/sets/images/7575-1.jpg",46,42
+4055,"7910","1","Creator","Designer Set","2004","Robot",,29,,,,,"https://images.brickset.com/sets/images/7910-1.jpg",154,149
+4056,"7911","1","Creator","Designer Set","2004","Tugboat",,34,,,,,"https://images.brickset.com/sets/images/7911-1.jpg",144,142
+4057,"7912","1","Creator","Designer Set","2004","Helicopter",,26,,,,,"https://images.brickset.com/sets/images/7912-1.jpg",140,143
+4058,"7917","1","Sports","Basketball","2004","Basketball Player, Blue",,5,,,,,"https://images.brickset.com/sets/images/7917-1.jpg",82,91
+4059,"7918","1","Sports","Basketball","2004","Basketball Player, Green",,5,,,,,"https://images.brickset.com/sets/images/7918-1.jpg",91,91
+4060,"7919","1","Sports","Hockey","2004","Hockey Player, White",,6,,,,,"https://images.brickset.com/sets/images/7919-1.jpg",97,84
+4061,"7920","1","Sports","Hockey","2004","Hockey Player, Blue",,6,,,,,"https://images.brickset.com/sets/images/7920-1.jpg",102,87
+4062,"7921","1","Sports","Gravity Games","2004","Skateboarder, Grey Vest",,6,,,,,"https://images.brickset.com/sets/images/7921-1.jpg",102,91
+4063,"7922","1","Sports","Gravity Games","2004","Snowboarder, Orange Vest",,5,,,,,"https://images.brickset.com/sets/images/7922-1.jpg",93,104
+4064,"7923","1","Sports","Football","2004","Football Player, White",,6,,,,,"https://images.brickset.com/sets/images/7923-1.jpg",95,87
+4065,"7924","1","Sports","Football","2004","Football Player, Red",,6,,,,,"https://images.brickset.com/sets/images/7924-1.jpg",79,84
+4066,"7925","1","Clikits","","2004","Clickits Fashion Design Kit A",,5,,,,,"https://images.brickset.com/sets/images/7925-1.jpg",12,20
+4067,"7926","1","Clikits","","2004","Clickits Fashion Design Kit C",,4,,,,,"https://images.brickset.com/sets/images/7926-1.jpg",14,19
+4068,"7927","1","Clikits","","2004","Clickits Fashion Design Kit B",,4,,,,,"https://images.brickset.com/sets/images/7927-1.jpg",12,20
+4069,"7928","1","Clikits","","2004","Clickits Fashion Design Kit D",,5,,,,,"https://images.brickset.com/sets/images/7928-1.jpg",13,20
+4070,"7929","0","Clikits","","2004","Promotional Set",,1,,,,,"https://images.brickset.com/sets/images/7929-0.jpg",20,20
+4071,"7930","0","Clikits","","2004","Promotional Set",,1,,,,,"https://images.brickset.com/sets/images/7930-0.jpg",13,21
+4072,"7931","0","Clikits","","2004","Promotional Set",,1,,,,,"https://images.brickset.com/sets/images/7931-0.jpg",17,20
+6547,"8026","1","Bionicle","","2004","Kraatu",,20,,,,,"https://images.brickset.com/sets/images/8026-1.jpg",77,324
+4220,"8362","1","Racers","Ferrari","2004","Ferrari F1 Racer",1,113,9.99,15,,,"https://images.brickset.com/sets/images/8362-1.jpg",1351,392
+4225,"8369","1","Racers","Outdoor RC","2004","Dirt Crusher RC",,88,89.99,140,,,"https://images.brickset.com/sets/images/8369-1.jpg",230,222
+4230,"8375","1","Racers","Ferrari","2004","Ferrari F1 Pit Set",7,242,19.99,30,,,"https://images.brickset.com/sets/images/8375-1.jpg",1470,526
+4232,"8378","1","Racers","Drome Racers","2004","Red Beast RC",,65,29.99,40,,,"https://images.brickset.com/sets/images/8378-1.jpg",255,162
+4234,"8380","1","Racers","Drome Racers","2004","Red Maniac",,83,6.99,10,,,"https://images.brickset.com/sets/images/8380-1.jpg",502,137
+4235,"8381","1","Racers","Drome Racers","2004","Exo Raider",,94,6.99,10,,,"https://images.brickset.com/sets/images/8381-1.jpg",582,146
+4236,"8382","1","Racers","Drome Racers","2004","Hot Buster",,67,6.99,10,,,"https://images.brickset.com/sets/images/8382-1.jpg",623,136
+4237,"8383","1","Racers","Drome Racers","2004","Nitro Terminator",,70,6.99,10,,,"https://images.brickset.com/sets/images/8383-1.jpg",579,131
+4238,"8384","1","Racers","Drome Racers","2004","Jungle Crasher",,76,6.99,10,,,"https://images.brickset.com/sets/images/8384-1.jpg",505,133
+4239,"8385","1","Racers","Drome Racers","2004","Exo Stealth",,81,6.99,10,,,"https://images.brickset.com/sets/images/8385-1.jpg",562,132
+4240,"8386","1","Racers","Ferrari","2004","Ferrari F1 Racer",,738,49.99,70,,,"https://images.brickset.com/sets/images/8386-1.jpg",1882,730
+4241,"8389","1","Racers","Ferrari","2004","M. Schumacher and R. Barrichello",2,34,4.99,7,,,"https://images.brickset.com/sets/images/8389-1.jpg",956,449
+4258,"8433","1","Technic","","2004","Cool Movers",,215,9.99,13,,,"https://images.brickset.com/sets/images/8433-1.jpg",414,243
+4259,"8434","1","Technic","","2004","Aircraft",,445,24.99,35,,,"https://images.brickset.com/sets/images/8434-1.jpg",468,448
+4260,"8435","1","Technic","","2004","4WD",,763,34.99,45,,,"https://images.brickset.com/sets/images/8435-1.jpg",976,461
+4261,"8436","1","Technic","","2004","Truck",,1027,59.99,90,,,"https://images.brickset.com/sets/images/8436-1.jpg",1702,968
+4264,"8439","1","Technic","","2004","Front End Loader",,582,,70,,,"https://images.brickset.com/sets/images/8439-1.jpg",603,509
+4405,"8601","1","Bionicle","Toa Metru","2004","Vakama",,48,5.99,8,,,"https://images.brickset.com/sets/images/8601-1.jpg",3010,442
+9366,"8601","2","Bionicle","Toa Metru","2004","Toa Vakama (SDCC 2004 exclusive)",,48,,,,,36,101
+4406,"8602","1","Bionicle","Toa Metru","2004","Nokama",,46,5.99,8,,,"https://images.brickset.com/sets/images/8602-1.jpg",2481,458
+4407,"8603","1","Bionicle","Toa Metru","2004","Whenua",,49,5.99,8,,,"https://images.brickset.com/sets/images/8603-1.jpg",2324,502
+4408,"8604","1","Bionicle","Toa Metru","2004","Onewa",,44,5.99,8,,,"https://images.brickset.com/sets/images/8604-1.jpg",2507,492
+4409,"8605","1","Bionicle","Toa Metru","2004","Matau",,46,5.99,8,,,"https://images.brickset.com/sets/images/8605-1.jpg",2739,497
+4410,"8606","1","Bionicle","Toa Metru","2004","Nuju",,48,5.99,8,,,"https://images.brickset.com/sets/images/8606-1.jpg",2625,501
+4411,"8607","1","Bionicle","Matoran","2004","Nuhrii",,27,2.99,4,,,"https://images.brickset.com/sets/images/8607-1.jpg",1632,425
+4412,"8608","1","Bionicle","Matoran","2004","Vhisola",,27,2.99,4,,,"https://images.brickset.com/sets/images/8608-1.jpg",1531,411
+4413,"8609","1","Bionicle","Matoran","2004","Tehutti",,27,2.99,4,,,"https://images.brickset.com/sets/images/8609-1.jpg",1481,424
+4414,"8610","1","Bionicle","Matoran","2004","Ahkmou",,27,2.99,4,,,"https://images.brickset.com/sets/images/8610-1.jpg",1559,406
+4415,"8611","1","Bionicle","Matoran","2004","Orkahm",,27,2.99,4,,,"https://images.brickset.com/sets/images/8611-1.jpg",1628,429
+4416,"8612","1","Bionicle","Matoran","2004","Ehrye",,30,2.99,4,,,"https://images.brickset.com/sets/images/8612-1.jpg",1533,419
+4417,"8613","1","Bionicle","Accessories","2004","Kanoka Disk Launcher Pack",,4,1.49,2,,,"https://images.brickset.com/sets/images/8613-1.jpg",797,237
+4418,"8614","1","Bionicle","Vahki","2004","Nuurakh",,32,5.99,9,,,"https://images.brickset.com/sets/images/8614-1.jpg",2433,351
+4419,"8615","1","Bionicle","Vahki","2004","Bordakh",,32,5.99,9,,,"https://images.brickset.com/sets/images/8615-1.jpg",2308,388
+4420,"8616","1","Bionicle","Vahki","2004","Vorzakh",,32,5.99,9,,,"https://images.brickset.com/sets/images/8616-1.jpg",2240,389
+4421,"8617","1","Bionicle","Vahki","2004","Zadakh",,32,5.99,9,,,"https://images.brickset.com/sets/images/8617-1.jpg",1894,404
+4422,"8618","1","Bionicle","Vahki","2004","Rorzakh",,32,5.99,9,,,"https://images.brickset.com/sets/images/8618-1.jpg",2030,414
+4423,"8619","1","Bionicle","Vahki","2004","Keerakh",,32,5.99,9,,,"https://images.brickset.com/sets/images/8619-1.jpg",2224,431
+4425,"8621","1","Bionicle","Warriors","2004","Turaga Dume and Nivawk",,180,14.99,20,,,"https://images.brickset.com/sets/images/8621-1.jpg",1416,534
+4426,"8622","1","Bionicle","Warriors","2004","Nidhiki",,170,14.99,20,,,"https://images.brickset.com/sets/images/8622-1.jpg",1525,543
+4427,"8623","1","Bionicle","Warriors","2004","Krekka",,214,14.99,20,,,"https://images.brickset.com/sets/images/8623-1.jpg",1386,570
+4435,"8711","1","Bionicle","Accessories","2004","The Ultimate BIONICLE Set",,702,,20,,,"https://images.brickset.com/sets/images/8711-1.jpg",222,498
+4445,"8770","1","Castle","Knights' Kingdom II","2004","Danju",,42,5.99,,,,"https://images.brickset.com/sets/images/8770-1.jpg",1044,152
+4446,"8771","1","Castle","Knights' Kingdom II","2004","Jayko",,45,5.99,,,,"https://images.brickset.com/sets/images/8771-1.jpg",1405,154
+4447,"8772","1","Castle","Knights' Kingdom II","2004","Rascus",,46,5.99,,,,"https://images.brickset.com/sets/images/8772-1.jpg",1172,160
+4448,"8773","1","Castle","Knights' Kingdom II","2004","Santis",,46,5.99,,,,"https://images.brickset.com/sets/images/8773-1.jpg",1128,157
+4449,"8774","1","Castle","Knights' Kingdom II","2004","Vladek",,48,5.99,,,,"https://images.brickset.com/sets/images/8774-1.jpg",1353,147
+4450,"8777","1","Castle","Knights' Kingdom II","2004","Vladek Encounter",2,42,4.99,9,,,"https://images.brickset.com/sets/images/8777-1.jpg",1935,444
+4451,"8778","1","Castle","Knights' Kingdom II","2004","Border Ambush",2,177,14.99,20,,,"https://images.brickset.com/sets/images/8778-1.jpg",1748,595
+4452,"8779","1","Castle","Knights' Kingdom II","2004","The Grand Tournament",3,312,24.99,30,,,"https://images.brickset.com/sets/images/8779-1.jpg",1274,494
+4454,"8780","1","Castle","Knights' Kingdom II","2004","Citadel of Orlan",4,442,39.99,50,,,"https://images.brickset.com/sets/images/8780-1.jpg",1327,734
+4455,"8781","1","Castle","Knights' Kingdom II","2004","The Castle of Morcia",8,637,69.99,90,,,"https://images.brickset.com/sets/images/8781-1.jpg",1521,815
+4707,"8782","1","Castle","Knights' Kingdom II","2004","Danju",,46,,8,,,"https://images.brickset.com/sets/images/8782-1.jpg",490,117
+4708,"8783","1","Castle","Knights' Kingdom II","2004","Jayko",,49,,8,,,"https://images.brickset.com/sets/images/8783-1.jpg",666,118
+4709,"8784","1","Castle","Knights' Kingdom II","2004","Rascus",,50,,8,,,"https://images.brickset.com/sets/images/8784-1.jpg",582,112
+4710,"8785","1","Castle","Knights' Kingdom II","2004","Santis",,50,,8,,,"https://images.brickset.com/sets/images/8785-1.jpg",562,114
+4456,"8786","1","Castle","Knights' Kingdom II","2004","Vladek",,52,,8,,,"https://images.brickset.com/sets/images/8786-1.jpg",638,126
+4458,"8790","1","Castle","Knights' Kingdom II","2004","King Mathias",,44,7.99,,,,"https://images.brickset.com/sets/images/8790-1.jpg",772,164
+4459,"8799","1","Castle","Knights' Kingdom II","2004","Knights' Castle Wall",3,178,,20,,,"https://images.brickset.com/sets/images/8799-1.jpg",966,596
+4461,"8800","1","Castle","Knights' Kingdom II","2004","Vladek's Siege Engine",2,192,,20,,,"https://images.brickset.com/sets/images/8800-1.jpg",1025,588
+4701,"8809","1","Castle","Knights' Kingdom II","2004","King Mathias",,44,,10,,,"https://images.brickset.com/sets/images/8809-1.jpg",409,140
+4464,"8811","1","Bionicle","Warriors","2004","Toa Lhikan and Kikanalo",,215,9.99,30,,,"https://images.brickset.com/sets/images/8811-1.jpg",1507,765
+4848,"9040","1","Education","","2004","Learning Games Set",,94,79,89,,,"https://images.brickset.com/sets/images/9040-1.jpg",13,33
+4875,"9089","1","Education","","2004","Tubes Experiment Set",4,153,73,71,,,"https://images.brickset.com/sets/images/9089-1.jpg",13,36
+4849,"9132","1","Education","","2004","Community Transport Set",9,50,44.81,52,,,"https://images.brickset.com/sets/images/9132-1.jpg",7,34
+4841,"9230","1","Education","","2004","Town Set",8,215,67,62,,,"https://images.brickset.com/sets/images/9230-1.jpg",8,24
+4531,"9274","1","Education","","2004","Doors and Windows",,270,21.87,28.25,,,"https://images.brickset.com/sets/images/9274-1.jpg",71,79
+4831,"9540","1","Education","","2004","Early Maths 4+ Numbers Set",4,112,62.1,81,,,"https://images.brickset.com/sets/images/9540-1.jpg",13,30
+4832,"9541","1","Education","","2004","Early Maths 4+ Measurement Set",4,101,57.7,76,,,"https://images.brickset.com/sets/images/9541-1.jpg",7,27
+4833,"9542","1","Education","","2004","Early Maths 4+ Shape & Space Set",,132,57.7,76,,,"https://images.brickset.com/sets/images/9542-1.jpg",12,29
+22477,"9761","1","Miscellaneous","FIRST LEGO League","2004","FIRST LEGO League Challenge 2004 - No Limits",,,,,,,6,35
+4572,"9889","1","Mindstorms","1.0","2004","Temperature Sensor",,1,24.67,25,,,"https://images.brickset.com/sets/images/9889-1.jpg",55,100
+4573,"9911","1","Mindstorms","1.0","2004","Touch Sensor and Leads",,3,10.41,12,,,"https://images.brickset.com/sets/images/9911-1.jpg",71,93
+77,"10081","1","Clikits","","2004","Heart Birthday Pack",,70,4.5,6,,,"https://images.brickset.com/sets/images/10081-1.jpg",7,22
+78,"10082","1","Clikits","","2004","Daisy Birthday Pack",,70,4.5,6,,,"https://images.brickset.com/sets/images/10082-1.jpg",6,21
+79,"10083","1","Clikits","","2004","Star Birthday Pack",,70,4.5,6,,,"https://images.brickset.com/sets/images/10083-1.jpg",6,22
+86,"10116","1","Clikits","","2004","Heart Accessories",,50,,5,,,"https://images.brickset.com/sets/images/10116-1.jpg",17,22
+87,"10117","1","Clikits","","2004","Daisy Accessories",,50,,5,,,"https://images.brickset.com/sets/images/10117-1.jpg",22,25
+88,"10118","1","Clikits","","2004","Star Accessories",,50,,5,,,"https://images.brickset.com/sets/images/10118-1.jpg",16,29
+95,"10131","1","Star Wars","Legends","2004","TIE Fighter Collection",4,682,64.99,70,,,"https://images.brickset.com/sets/images/10131-1.jpg",1710,2857
+96,"10132","1","Harry Potter","Prisoner of Azkaban","2004","Motorised Hogwarts Express",4,708,89.99,120,,,"https://images.brickset.com/sets/images/10132-1.jpg",470,1650
+98,"10134","1","Star Wars","Ultimate Collector Series","2004","Y-wing Attack Starfighter",1,1473,109.99,120,,,"https://images.brickset.com/sets/images/10134-1.jpg",2136,4318
+99,"10135","1","Clikits","Seasonal","2004","Holiday Decoration Kit",,283,24.99,35,,,"https://images.brickset.com/sets/images/10135-1.jpg",13,27
+100,"10145","1","Bulk Bricks","","2004","Assorted Light Grey Bricks",,62,,5,,,"https://images.brickset.com/sets/images/10145-1.jpg",71,73
+101,"10146","1","Bulk Bricks","","2004","Assorted Dark Grey Bricks",,63,,5,,,"https://images.brickset.com/sets/images/10146-1.jpg",62,72
+102,"10147","1","Bulk Bricks","","2004","Assorted Brown Bricks",,62,,5,,,"https://images.brickset.com/sets/images/10147-1.jpg",59,66
+103,"10148","1","Bulk Bricks","","2004","Assorted Light Grey Plates",,42,,5,,,"https://images.brickset.com/sets/images/10148-1.jpg",66,78
+104,"10149","1","Bulk Bricks","","2004","Assorted Dark Grey Plates",,42,,5,,,"https://images.brickset.com/sets/images/10149-1.jpg",53,78
+105,"10150","1","Bulk Bricks","","2004","Assorted Brown Plates",,42,,5,,,"https://images.brickset.com/sets/images/10150-1.jpg",64,73
+106,"10151","1","Model Team","","2004","Hot Rod",,421,26.99,40,,,"https://images.brickset.com/sets/images/10151-1.jpg",433,395
+107,"10152","1","Advanced Models","Maersk","2004","Maersk Sealand Container Ship",,988,,75,,,"https://images.brickset.com/sets/images/10152-1.jpg",907,1106
+109,"10156","1","Town","Special","2004","LEGO Truck",1,105,8.99,15,,,"https://images.brickset.com/sets/images/10156-1.jpg",1337,583
+110,"10157","1","World City","Trains","2004","High Speed Train Locomotive",2,143,19.99,25,,,"https://images.brickset.com/sets/images/10157-1.jpg",445,833
+111,"10158","1","World City","Trains","2004","High Speed Train Car",2,161,19.99,25,,,"https://images.brickset.com/sets/images/10158-1.jpg",418,877
+112,"10159","1","Town","Flight","2004","City Airport",12,928,69.99,90,,,"https://images.brickset.com/sets/images/10159-1.jpg",1236,1146
+113,"10160","1","Bulk Bricks","","2004","Black Ridge Tiles",,48,4.29,5.99,,,"https://images.brickset.com/sets/images/10160-1.jpg",80,77
+114,"10161","1","Bulk Bricks","","2004","Black Roof Tiles",,76,4.29,5.99,,,"https://images.brickset.com/sets/images/10161-1.jpg",57,73
+115,"10162","1","Bulk Bricks","","2004","Red Ridge Tiles",,48,,6,,,"https://images.brickset.com/sets/images/10162-1.jpg",55,66
+116,"10163","1","Bulk Bricks","","2004","Red Roof Tiles",,76,,6,,,"https://images.brickset.com/sets/images/10163-1.jpg",45,61
+117,"10165","1","Seasonal","Christmas","2004","Elf Boy",,27,1.99,2.5,,,"https://images.brickset.com/sets/images/10165-1.jpg",303,133
+4626,"10167","1","Creator","","2004","LEGO BrickMaster Welcome Kit",,180,,,,,"https://images.brickset.com/sets/images/10167-1.jpg",268,130
+120,"10202","1","Bionicle","Warriors","2004","Ultimate Dume",,564,34.99,50,,,"https://images.brickset.com/sets/images/10202-1.jpg",502,503
+10699,"65409","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,92,,,,,7,41
+10701,"65410","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,92,,,,,6,41
+10703,"65411","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,97,,,,,6,42
+13659,"65412","1","Castle","Product Collection","2004","Bonus/Value Pack",,91,,,,,5,50
+13661,"65413","1","Castle","Product Collection","2004","Bonus/Value Pack",,94,,,,,5,48
+10705,"65414","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,54,,,,,6,43
+10707,"65415","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,54,,,,,6,43
+10709,"65416","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,57,,,,,6,43
+14880,"65417","1","Racers","Product Collection","2004","Bonus/Value Pack",,151,,,,,3,21
+14049,"65419","1","Creator","Product Collection","2004","Bonus/Value Pack",,169,,,,,3,31
+10713,"65459","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,92,,,,,6,43
+10715,"65460","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,94,,,,,6,43
+10717,"65461","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,95,,,,,6,42
+10384,"65462","1","4 Juniors","Product Collection","2004","Bonus/Value Pack",,76,,,,,8,26
+11273,"65463","1","Creator","Product Collection","2004","Bonus/Value Pack",,500,,,,,3,31
+10719,"65466","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,92,,,,,6,42
+10721,"65467","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,94,,,,,7,40
+10723,"65468","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,95,,,,,9,40
+10725,"65486","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,54,,,,,5,40
+10727,"65487","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,96,,,,,6,40
+10730,"65488","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,96,,,,,6,39
+10733,"65503","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,57,,,,,5,39
+10735,"65504","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,54,,,,,5,39
+10737,"65514","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,150,,,,,6,39
+10742,"65515","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,153,,,,,6,39
+12577,"65516","1","Clikits","Product Collection","2004","Bonus/Value Pack",,69,,,,,3,17
+13263,"65517","1","Duplo","Product Collection","2004","Bonus/Value Pack",,29,,,,,4,14
+15259,"65518","1","Spider-Man","Product Collection","2004","Bonus/Value Pack",,310,,,,,8,83
+9843,"65524","1","Harry Potter","Product collection","2004","Motorised Hogwarts Express super pack",,724,,,,,"https://images.brickset.com/sets/images/65524-1.jpg",41,579
+13663,"65527","1","Castle","Product Collection","2004","Bonus/Value Pack",,370,,,,,10,50
+3413,"65535","1","Creator","X-Pod","2004","X-Pod Play Off Game Pack",,219,,20,,,"https://images.brickset.com/sets/images/65535-1.jpg",138,179
+3414,"65537","1","Trains","Product Collection","2004","Classic Freight Train",,608,,80,,,"https://images.brickset.com/sets/images/65537-1.jpg",61,777
+12578,"65542","1","Clikits","Product Collection","2004","Bonus/Value Pack",,48,,,,,4,15
+12579,"65543","1","Clikits","Product Collection","2004","Bonus/Value Pack",,48,,,,,3,15
+12580,"65544","1","Clikits","Product Collection","2004","Bonus/Value Pack",,52,,,,,3,15
+4711,"65545","1","Bionicle","Product Collection","2004","Special Edition Ta-Metru Collector's Pack",,75,,8,,,"https://images.brickset.com/sets/images/65545-1.jpg",44,175
+14886,"65546","1","Racers","Product Collection","2004","Bonus/Value Pack",,310,,,,,3,21
+10749,"65547","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,123,,,,,5,38
+10753,"65548","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,96,,,,,"https://images.brickset.com/sets/images/65548-1.jpg",23,61
+10756,"65549","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,96,,,,,12,40
+4625,"65572","1","Spider-Man","Product Collection","2004","Spider-Man Combined Set",,1022,,,,,"https://images.brickset.com/sets/images/65572-1.jpg",27,276
+10759,"65574","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,214,,,,,6,37
+12581,"65575","1","Clikits","Product Collection","2004","Bonus/Value Pack",,48,,,,,3,16
+12582,"65576","1","Clikits","Product Collection","2004","Bonus/Value Pack",,52,,,,,3,16
+12583,"65577","1","Clikits","Product Collection","2004","Bonus/Value Pack",,48,,,,,3,16
+13665,"65579","1","Castle","Product Collection","2004","Bonus/Value Pack",,87,,,,,5,47
+13667,"65580","1","Castle","Product Collection","2004","Bonus/Value Pack",,94,,,,,5,48
+15465,"65707","1","Star Wars","Product Collection","2004","Bonus/Value Pack",,363,,,,,20,223
+15264,"65708","1","Spider-Man","Product Collection","2004","Bonus/Value Pack",,185,,,,,6,78
+10768,"65748","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,215,,,,,6,37
+10769,"65749","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,215,,,,,5,37
+10770,"65750","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,215,,,,,5,37
+11274,"65780","1","Creator","Product Collection","2004","Bonus/Value Pack",,500,,,,,3,32
+5202,"65801","1","World City","Product Collection","2004","Trains Value Pack",,741,,,,,"https://images.brickset.com/sets/images/65801-1.jpg",48,387
+14060,"66173","1","Creator","Product Collection","2004","Bonus/Value Pack",,671,,,,,4,34
+346,"850352","2","Gear","Key Chains/Star Wars","2004","Snowtrooper",,,,,,,126,136
+24530,"850356","2","Gear","Key Chains/Star Wars","2004","C-3PO",,,,,,,14,26
+22648,"850687","1","Gear","Key Chains/Sports","2004","NBA, Nuggets 04 ",,,,,,,"https://images.brickset.com/sets/images/850687-1.jpg",10,27
+26945,"850707","1","Gear","Photo frames","2004","Pirate photo frame",,,,,,,"https://images.brickset.com/sets/images/850707-1.jpg",6,17
+4314,"851009","1","Gear","Magnets/Bricks","2004","Classic Magnets Medium",,,5.99,,,,"https://images.brickset.com/sets/images/851009-1.jpg",80,66
+4315,"851010","1","Gear","Magnets/Bricks","2004","Bricks with Magnets",,,6.99,14.99,,,"https://images.brickset.com/sets/images/851010-1.jpg",148,79
+5092,"851014","1","Gear","Magnets/Bricks","2004","Magnets",,,,,,,"https://images.brickset.com/sets/images/851014-1.jpg",10,55
+22650,"851037","1","Gear","Key Chains/World City","2004","Train Worker",,,,,,,"https://images.brickset.com/sets/images/851037-1.jpg",16,43
+9484,"851039","1","Gear","Key Chains/World City","2004","Chef Key Chain",,,,,,,"https://images.brickset.com/sets/images/851039-1.jpg",20,46
+24531,"851044","1","Gear","Key Chains/Star Wars","2004","R2-D2 ",,,,,,,10,25
+4316,"851056","1","Gear","Stationery","2004","Bionicle Carry Case",,,,,,,"https://images.brickset.com/sets/images/851056-1.jpg",13,78
+2037,"4212838","1","Promotional","LEGO brand stores","2004","Easter Chick",,62,,,,,"https://images.brickset.com/sets/images/4212838-1.jpg",24,85
+2038,"4212847","1","Promotional","LEGO brand stores","2004","Easter Chick in Egg",,99,,,,,"https://images.brickset.com/sets/images/4212847-1.jpg",23,90
+2039,"4212850","1","Promotional","LEGO brand stores","2004","Easter Egg Orange",,,,,,,"https://images.brickset.com/sets/images/4212850-1.jpg",11,104
+2040,"4212852","1","Promotional","LEGO brand stores","2004","Easter Egg Blue",,178,,,,,"https://images.brickset.com/sets/images/4212852-1.jpg",24,117
+2044,"4215789","1","Gear","Watches/Clocks","2004","Bionicle Rahkshi Watch",,,,,,,"https://images.brickset.com/sets/images/4215789-1.jpg",26,77
+4691,"4226751","1","Gear","Key Chains/Clikits","2004","Heart Minibag Keyring",,,,,,,"https://images.brickset.com/sets/images/4226751-1.jpg",14,23
+2053,"4227842","1","Gear","Key Chains/Harry Potter","2004","Harry Potter Key Chain",,,,,,,"https://images.brickset.com/sets/images/4227842-1.jpg",34,88
+4702,"4228196","1","Gear","Role-play toys","2004","Jayko's Shield",,,,,,,"https://images.brickset.com/sets/images/4228196-1.jpg",23,43
+4703,"4228206","1","Gear","Role-play toys","2004","Jayko's Sword",,,,,,,"https://images.brickset.com/sets/images/4228206-1.jpg",25,47
+4692,"4229459","1","Gear","Clothing","2004","Wristband",,,,,,,"https://images.brickset.com/sets/images/4229459-1.jpg",3,15
+4693,"4229482","1","Gear","Clothing","2004","Belt",,,,,,,"https://images.brickset.com/sets/images/4229482-1.jpg",4,17
+5205,"4233620","1","Gear","Clothing","2004","Lanyard with Pass Holder",,,,,,,"https://images.brickset.com/sets/images/4233620-1.jpg",41,40
+2055,"4237176","1","Gear","Role-play toys","2004","Bohrok Shield",,,,,,,"https://images.brickset.com/sets/images/4237176-1.jpg",17,111
+2056,"4243532","1","Racers","Radio-Control","2004","Racers Accessory Pack",,35,,,,,"https://images.brickset.com/sets/images/4243532-1.jpg",25,65
+2057,"4243694","1","Gear","Key Chains/Space","2004","Blue Spaceman Key Chain",,,,,,,66,61
+9426,"4250348","1","Gear","Watches/Clocks","2004","Knight's Kingdom Alarm Clock",,,,,,,13,18
+5210,"4255959","1","Gear","Pens","2004","Designer Set Pen",,,,,,,"https://images.brickset.com/sets/images/4255959-1.jpg",20,30
+2059,"4260543","1","Gear","Glued models","2004","Wizard",,,,,,,"https://images.brickset.com/sets/images/4260543-1.jpg",18,127
+9322,"4260545","1","Gear","Glued models","2004","Pirate",,,,,,,"https://images.brickset.com/sets/images/4260545-1.jpg",15,63
+9321,"4260547","1","Gear","Glued models","2004","Dragon",,,,,,,"https://images.brickset.com/sets/images/4260547-1.jpg",12,74
+23563,"4262662","1","Gear","Miscellaneous","2004","BIONICLE Toa Whenua Backpack",,,,,,,4,15
+1232,"670F","1","Racers","Radio-Control","2004","Wheels Pack",,10,,,,,"https://images.brickset.com/sets/images/670F-1.jpg",12,76
+1,"671F","1","Racers","Radio-Control","2004","Antenna Pack",,13,,,,,"https://images.brickset.com/sets/images/671F-1.jpg",12,66
+4690,"673F","1","Racers","Radio-Control","2004","Gearbox Pack",,6,,,,,"https://images.brickset.com/sets/images/673F-1.jpg",14,71
+706,"BAT8369","1","Racers","Radio-Control","2004","Battery Pack",,6,,,,,"https://images.brickset.com/sets/images/BAT8369-1.jpg",20,73
+9598,"DVD803","1","Gear","Digital media","2004","Bionicle 2: Legends Of Metru Nui DVD",,,,,,,"https://images.brickset.com/sets/images/DVD803-1.jpg",247,49
+4596,"GBA684","1","Gear","Video Games/Game Boy Advance","2004","LEGO Knights' Kingdom",,,,,,,"https://images.brickset.com/sets/images/GBA684-1.jpg",55,56
+23400,"HKYCUP","1","Promotional","LEGO brand stores","2004","Mini Stanley Cup",,,,,,,12,49
+25695,"ISBN1593270062","1","Books","No Starch Press","2004","Getting Started with LEGO Trains",,,,,,,"https://images.brickset.com/sets/images/ISBN1593270062-1.jpg",77,90
+4694,"K7503","1","Gear","Stationery","2004","Eraser Set",,,,,,,"https://images.brickset.com/sets/images/K7503-1.jpg",7,21
+4598,"KC663","1","Gear","Key Chains/Studios","2004","Vampire Key Chain",,,,,,,"https://images.brickset.com/sets/images/KC663-1.jpg",91,112
+4600,"KC705","1","Gear","Key Chains/Spider Man","2004","Spider Man Key Chain",,,,,,,"https://images.brickset.com/sets/images/KC705-1.jpg",97,142
+4704,"KC839","1","Gear","Key Chains/Bionicle","2004","Toa Hordika Key Chain",,,,,,,"https://images.brickset.com/sets/images/KC839-1.jpg",44,90
+4601,"KC845","1","Gear","Key Chains/Harry Potter","2004","Harry Potter Key Chain",,,,,,,"https://images.brickset.com/sets/images/KC845-1.jpg",71,100
+4602,"KC860","1","Gear","Key Chains/Harry Potter","2004","Hagrid Key Chain",,,,,,,"https://images.brickset.com/sets/images/KC860-1.jpg",72,92
+4603,"KC864","1","Gear","Key Chains/Harry Potter","2004","Dumbledore Key Chain",,,,,,,"https://images.brickset.com/sets/images/KC864-1.jpg",62,110
+22837,"LLCA8","1","Promotional","LEGOLAND","2004","LEGO Heart",,58,,,,,"https://images.brickset.com/sets/images/LLCA8-1.jpg",10,53
+9454,"LMG002","1","Promotional","Miscellaneous","2004","Cat",,10,,,,,7,39
+9455,"LMG003","1","Promotional","Miscellaneous","2004","Ostrich",,10,,,,,7,34
+9456,"LMG004","1","Promotional","Miscellaneous","2004","Spinning Top",,12,,,,,7,31
+9469,"LMG009","1","Promotional","Miscellaneous","2004","Snail",,8,,,,,8,34
+4604,"P1802","1","Gear","Pens","2004","Clikits Heart Pen",,,,,,,"https://images.brickset.com/sets/images/P1802-1.jpg",9,19
+4605,"P3103","1","Gear","Pens","2004","Harry Potter Pen",,,,,,,"https://images.brickset.com/sets/images/P3103-1.jpg",34,58
+4606,"P3112","1","Gear","Pens","2004","Santa Pen",,,,,,,"https://images.brickset.com/sets/images/P3112-1.jpg",18,41
+4607,"P3114","1","Gear","Pens","2004","Spider-Man Pen",,,,,,,"https://images.brickset.com/sets/images/P3114-1.jpg",16,51

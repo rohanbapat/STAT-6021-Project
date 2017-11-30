@@ -1,0 +1,701 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+8890,"3061","1","Friends","","2012","City Park Cafe",2,222,29.99,34.99,39.99,29.99,"https://images.brickset.com/sets/images/3061-1.jpg",4705,873
+9223,"3063","1","Friends","","2012","Heartlake Flying Club",1,195,19.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/3063-1.jpg",1933,668
+8892,"3065","1","Friends","","2012","Olivia's Tree House",1,191,19.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/3065-1.jpg",4561,814
+8893,"3183","1","Friends","","2012","Stephanie's Cool Convertible",1,130,14.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/3183-1.jpg",3885,553
+9187,"3184","1","Friends","","2012","Adventure Camper",2,309,29.99,34.99,39.99,29.99,"https://images.brickset.com/sets/images/3184-1.jpg",3185,922
+9188,"3185","1","Friends","","2012","Summer Riding Camp",4,1112,89.99,99.99,124.99,99.99,"https://images.brickset.com/sets/images/3185-1.jpg",2180,1024
+9189,"3186","1","Friends","","2012","Emma's Horse Trailer",1,218,19.99,24.99,29.99,24.99,"https://images.brickset.com/sets/images/3186-1.jpg",2675,784
+8891,"3187","1","Friends","","2012","Butterfly Beauty Shop",2,221,24.99,24.99,29.99,24.99,"https://images.brickset.com/sets/images/3187-1.jpg",2615,838
+8889,"3188","1","Friends","","2012","Heartlake Vet",2,343,39.99,44.99,49.99,39.99,"https://images.brickset.com/sets/images/3188-1.jpg",3054,873
+9190,"3189","1","Friends","","2012","Heartlake Stables",2,401,49.99,49.99,64.99,54.99,"https://images.brickset.com/sets/images/3189-1.jpg",2170,854
+8888,"3315","1","Friends","","2012","Olivia's House",3,695,69.99,74.99,89.99,69.99,"https://images.brickset.com/sets/images/3315-1.jpg",4706,926
+9267,"3316","1","Friends","Seasonal","2012","Friends Advent Calendar",2,193,19.99,34.99,,19.99,"https://images.brickset.com/sets/images/3316-1.jpg",1804,561
+9001,"3817","1","SpongeBob SquarePants","","2012","The Flying Dutchman",3,241,24.99,24.99,29.99,29.99,"https://images.brickset.com/sets/images/3817-1.jpg",2167,786
+9002,"3818","1","SpongeBob SquarePants","","2012","Bikini Bottom Undersea Party",4,471,49.99,49.99,59.99,59.99,"https://images.brickset.com/sets/images/3818-1.jpg",1341,884
+8968,"3863","1","Games","","2012","Kokoriko",,115,7.99,,,9.99,"https://images.brickset.com/sets/images/3863-1.jpg",449,246
+8967,"3864","1","Games","","2012","Mini Taurus",4,165,9.99,,,12.99,"https://images.brickset.com/sets/images/3864-1.jpg",441,326
+8966,"3865","1","Games","","2012","City Alarm",6,247,14.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/3865-1.jpg",1238,361
+8965,"3866","1","Games","Licensed","2012","Star Wars: The Battle of Hoth",32,305,24.99,,,34.99,"https://images.brickset.com/sets/images/3866-1.jpg",1687,884
+9241,"3867","1","Games","","2012","Maya Mystica",,,,,,,"https://images.brickset.com/sets/images/3867-1.jpg",20,271
+9240,"3868","1","Games","Licensed","2012","Phineas and Ferb",,,,,,,"https://images.brickset.com/sets/images/3868-1.jpg",11,298
+9239,"3874","1","Games","Heroica","2012","Heroica Ilrion",8,240,14.99,19.99,26.99,19.99,"https://images.brickset.com/sets/images/3874-1.jpg",971,447
+9683,"3920","1","Games","Licensed","2012","The Hobbit: An Unexpected Journey",4,394,24.99,34.99,39.99,34.99,"https://images.brickset.com/sets/images/3920-1.jpg",1359,476
+8900,"3930","1","Friends","","2012","Stephanie's Outdoor Bakery",1,45,4.99,6.99,7.99,5.99,"https://images.brickset.com/sets/images/3930-1.jpg",4214,396
+8899,"3931","1","Friends","","2012","Emma's Splash Pool",1,43,4.99,5.99,7.99,5.99,"https://images.brickset.com/sets/images/3931-1.jpg",3536,503
+8901,"3932","1","Friends","","2012","Andrea's Stage",1,87,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/3932-1.jpg",2948,622
+8896,"3933","1","Friends","","2012","Olivia's Invention Workshop",1,81,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/3933-1.jpg",3317,779
+8897,"3934","1","Friends","","2012","Mia's Puppy House",1,64,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/3934-1.jpg",2727,577
+8898,"3935","1","Friends","","2012","Stephanie's Pet Patrol",1,73,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/3935-1.jpg",2527,567
+8970,"3936","1","Friends","","2012","Emma's Fashion Design Studio",1,79,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/3936-1.jpg",2997,723
+9224,"3937","1","Friends","","2012","Olivia's Speedboat",1,65,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/3937-1.jpg",2511,556
+9191,"3938","1","Friends","","2012","Andrea's Bunny House",1,62,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/3938-1.jpg",2113,578
+9192,"3939","1","Friends","","2012","Mia's Bedroom",1,85,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/3939-1.jpg",2836,642
+8894,"3942","1","Friends","","2012","Heartlake Dog Show",1,183,19.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/3942-1.jpg",1744,751
+9152,"4200","1","City","Mining","2012","Mining 4x4",1,102,7.99,11.99,14.99,9.99,"https://images.brickset.com/sets/images/4200-1.jpg",6507,1457
+9153,"4201","1","City","Mining","2012","Loader and Tipper",2,139,12.99,17.99,19.99,14.99,"https://images.brickset.com/sets/images/4201-1.jpg",6528,1637
+9154,"4202","1","City","Mining","2012","Mining Truck",1,269,19.99,34.99,44.99,19.99,"https://images.brickset.com/sets/images/4202-1.jpg",4153,2060
+9155,"4203","1","City","Mining","2012","Excavator Transporter",2,305,24.99,39.99,49.99,34.99,"https://images.brickset.com/sets/images/4203-1.jpg",4990,1858
+9156,"4204","1","City","Mining","2012","The Mine",4,748,69.99,99.99,119.99,79.99,"https://images.brickset.com/sets/images/4204-1.jpg",4705,2519
+8974,"4205","1","City","Forest Police","2012","Off-Road Command Centre",3,403,34.99,39.99,49.99,39.99,"https://images.brickset.com/sets/images/4205-1.jpg",1511,1791
+9078,"4206","2","City","Traffic","2012","Recycling Truck",3,297,24.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/4206-2.jpg",4756,2750
+9404,"4207","1","City","Traffic","2012","City Garage",5,933,79.99,119.99,149.99,99.99,"https://images.brickset.com/sets/images/4207-1.jpg",2878,2843
+8916,"4208","1","City","Forest Fire","2012","Fire Truck",1,243,17.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/4208-1.jpg",4469,1354
+8915,"4209","1","City","Forest Fire","2012","Fire Plane",3,522,39.99,59.99,74.99,49.99,"https://images.brickset.com/sets/images/4209-1.jpg",3189,1735
+8917,"4427","1","City","Forest Fire","2012","Fire ATV",1,50,3.99,5.99,7.99,4.99,"https://images.brickset.com/sets/images/4427-1.jpg",5078,959
+9157,"4428","1","City","Seasonal","2012","City Advent Calendar",7,248,19.99,39.99,39.99,19.99,"https://images.brickset.com/sets/images/4428-1.jpg",3761,768
+9158,"4429","1","City","Medical","2012","Helicopter Rescue",4,425,34.99,59.99,74.99,49.99,"https://images.brickset.com/sets/images/4429-1.jpg",3396,2054
+8975,"4430","1","City","Forest Fire","2012","Fire Transporter",3,522,39.99,49.99,64.99,49.99,"https://images.brickset.com/sets/images/4430-1.jpg",1634,1754
+8936,"4431","1","City","Medical","2012","Ambulance",3,199,14.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/4431-1.jpg",6684,2129
+8937,"4432","1","City","Traffic","2012","Garbage Truck",2,208,17.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/4432-1.jpg",10855,2443
+8938,"4433","1","City","Traffic","2012","Dirt Bike Transporter",2,201,17.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/4433-1.jpg",7733,1752
+8940,"4434","1","City","Traffic","2012","Dump Truck",2,222,14.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/4434-1.jpg",6175,2253
+8939,"4435","1","City","Traffic","2012","Car and Caravan",2,218,14.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/4435-1.jpg",6419,2337
+8934,"4436","1","City","Forest Police","2012","Patrol Car",2,97,7.99,11.99,14.99,9.99,"https://images.brickset.com/sets/images/4436-1.jpg",7346,1126
+8935,"4437","1","City","Forest Police","2012","Police Pursuit",2,129,12.99,17.99,19.99,14.99,"https://images.brickset.com/sets/images/4437-1.jpg",6126,1266
+9076,"4438","1","City","Forest Police","2012","Robbers' Hideout",4,317,34.99,39.99,49.99,39.99,"https://images.brickset.com/sets/images/4438-1.jpg",2117,2519
+8932,"4439","1","City","Forest Police","2012","Heavy-Lift Helicopter",3,393,34.99,49.99,64.99,39.99,"https://images.brickset.com/sets/images/4439-1.jpg",5456,1807
+8931,"4440","1","City","Forest Police","2012","Forest Police Station",5,633,59.99,79.99,99.99,69.99,"https://images.brickset.com/sets/images/4440-1.jpg",4393,2079
+8933,"4441","1","City","Forest Police","2012","Police Dog Van",2,313,19.99,34.99,44.99,29.99,"https://images.brickset.com/sets/images/4441-1.jpg",3394,1807
+9580,"4442","1","City","Airport","2012","Glider",2,101,15,,,,"https://images.brickset.com/sets/images/4442-1.jpg",790,1368
+9769,"4473","1","City","Police","2012","Police Helicopter",2,112,17.99,17.99,,,"https://images.brickset.com/sets/images/4473-1.jpg",747,1082
+8906,"4526","1","DC Comics Super Heroes","Constraction","2012","Batman",,40,10.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/4526-1.jpg",1932,601
+8905,"4527","1","DC Comics Super Heroes","Constraction","2012","The Joker",,57,10.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/4527-1.jpg",1815,537
+8907,"4528","1","DC Comics Super Heroes","Constraction","2012","Green Lantern",,38,10.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/4528-1.jpg",1323,545
+8902,"4529","1","Marvel Super Heroes","Constraction","2012","Iron Man",,44,10.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/4529-1.jpg",1610,826
+8903,"4530","1","Marvel Super Heroes","Constraction","2012","The Hulk",,39,10.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/4530-1.jpg",1326,595
+8904,"4597","1","Marvel Super Heroes","Constraction","2012","Captain America",,44,10.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/4597-1.jpg",1346,678
+8993,"4623","1","Duplo","","2012","Pink Brick Box",,30,12.99,14.99,14.99,17.99,"https://images.brickset.com/sets/images/4623-1.jpg",238,33
+9123,"4624","1","Duplo","","2012","Brick Box Green",,31,12.99,14.99,14.99,17.99,"https://images.brickset.com/sets/images/4624-1.jpg",265,24
+8926,"4625","1","Bricks and More","","2012","Pink Brick Box",1,224,12.99,14.99,17.99,17.99,"https://images.brickset.com/sets/images/4625-1.jpg",918,145
+8927,"4626","1","Bricks and More","","2012","Farm Brick Box",1,232,12.99,14.99,17.99,17.99,"https://images.brickset.com/sets/images/4626-1.jpg",722,139
+9032,"4627","1","Duplo","","2012","Fun With Bricks",,85,19.99,29.99,39.99,24.99,"https://images.brickset.com/sets/images/4627-1.jpg",232,22
+9033,"4628","1","Bricks and More","","2012","Fun With Bricks",,600,19.99,29.99,39.99,24.99,"https://images.brickset.com/sets/images/4628-1.jpg",738,119
+9272,"4629","1","Duplo","","2012","Build & Play Box",,150,39.99,59.99,69.99,39.99,"https://images.brickset.com/sets/images/4629-1.jpg",83,26
+9273,"4630","1","Make and Create","","2012","Build & Play Box",,1000,39.99,,,39.99,"https://images.brickset.com/sets/images/4630-1.jpg",339,85
+8995,"4631","1","Duplo","","2012","My First Build",1,59,19.99,24.99,24.99,24.99,"https://images.brickset.com/sets/images/4631-1.jpg",295,29
+9034,"4632","1","Duplo","Accessories","2012","Building Plates",,3,7.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/4632-1.jpg",450,72
+8930,"4635","1","Bricks and More","","2012","Fun With Vehicles",2,525,24.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/4635-1.jpg",985,313
+8928,"4636","1","Bricks and More","","2012","Police Building Set",2,130,7.99,9.99,12.99,7.99,"https://images.brickset.com/sets/images/4636-1.jpg",1142,200
+8929,"4637","1","Bricks and More","","2012","Safari Building Set",2,152,7.99,9.99,12.99,7.99,"https://images.brickset.com/sets/images/4637-1.jpg",1453,205
+8923,"5882","1","Dino","","2012","Ambush Attack",1,80,8.99,11.99,14.99,9.99,"https://images.brickset.com/sets/images/5882-1.jpg",3822,891
+8922,"5883","1","Dino","","2012","Tower Takedown",1,136,17.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/5883-1.jpg",2699,948
+8921,"5884","1","Dino","","2012","Raptor Chase",2,259,24.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/5884-1.jpg",2417,1041
+8918,"5885","1","Dino","","2012","Triceratops Trapper",2,271,39.99,49.99,64.99,49.99,"https://images.brickset.com/sets/images/5885-1.jpg",2203,1217
+8920,"5886","1","Dino","","2012","T-Rex Hunter",2,480,49.99,69.99,89.99,69.99,"https://images.brickset.com/sets/images/5886-1.jpg",1816,1231
+8994,"5887","1","Dino","","2012","Dino Defense HQ",4,793,79.99,99.99,129.99,99.99,"https://images.brickset.com/sets/images/5887-1.jpg",1715,1406
+8919,"5888","1","Dino","","2012","Ocean Interceptor",2,222,29.99,34.99,44.99,34.99,"https://images.brickset.com/sets/images/5888-1.jpg",976,1096
+9236,"6132","1","Duplo","Cars","2012","Red",,13,12.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/6132-1.jpg",398,72
+9237,"6133","1","Duplo","Cars","2012","Race Day",,26,19.99,24.99,29.99,24.99,"https://images.brickset.com/sets/images/6133-1.jpg",217,58
+9238,"6134","1","Duplo","Cars","2012","Siddeley Saves The Day",,34,29.99,34.99,39.99,34.99,"https://images.brickset.com/sets/images/6134-1.jpg",278,70
+8996,"6141","1","Duplo","Farm","2012","My First Farm",1,62,19.99,24.99,24.99,,"https://images.brickset.com/sets/images/6141-1.jpg",299,62
+9268,"6143","1","Duplo","","2012","Racing Team",2,34,24.99,,,29.99,"https://images.brickset.com/sets/images/6143-1.jpg",216,52
+9269,"6144","1","Duplo","Zoo","2012","Zoo Train",1,12,,,,,"https://images.brickset.com/sets/images/6144-1.jpg",363,61
+9270,"6146","1","Duplo","","2012","Tow Truck",1,17,,,,,"https://images.brickset.com/sets/images/6146-1.jpg",190,41
+8997,"6151","1","Duplo","Disney Princess","2012","Sleeping Beauty's Room",1,16,9.99,12.99,14.99,12.99,"https://images.brickset.com/sets/images/6151-1.jpg",457,76
+8998,"6152","1","Duplo","Disney Princess","2012","Snow White's Cottage",1,28,12.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/6152-1.jpg",552,88
+9005,"6153","1","Duplo","Disney Princess","2012","Cinderella's Carriage",1,20,19.99,24.99,29.99,24.99,"https://images.brickset.com/sets/images/6153-1.jpg",685,89
+9000,"6154","1","Duplo","Disney Princess","2012","Cinderella's Castle",2,77,39.99,39.99,49.99,49.99,"https://images.brickset.com/sets/images/6154-1.jpg",520,93
+9122,"6156","1","Duplo","Zoo","2012","Photo Safari",3,67,49.99,59.99,74.99,59.99,"https://images.brickset.com/sets/images/6156-1.jpg",583,150
+9121,"6157","1","Duplo","Zoo","2012","The Big Zoo",4,147,79.99,89.99,119.99,99.99,"https://images.brickset.com/sets/images/6157-1.jpg",385,160
+9120,"6158","1","Duplo","Zoo","2012","Animal Clinic",2,62,29.99,39.99,49.99,39.99,"https://images.brickset.com/sets/images/6158-1.jpg",264,90
+8924,"6168","1","Duplo","Fire","2012","Fire Station",2,63,39.99,,,49.99,"https://images.brickset.com/sets/images/6168-1.jpg",362,111
+8925,"6169","1","Duplo","Fire","2012","Fire Chief",1,6,7.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/6169-1.jpg",693,60
+9271,"6171","1","Duplo","","2012","Gas Station",2,45,29.99,29.99,29.99,34.99,"https://images.brickset.com/sets/images/6171-1.jpg",214,59
+9080,"6172","1","Duplo","Zoo","2012","Zoo Truck",1,8,19.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/6172-1.jpg",506,68
+9081,"6173","1","Duplo","Zoo","2012","Panda",1,8,,7.99,9.99,7.99,"https://images.brickset.com/sets/images/6173-1.jpg",612,75
+8956,"6200","2","HERO Factory","","2012","Evo",,36,6.99,8.99,11.99,9.99,"https://images.brickset.com/sets/images/6200-2.jpg",1193,304
+8969,"6201","1","HERO Factory","","2012","Toxic Reapa",,42,6.99,8.99,11.99,9.99,"https://images.brickset.com/sets/images/6201-1.jpg",1162,332
+8954,"6202","1","HERO Factory","","2012","Rocka",,55,9.99,12.99,15.99,12.99,"https://images.brickset.com/sets/images/6202-1.jpg",1226,327
+8957,"6203","1","HERO Factory","","2012","Black Phantom",,124,14.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/6203-1.jpg",1081,425
+8959,"6216","1","HERO Factory","","2012","Jawblade",,45,6.99,8.99,11.99,9.99,"https://images.brickset.com/sets/images/6216-1.jpg",1087,327
+8955,"6217","1","HERO Factory","","2012","Surge",,39,6.99,8.99,11.99,9.99,"https://images.brickset.com/sets/images/6217-1.jpg",1122,308
+8960,"6218","1","HERO Factory","","2012","Splitface",,50,9.99,12.99,15.99,12.99,"https://images.brickset.com/sets/images/6218-1.jpg",981,331
+9171,"6221","1","HERO Factory","","2012","Nex",,39,6.99,8.99,11.99,9.99,"https://images.brickset.com/sets/images/6221-1.jpg",835,289
+9172,"6222","1","HERO Factory","","2012","Core Hunter",,51,9.99,12.99,15.99,12.99,"https://images.brickset.com/sets/images/6222-1.jpg",883,386
+9173,"6223","1","HERO Factory","","2012","Bulk",,61,9.99,12.99,15.99,12.99,"https://images.brickset.com/sets/images/6223-1.jpg",822,343
+9035,"6227","1","HERO Factory","","2012","Breez",,55,9.99,12.99,15.99,12.99,"https://images.brickset.com/sets/images/6227-1.jpg",821,351
+8958,"6228","1","HERO Factory","","2012","Thornraxx",,44,6.99,8.99,11.99,9.99,"https://images.brickset.com/sets/images/6228-1.jpg",854,346
+9174,"6229","1","HERO Factory","","2012","XT4",,39,6.99,8.99,11.99,9.99,"https://images.brickset.com/sets/images/6229-1.jpg",909,342
+9175,"6230","1","HERO Factory","","2012","Stormer XL",,89,14.99,24.99,29.99,29.99,"https://images.brickset.com/sets/images/6230-1.jpg",906,356
+9227,"6231","1","HERO Factory","","2012","Speeda Demon",,192,24.99,34.99,44.99,29.99,"https://images.brickset.com/sets/images/6231-1.jpg",661,402
+9176,"6282","1","HERO Factory","","2012","Stringer",,42,6.99,8.99,11.99,9.99,"https://images.brickset.com/sets/images/6282-1.jpg",954,351
+9177,"6283","1","HERO Factory","","2012","Voltix",,61,9.99,12.99,15.99,9.99,"https://images.brickset.com/sets/images/6283-1.jpg",896,305
+8953,"6293","1","HERO Factory","","2012","Furno",,56,9.99,12.99,15.99,12.99,"https://images.brickset.com/sets/images/6293-1.jpg",1005,332
+9231,"6758","1","Duplo","","2012","Grow Caterpillar Grow!",,17,9.99,12.99,15.99,14.99,"https://images.brickset.com/sets/images/6758-1.jpg",314,37
+9230,"6759","1","Duplo","","2012","Busy Farm",,15,9.99,12.99,15.99,7.49,"https://images.brickset.com/sets/images/6759-1.jpg",319,29
+9229,"6760","1","Duplo","","2012","Let's Go! Wroom!",,12,9.99,12.99,15.99,14.99,"https://images.brickset.com/sets/images/6760-1.jpg",246,30
+9003,"6784","1","Duplo","","2012","Creative Sorter",,23,17.99,14.99,19.99,24.99,"https://images.brickset.com/sets/images/6784-1.jpg",281,36
+9004,"6785","1","Duplo","","2012","Creative Cakes",,55,19.99,24.99,29.99,29.99,"https://images.brickset.com/sets/images/6785-1.jpg",428,77
+9142,"6857","1","DC Comics Super Heroes","Batman","2012","The Dynamic Duo Funhouse Escape",5,380,39.99,39.99,49.99,49.99,"https://images.brickset.com/sets/images/6857-1.jpg",6027,1990
+8977,"6858","1","DC Comics Super Heroes","Batman","2012","Catwoman Catcycle City Chase",2,89,11.99,12.99,15.99,14.99,"https://images.brickset.com/sets/images/6858-1.jpg",10063,1585
+8980,"6860","1","DC Comics Super Heroes","Batman","2012","The Batcave",5,690,69.99,69.99,89.99,79.99,"https://images.brickset.com/sets/images/6860-1.jpg",6087,2208
+8986,"6862","2","DC Comics Super Heroes","Superman","2012","Superman vs. Power Armor Lex",3,207,19.99,19.99,24.99,26.99,"https://images.brickset.com/sets/images/6862-2.jpg",10639,1403
+8978,"6863","1","DC Comics Super Heroes","Batman","2012","Batwing Battle Over Gotham City",3,278,34.99,34.99,44.99,39.99,"https://images.brickset.com/sets/images/6863-1.jpg",6153,1770
+8979,"6864","1","DC Comics Super Heroes","Batman","2012","Batmobile and the Two-Face Chase",5,531,49.99,49.99,64.99,59.99,"https://images.brickset.com/sets/images/6864-1.jpg",5695,2210
+8981,"6865","1","Marvel Super Heroes","Avengers","2012","Captain America's Avenging Cycle",3,72,11.99,12.99,15.99,14.99,"https://images.brickset.com/sets/images/6865-1.jpg",8466,1638
+8982,"6866","1","Marvel Super Heroes","Comics","2012","Wolverine's Chopper Showdown",3,199,19.99,19.99,24.99,26.99,"https://images.brickset.com/sets/images/6866-1.jpg",8488,2599
+8983,"6867","1","Marvel Super Heroes","Avengers","2012","Loki's Cosmic Cube Escape",3,181,19.99,19.99,24.99,26.99,"https://images.brickset.com/sets/images/6867-1.jpg",8331,2084
+8984,"6868","1","Marvel Super Heroes","Avengers","2012","Hulk's Helicarrier Breakout",4,389,49.99,49.99,64.99,59.99,"https://images.brickset.com/sets/images/6868-1.jpg",5857,2083
+8985,"6869","1","Marvel Super Heroes","Avengers","2012","Quinjet Aerial Battle",5,735,69.99,69.99,89.99,79.99,"https://images.brickset.com/sets/images/6869-1.jpg",6014,2367
+9225,"6873","1","Marvel Super Heroes","Ultimate Spider-Man","2012","Spider-Man's Doc Ock Ambush",3,295,34.99,29.99,39.99,39.99,"https://images.brickset.com/sets/images/6873-1.jpg",3906,1904
+8913,"6910","1","Creator","","2012","Mini Sports Car",,70,4.99,5.99,8.99,5.99,"https://images.brickset.com/sets/images/6910-1.jpg",2731,358
+8914,"6911","1","Creator","","2012","Mini Fire Truck",,69,4.99,5.99,8.99,5.99,"https://images.brickset.com/sets/images/6911-1.jpg",3464,407
+8912,"6912","1","Creator","","2012","Super Soarer",,130,9.99,14.99,17.99,9.99,"https://images.brickset.com/sets/images/6912-1.jpg",2610,413
+8911,"6913","1","Creator","","2012","Blue Roadster",,152,9.99,14.99,17.99,9.99,"https://images.brickset.com/sets/images/6913-1.jpg",4278,564
+8910,"6914","1","Creator","","2012","Prehistoric Hunters",,191,12.99,17.99,19.99,14.99,"https://images.brickset.com/sets/images/6914-1.jpg",1802,426
+8909,"7291","1","Creator","","2012","Street Rebel",,196,17.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/7291-1.jpg",1356,443
+8908,"7292","1","Creator","","2012","Propeller Adventures",,241,17.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/7292-1.jpg",2127,529
+9168,"7345","1","Creator","","2012","Transport Chopper",,383,24.99,34.99,44.99,29.99,"https://images.brickset.com/sets/images/7345-1.jpg",1655,583
+8973,"7346","1","Creator","","2012","Seaside House",1,415,34.99,49.99,59.99,39.99,"https://images.brickset.com/sets/images/7346-1.jpg",6753,2807
+9170,"7347","1","Creator","","2012","Highway Pickup",,805,59.99,79.99,99.99,59.99,"https://images.brickset.com/sets/images/7347-1.jpg",1905,943
+9036,"8827","0","Collectable Minifigures","Series 06","2012","LEGO Minifigures Series 6 {Random bag} ",,,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-0.jpg",1149,405
+9135,"8827","1","Collectable Minifigures","Series 06","2012","Classic Alien",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-1.jpg",7151,1469
+9138,"8827","2","Collectable Minifigures","Series 06","2012","Highland Battler",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-2.jpg",7657,1414
+9127,"8827","3","Collectable Minifigures","Series 06","2012","Sleepyhead",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-3.jpg",6848,1981
+9125,"8827","4","Collectable Minifigures","Series 06","2012","Lady Liberty",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-4.jpg",7568,2261
+9136,"8827","5","Collectable Minifigures","Series 06","2012","Bandit",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-5.jpg",7741,1657
+9124,"8827","6","Collectable Minifigures","Series 06","2012","Flamenco Dancer",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-6.jpg",6983,986
+9126,"8827","7","Collectable Minifigures","Series 06","2012","Clockwork Robot",1,5,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-7.jpg",6826,1809
+9137,"8827","8","Collectable Minifigures","Series 06","2012","Minotaur",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-8.jpg",8461,1672
+9133,"8827","9","Collectable Minifigures","Series 06","2012","Leprechaun",1,9,1.99,2.99,3.49,,"https://images.brickset.com/sets/images/8827-9.jpg",7388,1489
+9139,"8827","10","Collectable Minifigures","Series 06","2012","Roman Soldier",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-10.jpg",6478,2372
+9128,"8827","11","Collectable Minifigures","Series 06","2012","Surgeon",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-11.jpg",6581,1910
+9129,"8827","12","Collectable Minifigures","Series 06","2012","Skater Girl",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-12.jpg",6753,1165
+9132,"8827","13","Collectable Minifigures","Series 06","2012","Intergalactic Girl",1,9,1.99,2.99,3.49,2.49,"https://images.brickset.com/sets/images/8827-13.jpg",7068,1315
+9131,"8827","14","Collectable Minifigures","Series 06","2012","Butcher",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-14.jpg",6706,1750
+9130,"8827","15","Collectable Minifigures","Series 06","2012","Mechanic",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-15.jpg",7150,1478
+9134,"8827","16","Collectable Minifigures","Series 06","2012","Genie",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8827-16.jpg",7045,1688
+9617,"8827","17","Collectable Minifigures","Series 06","2012","LEGO Minifigures Series 6 - Complete",16,115,31.84,,,,"https://images.brickset.com/sets/images/8827-17.jpg",3189,522
+9624,"8827","18","Collectable Minifigures","Series 06","2012","LEGO Minifigures Series 6 - Sealed Box",,60,119.4,,,,"https://images.brickset.com/sets/images/8827-18.jpg",338,188
+9037,"8831","0","Collectable Minifigures","Series 07","2012","LEGO Minifigures Series 7 {Random bag} ",,,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-0.jpg",1016,506
+9523,"8831","1","Collectable Minifigures","Series 07","2012","Swimming Champion",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-1.jpg",5701,1098
+9526,"8831","2","Collectable Minifigures","Series 07","2012","Aztec Warrior",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-2.jpg",6750,1856
+9516,"8831","3","Collectable Minifigures","Series 07","2012","Bunny Suit Guy",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-3.jpg",6860,1939
+9528,"8831","4","Collectable Minifigures","Series 07","2012","Bride",1,11,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-4.jpg",5983,1434
+9519,"8831","5","Collectable Minifigures","Series 07","2012","Ocean King",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-5.jpg",6841,1709
+9521,"8831","6","Collectable Minifigures","Series 07","2012","Bagpiper",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-6.jpg",7450,1928
+9525,"8831","7","Collectable Minifigures","Series 07","2012","Daredevil",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-7.jpg",6600,1059
+9514,"8831","8","Collectable Minifigures","Series 07","2012","Galaxy Patrol",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-8.jpg",8161,1599
+9524,"8831","9","Collectable Minifigures","Series 07","2012","Tennis Ace",1,6,1.99,2.99,3.49,2.49,"https://images.brickset.com/sets/images/8831-9.jpg",6352,1051
+9522,"8831","10","Collectable Minifigures","Series 07","2012","Jungle Boy",1,7,1.99,2.99,3.49,,"https://images.brickset.com/sets/images/8831-10.jpg",7121,1079
+9515,"8831","11","Collectable Minifigures","Series 07","2012","Hippie",1,9,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-11.jpg",7123,1377
+9527,"8831","12","Collectable Minifigures","Series 07","2012","Computer Programmer",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-12.jpg",7380,1762
+9520,"8831","13","Collectable Minifigures","Series 07","2012","Viking Woman",1,10,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-13.jpg",6941,1284
+9529,"8831","14","Collectable Minifigures","Series 07","2012","Evil Knight",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-14.jpg",7599,1626
+9517,"8831","15","Collectable Minifigures","Series 07","2012","Rocker Girl",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-15.jpg",6032,1375
+9518,"8831","16","Collectable Minifigures","Series 07","2012","Grandma Visitor",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8831-16.jpg",6430,1496
+9618,"8831","17","Collectable Minifigures","Series 07","2012","LEGO Minifigures Series 7 - Complete",16,119,31.84,,,,"https://images.brickset.com/sets/images/8831-17.jpg",3144,545
+9625,"8831","18","Collectable Minifigures","Series 07","2012","LEGO Minifigures Series 7 - Sealed Box",,60,119.4,,,,"https://images.brickset.com/sets/images/8831-18.jpg",350,196
+9226,"8833","0","Collectable Minifigures","Series 08","2012","LEGO Minifigures Series 8 {Random bag} ",,,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-0.jpg",833,359
+9793,"8833","1","Collectable Minifigures","Series 08","2012","Evil Robot",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-1.jpg",6384,1260
+9792,"8833","2","Collectable Minifigures","Series 08","2012","Conquistador",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-2.jpg",6189,1733
+9803,"8833","3","Collectable Minifigures","Series 08","2012","Lederhosen Guy",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-3.jpg",5375,1551
+9805,"8833","4","Collectable Minifigures","Series 08","2012","Cowgirl",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-4.jpg",5663,1096
+9798,"8833","5","Collectable Minifigures","Series 08","2012","Football Player",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-5.jpg",5441,1316
+9795,"8833","6","Collectable Minifigures","Series 08","2012","Diver",1,8,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-6.jpg",5817,1744
+9800,"8833","7","Collectable Minifigures","Series 08","2012","Downhill Skier",1,9,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-7.jpg",4913,1188
+9799,"8833","8","Collectable Minifigures","Series 08","2012","Businessman",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-8.jpg",5180,1712
+9797,"8833","9","Collectable Minifigures","Series 08","2012","Fairy",1,8,1.99,2.99,3.49,2.49,"https://images.brickset.com/sets/images/8833-9.jpg",5224,1291
+9802,"8833","10","Collectable Minifigures","Series 08","2012","Santa",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-10.jpg",6686,1745
+9796,"8833","11","Collectable Minifigures","Series 08","2012","Vampire Bat",1,5,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-11.jpg",5965,1517
+9804,"8833","12","Collectable Minifigures","Series 08","2012","DJ",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-12.jpg",6387,1496
+9801,"8833","13","Collectable Minifigures","Series 08","2012","Red Cheerleader",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-13.jpg",5497,1149
+9790,"8833","14","Collectable Minifigures","Series 08","2012","Actor",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-14.jpg",5532,1686
+9791,"8833","15","Collectable Minifigures","Series 08","2012","Pirate Captain",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-15.jpg",6396,1503
+9794,"8833","16","Collectable Minifigures","Series 08","2012","Alien Villainess",1,9,1.99,2.99,,,"https://images.brickset.com/sets/images/8833-16.jpg",5410,1350
+9872,"8833","17","Collectable Minifigures","Series 08","2012","LEGO Minifigures Series 8 - Complete ",16,116,31.84,,,,"https://images.brickset.com/sets/images/8833-17.jpg",2680,531
+9730,"8833","18","Collectable Minifigures","Series 08","2012","LEGO Minifigures Series 8 - Sealed Box",,,,,,,"https://images.brickset.com/sets/images/8833-18.jpg",294,204
+9666,"8909","0","Collectable Minifigures","Team GB","2012","Team GB Minifigures {Random bag}",,,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-0.jpg",486,460
+9675,"8909","1","Collectable Minifigures","Team GB","2012","Agile Archer",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-1.jpg",2065,1163
+9667,"8909","2","Collectable Minifigures","Team GB","2012","Brawny Boxer",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-2.jpg",1979,1350
+9672,"8909","3","Collectable Minifigures","Team GB","2012","Flexible Gymnast",1,9,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-3.jpg",2037,1108
+9670,"8909","4","Collectable Minifigures","Team GB","2012","Judo Fighter",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-4.jpg",1975,1229
+9671,"8909","5","Collectable Minifigures","Team GB","2012","Tactical Tennis Player",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-5.jpg",2001,1086
+9673,"8909","6","Collectable Minifigures","Team GB","2012","Wondrous Weightlifter",1,9,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-6.jpg",1893,1183
+9669,"8909","7","Collectable Minifigures","Team GB","2012","Relay Runner",1,7,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-7.jpg",2017,1085
+9668,"8909","8","Collectable Minifigures","Team GB","2012","Stealth Swimmer",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-8.jpg",1981,1143
+9674,"8909","9","Collectable Minifigures","Team GB","2012","Horseback rider",1,6,1.99,2.99,,,"https://images.brickset.com/sets/images/8909-9.jpg",1928,1131
+9747,"8909","17","Collectable Minifigures","Team GB","2012","Team GB Minifigures - Complete Set",9,63,,,,,"https://images.brickset.com/sets/images/8909-17.jpg",1776,851
+9778,"8909","18","Collectable Minifigures","Team GB","2012","Team GB Minifigures - Sealed Box",,60,117,,,,"https://images.brickset.com/sets/images/8909-18.jpg",123,279
+8949,"9092","1","Racers","","2012","Crazy Demon",1,86,7.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9092-1.jpg",814,201
+8950,"9093","1","Racers","","2012","Bone Cruncher",1,87,7.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9093-1.jpg",847,185
+8951,"9094","1","Racers","","2012","Star Striker",1,88,7.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9094-1.jpg",836,190
+8952,"9095","1","Racers","","2012","Nitro Predator",1,87,7.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9095-1.jpg",840,195
+9301,"9209","1","Education","Duplo","2012","Community Services Set",12,130,,,,,"https://images.brickset.com/sets/images/9209-1.jpg",11,54
+9302,"9218","1","Education","Duplo","2012","Wild Animals Set",,98,,,,,"https://images.brickset.com/sets/images/9218-1.jpg",34,82
+9280,"9388","1","Education","","2012","Small building plates",,22,,,,,"https://images.brickset.com/sets/images/9388-1.jpg",135,151
+9281,"9389","1","Education","","2012","Community Starter Set",,1907,,,,,"https://images.brickset.com/sets/images/9389-1.jpg",20,203
+8879,"9390","1","Technic","","2012","Mini Tow Truck",,136,6.99,11.99,14.99,9.99,"https://images.brickset.com/sets/images/9390-1.jpg",2566,430
+8881,"9391","1","Technic","","2012","Tracked Crane",,218,14.99,19.99,24.99,14.99,"https://images.brickset.com/sets/images/9391-1.jpg",2711,590
+8880,"9392","1","Technic","","2012","Quad Bike",,199,17.99,24.99,29.99,19.99,"https://images.brickset.com/sets/images/9392-1.jpg",3060,689
+9222,"9393","1","Technic","","2012","Tractor",,353,24.99,39.99,49.99,29.99,"https://images.brickset.com/sets/images/9393-1.jpg",1950,629
+8878,"9394","1","Technic","","2012","Jet Plane",,499,29.99,49.99,64.99,39.99,"https://images.brickset.com/sets/images/9394-1.jpg",2228,651
+8877,"9395","1","Technic","","2012","Pick-Up Tow Truck",,954,49.99,69.99,89.99,59.99,"https://images.brickset.com/sets/images/9395-1.jpg",2918,939
+9166,"9396","1","Technic","","2012","Helicopter",,1056,69.99,119.99,149.99,89.99,"https://images.brickset.com/sets/images/9396-1.jpg",3966,1421
+9038,"9397","1","Technic","","2012","Logging Truck",,1308,99.99,139.99,179.99,119.99,"https://images.brickset.com/sets/images/9397-1.jpg",2830,1861
+9167,"9398","1","Technic","","2012","4x4 Crawler",,1327,139.99,199.99,249.99,169.99,"https://images.brickset.com/sets/images/9398-1.jpg",6172,2049
+8871,"9440","1","Ninjago","Rise of the Snakes","2012","Venomari Shrine",1,86,5.99,6.99,9.99,7.99,"https://images.brickset.com/sets/images/9440-1.jpg",5217,711
+8873,"9441","1","Ninjago","Rise of the Snakes","2012","Kai's Blade Cycle",2,188,12.99,14.99,17.99,14.99,"https://images.brickset.com/sets/images/9441-1.jpg",4289,860
+8872,"9442","1","Ninjago","Rise of the Snakes","2012","Jay's Storm Fighter",2,242,19.99,24.99,29.99,19.99,"https://images.brickset.com/sets/images/9442-1.jpg",3567,965
+8870,"9443","1","Ninjago","Rise of the Snakes","2012","Rattlecopter",3,327,24.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/9443-1.jpg",2779,896
+8874,"9444","1","Ninjago","Rise of the Snakes","2012","Cole's Tread Assault",2,286,29.99,39.99,49.99,34.99,"https://images.brickset.com/sets/images/9444-1.jpg",2487,1030
+8875,"9445","1","Ninjago","Rise of the Snakes","2012","Fangpyre Truck Ambush",4,452,39.99,49.99,64.99,49.99,"https://images.brickset.com/sets/images/9445-1.jpg",1943,980
+8876,"9446","1","Ninjago","Rise of the Snakes","2012","Destiny's Bounty",6,680,59.99,79.99,99.99,79.99,"https://images.brickset.com/sets/images/9446-1.jpg",2060,1405
+9228,"9447","1","Ninjago","Search for the Fang Blades","2012","Lasha's Bite Cycle",2,250,19.99,24.99,29.99,19.99,"https://images.brickset.com/sets/images/9447-1.jpg",1989,746
+9178,"9448","1","Ninjago","Search for the Fang Blades","2012","Samurai Mech",3,452,29.99,39.99,49.99,39.99,"https://images.brickset.com/sets/images/9448-1.jpg",3371,1295
+9179,"9449","1","Ninjago","Search for the Fang Blades","2012","Ultra Sonic Raider",6,622,59.99,79.99,99.99,79.99,"https://images.brickset.com/sets/images/9449-1.jpg",2258,1170
+9180,"9450","1","Ninjago","Search for the Fang Blades","2012","Epic Dragon Battle",7,915,89.99,119.99,129.99,119.99,"https://images.brickset.com/sets/images/9450-1.jpg",2539,1332
+9149,"9455","1","Ninjago","Rise of the Snakes","2012","Fangpyre Mech",2,255,19.99,24.99,29.99,24.99,"https://images.brickset.com/sets/images/9455-1.jpg",1044,909
+9150,"9456","1","Ninjago","Spinners","2012","Spinner Battle Arena",2,418,34.99,39.99,49.99,39.99,"https://images.brickset.com/sets/images/9456-1.jpg",523,618
+9151,"9457","1","Ninjago","Rise of the Snakes","2012","Fangpyre Wrecking Ball",3,415,49.99,49.99,64.99,49.99,"https://images.brickset.com/sets/images/9457-1.jpg",745,1020
+9159,"9461","1","Monster Fighters","","2012","The Swamp Creature",2,70,4.99,6.99,9.99,7.99,"https://images.brickset.com/sets/images/9461-1.jpg",7834,1095
+9160,"9462","1","Monster Fighters","","2012","The Mummy",2,90,8.99,11.99,14.99,9.99,"https://images.brickset.com/sets/images/9462-1.jpg",6953,1093
+9161,"9463","1","Monster Fighters","","2012","The Werewolf",2,243,17.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/9463-1.jpg",6640,1354
+9162,"9464","1","Monster Fighters","","2012","The Vampyre Hearse",3,314,24.99,34.99,44.99,29.99,"https://images.brickset.com/sets/images/9464-1.jpg",5826,1524
+9263,"9465","1","Monster Fighters","","2012","The Zombies",4,447,34.99,39.99,49.99,39.99,"https://images.brickset.com/sets/images/9465-1.jpg",2596,2432
+9163,"9466","1","Monster Fighters","","2012","The Crazy Scientist & His Monster",4,430,39.99,49.99,64.99,49.99,"https://images.brickset.com/sets/images/9466-1.jpg",4646,1615
+9164,"9467","1","Monster Fighters","","2012","The Ghost Train",5,741,59.99,79.99,99.99,79.99,"https://images.brickset.com/sets/images/9467-1.jpg",4987,1903
+9165,"9468","1","Monster Fighters","","2012","Vampyre Castle",7,949,79.99,99.99,129.99,99.99,"https://images.brickset.com/sets/images/9468-1.jpg",5308,2506
+9181,"9469","1","The Lord of the Rings","The Fellowship of the Ring","2012","Gandalf Arrives",2,83,11.99,12.99,15.99,14.99,"https://images.brickset.com/sets/images/9469-1.jpg",11164,2022
+9182,"9470","1","The Lord of the Rings","The Return of the King","2012","Shelob Attacks",3,227,19.99,19.99,24.99,26.99,"https://images.brickset.com/sets/images/9470-1.jpg",9209,1877
+9183,"9471","1","The Lord of the Rings","The Two Towers","2012","Uruk-Hai Army",6,257,29.99,29.99,39.99,39.99,"https://images.brickset.com/sets/images/9471-1.jpg",8052,2317
+9184,"9472","1","The Lord of the Rings","The Fellowship of the Ring","2012","Attack On Weathertop",5,430,49.99,59.99,74.99,59.99,"https://images.brickset.com/sets/images/9472-1.jpg",7296,2556
+9185,"9473","1","The Lord of the Rings","The Fellowship of the Ring","2012","The Mines of Moria",9,776,69.99,79.99,99.99,79.99,"https://images.brickset.com/sets/images/9473-1.jpg",7525,2562
+9186,"9474","1","The Lord of the Rings","The Two Towers","2012","The Battle of Helm's Deep",8,1368,99.99,129.99,169.99,139.99,"https://images.brickset.com/sets/images/9474-1.jpg",7117,3230
+9264,"9476","1","The Lord of the Rings","The Fellowship of the Ring","2012","The Orc Forge",4,366,39.99,39.99,49.99,49.99,"https://images.brickset.com/sets/images/9476-1.jpg",5559,2451
+8947,"9478","1","Cars","Cars 2","2012","Francesco Bernoulli",,49,4.99,6.99,9.99,7.99,"https://images.brickset.com/sets/images/9478-1.jpg",1412,343
+8948,"9479","1","Cars","Cars 2","2012","Ivan Mater",,52,4.99,6.99,9.99,7.99,"https://images.brickset.com/sets/images/9479-1.jpg",1323,374
+8944,"9480","1","Cars","Cars 2","2012","Finn McMissile",,52,4.99,6.99,9.99,7.99,"https://images.brickset.com/sets/images/9480-1.jpg",1424,370
+8945,"9481","1","Cars","Cars 2","2012","Jeff Gorvette",,54,4.99,6.99,9.99,7.99,"https://images.brickset.com/sets/images/9481-1.jpg",1443,353
+8943,"9483","1","Cars","Cars 2","2012","Agent Mater's Escape",,144,14.99,14.99,17.99,17.99,"https://images.brickset.com/sets/images/9483-1.jpg",998,375
+8942,"9484","1","Cars","Cars 2","2012","Red's Water Rescue",,199,19.99,19.99,24.99,24.99,"https://images.brickset.com/sets/images/9484-1.jpg",995,435
+8946,"9485","1","Cars","Cars 2","2012","Ultimate Race Set",,280,24.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/9485-1.jpg",752,424
+8941,"9486","1","Cars","Cars 2","2012","Oil Rig Escape",,422,49.99,49.99,64.99,59.99,"https://images.brickset.com/sets/images/9486-1.jpg",862,529
+8883,"9488","1","Star Wars","The Clone Wars","2012","Elite Clone Trooper & Commando Droid Battle Pack",4,98,11.99,12.99,15.99,16.99,"https://images.brickset.com/sets/images/9488-1.jpg",11112,1874
+8885,"9489","1","Star Wars","Episode VI","2012","Endor Rebel Trooper & Imperial Trooper Battle Pack",4,77,11.99,12.99,15.99,16.99,"https://images.brickset.com/sets/images/9489-1.jpg",11725,2405
+8887,"9490","1","Star Wars","Episode IV","2012","Droid Escape",4,137,19.99,19.99,24.99,26.99,"https://images.brickset.com/sets/images/9490-1.jpg",11965,2476
+8886,"9491","1","Star Wars","The Clone Wars","2012","Geonosian Cannon",4,132,19.99,19.99,24.99,26.99,"https://images.brickset.com/sets/images/9491-1.jpg",8437,1713
+8797,"9492","1","Star Wars","Episode IV","2012","TIE Fighter",4,413,49.99,54.99,69.99,49.99,"https://images.brickset.com/sets/images/9492-1.jpg",10773,3872
+8882,"9493","1","Star Wars","Episode IV","2012","X-wing Starfighter",4,560,49.99,59.99,74.99,69.99,"https://images.brickset.com/sets/images/9493-1.jpg",12282,3836
+9077,"9494","1","Star Wars","Episode III","2012","Anakin's Jedi Interceptor",5,300,34.99,39.99,49.99,39.99,"https://images.brickset.com/sets/images/9494-1.jpg",6017,2979
+9079,"9495","1","Star Wars","Episode IV","2012","Gold Leader's Y-wing Starfighter",3,458,49.99,49.99,64.99,49.99,"https://images.brickset.com/sets/images/9495-1.jpg",6174,3546
+9206,"9496","1","Star Wars","Episode VI","2012","Desert Skiff",4,213,24.99,24.99,29.99,29.99,"https://images.brickset.com/sets/images/9496-1.jpg",12631,2651
+9207,"9497","1","Star Wars","The Old Republic","2012","Republic Striker-class Starfighter",3,376,39.99,44.99,49.99,49.99,"https://images.brickset.com/sets/images/9497-1.jpg",5611,2504
+9204,"9498","1","Star Wars","The Clone Wars","2012","Saesee Tiin's Jedi Starfighter",3,244,29.99,29.99,39.99,39.99,"https://images.brickset.com/sets/images/9498-1.jpg",6182,2248
+9202,"9499","1","Star Wars","Episode I","2012","Gungan Sub",4,465,54.99,69.99,89.99,69.99,"https://images.brickset.com/sets/images/9499-1.jpg",5019,2828
+9205,"9500","1","Star Wars","The Old Republic","2012","Sith Fury-class Interceptor",3,741,79.99,89.99,119.99,99.99,"https://images.brickset.com/sets/images/9500-1.jpg",5952,3715
+9208,"9509","1","Star Wars","Seasonal","2012","Star Wars Advent Calendar",10,234,24.99,49.99,49.99,29.99,"https://images.brickset.com/sets/images/9509-1.jpg",7057,1421
+9201,"9515","1","Star Wars","The Clone Wars","2012","Malevolence",6,1092,99.99,119.99,149.99,119.99,"https://images.brickset.com/sets/images/9515-1.jpg",4147,3351
+9203,"9516","1","Star Wars","Episode VI","2012","Jabba's Palace",9,717,119.99,119.99,149.99,139.99,"https://images.brickset.com/sets/images/9516-1.jpg",9536,4269
+9265,"9525","1","Star Wars","The Clone Wars","2012","Pre Vizsla's Mandalorian Fighter",3,403,49.99,49.99,59.99,49.99,"https://images.brickset.com/sets/images/9525-1.jpg",4170,2823
+9266,"9526","1","Star Wars","Episode III","2012","Palpatine's Arrest",6,645,59.99,89.99,119.99,89.99,"https://images.brickset.com/sets/images/9526-1.jpg",3963,3568
+8866,"9551","1","Ninjago","Booster pack","2012","Kendo Cole",1,28,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/9551-1.jpg",2076,496
+8867,"9552","1","Ninjago","Booster pack","2012","Lloyd Garmadon",1,21,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/9552-1.jpg",2053,485
+8865,"9553","1","Ninjago","Booster pack","2012","Jay ZX",1,28,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/9553-1.jpg",2406,474
+9233,"9554","1","Ninjago","Booster pack","2012","Zane ZX",1,37,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/9554-1.jpg",952,523
+9232,"9555","1","Ninjago","Booster pack","2012","Mezmo",1,32,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/9555-1.jpg",1061,509
+9235,"9556","1","Ninjago","Booster pack","2012","Bytar",1,25,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/9556-1.jpg",1347,445
+9234,"9557","1","Ninjago","Booster pack","2012","Lizaru",1,17,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/9557-1.jpg",1463,465
+8860,"9558","1","Ninjago","Spinners","2012","Training Set",1,219,14.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/9558-1.jpg",1502,614
+8868,"9561","1","Ninjago","Spinners","2012","Kai ZX",1,21,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9561-1.jpg",937,585
+8862,"9562","1","Ninjago","Spinners","2012","Lasha",1,21,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9562-1.jpg",1197,498
+8863,"9563","1","Ninjago","Spinners","2012","Kendo Zane",1,22,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9563-1.jpg",877,548
+8861,"9564","1","Ninjago","Spinners","2012","Snappa",1,20,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9564-1.jpg",857,486
+8864,"9566","1","Ninjago","Spinners","2012","Samurai X",1,23,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9566-1.jpg",1359,572
+8869,"9567","1","Ninjago","Spinners","2012","Fang-Suei",1,19,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9567-1.jpg",811,498
+9193,"9569","1","Ninjago","Spinners","2012","Spitta",1,20,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9569-1.jpg",992,453
+9194,"9570","1","Ninjago","Spinners","2012","NRG Jay",1,20,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9570-1.jpg",828,668
+9195,"9571","1","Ninjago","Spinners","2012","Fangdam",1,20,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9571-1.jpg",597,482
+9196,"9572","1","Ninjago","Spinners","2012","NRG Cole",1,20,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9572-1.jpg",1239,553
+9197,"9573","1","Ninjago","Spinners","2012","Slithraa",1,20,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9573-1.jpg",780,487
+9198,"9574","1","Ninjago","Spinners","2012","Lloyd ZX",1,23,7.49,9.99,12.99,,"https://images.brickset.com/sets/images/9574-1.jpg",1384,666
+8859,"9579","1","Ninjago","Spinners","2012","Starter Set",2,62,12.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/9579-1.jpg",1077,489
+9303,"9585","1","Education","","2012","WeDo Resource Set",,326,,,,,"https://images.brickset.com/sets/images/9585-1.jpg",86,85
+9199,"9590","1","Ninjago","Spinners","2012","NRG Zane",1,23,7.49,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9590-1.jpg",1031,614
+9200,"9591","1","Ninjago","Spinners","2012","Weapon Pack",2,73,12.99,19.99,24.99,19.99,"https://images.brickset.com/sets/images/9591-1.jpg",1091,548
+22473,"9657","1","Miscellaneous","FIRST LEGO League","2012","FIRST LEGO League Challenge 2012 - Senior Solutions",,1615,,,,,42,45
+8962,"9674","1","Star Wars","Planet Set","2012","Naboo Starfighter & Naboo",1,56,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9674-1.jpg",8634,1340
+8964,"9675","1","Star Wars","Planet Set","2012","Sebulba's Podracer & Tatooine",1,80,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9675-1.jpg",8974,1361
+8963,"9676","1","Star Wars","Planet Set","2012","TIE Interceptor & Death Star",1,65,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9676-1.jpg",10519,1653
+9092,"9677","1","Star Wars","Planet Set","2012","X-wing Starfighter & Yavin 4",1,77,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9677-1.jpg",7794,1753
+9093,"9678","1","Star Wars","Planet Set","2012","Twin-Pod Cloud Car & Bespin",1,78,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9678-1.jpg",8577,1423
+9094,"9679","1","Star Wars","Planet Set","2012","AT-ST & Endor",1,65,9.99,9.99,12.99,9.99,"https://images.brickset.com/sets/images/9679-1.jpg",8330,1746
+9304,"9689","1","Education","Technic","2012","Simple Machines Set",,204,,,,,"https://images.brickset.com/sets/images/9689-1.jpg",63,118
+9022,"10223","1","Castle","Kingdoms","2012","Kingdoms Joust",9,1575,99.99,119.99,149.99,119.99,"https://images.brickset.com/sets/images/10223-1.jpg",3970,2706
+9283,"10224","1","Advanced Models","Modular Buildings","2012","Town Hall",8,2766,149.99,199.99,249.99,179.99,"https://images.brickset.com/sets/images/10224-1.jpg",10781,6801
+9286,"10225","1","Star Wars","Ultimate Collector Series","2012","R2-D2",1,2127,149.99,179.99,229.99,179.99,"https://images.brickset.com/sets/images/10225-1.jpg",7769,4509
+9287,"10226","1","Advanced Models","Aircraft","2012","Sopwith Camel",,883,79.99,99.99,129.99,89.99,"https://images.brickset.com/sets/images/10226-1.jpg",5019,2406
+9288,"10227","1","Star Wars","Ultimate Collector Series","2012","B-Wing Starfighter",,1487,169.99,199.99,249.99,199.99,"https://images.brickset.com/sets/images/10227-1.jpg",4489,4514
+9358,"10228","1","Monster Fighters","","2012","Haunted House",6,2064,149.99,179.99,199.99,179.99,"https://images.brickset.com/sets/images/10228-1.jpg",7666,4608
+9771,"10229","1","Advanced Models","Winter Village","2012","Winter Village Cottage",8,1490,89.99,99.99,129.99,99.99,"https://images.brickset.com/sets/images/10229-1.jpg",7331,3787
+9006,"10230","1","Advanced Models","","2012","Mini Modulars",,1356,59.99,79.99,99.99,69.99,"https://images.brickset.com/sets/images/10230-1.jpg",4519,2838
+9746,"10531","1","Duplo","Disney","2012","Mickey Mouse and Friends",,65,,34.99,39.99,34.99,"https://images.brickset.com/sets/images/10531-1.jpg",157,54
+8745,"20204","1","Master Builder Academy","","2012","Creature Designer",,232,,,,,"https://images.brickset.com/sets/images/20204-1.jpg",547,404
+8746,"20205","1","Master Builder Academy","","2012","Auto Designer",,188,,,,,"https://images.brickset.com/sets/images/20205-1.jpg",530,381
+9423,"20206","1","Master Builder Academy","","2012","The Lost Village",1,229,,,,,"https://images.brickset.com/sets/images/20206-1.jpg",404,662
+9424,"20207","1","Master Builder Academy","","2012","The Forbidden Bridge",,220,,,,,"https://images.brickset.com/sets/images/20207-1.jpg",348,622
+9425,"20208","1","Master Builder Academy","","2012","The Dark Lair",,183,,,,,"https://images.brickset.com/sets/images/20208-1.jpg",334,561
+9284,"21012","1","Architecture","Architect Series","2012","Sydney Opera House",,270,34.99,39.99,49.99,24.99,"https://images.brickset.com/sets/images/21012-1.jpg",2880,1644
+9346,"21013","1","Architecture","Landmark Series","2012","Big Ben",,346,24.99,29.99,39.99,29.99,"https://images.brickset.com/sets/images/21013-1.jpg",5846,1562
+9363,"21014","1","Architecture","Architect Series","2012","Villa Savoye",,660,59.99,69.99,89.99,69.99,"https://images.brickset.com/sets/images/21014-1.jpg",2572,1570
+9347,"21016","1","Architecture","Landmark Series","2012","Sungnyemun",,325,29.99,34.99,44.99,34.99,"https://images.brickset.com/sets/images/21016-1.jpg",1499,1798
+9285,"21101","1","Ideas","Licensed","2012","Hayabusa",1,369,44.99,49.99,59.99,49.99,"https://images.brickset.com/sets/images/21101-1.jpg",1002,1344
+9342,"21102","1","Ideas","Licensed","2012","Minecraft Micro World: The Forest",2,480,34.99,34.99,44.99,34.99,"https://images.brickset.com/sets/images/21102-1.jpg",3972,1002
+9779,"21201","1","Life of George","","2012","Life Of George 2",,146,29.99,29.99,34.99,26.99,"https://images.brickset.com/sets/images/21201-1.jpg",453,96
+9244,"30017","1","City","Forest Police","2012","Police Boat",1,35,,3.99,,,"https://images.brickset.com/sets/images/30017-1.jpg",2865,711
+9246,"30018","1","City","Forest Police","2012","Police Microlight",1,32,,3.99,,,"https://images.brickset.com/sets/images/30018-1.jpg",2122,681
+9250,"30019","1","City","Forest Fire","2012","Fire Helicopter",1,37,,,,,"https://images.brickset.com/sets/images/30019-1.jpg",1149,766
+9219,"30056","1","Star Wars","Mini Building Set","2012","Star Destroyer",,38,,,,,"https://images.brickset.com/sets/images/30056-1.jpg",3724,1042
+9253,"30057","1","Star Wars","Episode I","2012","Anakin's Pod Racer",,38,4.99,4.99,,,"https://images.brickset.com/sets/images/30057-1.jpg",1885,951
+9220,"30058","1","Star Wars","Episode I","2012","STAP",1,24,,,,,"https://images.brickset.com/sets/images/30058-1.jpg",1470,1238
+9260,"30059","1","Star Wars","The Clone Wars","2012","MTT",,51,,3.97,,,"https://images.brickset.com/sets/images/30059-1.jpg",1194,1075
+9662,"30063","0","Duplo","","2012","Vet {Random Bag}",,4,,,,,"https://images.brickset.com/sets/images/30063-1.jpg",100,33
+24363,"30063","2","Duplo","","2012","Vet - Vet",,,,,,,"https://images.brickset.com/sets/images/30063-2.jpg",17,14
+24364,"30063","3","Duplo","","2012","Vet - Boy",,,,,,,"https://images.brickset.com/sets/images/30063-3.jpg",15,14
+24365,"30063","4","Duplo","","2012","Vet - Rabbit",,,,,,,"https://images.brickset.com/sets/images/30063-4.jpg",20,13
+24366,"30063","5","Duplo","","2012","Vet - Dog",,,,,,,"https://images.brickset.com/sets/images/30063-5.jpg",23,14
+24367,"30063","6","Duplo","","2012","Vet - Cat",,,,,,,"https://images.brickset.com/sets/images/30063-6.jpg",18,15
+9274,"30064","0","Duplo","","2012","Zoo {Random Bag}",,4,,,,,"https://images.brickset.com/sets/images/30064-1.jpg",78,41
+24368,"30064","2","Duplo","","2012","Zoo - Monkey",,,,,,,"https://images.brickset.com/sets/images/30064-2.jpg",25,14
+24369,"30064","3","Duplo","","2012","Zoo - Zookeeper",,,,,,,"https://images.brickset.com/sets/images/30064-3.jpg",26,13
+24370,"30064","4","Duplo","","2012","Zoo - Tiger Cub",,,,,,,"https://images.brickset.com/sets/images/30064-4.jpg",28,14
+24371,"30064","5","Duplo","","2012","Zoo - Turtle",,,,,,,"https://images.brickset.com/sets/images/30064-5.jpg",27,13
+9095,"30085","1","Ninjago","Rise of the Snakes","2012","Jumping Snakes",1,42,,,,,"https://images.brickset.com/sets/images/30085-1.jpg",1794,572
+9096,"30086","1","Ninjago","Rise of the Snakes","2012","Hidden Sword",1,39,,,,,"https://images.brickset.com/sets/images/30086-1.jpg",2146,585
+9097,"30087","1","Ninjago","Rise of the Snakes","2012","Car",1,27,,,,,"https://images.brickset.com/sets/images/30087-1.jpg",1763,522
+9275,"30088","1","Ninjago","Promotional","2012","Rattla",1,5,,,,,"https://images.brickset.com/sets/images/30088-1.jpg",285,512
+9245,"30100","1","Friends","Promotional","2012","Beach",1,23,,,,,"https://images.brickset.com/sets/images/30100-1.jpg",649,836
+9248,"30101","1","Friends","Promotional","2012","Skateboarder",1,28,,4.99,,,"https://images.brickset.com/sets/images/30101-1.jpg",1260,684
+9252,"30102","1","Friends","Promotional","2012","Desk",1,26,,3.97,,,"https://images.brickset.com/sets/images/30102-1.jpg",2155,612
+9249,"30103","1","Friends","Promotional","2012","Car",1,32,,3.97,,,"https://images.brickset.com/sets/images/30103-1.jpg",1334,725
+9251,"30105","1","Friends","Promotional","2012","Mailbox",1,41,,3.99,,,"https://images.brickset.com/sets/images/30105-1.jpg",2168,591
+9247,"30150","1","City","Traffic","2012","Racing Car",1,37,,4.99,,,"https://images.brickset.com/sets/images/30150-1.jpg",2213,673
+9700,"30151","1","City","Mining","2012","Mining Dozer",1,32,,3.99,,,"https://images.brickset.com/sets/images/30151-1.jpg",2609,1038
+9660,"30152","1","City","Mining","2012","Mining Quad",1,40,,4.99,,,"https://images.brickset.com/sets/images/30152-1.jpg",3823,946
+9255,"30160","1","DC Comics Super Heroes","Batman","2012","Batman Jetski",1,40,,4.99,,,"https://images.brickset.com/sets/images/30160-1.jpg",3913,1329
+9256,"30161","1","DC Comics Super Heroes","Batman","2012","Batmobile",,45,,4,,,"https://images.brickset.com/sets/images/30161-1.jpg",3825,1034
+9636,"30162","1","Marvel Super Heroes","Avengers","2012","Quinjet",,33,,,,,"https://images.brickset.com/sets/images/30162-1.jpg",2091,1054
+9637,"30163","1","Marvel Super Heroes","Avengers","2012","Thor and the Cosmic Cube",1,25,,4.99,,,"https://images.brickset.com/sets/images/30163-1.jpg",3695,1407
+9513,"30164","1","DC Comics Super Heroes","Superman","2012","Lex Luthor",1,14,,,,,"https://images.brickset.com/sets/images/30164-1.jpg",2536,1683
+9638,"30165","1","Marvel Super Heroes","Avengers","2012","Hawkeye with equipment",1,24,,,,,"https://images.brickset.com/sets/images/30165-1.jpg",3034,1446
+9254,"30170","1","Games","Heroica","2012","Ganrash",2,55,,,,,"https://images.brickset.com/sets/images/30170-1.jpg",209,640
+9257,"30180","1","Creator","","2012","Aircraft",,45,,,,,"https://images.brickset.com/sets/images/30180-1.jpg",174,378
+9258,"30181","1","Creator","","2012","Helicopter",,53,,,,,"https://images.brickset.com/sets/images/30181-1.jpg",444,361
+9259,"30182","1","Creator","Seasonal","2012","Santa",,57,,,,,"https://images.brickset.com/sets/images/30182-1.jpg",504,561
+9693,"30190","1","Racers","Ferrari","2012","Ferrari 150   Italia",,33,,,,,"https://images.brickset.com/sets/images/30190-1.jpg",3291,349
+9702,"30191","1","Racers","Ferrari","2012","Scuderia Ferrari Truck",,41,,,,,"https://images.brickset.com/sets/images/30191-1.jpg",3247,354
+9692,"30192","1","Racers","Ferrari","2012","F40",,48,,,,,"https://images.brickset.com/sets/images/30192-1.jpg",3147,372
+9688,"30193","1","Racers","Ferrari","2012","250 GT Berlinetta",,25,,,,,"https://images.brickset.com/sets/images/30193-1.jpg",3258,373
+9689,"30194","1","Racers","Ferrari","2012","458 Italia",,33,,,,,"https://images.brickset.com/sets/images/30194-1.jpg",3247,387
+9696,"30195","1","Racers","Ferrari","2012","FXX",,51,,,,,"https://images.brickset.com/sets/images/30195-1.jpg",3228,389
+9823,"30196","1","Racers","Ferrari","2012","Ferrari pit crew",3,34,,,,,"https://images.brickset.com/sets/images/30196-1.jpg",1870,513
+9705,"30200","1","Monster Fighters","Promotional","2012","Zombie chauffeur coffin car",1,32,,3.5,,,"https://images.brickset.com/sets/images/30200-1.jpg",3533,1307
+9658,"30201","1","Monster Fighters","Promotional","2012","Ghost",1,33,,3.5,,,"https://images.brickset.com/sets/images/30201-1.jpg",3282,1892
+9695,"30210","1","The Lord of the Rings","The Fellowship of the Ring","2012","Frodo with cooking corner",1,33,,3.99,,,"https://images.brickset.com/sets/images/30210-1.jpg",4580,1512
+9704,"30211","1","The Lord of the Rings","The Two Towers","2012","Uruk-Hai with ballista",1,21,,4,,,"https://images.brickset.com/sets/images/30211-1.jpg",3255,1732
+10157,"30212","1","The Hobbit","An Unexpected Journey","2012","Mirkwood Elf Guard",1,27,,4.99,,,"https://images.brickset.com/sets/images/30212-1.jpg",2653,1783
+10167,"30213","1","The Hobbit","An Unexpected Journey","2012","Gandalf at Dol Guldur",1,31,,4.99,,,"https://images.brickset.com/sets/images/30213-1.jpg",4645,1284
+9276,"40025","1","Creator","","2012","New York Taxi",,44,,4.99,,,"https://images.brickset.com/sets/images/40025-1.jpg",682,614
+9277,"40026","1","Creator","","2012","Statue Of Liberty",,39,,4.99,,,"https://images.brickset.com/sets/images/40026-1.jpg",1285,589
+9216,"40029","1","Seasonal","Valentine's Day","2012","Valentine's Day Box",,51,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/40029-1.jpg",1039,437
+9375,"40030","1","Seasonal","Easter","2012","Duck with Ducklings",,51,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/40030-1.jpg",859,248
+9376,"40031","1","Seasonal","Easter","2012","Bunny and Chick",,52,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/40031-1.jpg",1041,239
+9542,"40032","1","Seasonal","Halloween","2012","Witch",,71,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/40032-1.jpg",1654,231
+9543,"40033","1","Seasonal","Thanksgiving","2012","Turkey",,52,,4.99,6.99,,"https://images.brickset.com/sets/images/40033-1.jpg",1081,255
+9544,"40034","1","Seasonal","Christmas","2012","Christmas Train",,82,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/40034-1.jpg",2414,437
+9545,"40035","1","Seasonal","Christmas","2012","Rocking Horse",,49,3.99,4.99,6.99,4.99,"https://images.brickset.com/sets/images/40035-1.jpg",1517,241
+9261,"40036","1","Promotional","Monthly Mini Model Build","2012","Cobra",,37,0,0,,,"https://images.brickset.com/sets/images/40036-1.jpg",205,166
+9278,"40037","1","Promotional","Monthly Mini Model Build","2012","Hockey player",,43,0,0,,,"https://images.brickset.com/sets/images/40037-1.jpg",194,174
+9279,"40038","1","Promotional","Monthly Mini Model Build","2012","Worm & Earth",,29,0,0,,,"https://images.brickset.com/sets/images/40038-1.jpg",212,261
+9641,"40039","1","Promotional","Monthly Mini Model Build","2012","Tulip",,16,0,0,,,"https://images.brickset.com/sets/images/40039-1.jpg",188,147
+9758,"40040","1","Promotional","Monthly Mini Model Build","2012","Olympic flame",,15,0,0,,,"https://images.brickset.com/sets/images/40040-1.jpg",202,169
+9788,"40041","1","Promotional","Monthly Mini Model Build","2012","Moose",,27,0,0,,,"https://images.brickset.com/sets/images/40041-1.jpg",195,172
+9785,"40042","1","Promotional","Monthly Mini Model Build","2012","Cat",,25,0,0,,,"https://images.brickset.com/sets/images/40042-1.jpg",209,146
+9439,"40043","1","Promotional","Monthly Mini Model Build","2012","Duck",,24,0,0,,,"https://images.brickset.com/sets/images/40043-1.jpg",196,209
+9651,"40044","1","Promotional","Monthly Mini Model Build","2012","Lawnmower",,25,0,0,,,"https://images.brickset.com/sets/images/40044-1.jpg",221,207
+9786,"40045","1","Promotional","Monthly Mini Model Build","2012","Shark",,27,0,0,,,"https://images.brickset.com/sets/images/40045-1.jpg",201,158
+9789,"40046","1","Promotional","Monthly Mini Model Build","2012","Pilgrim",,23,0,0,,,"https://images.brickset.com/sets/images/40046-1.jpg",32,122
+9787,"40047","1","Promotional","Monthly Mini Model Build","2012","Owl",,41,0,0,,,"https://images.brickset.com/sets/images/40047-1.jpg",214,167
+9377,"40048","1","Seasonal","Birthday","2012","Birthday Cake",,24,,,,,"https://images.brickset.com/sets/images/40048-1.jpg",1284,310
+9546,"40049","1","Miscellaneous","","2012","Sopwith Camel",,65,0,0,,,"https://images.brickset.com/sets/images/40049-1.jpg",2625,413
+9557,"40076","1","Monster Fighters","Promotional","2012","Zombie Car",1,60,,,,,"https://images.brickset.com/sets/images/40076-1.jpg",2948,1299
+10199,"45110","1","Education","","2012","BuildToExpress Set",2,200,,,,,"https://images.brickset.com/sets/images/45110-1.jpg",27,105
+9759,"66392","1","Duplo","Product collection","2012","Cars Super Pack 3-in-1",,67,,,,,"https://images.brickset.com/sets/images/66392-1.jpg",21,48
+10007,"66409","1","Cars","Product Collection","2012","Super Pack 3-in-1",,381,,,,,"https://images.brickset.com/sets/images/66409-1.jpg",71,138
+10008,"66410","1","Ninjago","Product Collection","2012","Super Pack 3-in-1",,560,,,,,"https://images.brickset.com/sets/images/66410-1.jpg",59,221
+9537,"66411","1","Star Wars","Product Collection","2012","Super Pack 3-in-1",,633,84.99,,,,"https://images.brickset.com/sets/images/66411-1.jpg",268,507
+10009,"66412","1","City","Product Collection","2012","City Police Super Pack 2-in-1",,190,,,,,"https://images.brickset.com/sets/images/66412-1.jpg",29,173
+10021,"66426","1","City","Product Collection","2012","City Fire Super Pack 3-in-1",,815,,,,,"https://images.brickset.com/sets/images/66426-1.jpg",63,229
+9951,"66427","1","City","Product Collection","2012","City Police Super Pack 4-in-1",,932,,,,,"https://images.brickset.com/sets/images/66427-1.jpg",81,263
+10011,"66428","1","City","Product Collection","2012","City Police Super Pack 4-in-1",,965,,,,,"https://images.brickset.com/sets/images/66428-1.jpg",133,290
+10012,"66429","1","Duplo","Product Collection","2012","Super Pack 3-in-1",,96,,,,,"https://images.brickset.com/sets/images/66429-1.jpg",45,36
+10013,"66430","1","Duplo","Product Collection","2012","Super Pack 3-in-1",,34,,,,,"https://images.brickset.com/sets/images/66430-1.jpg",14,30
+10014,"66431","1","Star Wars","Product Collection","2012","Super Pack 3-in-1",,298,,,,,"https://images.brickset.com/sets/images/66431-1.jpg",201,421
+9952,"66432","1","Star Wars","Product Collection","2012","Super Pack 3-in-1",,763,,,,,"https://images.brickset.com/sets/images/66432-1.jpg",144,485
+9879,"66433","1","Technic","Product collection","2012","Super Pack 3-in-1",,1163,,,,,"https://images.brickset.com/sets/images/66433-1.jpg",170,317
+10051,"66434","1","Friends","Product Collection","2012","3-in-1 Super Pack",,358,,,,,"https://images.brickset.com/sets/images/66434-1.jpg",49,218
+10015,"66435","1","Friends","Product Collection","2012","Super Pack 4-in-1",,495,,,,,"https://images.brickset.com/sets/images/66435-1.jpg",47,207
+10016,"66436","1","City","Product Collection","2012","City Police Super Pack 2-in-1",,226,,,,,"https://images.brickset.com/sets/images/66436-1.jpg",43,203
+10017,"66437","1","HERO Factory","Product Collection","2012","Furno, Jawblade Mission Pack ",,101,,,,,"https://images.brickset.com/sets/images/66437-1.jpg",12,80
+26899,"66438","1","Education","Product Collection","2012","Teacher's Kit",,63,,,,,"https://images.brickset.com/sets/images/66438-1.jpg",8,8
+10018,"66444","1","Ninjago","Product Collection","2012","Super Pack 3-in-1",,503,,,,,"https://images.brickset.com/sets/images/66444-1.jpg",107,196
+13620,"66445","1","HERO Factory","Product Collection","2012","Bonus/Value Pack",,78,,,,,10,43
+13622,"66446","1","HERO Factory","Product Collection","2012","Bonus/Value Pack",,39,,,,,9,40
+10019,"66451","1","City","Product Collection","2012","City Traffic Super Pack 4-in-1",,826,,,,,"https://images.brickset.com/sets/images/66451-1.jpg",25,260
+10020,"66452","1","HERO Factory","Product Collection","2012","Stringer, Voltix Mission Pack ",,109,,,,,"https://images.brickset.com/sets/images/66452-1.jpg",14,80
+9749,"79000","1","The Hobbit","An Unexpected Journey","2012","Riddles for the Ring",2,105,11.99,9.99,12.99,12.99,"https://images.brickset.com/sets/images/79000-1.jpg",8488,1515
+9750,"79001","1","The Hobbit","The Desolation of Smaug","2012","Escape from Mirkwood Spiders",4,298,24.99,29.99,34.99,29.99,"https://images.brickset.com/sets/images/79001-1.jpg",7015,1510
+9751,"79002","1","The Hobbit","An Unexpected Journey","2012","Attack of the Wargs",5,400,49.99,49.99,59.99,59.99,"https://images.brickset.com/sets/images/79002-1.jpg",6174,1907
+9752,"79003","1","The Hobbit","An Unexpected Journey","2012","An Unexpected Gathering",6,652,59.99,69.99,84.99,79.99,"https://images.brickset.com/sets/images/79003-1.jpg",9455,2834
+9753,"79004","1","The Hobbit","The Desolation of Smaug","2012","Barrel Escape",5,334,39.99,39.99,49.99,49.99,"https://images.brickset.com/sets/images/79004-1.jpg",5210,1992
+9754,"79010","1","The Hobbit","An Unexpected Journey","2012","The Goblin King Battle",8,841,79.99,99.99,129.99,99.99,"https://images.brickset.com/sets/images/79010-1.jpg",5525,2050
+24525,"850353","4","Gear","Key Chains/Star Wars","2012","Darth Vader",,,,,,,23,29
+10154,"850414","1","Gear","Miscellaneous","2012","Zipper Pullers (Black)",,,,,,,"https://images.brickset.com/sets/images/850414-1.jpg",24,96
+10155,"850415","1","Gear","Miscellaneous","2012","Zipper Pullers (Aqua)",,,,,,,"https://images.brickset.com/sets/images/850415-1.jpg",14,53
+9826,"850416","1","Gear","Key Chains/Animal","2012","Pink Hippo Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850416-1.jpg",100,47
+9827,"850417","1","Gear","Key Chains/Animal","2012","Monkey Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850417-1.jpg",105,40
+9708,"850421","1","Gear","Housewares","2012","Silicone Coasters",,,14.99,14.99,16.99,14.99,"https://images.brickset.com/sets/images/850421-1.jpg",192,137
+9677,"850423","1","Miscellaneous","","2012","Minifigure Presentation Boxes",1,89,9.99,9.99,11.99,9.99,"https://images.brickset.com/sets/images/850423-1.jpg",857,275
+10123,"850424","1","Gear","Housewares","2012","LEGO mug",,,,,,,"https://images.brickset.com/sets/images/850424-1.jpg",103,130
+9815,"850425","1","Miscellaneous","Desk accessory","2012","Desk Business Card Holder",2,150,11.39,14.99,18.49,9.09,"https://images.brickset.com/sets/images/850425-1.jpg",2161,461
+9821,"850426","1","Miscellaneous","Desk accessory","2012","Pencil Holder",1,157,11.39,14.99,17.99,,"https://images.brickset.com/sets/images/850426-1.jpg",1077,307
+9711,"850432","1","Gear","Magnets/Bricks","2012","Classic Magnet Set Collection",,,7.99,9.99,11.99,7.99,"https://images.brickset.com/sets/images/850432-1.jpg",153,88
+10037,"850437","1","Gear","Stationery","2012","Friends school starter pack",,,,,,,"https://images.brickset.com/sets/images/850437-1.jpg",11,44
+9713,"850442","1","Gear","Key Chains/Ninjago","2012","Lloyd ZX Key Chain",,,2.99,4.99,5.49,1.99,"https://images.brickset.com/sets/images/850442-1.jpg",217,83
+9709,"850443","1","Gear","Key Chains/Ninjago","2012","Snake Key Chain",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/850443-1.jpg",137,58
+9679,"850445","1","Ninjago","Promotional","2012","Ninjago Character Card Shrine",1,88,12.99,14.99,16.99,12.99,"https://images.brickset.com/sets/images/850445-1.jpg",252,426
+9712,"850446","1","Gear","Key Chains/Star Wars","2012","Darth Maul",,,3.99,4.99,5.99,4.99,"https://images.brickset.com/sets/images/850446-1.jpg",630,93
+9710,"850447","1","Gear","Key Chains/Star Wars","2012","Snowtrooper",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/850447-1.jpg",279,99
+9714,"850448","1","Gear","Key Chains/Star Wars","2012","Luke Skywalker",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/850448-1.jpg",344,95
+9678,"850449","1","Collectable Minifigures","Combi-pack","2012","Minifigure Accessory Pack",3,63,9.99,14.99,15.49,6.49,"https://images.brickset.com/sets/images/850449-1.jpg",2163,1110
+9828,"850451","1","Gear","Key Chains/Monster Fighters","2012","Lord Vampyre Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850451-1.jpg",266,76
+9829,"850452","1","Gear","Key Chains/Monster Fighters","2012","Ghost Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850452-1.jpg",263,117
+9830,"850453","1","Gear","Key Chains/Monster Fighters","2012","The Monster Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850453-1.jpg",276,65
+9596,"850455","1","Gear","Role-play toys","2012","Ninjago Sheath with Snake Sword ",,,14.99,,,14.99,"https://images.brickset.com/sets/images/850455-1.jpg",28,64
+9446,"850456","1","Gear","Key Chains/LEGOLAND","2012","I Love LEGOLAND keychain, Male",,,3.99,,,,"https://images.brickset.com/sets/images/850456-1.jpg",252,99
+9445,"850457","1","Gear","Magnets/LEGOLAND","2012","LEGOLAND Magnet",,,3.99,,,,"https://images.brickset.com/sets/images/850457-1.jpg",353,95
+9681,"850458","1","Collectable Minifigures","Combi-pack","2012","VIP Top 5 Boxed Minifigures",5,37,14.99,12.99,,,"https://images.brickset.com/sets/images/850458-1.jpg",765,731
+9809,"850486","1","Collectable Minifigures","Combi-pack","2012","Rock Band Minifigure Accessory Set",3,62,9.99,14.99,18.43,,"https://images.brickset.com/sets/images/850486-1.jpg",1446,1953
+9817,"850487","1","Collectable Minifigures","Combi-pack","2012","Halloween Accessory Set",3,58,9.99,14.99,17.99,,"https://images.brickset.com/sets/images/850487-1.jpg",3773,1439
+10072,"850491","1","Gear","Key Chains/Locations","2012","Orlando Key Chain",,,,,,,"https://images.brickset.com/sets/images/850491-1.jpg",89,77
+9839,"850496","1","Gear","Key Chains/Locations","2012","Anaheim Key Chain",,,,,,,"https://images.brickset.com/sets/images/850496-1.jpg",62,78
+10036,"850497","1","Gear","Magnets/Miscellaneous","2012","Statue of Liberty Minifigure Magnet",,,,,,,"https://images.brickset.com/sets/images/850497-1.jpg",212,117
+9845,"850501","1","Gear","Magnets/Miscelleneous","2012","I (love) Orlando figure magnet",,,,4.99,,,"https://images.brickset.com/sets/images/850501-1.jpg",129,58
+9840,"850502","1","Gear","Magnets/Miscelleneous","2012","I (love) Anaheim Figure Magnet",,,,,,,"https://images.brickset.com/sets/images/850502-1.jpg",39,59
+10132,"850503","1","Seasonal","Christmas","2012","Holiday Bauble",,3,2.99,7.99,,,"https://images.brickset.com/sets/images/850503-1.jpg",203,100
+9820,"850506","1","Gear","Stationery","2012","Card Making Kit",,,17.99,24.99,28.49,,"https://images.brickset.com/sets/images/850506-1.jpg",83,50
+9831,"850507","1","Gear","Key Chains/Super Heroes","2012","Spider-Man Key Chain",,,3.99,4.99,5.99,4.99,"https://images.brickset.com/sets/images/850507-1.jpg",533,89
+10174,"850508 ","1","Gear","Magnets/Super Heroes","2012","Marvel Super Heroes magnets",,,,,,,36,61
+10142,"850510","1","Gear","Seasonal","2012","Holiday Wrapping Paper",,,3.5,3.99,5.99,,"https://images.brickset.com/sets/images/850510-1.jpg",49,32
+9832,"850514","1","Gear","Key Chains/Lord Of The Rings","2012","Mordor Orc Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850514-1.jpg",213,78
+9833,"850515","1","Gear","Key Chains/Lord Of The Rings","2012","Gandalf the Grey Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850515-1.jpg",276,101
+9834,"850516","1","Gear","Key Chains/Lord Of The Rings","2012","Gimli Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850516-1.jpg",259,91
+9835,"850517","1","Gear","Magnets/Lord Of The Rings","2012","Lord of the Rings Magnet Set",,,9.99,14.99,15.49,,"https://images.brickset.com/sets/images/850517-1.jpg",125,100
+9836,"850529","1","Gear","Key Chains/Super Heroes","2012","Loki Key Chain",,,2.99,4.99,5.49,,"https://images.brickset.com/sets/images/850529-1.jpg",235,80
+10247,"850596","1","Gear","Playmats","2012","Heartlake City Playmat",,,10.49,14.99,17.99,,"https://images.brickset.com/sets/images/850596-1.jpg",184,60
+9466,"853213","1","Gear","Housewares","2012","Drink Tumbler",,,5.99,7.99,9.99,5.99,"https://images.brickset.com/sets/images/853213-1.jpg",232,44
+9880,"853308","1","Gear","Key Chains/Locations","2012","Hawaii Key Chain",,,,,,,"https://images.brickset.com/sets/images/853308-1.jpg",61,70
+9654,"853373","1","Gear","Board Games","2012","LEGO Kingdoms Chess Set",28,,39.99,49.99,59.99,44.99,"https://images.brickset.com/sets/images/853373-1.jpg",1565,652
+9379,"853375","1","Gear","Key Chains/City","2012","Firefigher Key Chain",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/853375-1.jpg",115,62
+9371,"853378","1","City","Forest Fire","2012","LEGO City Accessory Pack",4,43,9.99,14.99,15.49,12.99,"https://images.brickset.com/sets/images/853378-1.jpg",850,638
+23635,"853379","1","Gear","Key Chains/Brick","2012","Purple Brick Key Chain",,,2.99,,,3.99,58,18
+23636,"853380","1","Gear","Key Chains/Brick","2012","Turquoise Brick Key Chain",,,2.99,,,3.99,41,17
+10040,"853389","1","Gear","Stationery","2012","Friends pen and notebook",,,,,,,"https://images.brickset.com/sets/images/853389-1.jpg",16,41
+9362,"853393","1","Miscellaneous","Photo frames","2012","LEGO Friends Picture Frame",,49,9.99,14.99,16.99,12.99,"https://images.brickset.com/sets/images/853393-1.jpg",317,126
+10039,"853394","1","Gear","Storage","2012","Friends jewellery box",,,,,,,"https://images.brickset.com/sets/images/853394-1.jpg",18,47
+9851,"853395","1","Gear","Housewares","2012","Friends Tumbler",,,4.99,,,,"https://images.brickset.com/sets/images/853395-1.jpg",67,35
+10038,"853396","1","Gear","Bags","2012","Friends handbag",,,,,,,"https://images.brickset.com/sets/images/853396-1.jpg",19,37
+10122,"853400","1","Gear","Housewares","2012","Friends mug",,,,,,,"https://images.brickset.com/sets/images/853400-1.jpg",19,54
+9380,"853401","1","Gear","Key Chains/Ninjago","2012","Ninja Kai Chain",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/853401-1.jpg",84,75
+9381,"853402","1","Gear","Key Chains/Ninjago","2012","Ninja Cole Key Chain",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/853402-1.jpg",70,76
+9382,"853403","1","Gear","Key Chains/Ninjago","2012","Ninjago Hypnobrai Key Chain",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/853403-1.jpg",104,69
+9383,"853404","1","Gear","Magnets/Ninjago","2012","Ninjago Magnet Set",,,9.99,14.99,15.49,9.99,"https://images.brickset.com/sets/images/853404-1.jpg",42,91
+9384,"853409","1","Gear","Storage","2012","Ninjago Spinner Storage Box",,,14.99,16.99,18.99,14.99,"https://images.brickset.com/sets/images/853409-1.jpg",117,98
+9385,"853410","1","Gear","Miscellaneous","2012","Spinjitzu Card Collection Holder",,,9.99,12.99,14.99,9.99,"https://images.brickset.com/sets/images/853410-1.jpg",45,66
+9386,"853412","1","Gear","Key Chains/Star Wars","2012","Anakin Skywalker",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/853412-1.jpg",340,95
+9387,"853413","1","Gear","Key Chains/Star Wars","2012","Watto",,,2.99,4.99,5.49,3.99,"https://images.brickset.com/sets/images/853413-1.jpg",320,103
+9388,"853414","1","Gear","Magnets/Star Wars","2012","Magnets",,,9.99,14.99,15.49,9.99,"https://images.brickset.com/sets/images/853414-1.jpg",197,115
+9444,"853419","1","Gear","Magnets/Star Wars","2012","Magnets",,,9.99,14.99,15.49,9.99,"https://images.brickset.com/sets/images/853419-1.jpg",170,139
+9389,"853421","1","Gear","Magnets/Star Wars","2012","Magnets",,,9.99,14.99,15.49,9.99,"https://images.brickset.com/sets/images/853421-1.jpg",181,122
+9535,"853429","1","Gear","Key Chains/Super Heroes","2012","Batman Key Chain",,,3.99,4.99,5.99,4.99,"https://images.brickset.com/sets/images/853429-1.jpg",853,124
+9533,"853430","1","Gear","Key Chains/Super Heroes","2012","Superman Key Chain",,,3.99,4.99,5.99,4.99,"https://images.brickset.com/sets/images/853430-1.jpg",700,104
+9390,"853431","1","Gear","Magnets/Super Heroes","2012","Super Heroes Magnet Set",,,9.99,14.99,15.49,9.99,"https://images.brickset.com/sets/images/853431-1.jpg",148,146
+9644,"853432","1","Gear","Magnets/Super Heroes","2012","Super Heroes Magnet Set",,,9.99,,,,"https://images.brickset.com/sets/images/853432-1.jpg",79,90
+9534,"853433","1","Gear","Key Chains/Super Heroes","2012","Wonder Woman Key Chain",,,3.99,4.99,5.99,4.99,"https://images.brickset.com/sets/images/853433-1.jpg",630,103
+10133,"2000416","1","Serious Play","","2012","Duck",,6,,,,,"https://images.brickset.com/sets/images/2000416-1.jpg",128,82
+9653,"2853832","1","Gear","Storage","2012","LEGO Storage Stool",,,,,,,"https://images.brickset.com/sets/images/2853832-1.jpg",59,104
+9539,"3300003","1","Promotional","LEGO brand store opening set","2012","LEGO Brand Retail Store",,280,,0,,,"https://images.brickset.com/sets/images/3300003-1.jpg",1392,1309
+10125,"3300014","1","Seasonal","Christmas","2012","Christmas Set",4,109,,14.99,,,"https://images.brickset.com/sets/images/3300014-1.jpg",3433,1611
+9611,"4000004","1","Miscellaneous","LEGO internal","2012","Systematic Creativity Toolbox",,,,,,,"https://images.brickset.com/sets/images/4000004-1.jpg",34,112
+9699,"4000005","1","Miscellaneous","LEGO internal","2012","Kornmarken Factory 2012",,315,,,,,"https://images.brickset.com/sets/images/4000005-1.jpg",41,441
+9808,"4000006","1","Miscellaneous","LEGO internal","2012","Production Kladno Campus",,278,,,,,"https://images.brickset.com/sets/images/4000006-1.jpg",76,382
+10239,"4000007","1","Miscellaneous","Employee gift","2012","Ole Kirk's House",,910,,,,,"https://images.brickset.com/sets/images/4000007-1.jpg",397,1007
+9680,"4000012","1","Miscellaneous","LEGO Inside Tour Exclusive","2012","Piper Airplane",,795,,,,,"https://images.brickset.com/sets/images/4000012-1.jpg",29,835
+9582,"4648933","1","HERO Factory","","2012","{Hero Factory Accessory Pack}",,6,,,,,"https://images.brickset.com/sets/images/4648933-1.jpg",31,144
+9682,"4659591","1","Gear","Housewares","2012","Place mat",,,,,,,9,29
+9633,"4659597","1","Friends","Promotional","2012","Bracelets",,2,,,,,"https://images.brickset.com/sets/images/4659597-1.jpg",268,209
+9343,"4659602","1","Friends","Promotional","2012","{Display Stand}",,17,,,,,"https://images.brickset.com/sets/images/4659602-1.jpg",167,266
+10042,"4659604","1","Gear","Stationery","2012","Friends notebook",,,,,,,"https://images.brickset.com/sets/images/4659604-1.jpg",18,40
+9632,"4659607","1","HERO Factory","","2012","{Booster Pack}",,6,,,,,"https://images.brickset.com/sets/images/4659607-1.jpg",47,141
+9665,"4659612","1","Ninjago","Promotional","2012","Spinner ring",,1,,,,,"https://images.brickset.com/sets/images/4659612-1.jpg",70,239
+10055,"4659640","1","Ninjago","Promotional","2012","Special Edition Card",,1,,,,,"https://images.brickset.com/sets/images/4659640-1.jpg",155,196
+9661,"5000022","1","Marvel Super Heroes","Avengers","2012","The Hulk",1,4,,,,,"https://images.brickset.com/sets/images/5000022-1.jpg",3673,1752
+22588,"5000023","1","Promotional","LEGO brand store opening set","2012","Exclusive Minifigure Pack",,12,0,0,,,"https://images.brickset.com/sets/images/5000023-1.jpg",212,218
+9221,"5000030","1","Ninjago","Booster pack","2012","Kendo Jay Booster Pack",1,31,,,,,"https://images.brickset.com/sets/images/5000030-1.jpg",1304,532
+9365,"5000062","1","Star Wars","Minifig Pack","2012","Darth Maul",1,7,,0,,,"https://images.brickset.com/sets/images/5000062-1.jpg",2640,2233
+9595,"5000063","1","Star Wars","Episode I","2012","TC-14",1,3,0,0,,,"https://images.brickset.com/sets/images/5000063-1.jpg",4290,2167
+9686,"5000146","1","Gear","Key Chains/Sports","2012","FC Bayern Munich keyring 1",,,,,,,"https://images.brickset.com/sets/images/5000146-1.jpg",22,63
+9687,"5000147","1","Gear","Key Chains/Sports","2012","FC Bayern Munich keyring 2",,,,,,,"https://images.brickset.com/sets/images/5000147-1.jpg",22,63
+22413,"5000194","1","HERO Factory","","2012","{?}",,13,,,,,"https://images.brickset.com/sets/images/5000194-1.jpg",32,120
+10126,"5000202","1","The Lord of the Rings","The Fellowship of the Ring","2012","Elrond",1,6,0,0,,,"https://images.brickset.com/sets/images/5000202-1.jpg",2605,1745
+9292,"5000245","1","Friends","Promotional","2012","Stephanie",1,5,,4.99,,,"https://images.brickset.com/sets/images/5000245-1.jpg",299,340
+9378,"5000248","1","Gear","Storage","2012","3-Drawer Storage Unit",,,,39.99,49.99,,"https://images.brickset.com/sets/images/5000248-1.jpg",207,337
+9731,"5000249","1","Gear","Watches/Clocks","2012","Boba Fett Minifigure Clock",,,24.99,29.99,29.99,29.99,"https://images.brickset.com/sets/images/5000249-1.jpg",324,95
+9847,"5000252","1","Gear","Watches/Clocks","2012","Ninjago Kendo Cole Kids' Watch",,,20.99,24.99,34.99,,"https://images.brickset.com/sets/images/5000252-1.jpg",26,44
+9848,"5000253","1","Gear","Watches/Clocks","2012","Ninjago Kai ZX Kids' Watch",,,20.99,,,,"https://images.brickset.com/sets/images/5000253-1.jpg",17,45
+10127,"5000281","1","City","Police","2012","Chase McCain",1,4,0,0,,,"https://images.brickset.com/sets/images/5000281-1.jpg",945,727
+10031,"5000437","1","Promotional","Toys R Us","2012","Vintage Minifigure Collection Vol. 1 (TRU edition)",5,21,,,,,"https://images.brickset.com/sets/images/5000437-1.jpg",295,407
+10029,"5000438","1","Promotional","Toys R Us","2012","Vintage Minifigure Collection Vol. 2 (TRU edition)",,22,,,,,"https://images.brickset.com/sets/images/5000438-1.jpg",266,414
+10030,"5000439","1","Promotional","Toys R Us","2012","Vintage Minifigure Collection Vol. 3 (TRU edition)",5,20,,,,,"https://images.brickset.com/sets/images/5000439-1.jpg",254,407
+10028,"5000440","1","Promotional","Toys R Us","2012","Vintage Minifigure Collection Vol. 4 (TRU edition)",5,25,,,,,"https://images.brickset.com/sets/images/5000440-1.jpg",249,432
+10164,"5000441","1","Gear","Miscellaneous","2012","Ninjago Surprise Bag",,,,7.99,,,"https://images.brickset.com/sets/images/5000441-1.jpg",60,60
+9282,"5000642","1","Gear","Posters","2012","Star Wars poster",,,,,,,"https://images.brickset.com/sets/images/5000642-1.jpg",180,143
+9868,"5000644","1","Monster Fighters","Promotional","2012","Monster Fighters promotional pack",,12,,,,,"https://images.brickset.com/sets/images/5000644-1.jpg",496,1040
+9338,"5000646","1","Gear","Posters","2012","City poster",,,,,,,"https://images.brickset.com/sets/images/5000646-1.jpg",225,98
+9811,"5001050","1","Gear","Bags","2012","ZipBin Millennium Falcon Messenger Bag",,,,19.99,24.99,,"https://images.brickset.com/sets/images/5001050-1.jpg",183,63
+9740,"5001090","1","Gear","Video Games/3DS","2012","Batman™ 2: DC Super Heroes - 3DS",,,34.99,39.99,39.99,39.99,"https://images.brickset.com/sets/images/5001090-1.jpg",113,47
+9743,"5001091","1","Gear","Video Games/DS","2012","Batman™ 2: DC Super Heroes - DS",,,29.99,29.99,29.99,29.99,"https://images.brickset.com/sets/images/5001091-1.jpg",112,45
+9742,"5001092","1","Gear","Video Games/PC","2012","Batman™ 2: DC Super Heroes - PC",,,24.99,29.99,29.99,29.99,"https://images.brickset.com/sets/images/5001092-1.jpg",203,38
+9741,"5001093","1","Gear","Video Games/PS3","2012","Batman™ 2: DC Super Heroes - PS3",,,39.99,49.99,49.99,49.99,"https://images.brickset.com/sets/images/5001093-1.jpg",532,61
+9755,"5001094","1","Gear","Video Games/PS Vita","2012","Batman 2: DC Super Heroes - PSV",,,39.99,39.99,39.99,39.99,"https://images.brickset.com/sets/images/5001094-1.jpg",75,30
+9744,"5001095","1","Gear","Video Games/Wii","2012","Batman™ 2: DC Super Heroes - Wii",,,29.99,39.99,39.99,39.99,"https://images.brickset.com/sets/images/5001095-1.jpg",421,51
+9745,"5001096","1","Gear","Video Games/Xbox 360","2012","Batman™ 2: DC Super Heroes - Xbox 360",,,39.99,49.99,49.99,49.99,"https://images.brickset.com/sets/images/5001096-1.jpg",523,60
+9812,"5001097","1","Gear","Storage","2012"," ZipBin Toy Box and Playmat",,,,19.99,24.99,,"https://images.brickset.com/sets/images/5001097-1.jpg",73,61
+10034,"5001125","1","Gear","Storage","2012","Sort and Store with Baseplate",,,,44.99,54.99,,"https://images.brickset.com/sets/images/5001125-1.jpg",578,158
+9317,"5001126","1","Gear","Stationery","2012","Moleskine notebook black brick, ruled, large ",,,17.5,21.99,24.99,,"https://images.brickset.com/sets/images/5001126-1.jpg",142,79
+9319,"5001127","1","Gear","Stationery","2012","Moleskine notebook yellow brick, ruled, small",,,13.5,16.99,19.99,,"https://images.brickset.com/sets/images/5001127-1.jpg",162,54
+9320,"5001128","1","Gear","Stationery","2012","Moleskine notebook green brick, plain, small",,,13.5,16.99,18.99,,"https://images.brickset.com/sets/images/5001128-1.jpg",118,59
+9318,"5001129","1","Gear","Stationery","2012","Moleskine notebook red brick, plain, large ",,,17.5,21.99,23.99,,"https://images.brickset.com/sets/images/5001129-1.jpg",169,74
+9756,"5001140","1","Gear","Digital media","2012","LEGO® Ninjago Masters of Spinjitzu",,,,14.99,,,"https://images.brickset.com/sets/images/5001140-1.jpg",177,89
+9849,"5001159","1","Gear","Lights","2012","Darth Vader Light Key Chain",,,9.99,11.99,14.99,12.99,"https://images.brickset.com/sets/images/5001159-1.jpg",602,79
+10035,"5001160","1","Gear","Lights","2012","Stormtrooper Light Key Chain",,,9.99,11.99,14.99,12.99,"https://images.brickset.com/sets/images/5001160-1.jpg",363,74
+9813,"5001164","1","Gear","Storage","2012","Girls 3-Drawer Storage Bin",,,,39.99,49.99,,"https://images.brickset.com/sets/images/5001164-1.jpg",58,106
+9814,"5001261","1","Gear","Storage","2012","Sorting Trays",,,,6.99,9.99,,"https://images.brickset.com/sets/images/5001261-1.jpg",193,178
+10033,"5001283","1","Gear","Storage","2012","Mini Box Red",,,1.99,,,,"https://images.brickset.com/sets/images/5001283-1.jpg",98,65
+10044,"5001284","1","Gear","Storage","2012","Mini Box Yellow",,,3.49,,,,"https://images.brickset.com/sets/images/5001284-1.jpg",86,65
+10099,"5001310","1","Gear","Lights","2012","Yoda Light Key Chain",,,9.99,11.99,14.99,12.99,"https://images.brickset.com/sets/images/5001310-1.jpg",289,69
+10100,"5001311","1","Gear","Lights","2012","Darth Maul Light Key Chain",,,9.99,11.99,14.99,,"https://images.brickset.com/sets/images/5001311-1.jpg",117,70
+10098,"5001313","1","Gear","Lights","2012","Darth Vader Flashlight",,,,29.99,39.99,,"https://images.brickset.com/sets/images/5001313-1.jpg",222,74
+10097,"5001314","1","Gear","Lights","2012","Imperial Stormtrooper Flashlight",,,,29.99,39.99,,"https://images.brickset.com/sets/images/5001314-1.jpg",147,76
+10175,"5001323","1","Gear","Housewares","2012","LEGO Lunch Box",,,7.99,,,,"https://images.brickset.com/sets/images/5001323-1.jpg",165,56
+9936,"5001351","1","Gear","Watches/Clocks","2012","Darth Maul Minifigure Clock",,,,29.99,39.99,,"https://images.brickset.com/sets/images/5001351-1.jpg",101,74
+10138,"5001352","1","Gear","Watches/Clocks","2012","Monster Fighters Mummy Minifigure Clock",,,,29.99,39.99,,"https://images.brickset.com/sets/images/5001352-1.jpg",65,68
+10045,"5001353","1","Gear","Watches/Clocks","2012","Monster Fighters Lord Vampyre Minifigure Clock",,,,29.99,39.99,,"https://images.brickset.com/sets/images/5001353-1.jpg",90,80
+10047,"5001354","1","Gear","Watches/Clocks","2012","Monster Fighters Mummy Watch",,,,24.99,34.99,,"https://images.brickset.com/sets/images/5001354-1.jpg",20,38
+10151,"5001355","1","Gear","Watches/Clocks","2012","Ninjago Kai ZX Minifigure Clock",,,,29.99,29.99,,"https://images.brickset.com/sets/images/5001355-1.jpg",45,51
+9937,"5001356","1","Gear","Watches/Clocks","2012","Ninjago Kai ZX Kids' Watch",,,19.99,24.99,34.99,,"https://images.brickset.com/sets/images/5001356-1.jpg",15,41
+9938,"5001357","1","Gear","Watches/Clocks","2012","Ninjago Kendo Cole Kids' Watch",,,19.99,24.99,24.99,24.99,"https://images.brickset.com/sets/images/5001357-1.jpg",13,36
+9962,"5001358","1","Gear","Watches/Clocks","2012","Ninjago Lasha Kids' Watch",,,19.99,24.99,24.99,,"https://images.brickset.com/sets/images/5001358-1.jpg",21,32
+9961,"5001366","1","Gear","Watches/Clocks","2012","Ninjago Lloyd ZX Minifigure Alarm Clock",,,,29.99,29.99,,"https://images.brickset.com/sets/images/5001366-1.jpg",49,74
+10150,"5001368","1","Gear","Watches/Clocks","2012","Friends Olivia Kids' Watch",,,19.99,24.99,24.99,24.99,"https://images.brickset.com/sets/images/5001368-1.jpg",36,32
+10152,"5001369","1","Gear","Watches/Clocks","2012","Friends Stephanie Kids'  Watch",,,19.99,24.99,24.99,24.99,"https://images.brickset.com/sets/images/5001369-1.jpg",37,31
+10048,"5001370","1","Gear","Watches/Clocks","2012","Time-Teacher Minifigure Watch & Clock",,,24.99,29.99,29.99,29.99,"https://images.brickset.com/sets/images/5001370-1.jpg",77,43
+10046,"5001371","1","Gear","Watches/Clocks","2012","Time-Teacher Girl Minifigure Watch & Clock",,,24.99,29.99,29.99,29.99,"https://images.brickset.com/sets/images/5001371-1.jpg",48,33
+10049,"5001375","1","Gear","Watches/Clocks","2012","Monster Fighters Lord Vampyre Watch",,,,24.99,34.99,,"https://images.brickset.com/sets/images/5001375-1.jpg",20,36
+9939,"5001376","1","Gear","Housewares","2012","Lunch Box",,,,15.99,17.99,,"https://images.brickset.com/sets/images/5001376-1.jpg",33,53
+9940,"5001377","1","Gear","Housewares","2012","Lunch Box",,,,15.99,17.99,,"https://images.brickset.com/sets/images/5001377-1.jpg",39,36
+9941,"5001378","1","Gear","Housewares","2012","Lunch Box",,,,15.99,17.99,,"https://images.brickset.com/sets/images/5001378-1.jpg",61,46
+9942,"5001379","1","Gear","Storage","2012","Mini box blue",,,,3.99,4.99,,"https://images.brickset.com/sets/images/5001379-1.jpg",66,58
+9943,"5001380","1","Gear","Storage","2012","Mini box pink",,,,3.99,4.99,,"https://images.brickset.com/sets/images/5001380-1.jpg",49,48
+9944,"5001382","1","Gear","Storage","2012","Mini box red",,,,3.99,4.99,,"https://images.brickset.com/sets/images/5001382-1.jpg",47,54
+9945,"5001383","1","Gear","Storage","2012","4-stud Blue Storage Brick",,,,19.99,24.99,,"https://images.brickset.com/sets/images/5001383-1.jpg",155,67
+9946,"5001384","1","Gear","Storage","2012","4-stud Green Storage Brick",,,,31.99,36.99,,"https://images.brickset.com/sets/images/5001384-1.jpg",113,73
+9947,"5001385","1","Gear","Storage","2012"," 4-stud Red Storage Brick",,,,19.99,24.99,,"https://images.brickset.com/sets/images/5001385-1.jpg",182,72
+9948,"5001386","1","Gear","Storage","2012","8-stud Blue Storage Brick",,,,41.99,47.99,,"https://images.brickset.com/sets/images/5001386-1.jpg",131,74
+9949,"5001387","1","Gear","Storage","2012","8-stud Green Storage Brick",,,,41.99,47.99,,"https://images.brickset.com/sets/images/5001387-1.jpg",91,80
+9950,"5001388","1","Gear","Storage","2012","8-stud Red Storage Brick",,,,41.99,47.99,,"https://images.brickset.com/sets/images/5001388-1.jpg",148,72
+10197,"5001632","1","Gear","Video Games/Wii","2012","The Lord of the Rings Video Game ",,,29.99,39.99,39.99,,"https://images.brickset.com/sets/images/5001632-1.jpg",345,46
+10165,"5001633","1","Gear","Video Games/PS3","2012","The Lord of the Rings Video Game",,,39.99,49.99,49.99,,"https://images.brickset.com/sets/images/5001633-1.jpg",448,55
+10136,"5001634","1","Gear","Video Games/PS Vita","2012","The Lord of the Rings Video Game",,,34.99,39.99,39.99,,"https://images.brickset.com/sets/images/5001634-1.jpg",46,24
+10166,"5001635","1","Gear","Video Games/Xbox 360","2012","The Lord of the Rings Video Game",,,39.99,49.99,49.99,,"https://images.brickset.com/sets/images/5001635-1.jpg",469,57
+10135,"5001636","1","Gear","Video Games/DS","2012","The Lord of the Rings Video Game",,,29.99,29.99,29.99,,"https://images.brickset.com/sets/images/5001636-1.jpg",84,36
+10173,"5001641","1","Gear","Video Games/PC","2012","The Lord of the Rings Video Game ",,,24.99,29.99,29.99,,"https://images.brickset.com/sets/images/5001641-1.jpg",229,40
+10137,"5001643","1","Gear","Video Games/3DS","2012","The Lord of the Rings Video Game",,,34.99,39.99,39.99,,"https://images.brickset.com/sets/images/5001643-1.jpg",81,38
+10232,"5001909","1","Gear","Digital media","2012","Ninjago: Masters of Spinjitzu: Rise of the Green Ninja",,,,14.99,16.99,,"https://images.brickset.com/sets/images/5001909-1.jpg",80,70
+10041,"6012292","1","Gear","Storage","2012","Friends small bag",,,,,,,"https://images.brickset.com/sets/images/6012292-1.jpg",5,42
+24460,"6012298","1","Ninjago","Promotional","2012","Promotional polybag",,11,,,,,"https://images.brickset.com/sets/images/6012298-1.jpg",21,133
+22518,"6012306","1","Gear","Key Chains/Star Wars","2012","Battle of Hoth Dice",,,,,,,"https://images.brickset.com/sets/images/6012306-1.jpg",70,211
+9782,"6024305","1","Friends","Promotional","2012","Best Friends bricks",,2,0,,,,"https://images.brickset.com/sets/images/6024305-1.jpg",150,285
+10006,"6032459","1","Gear","Digital media","2012","Friends",,,,,,,"https://images.brickset.com/sets/images/6032459-1.jpg",53,51
+9953,"6038514","1","Gear","Digital media","2012","The LEGO Story",,,,,,,"https://images.brickset.com/sets/images/6038514-1.jpg",64,208
+22820,"9003066","1","Gear","Watches/Clocks","2012","HERO Factory watch",,,,,,,9,13
+10370,"9003936","1","Gear","Watches/Clocks","2012","Captain Rex Minifigure Clock",,,24.99,,,,"https://images.brickset.com/sets/images/9003936-1.jpg",45,42
+22609,"9005251","1","Gear","Watches/Clocks","2012","Fang-Suei Minifigure Clock",,,23.99,,,,16,23
+10238,"9005602","1","Gear","Watches/Clocks","2012","Savage Opress Alarm Clock",,,24.99,,,,27,35
+9780,"ALPHARETTA","1","Promotional","LEGO brand store opening set","2012","Alpharetta Exclusive Minifigure Pack",3,15,,0,,,"https://images.brickset.com/sets/images/ALPHARETTA-1.jpg",23,183
+9838,"BILBO","1","The Hobbit","An Unexpected Journey","2012","Bilbo Baggins ",,4,,0,,,"https://images.brickset.com/sets/images/BILBO-1.jpg",94,772
+9844,"CELEBVI","1","Star Wars","Episode V","2012","Mini Slave I",1,80,,,,,"https://images.brickset.com/sets/images/CELEBVI-1.jpg",251,1386
+9603,"CITYDVD","1","Gear","Digital media","2012","LEGO City: Mini Movie Collection DVD",,,0,,,,41,79
+9776,"COMCON019","1","Star Wars","Episode I","2012","Sith Infiltrator (SDCC 2012 exclusive)",1,84,,40,,,"https://images.brickset.com/sets/images/COMCON019-1.jpg",204,1135
+9773,"COMCON020","1","DC Comics Super Heroes","Promotional Exclusive Minifigure","2012","Shazam (SDCC 2012 exclusive)",1,,,,,,"https://images.brickset.com/sets/images/COMCON020-1.jpg",220,1342
+9772,"COMCON021","1","Marvel Super Heroes","Comics","2012","Phoenix (SDCC 2012 exclusive)",1,5,,,,,"https://images.brickset.com/sets/images/COMCON021-1.jpg",257,1467
+9775,"COMCON022","1","DC Comics Super Heroes","Promotional Exclusive Minifigure","2012","Bizarro (SDCC 2012 exclusive)",1,4,,,,,"https://images.brickset.com/sets/images/COMCON022-1.jpg",232,1315
+9774,"COMCON023","1","Marvel Super Heroes","Comics","2012","Spider-Man in Black Symbiote Costume ",1,4,,,,,"https://images.brickset.com/sets/images/COMCON023-1.jpg",208,1415
+10124,"COMCON024","1","Star Wars","Episode IV","2012","Luke Skywalker's Landspeeder - Mini - New York Comic-Con 2012 Exclusive",1,110,,,,,"https://images.brickset.com/sets/images/COMCON024-1.jpg",238,1206
+10153,"COMCON025","1","Teenage Mutant Ninja Turtles","Promotional","2012","Shadow Leonardo",1,7,,,,,"https://images.brickset.com/sets/images/COMCON025-1.jpg",59,538
+22412,"COMCON026","1","Teenage Mutant Ninja Turtles","Promotional","2012","Kraang",1,,,,,,"https://images.brickset.com/sets/images/COMCON026-1.jpg",53,408
+9591,"COSTAMESA","1","Promotional","LEGO brand store opening set","2012","Costa Mesa, Exclusive Minifigure Pack",3,15,,0,,,"https://images.brickset.com/sets/images/COSTAMESA-1.jpg",29,167
+9739,"ELIZABETH","1","Promotional","LEGO brand store opening set","2012","Elizabeth Exclusive Minifigure Pack",,15,,0,,,"https://images.brickset.com/sets/images/ELIZABETH-1.jpg",41,183
+22402,"ESSEN","1","Promotional","LEGO brand store opening set","2012","Essen, Germany, Exclusive Minifigure Pack",,,0,0,,,"https://images.brickset.com/sets/images/ESSEN-1.jpg",30,164
+9645,"HEROBOX","1","Games","Heroica","2012","Limited Edition Box Set",,,,,,,15,108
+9460,"ICECREAM","1","Friends","Promotional","2012","Ice Cream Stand",,14,0,0,,,"https://images.brickset.com/sets/images/ICECREAM-1.jpg",155,485
+25830,"ISBN0756666937","1","Books","Dorling Kindersley","2012","The LEGO Book, Expanded and fully revised",,,,,,,"https://images.brickset.com/sets/images/ISBN0756666937-1.jpg",471,115
+10096,"ISBN0756692547","1","Books","Dorling Kindersley","2012","LEGO Friends: Brickmaster",,0,18.99,,,,"https://images.brickset.com/sets/images/ISBN0756692547-1.jpg",546,100
+9874,"ISBN0756692555","1","Books","Dorling Kindersley","2012","LEGO Ninjago: Fight the Power of the Snakes: Brickmaster",,156,18.99,,,,"https://images.brickset.com/sets/images/ISBN0756692555-1.jpg",556,172
+9765,"ISBN0756692571","1","Books","Dorling Kindersley","2012","LEGO Harry Potter: Characters of the Magical World",1,4,14.99,,,,"https://images.brickset.com/sets/images/ISBN0756692571-1.jpg",952,279
+9853,"ISBN0756697875","1","Books","Dorling Kindersley","2012","LEGO Batman: Visual Dictionary",1,4,16.99,,,,"https://images.brickset.com/sets/images/ISBN0756697875-1.jpg",2034,360
+10128,"ISBN075669812X","1","Books","Dorling Kindersley","2012","LEGO Ninjago: Character Encyclopedia",1,5,14.99,,,,"https://images.brickset.com/sets/images/ISBN075669812X-1.jpg",1054,205
+25772,"ISBN0805094644","1","Books","Henry Holt & Company","2012","Amazing ABC",,,,,,,"https://images.brickset.com/sets/images/ISBN0805094644-1.jpg",16,25
+25773,"ISBN1468083996","1","Books","CreateSpace","2012","Brickdiction: A Seven Step Recovery Guide for People Addicted to LEGO",,,,,,,"https://images.brickset.com/sets/images/ISBN1468083996-1.jpg",52,70
+25754,"ISBN1470108011","1","Books","CreateSpace/Bartneck","2012","The 2011 LEGO Minifigure Catalog: 1st Edition",,,,,,,"https://images.brickset.com/sets/images/ISBN1470108011-1.jpg",12,46
+25752,"ISBN1470108070","1","Books","CreateSpace/Bartneck","2012","The Harry Potter LEGO Minifigure Catalog: 1st Edition",,,,,,,"https://images.brickset.com/sets/images/ISBN1470108070-1.jpg",14,60
+25751,"ISBN1470108100","1","Books","CreateSpace/Bartneck","2012","The Star Wars LEGO Minifigure Catalog: 1st Edition",,,,,,,"https://images.brickset.com/sets/images/ISBN1470108100-1.jpg",12,55
+25761,"ISBN1470113619","1","Books","CreateSpace/Bartneck","2012","The Complete LEGO Figure Catalog: 1st Edition",,,,,,,"https://images.brickset.com/sets/images/ISBN1470113619-1.jpg",9,48
+25710,"ISBN1593274122","1","Books","No Starch Press","2012","LEGO Heavy Weapons",,,,,,,"https://images.brickset.com/sets/images/ISBN1593274122-1.jpg",22,59
+25692,"ISBN1593274343","1","Books","No Starch Press","2012","The Unofficial LEGO Technic Builder's Guide",,,,,,,"https://images.brickset.com/sets/images/ISBN1593274343-1.jpg",106,55
+25694,"ISBN1593274416","1","Books","No Starch Press","2012","The Unofficial LEGO Builder's Guide 2nd edition",,,,,,,"https://images.brickset.com/sets/images/ISBN1593274416-1.jpg",113,42
+25693,"ISBN1593274424","1","Books","No Starch Press","2012","The LEGO Adventure Book, Vol. 1: Cars, Castles, Dinosaurs & More!",,,,,,,"https://images.brickset.com/sets/images/ISBN1593274424-1.jpg",240,75
+25767,"ISBN1844681254","1","Books","Remember When","2012","Building a History: The LEGO Group",,,,,,,"https://images.brickset.com/sets/images/ISBN1844681254-1.jpg",16,64
+25744,"ISBN3868526587","1","Books","Heel-Verlag","2012","Build Your Own City: The Big Unofficial Lego Builders Book",,,,,,,"https://images.brickset.com/sets/images/ISBN3868526587-1.jpg",125,134
+9427,"LCP2012","1","Marvel Super Heroes","Comics ","2012","Iron Man & Captain America (2012 Collectors Preview)",2,7,,,,,"https://images.brickset.com/sets/images/LCP2012-1.jpg",85,1381
+9738,"LOTRPC","1","Gear","Storage","2012","Lord Of The Rings Project Case",,,,13.99,,,86,92
+9877,"LOTRSWORD","1","The Lord of the Rings","Promotional","2012","Sword",,31,,6,,,70,430
+23179,"LYNNWOOD","1","Promotional","LEGO brand store opening set","2012","Lynnwood Exclusive Minifigure Pack",,,,,,,"https://images.brickset.com/sets/images/LYNNWOOD-1.jpg",14,142
+9876,"MANCHESTER","1","Promotional","LEGO brand store opening set","2012","Manchester, UK, Exclusive Minifigure Pack",3,12,,,,,"https://images.brickset.com/sets/images/MANCHESTER-1.jpg",23,148
+9635,"NASHVILLE","1","Promotional","LEGO brand store opening set","2012","Nashville Exclusive Minifigure Pack",3,15,,0,,,"https://images.brickset.com/sets/images/NASHVILLE-1.jpg",20,186
+9604,"NINJAGODVD","1","Gear","Digital media","2012","Ninjago: Masters of Spinjitzu DVD",,,,14.97,,,"https://images.brickset.com/sets/images/NINJAGODVD-1.jpg",192,100
+9748,"OVERLANDPARK","1","Promotional","LEGO brand store opening set","2012","Overland Park Exclusive Minifigure Pack",3,15,,,,,"https://images.brickset.com/sets/images/OVERLANDPARK-1.jpg",32,167
+9733,"PAB1","1","Promotional","LEGO brand stores","2012","Rabbit",,61,,,,,"https://images.brickset.com/sets/images/PAB1-1.jpg",32,82
+10176,"PAB10","1","Promotional","LEGO brand stores","2012","Chef",,73,6,,,,"https://images.brickset.com/sets/images/PAB10-1.jpg",59,78
+10198,"PAB11","1","Promotional","LEGO brand stores","2012","Santa",,56,,,,,"https://images.brickset.com/sets/images/PAB11-1.jpg",87,92
+9732,"PAB2","1","Promotional","LEGO brand stores","2012","Artist",,,,,,,"https://images.brickset.com/sets/images/PAB2-1.jpg",61,82
+9721,"PAB3","1","Promotional","LEGO brand stores","2012","Royal Guard (Limited Edition PAB Model)",,88,6,,,,"https://images.brickset.com/sets/images/PAB3-1.jpg",26,124
+9720,"PAB4","1","Promotional","LEGO brand stores","2012","Batman & Robin (Limited Edition PAB Model)",,61,11,,,,"https://images.brickset.com/sets/images/PAB4-1.jpg",198,237
+9735,"PAB5","1","Promotional","LEGO brand stores","2012","Patriot",,66,6,,,,"https://images.brickset.com/sets/images/PAB5-1.jpg",59,86
+9734,"PAB6","1","Promotional","LEGO brand stores","2012","Zoo Keeper",,58,6,,,,"https://images.brickset.com/sets/images/PAB6-1.jpg",22,70
+9810,"PAB7","1","Promotional","LEGO brand stores","2012","Surfer",,67,6,,,,"https://images.brickset.com/sets/images/PAB7-1.jpg",55,62
+9852,"PAB8","1","Promotional","LEGO brand stores","2012","Pirate",,75,6,,,,"https://images.brickset.com/sets/images/PAB8-1.jpg",58,76
+10043,"PAB9","1","Promotional","LEGO brand stores","2012","Monster",,50,6,,,,"https://images.brickset.com/sets/images/PAB9-1.jpg",56,72
+9729,"PEABODY","1","Promotional","LEGO brand store opening set","2012","Northshore Mall Exclusive Minifigure Pack",3,15,,,,,"https://images.brickset.com/sets/images/PEABODY-1.jpg",21,177
+9664,"SAARBRUCKEN","1","Promotional","LEGO brand store opening set","2012","Saarbrücken, Germany Exclusive Minifigure Pack",3,15,,0,,,"https://images.brickset.com/sets/images/SAARBRUCKEN-1.jpg",14,184
+9873,"SHEFFIELD","1","Promotional","LEGO brand store opening set","2012","Sheffield, UK, Exclusive Minifigure Pack",3,14,,,,,"https://images.brickset.com/sets/images/SHEFFIELD-1.jpg",29,149
+9503,"STRATFORD","1","Promotional","LEGO brand store opening set","2012","Westfield Stratford, UK Exclusive Minifigure Pack",3,14,0,,,,"https://images.brickset.com/sets/images/STRATFORD-1.jpg",21,167
+10094,"THESTIG","1","Gear","Key Chains/Miscellaneous","2012","Top Gear The Stig Key Chain",,,2.49,,,,"https://images.brickset.com/sets/images/THESTIG-1.jpg",195,227
+9354,"TRU02","1","Friends","Promotional","2012","Lemonade Stand",,14,,,,,"https://images.brickset.com/sets/images/TRU02-1.jpg",206,488
+9736,"TRUSHIELD","1","Promotional","Toys R Us","2012","Batman Shield",,257,,,,,"https://images.brickset.com/sets/images/TRUSHIELD-1.jpg",95,148
+9737,"TRUSHIELD","2","Promotional","Toys R Us","2012","Superman Shield",,257,,,,,"https://images.brickset.com/sets/images/TRUSHIELD-2.jpg",117,123
+9663,"VANCOUVER","1","Promotional","LEGO brand store opening set","2012","Vancouver, Canada Exclusive Minifigure Pack",3,15,,0,,,"https://images.brickset.com/sets/images/VANCOUVER-1.jpg",34,185
+9642,"VICTOR","1","Promotional","LEGO brand store opening set","2012","Victor Exclusive Minifigure Pack",3,15,,0,,,"https://images.brickset.com/sets/images/VICTOR-1.jpg",19,177
+9659,"WAUWATOSA","1","Promotional","LEGO brand store opening set","2012","Wauwatosa Exclusive Minifigure Pack",3,15,,0,,,"https://images.brickset.com/sets/images/WAUWATOSA-1.jpg",23,169
+10129,"WOODLANDS","1","Promotional","LEGO brand store opening set","2012","Woodlands Exclusive Minifigure Pack",,,,,,,"https://images.brickset.com/sets/images/WOODLANDS-1.jpg",18,158

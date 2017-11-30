@@ -1,0 +1,91 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+328,"1461","1","Town","Racing","1992","Turbo Force",1,31,,,,,"https://images.brickset.com/sets/images/1461-1.jpg",851,259
+329,"1462","1","Space","Blacktron 2","1992","Galactic Scout",1,23,,2,,,"https://images.brickset.com/sets/images/1462-1.jpg",1235,488
+330,"1463","1","Castle","Crusaders","1992","Treasure Cart",1,23,,2,,,"https://images.brickset.com/sets/images/1463-1.jpg",1693,620
+331,"1464","1","Pirates","","1992","Pirate Lookout",1,17,,,,,"https://images.brickset.com/sets/images/1464-1.jpg",1464,591
+358,"1491","1","Castle","Black Knights","1992","Dual Defender",2,48,,,,,"https://images.brickset.com/sets/images/1491-1.jpg",1196,732
+359,"1492","1","Pirates","","1992","Battle Cove",1,26,,,,,"https://images.brickset.com/sets/images/1492-1.jpg",1100,792
+22483,"1583","1","Duplo","","1992","Clown Bucket",3,30,,,,,6,10
+8418,"1594","1","Duplo","","1992","Rabbit and Bear Friend",,13,,,,,"https://images.brickset.com/sets/images/1594-1.jpg",25,16
+22484,"1659","1","Duplo","","1992","Tote Pack",,30,,,,,6,11
+8419,"1664","1","Duplo","","1992","Bird",,2,,,,,"https://images.brickset.com/sets/images/1664-1.jpg",8,15
+22485,"1673","1","Duplo","","1992","Zoo Train",1,8,,,,,7,12
+510,"1693","1","Town","Racing","1992","Racing Car",,26,,,,,"https://images.brickset.com/sets/images/1693-1.jpg",506,206
+511,"1694","1","Space","Blacktron 2","1992","Galactic Scout",1,23,,,,,"https://images.brickset.com/sets/images/1694-1.jpg",644,474
+512,"1695","1","Castle","Crusaders","1992","Treasure Chest",1,23,,,,,"https://images.brickset.com/sets/images/1695-1.jpg",819,535
+513,"1696","1","Pirates","","1992","Pirate Lookout",1,17,,,,,"https://images.brickset.com/sets/images/1696-1.jpg",1165,572
+567,"1750","1","Town","Special","1992","Promotional Set",1,33,,,,,"https://images.brickset.com/sets/images/1750-1.jpg",44,258
+644,"1887","1","Space","Blacktron 2","1992","Scout Patrol Ship",1,30,,,,,"https://images.brickset.com/sets/images/1887-1.jpg",752,601
+645,"1888","1","Castle","Black Knights","1992","Black Knights Guardshack",2,49,,,,,"https://images.brickset.com/sets/images/1888-1.jpg",829,794
+646,"1889","1","Pirates","","1992","Pirates Treasure Hold",1,34,,,,,"https://images.brickset.com/sets/images/1889-1.jpg",782,742
+647,"1890","1","Town","Racing","1992","Octan Racer",1,47,,,,,"https://images.brickset.com/sets/images/1890-1.jpg",780,285
+9538,"1893","1","Duplo","","1992","Jungle bucket",,37,,,,,3,11
+652,"1895","1","Town","Police","1992","Sky Patrol",2,85,,,,,"https://images.brickset.com/sets/images/1895-1.jpg",321,409
+653,"1896","1","Town","Emergency","1992","Trauma Team",5,291,,27.5,,,"https://images.brickset.com/sets/images/1896-1.jpg",863,411
+665,"1924","2","Promotional","Ferries","1992","Viking Line Ferry",,203,,,,,"https://images.brickset.com/sets/images/1924-2.jpg",49,217
+856,"2304","1","Duplo","","1992","Large Building Plate",,1,10.49,14.99,19.99,14.99,"https://images.brickset.com/sets/images/2304-1.jpg",982,34
+22486,"2374","1","Duplo","","1992","Bucket",2,59,,,,,3,10
+22487,"2383","1","Duplo","","1992","Bucket",,61,,,,,3,10
+6353,"2384","1","Duplo","","1992","Farm Bucket",3,67,,,,,8,13
+903,"2387","1","Duplo","","1992","Playtime Bucket",,56,,,,,13,13
+347,"2551","1","Duplo","","1992","Grandma's Kitchen",2,41,,,,,"https://images.brickset.com/sets/images/2551-1.jpg",34,16
+944,"2552","1","Duplo","","1992","Family Home Bucket",2,49,,,,,"https://images.brickset.com/sets/images/2552-1.jpg",21,21
+1170,"2910","1","Duplo","Toolo","1992","Dumper Truck",1,17,,17.5,,,"https://images.brickset.com/sets/images/2910-1.jpg",57,21
+1177,"2920","1","Duplo","Toolo","1992","Digger",1,20,,25,,,"https://images.brickset.com/sets/images/2920-1.jpg",60,19
+1180,"2930","1","Duplo","Toolo","1992","Mobile Crane",2,27,,30,,,36,20
+1188,"2940","1","Duplo","Toolo","1992","Fire Truck",2,32,,45,,,27,25
+4976,"4741","1","Space","Bonus/Value Pack","1992","Blacktron II Space Value Pack",,209,,,,,"https://images.brickset.com/sets/images/4741-1.jpg",72,205
+2489,"5097","1","Service Packs","Duplo","1992","Duplo Sleeping Bags",,3,,,,,"https://images.brickset.com/sets/images/5097-1.jpg",10,20
+2490,"5098","1","Service Packs","Toolo","1992","Duplo Toolo Screwdriver",,1,2.61,2.75,,,"https://images.brickset.com/sets/images/5098-1.jpg",17,26
+2510,"5116","1","Service Packs","Technic","1992","Pneumatic Piston Cylinder 32 mm",,1,,3.25,,,"https://images.brickset.com/sets/images/5116-1.jpg",41,50
+2667,"5273","1","Service Packs","","1992","Tyres and Hubs 62 mm",,4,,,,,"https://images.brickset.com/sets/images/5273-1.jpg",10,34
+2668,"5274","1","Service Packs","","1992","Tyres with Hubs 24 and 30 mm",,16,,4.5,,,"https://images.brickset.com/sets/images/5274-1.jpg",15,28
+2693,"5301","1","Service Packs","Trains","1992","Wagon / Carriage Plate 6 x 28, Grey",,1,,3,,,"https://images.brickset.com/sets/images/5301-1.jpg",34,56
+2694,"5302","1","Service Packs","Trains","1992","Bogie Plates",,2,,2,,,"https://images.brickset.com/sets/images/5302-1.jpg",45,54
+2695,"5303","1","Service Packs","Trains","1992","Buffers and Magnetic Couplings",,6,,3,,,"https://images.brickset.com/sets/images/5303-1.jpg",61,60
+2696,"5304","1","Service Packs","Trains","1992","Wheel Sets",,2,,3,,,"https://images.brickset.com/sets/images/5304-1.jpg",55,63
+2697,"5305","1","Service Packs","Trains","1992","Train Connecting Lead 9 V",,1,,6,,,"https://images.brickset.com/sets/images/5305-1.jpg",53,48
+2698,"5306","1","Service Packs","Trains","1992","Plates 2 x 2 with Wire, 9 V, 26 cm",,1,,,,,"https://images.brickset.com/sets/images/5306-1.jpg",33,46
+2699,"5307","1","Service Packs","Trains","1992","Headlight Brick",,3,,,,,"https://images.brickset.com/sets/images/5307-1.jpg",15,51
+2978,"6009","1","Castle","Black Knights","1992","Black Knight",1,24,,3.25,,,"https://images.brickset.com/sets/images/6009-1.jpg",4488,762
+3006,"6038","1","Castle","Wolfpack","1992","Wolfpack Renegades",2,100,,8,,,"https://images.brickset.com/sets/images/6038-1.jpg",4376,870
+3023,"6057","1","Castle","Black Knights","1992","Sea Serpent",5,126,,16.5,,,"https://images.brickset.com/sets/images/6057-1.jpg",3318,949
+3035,"6075","1","Castle","Wolfpack","1992","Wolfpack Tower",4,236,,29.75,,,"https://images.brickset.com/sets/images/6075-1.jpg",2819,1293
+3049,"6086","1","Castle","Black Knights","1992","Black Knight's Castle",12,588,,85,,,"https://images.brickset.com/sets/images/6086-1.jpg",2467,1686
+3103,"6247","1","Pirates","Imperial Guards","1992","Bounty Boat",3,36,,4.75,,,"https://images.brickset.com/sets/images/6247-1.jpg",3157,706
+3114,"6258","1","Pirates","","1992","Smuggler's Shanty",3,70,,9.25,,,"https://images.brickset.com/sets/images/6258-1.jpg",2846,913
+3119,"6261","1","Pirates","","1992","Raft Raiders",3,81,,13.25,,,"https://images.brickset.com/sets/images/6261-1.jpg",2695,950
+3129,"6271","1","Pirates","Imperial Guards","1992","Imperial Flagship",4,317,,50,,,"https://images.brickset.com/sets/images/6271-1.jpg",2468,1719
+3133,"6277","1","Pirates","Imperial Guards","1992","Imperial Trading Post",9,608,,85,,,"https://images.brickset.com/sets/images/6277-1.jpg",1781,2258
+3162,"6314","1","Town","Accessories","1992","City People",6,33,,7.25,,,"https://images.brickset.com/sets/images/6314-1.jpg",1564,429
+3196,"6346","1","Town","Flight","1992","Shuttle Launching Crew",5,408,,38.5,,,"https://images.brickset.com/sets/images/6346-1.jpg",2546,858
+3202,"6351","1","Town","Leisure","1992","Surf N' Sail Camper",2,188,,19,,,"https://images.brickset.com/sets/images/6351-1.jpg",2419,762
+3253,"6397","1","Town","Shops and Services","1992","Gas N' Wash Express",3,470,,52,,,"https://images.brickset.com/sets/images/6397-1.jpg",2114,969
+3258,"6401","1","Town","Paradisa","1992","Seaside Cabana",2,45,,6.75,,,"https://images.brickset.com/sets/images/6401-1.jpg",1954,434
+3262,"6405","1","Town","Paradisa","1992","Sunset Stables",2,133,,16,,,"https://images.brickset.com/sets/images/6405-1.jpg",1101,417
+3268,"6411","1","Town","Paradisa","1992","Sand Dollar Café",5,168,,29.75,,,"https://images.brickset.com/sets/images/6411-1.jpg",1565,654
+3271,"6416","1","Town","Paradisa","1992","Poolside Paradise",4,229,,38.5,,,"https://images.brickset.com/sets/images/6416-1.jpg",1912,762
+3274,"6419","1","Town","Paradisa","1992","Rolling Acres Ranch",3,364,,46,,,"https://images.brickset.com/sets/images/6419-1.jpg",994,526
+3363,"6511","1","Town","Fire","1992","Rescue Runabout",1,38,,7,,,"https://images.brickset.com/sets/images/6511-1.jpg",2616,281
+3365,"6512","1","Town","Construction","1992","Landscape Loader",1,37,,3.25,,,"https://images.brickset.com/sets/images/6512-1.jpg",3568,312
+3392,"6533","1","Town","Police","1992","Police 4 x 4",1,62,,4.75,,,"https://images.brickset.com/sets/images/6533-1.jpg",2333,324
+3393,"6534","1","Town","Leisure","1992","Beach Bandit",1,44,,4.75,,,"https://images.brickset.com/sets/images/6534-1.jpg",3913,378
+3410,"6551","1","Town","Racing","1992","Checkered Flag 500",6,193,,26.5,,,"https://images.brickset.com/sets/images/6551-1.jpg",1089,421
+3449,"6594","1","Town","Vehicles","1992","Gas Transit",1,124,,13.25,,,"https://images.brickset.com/sets/images/6594-1.jpg",3667,711
+3501,"6648","1","Town","Racing","1992","Mag Racer",1,62,,7.25,,,"https://images.brickset.com/sets/images/6648-1.jpg",2595,412
+3516,"6662","1","Town","Construction","1992","Backhoe",1,85,,7.25,,,"https://images.brickset.com/sets/images/6662-1.jpg",3140,555
+3522,"6668","1","Town","Maintenance","1992","Recycle Truck",1,109,,9.25,,,"https://images.brickset.com/sets/images/6668-1.jpg",3138,693
+3694,"6897","1","Space","Space Police 2","1992","Rebel Hunter",2,140,,21,,,"https://images.brickset.com/sets/images/6897-1.jpg",2776,739
+3732,"6957","1","Space","Space Police 2","1992","Solar Snooper",3,255,,36,,,"https://images.brickset.com/sets/images/6957-1.jpg",1701,892
+3752,"6984","1","Space","Space Police 2","1992","Galactic Mediator",3,406,,60,,,"https://images.brickset.com/sets/images/6984-1.jpg",1501,1182
+4472,"8826","1","Technic","","1992","ATX Sport Cycle",,95,,10,,,"https://images.brickset.com/sets/images/8826-1.jpg",1281,145
+4473,"8828","1","Technic","","1992","Front End Loader",,175,,21,,,"https://images.brickset.com/sets/images/8828-1.jpg",1457,225
+4478,"8836","1","Technic","","1992","Sky Ranger",,273,,29.75,,,"https://images.brickset.com/sets/images/8836-1.jpg",1367,195
+4479,"8837","1","Technic","","1992","Pneumatic Excavator",,257,,47,,,"https://images.brickset.com/sets/images/8837-1.jpg",1351,342
+4481,"8839","1","Technic","","1992","Supply Ship",,532,,59.5,,,"https://images.brickset.com/sets/images/8839-1.jpg",596,382
+4509,"8868","1","Technic","","1992","Air Tech Claw Rig",,954,,139,,,"https://images.brickset.com/sets/images/8868-1.jpg",2557,780
+9396,"9255","1","Dacta","System","1992","Basic Set",,177,,,,,6,16
+23627,"9454","1","Dacta","","1992","Function Set",,356,,,,,4,17
+9294,"9604","1","Dacta","","1992","LEGO Technic and Pneumatic Elements",,124,,36.95,,,"https://images.brickset.com/sets/images/9604-1.jpg",41,49
+9297,"9876","1","Dacta","","1992","Large Turntables",,2,,8.75,,,12,23
+8168,"MINNEAPOLIS","1","Promotional","LEGO brand store opening set","1992","{Bag of Bricks}",,6,,,,,"https://images.brickset.com/sets/images/MINNEAPOLIS-1.jpg",7,65

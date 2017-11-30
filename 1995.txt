@@ -1,0 +1,153 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+22520,"23","2","Town","Product Collection","1995","Value Pack Italy",,161,,,,,"https://images.brickset.com/sets/images/23-2.jpg",21,47
+26815,"1270","3","Creator","","1995","Trial Size Bag (Coloraction promotion)",,15,,,,,"https://images.brickset.com/sets/images/1270-3.jpg",3,18
+493,"1660","1","Promotional","Ferries","1995","Kronprins Frederik Ferry",,163,,,,,"https://images.brickset.com/sets/images/1660-1.jpg",68,211
+534,"1714","1","Space","Spyrius","1995","Surveillance Scooter",1,23,,,,,"https://images.brickset.com/sets/images/1714-1.jpg",782,328
+9436,"1719","2","Freestyle","","1995","Freestyle Bricks and Plates",,199,,,,,9,21
+10358,"1734","1","Duplo","","1995","Large Clown Bucket",,77,,,,,4,10
+556,"1736","1","Castle","Dragon Knights","1995","Wizard's Cart",1,17,,,,,"https://images.brickset.com/sets/images/1736-1.jpg",1595,706
+10359,"1744","1","Duplo","","1995","Medium Bucket",1,51,,,,,"https://images.brickset.com/sets/images/1744-1.jpg",12,10
+564,"1746","1","Castle","Dragon Knights","1995","Wiz the Wizard",1,17,,2.5,,,"https://images.brickset.com/sets/images/1746-1.jpg",443,399
+569,"1759","1","Duplo","","1995","Parrot",,7,,0.6,,,"https://images.brickset.com/sets/images/1759-1.jpg",31,26
+570,"1760","1","Town","Racing","1995","Go-Kart",1,21,,,,,"https://images.brickset.com/sets/images/1760-1.jpg",1170,190
+571,"1761","1","Town","Paradisa","1995","Paradisa Speedboat",1,21,,,,,"https://images.brickset.com/sets/images/1761-1.jpg",937,313
+572,"1762","1","Town","Racing","1995","Hot Wheels",1,21,,,,,"https://images.brickset.com/sets/images/1762-1.jpg",238,127
+5005,"1764","1","Duplo","","1995","Birthday Building Set",,100,,,,,7,15
+10360,"1765","1","Duplo","","1995","Small Bucket",,34,,,,,4,10
+10361,"1766","1","Freestyle","","1995","Small Freestyle Bucket",,109,,,,,13,18
+583,"1785","1","Space","Miscellaneous","1995","Crater Critters",,143,,10,,,"https://images.brickset.com/sets/images/1785-1.jpg",402,233
+584,"1786","1","Town","Police","1995","Jailbreak Joe",4,186,,,,,"https://images.brickset.com/sets/images/1786-1.jpg",425,364
+585,"1787","1","Space","Unitron","1995","Crater Cruiser",2,183,,18,,,"https://images.brickset.com/sets/images/1787-1.jpg",721,555
+586,"1788","1","Pirates","","1995","Treasure Chest",4,159,,22,,,"https://images.brickset.com/sets/images/1788-1.jpg",588,1089
+587,"1789","1","Space","Unitron","1995","Star Hawk II",2,292,,27,,,"https://images.brickset.com/sets/images/1789-1.jpg",746,782
+591,"1793","1","Space","Unitron","1995","Space Station Zenon",3,346,,,,,"https://images.brickset.com/sets/images/1793-1.jpg",377,735
+10362,"1805","1","Duplo","","1995","Small Bucket",,32,,,,,5,10
+601,"1807","1","Town","Seasonal","1995","Santa Claus and Sleigh",1,17,,2,,,"https://images.brickset.com/sets/images/1807-1.jpg",299,227
+22521,"1811","1","Duplo","","1995","Safari",1,27,,,,,4,11
+604,"1814","1","Duplo","Toolo","1995","Starter Set",1,23,,,,,"https://images.brickset.com/sets/images/1814-1.jpg",35,28
+10363,"1820","1","Primo","","1995","Primo Sample Set",,,,,,,3,16
+610,"1822","1","Aquazone","Aquanauts","1995","Sea Claw 7",2,192,,20,,,"https://images.brickset.com/sets/images/1822-1.jpg",1462,604
+616,"1831","1","Town","Special","1995","Maersk Line Container Lorry",1,211,,,,,"https://images.brickset.com/sets/images/1831-1.jpg",212,829
+617,"1836","1","Freestyle","","1995","Freestyle Set",,9,,,,,"https://images.brickset.com/sets/images/1836-1.jpg",87,34
+618,"1837","1","Freestyle","","1995","Freestyle Set",,11,,,,,"https://images.brickset.com/sets/images/1837-1.jpg",102,35
+619,"1838","1","Freestyle","","1995","Freestyle Set",,16,,,,,"https://images.brickset.com/sets/images/1838-1.jpg",79,31
+620,"1839","1","Freestyle","","1995","Freestyle Set",,19,,,,,"https://images.brickset.com/sets/images/1839-1.jpg",54,33
+5802,"1840","1","Freestyle","","1995","Trial Size Bag",,23,,,,,"https://images.brickset.com/sets/images/1840-1.jpg",43,43
+7229,"1844","1","Duplo","","1995","Large Green Bucket",3,90,,,,,13,14
+5803,"1850","1","Freestyle","","1995","Trial Size Bag",,27,,,,,"https://images.brickset.com/sets/images/1850-1.jpg",21,44
+22522,"1852","1","Duplo","","1995","Alligator Bucket",,43,,,,,6,13
+5804,"1860","1","Freestyle","","1995","Trial Size Bag",1,30,,,,,"https://images.brickset.com/sets/images/1860-1.jpg",24,52
+22523,"1863","1","Freestyle","","1995","Freestyle Trial Set",,11,,,,,8,18
+5805,"1870","1","Freestyle","","1995","Trial Size Bag",,36,,,,,"https://images.brickset.com/sets/images/1870-1.jpg",25,39
+670,"1954","1","Space","Spyrius","1995","Surveillance Scooter",1,23,,,,,"https://images.brickset.com/sets/images/1954-1.jpg",1010,322
+762,"2080","1","Duplo","Primo","1995","Small Stack 'n' Learn Set",,9,,,,,"https://images.brickset.com/sets/images/2080-1.jpg",23,16
+764,"2082","1","Duplo","Primo","1995","Medium Stack 'n' Learn Set",1,9,,,,,"https://images.brickset.com/sets/images/2082-1.jpg",13,14
+765,"2084","1","Duplo","Primo","1995","Large Stack 'n' Learn Set",1,14,,,,,"https://images.brickset.com/sets/images/2084-1.jpg",17,15
+767,"2086","1","Duplo","Primo","1995","XLarge Stack 'n' Learn Set",2,18,,,,,15,14
+4940,"2090","1","Primo","","1995","Baby Storage Bear",1,18,,,,,"https://images.brickset.com/sets/images/2090-1.jpg",18,17
+22525,"2324","1","Duplo","","1995","Large Giraffe Bucket",2,48,,,,,3,10
+9697,"2326","1","Duplo","","1995","Green elephant bucket XL",3,,,,,,"https://images.brickset.com/sets/images/2326-1.jpg",4,13
+878,"2338","1","Duplo","","1995","Kitty Cat's Building Set",,36,,,,,8,15
+22526,"2342","1","Duplo","","1995","Small Animals Bucket",,,,,,,3,11
+22527,"2362","1","Duplo","","1995","Large Circus Bucket",2,57,,,,,3,10
+5420,"2364","1","Duplo","","1995","Circus Bucket Green",2,40,,,,,11,15
+893,"2368","1","Duplo","","1995","XLarge Basic Bucket",1,71,,,,,"https://images.brickset.com/sets/images/2368-1.jpg",11,13
+1009,"2659","1","Duplo","","1995","Baby Animals",,8,,8,,,"https://images.brickset.com/sets/images/2659-1.jpg",34,18
+1013,"2663","1","Duplo","","1995","Water Animals",1,20,,15,,,20,18
+1015,"2665","1","Duplo","","1995","Wild Cats",2,21,,,,,13,17
+1017,"2667","1","Duplo","","1995","Animals Park",2,42,,,,,8,18
+1020,"2670","1","Duplo","","1995","Water Park",5,42,,,,,16,19
+1039,"2690","1","Duplo","","1995","Fire Chief",1,6,,8,,,29,19
+1040,"2691","1","Duplo","","1995","Fire Engine",1,12,,18.75,,,31,18
+1041,"2692","1","Duplo","","1995","Fire Heliport",2,18,,,,,7,19
+1042,"2693","1","Duplo","","1995","Fire Station",3,40,,49.5,,,12,20
+1105,"2783","1","Duplo","","1995","Ironing Room",1,6,,,,,16,15
+1107,"2785","1","Duplo","","1995","Living Room",1,9,,8.75,,,16,16
+5012,"2796","1","Duplo","","1995","Pink Carry Case with Handle",3,21,,,,,11,17
+1174,"2915","1","Duplo","Toolo","1995","Mini Digger",1,16,,15,,,"https://images.brickset.com/sets/images/2915-1.jpg",33,22
+1178,"2925","1","Duplo","Toolo","1995","Helicopter",1,20,,25,,,25,22
+1190,"2945","1","Duplo","Toolo","1995","Space Center",2,47,,50,,,"https://images.brickset.com/sets/images/2945-1.jpg",13,28
+1201,"2960","1","Duplo","Toolo","1995","Tool Box",2,42,,,,,"https://images.brickset.com/sets/images/2960-1.jpg",38,31
+4985,"4130","1","Freestyle","","1995","Daft 'n' Dotty",,37,,2,,,"https://images.brickset.com/sets/images/4130-1.jpg",72,28
+1968,"4131","1","Freestyle","","1995","Freestyle Building Set, 3+",,71,,4,,,"https://images.brickset.com/sets/images/4131-1.jpg",81,26
+1969,"4132","1","Freestyle","","1995","Freestyle Building Set, 3+",,122,,,,,"https://images.brickset.com/sets/images/4132-1.jpg",57,28
+1970,"4133","1","Freestyle","","1995","Freestyle Bucket, 3+",,135,,16.5,,,"https://images.brickset.com/sets/images/4133-1.jpg",74,28
+1971,"4134","1","Freestyle","","1995","Freestyle Bucket, 3+",,252,,20,,,"https://images.brickset.com/sets/images/4134-1.jpg",40,26
+1975,"4142","1","Freestyle","","1995","Freestyle Building Set, 4+",,98,,8,,,"https://images.brickset.com/sets/images/4142-1.jpg",48,25
+1976,"4143","1","Freestyle","","1995","Freestyle Building Set, 4+",,196,,,,,22,25
+1977,"4144","1","Freestyle","","1995","Freestyle Brick Vac Bus, 4+",,141,,22,,,32,26
+1978,"4145","1","Freestyle","","1995","Freestyle Playcase (M), 4+",,249,,,,,"https://images.brickset.com/sets/images/4145-1.jpg",58,26
+1979,"4146","1","Freestyle","","1995","Freestyle Bucket, 4+",,410,,33,,,30,24
+4988,"4150","1","Freestyle","","1995","Building Set 5+",1,88,,3.5,,,"https://images.brickset.com/sets/images/4150-1.jpg",64,36
+1981,"4151","1","Freestyle","","1995","Girl's Freestyle Set, 5+",,272,,13,,,"https://images.brickset.com/sets/images/4151-1.jpg",94,39
+1985,"4152","1","Freestyle","","1995","Freestyle Bucket, 5+",2,400,,20,,,"https://images.brickset.com/sets/images/4152-1.jpg",86,36
+1986,"4153","1","Freestyle","","1995","Freestyle Playcase (L), 5+",2,687,,38,,,"https://images.brickset.com/sets/images/4153-1.jpg",84,47
+1987,"4161","1","Freestyle","","1995","Girl's Freestyle Suitcase, 6+",2,283,,20,,,"https://images.brickset.com/sets/images/4161-1.jpg",58,39
+1988,"4162","1","Freestyle","","1995","Freestyle Multibox, 6+",,592,,25,,,"https://images.brickset.com/sets/images/4162-1.jpg",95,42
+1989,"4163","1","Freestyle","","1995","Electric Freestyle Set, 6+",,349,,45,,,"https://images.brickset.com/sets/images/4163-1.jpg",111,42
+2199,"4552","1","Trains","9 V","1995","Cargo Crane",2,282,,38.5,,,"https://images.brickset.com/sets/images/4552-1.jpg",1153,1032
+2202,"4555","1","Trains","9 V","1995","Cargo Station",3,389,,66,,,"https://images.brickset.com/sets/images/4555-1.jpg",1053,989
+2480,"5088","1","Service Packs","Duplo","1995","Duplo Long Beams 2 x 8 Red and Yellow",,4,,,,,"https://images.brickset.com/sets/images/5088-1.jpg",10,19
+2518,"5125","1","Service Packs","Town","1995","Space Port Accessories (Launch Command Accessories)",,31,,3,,,"https://images.brickset.com/sets/images/5125-1.jpg",59,70
+2519,"5126","1","Service Packs","","1995","Crane and Digger Accessories",,18,,3.5,,,"https://images.brickset.com/sets/images/5126-1.jpg",44,71
+2520,"5127","1","Service Packs","","1995","Antennas and Control Sticks",,37,,3,,,"https://images.brickset.com/sets/images/5127-1.jpg",37,55
+2525,"5132","1","Service Packs","","1995","Wheels, Bearings and Suspension",,32,,3.5,,,"https://images.brickset.com/sets/images/5132-1.jpg",41,57
+2527,"5134","1","Service Packs","Pirates","1995","Pirate Cannons with Wheels",,28,,,,,"https://images.brickset.com/sets/images/5134-1.jpg",49,93
+2528,"5135","1","Service Packs","Castle","1995","Castle Accessories",,30,,3.5,,,"https://images.brickset.com/sets/images/5135-1.jpg",87,134
+2529,"5136","1","Service Packs","Belville","1995","Belville Accessories",,10,,,,,"https://images.brickset.com/sets/images/5136-1.jpg",16,35
+2554,"5160","1","Service Packs","Aquazone","1995","Aquazone Accessories",,18,,3,,,"https://images.brickset.com/sets/images/5160-1.jpg",63,111
+2662,"5268","1","Service Packs","","1995","Small Low Profile Tyres",,8,,4,,,"https://images.brickset.com/sets/images/5268-1.jpg",23,33
+2663,"5269","1","Service Packs","Technic","1995","Lift-Arms and Triangles",,12,,3.25,,,"https://images.brickset.com/sets/images/5269-1.jpg",31,42
+2681,"5287","1","Service Packs","Technic","1995","Plates and Gear Racks",,18,,4,,,"https://images.brickset.com/sets/images/5287-1.jpg",15,43
+2682,"5288","1","Service Packs","","1995","Gear Blocks, Housings and Axles",,12,,,,,"https://images.brickset.com/sets/images/5288-1.jpg",28,38
+2804,"5541","1","Model Team","","1995","Blue Fury",,421,,39.5,,,"https://images.brickset.com/sets/images/5541-1.jpg",1067,482
+2872,"5810","1","Belville","","1995","Vanity Fun",1,23,,5.5,,,"https://images.brickset.com/sets/images/5810-1.jpg",208,49
+2883,"5830","1","Belville","","1995","Fun-Day Sundaes",2,29,,11,,,"https://images.brickset.com/sets/images/5830-1.jpg",164,58
+2892,"5840","1","Belville","","1995","Garden Playmates",1,87,,19.75,,,"https://images.brickset.com/sets/images/5840-1.jpg",162,64
+2977,"6008","1","Castle","Royal Knights","1995","Royal King",1,10,,3,,,"https://images.brickset.com/sets/images/6008-1.jpg",3371,648
+3004,"6036","1","Castle","Royal Knights","1995","Skeleton Surprise",2,74,,8,,,"https://images.brickset.com/sets/images/6036-1.jpg",3265,696
+3013,"6044","1","Castle","Royal Knights","1995","King's Carriage",4,124,,16.5,,,"https://images.brickset.com/sets/images/6044-1.jpg",2223,833
+3040,"6078","1","Castle","Royal Knights","1995","Royal Drawbridge",5,258,,30,,,"https://images.brickset.com/sets/images/6078-1.jpg",1843,1060
+3053,"6090","1","Castle","Royal Knights","1995","Royal Knight's Castle",11,764,,95,,,"https://images.brickset.com/sets/images/6090-1.jpg",2458,1807
+3072,"6115","1","Aquazone","Aquasharks","1995","Shark Scout",1,28,,3.5,,,"https://images.brickset.com/sets/images/6115-1.jpg",5692,470
+3073,"6125","1","Aquazone","Aquanauts","1995","Sea Sprint 9",1,32,3.25,4,,,"https://images.brickset.com/sets/images/6125-1.jpg",6229,504
+3079,"6155","1","Aquazone","Aquasharks","1995","Deep Sea Predator",1,103,,22,,,"https://images.brickset.com/sets/images/6155-1.jpg",4220,649
+3082,"6175","1","Aquazone","Aquanauts","1995","Crystal Explorer Sub",2,167,,33,,,"https://images.brickset.com/sets/images/6175-1.jpg",3968,705
+3085,"6195","1","Aquazone","Aquanauts","1995","Neptune Discovery Lab",4,508,,89,,,"https://images.brickset.com/sets/images/6195-1.jpg",2279,1102
+3110,"6254","1","Pirates","","1995","Rocky Reef",3,103,,15,,,"https://images.brickset.com/sets/images/6254-1.jpg",1532,852
+3121,"6263","1","Pirates","Imperial Guards","1995","Imperial Outpost",4,216,,27.5,,,"https://images.brickset.com/sets/images/6263-1.jpg",1550,1259
+3135,"6279","1","Pirates","","1995","Skull Island",6,378,,53,,,"https://images.brickset.com/sets/images/6279-1.jpg",1560,1334
+3186,"6336","1","Town","Launch Command","1995","Launch Response Unit",2,185,,16.5,,,"https://images.brickset.com/sets/images/6336-1.jpg",1904,512
+3188,"6338","1","Town","Coastguard","1995","Hurricane Harbour",3,364,,49.5,,,"https://images.brickset.com/sets/images/6338-1.jpg",1016,849
+3189,"6339","1","Town","Launch Command","1995","Shuttle Launch Pad",4,564,,66,,,"https://images.brickset.com/sets/images/6339-1.jpg",2407,1349
+3269,"6414","1","Town","Paradisa","1995","Dolphin Point",4,207,,33,,,"https://images.brickset.com/sets/images/6414-1.jpg",751,743
+3335,"6484","1","Town","Rescue","1995","F1 Hauler",3,269,,49.5,,,"https://images.brickset.com/sets/images/6484-1.jpg",961,719
+3370,"6516","1","Town","Launch Command","1995","Moon Walker",1,34,,3,,,"https://images.brickset.com/sets/images/6516-1.jpg",3543,376
+3381,"6525","1","Town","Fire","1995","Blaze Commander",1,50,,4.5,,,"https://images.brickset.com/sets/images/6525-1.jpg",1982,256
+3394,"6535","1","Town","Construction","1995","Dumper",1,42,,4.5,,,"https://images.brickset.com/sets/images/6535-1.jpg",1995,309
+3403,"6544","1","Town","Launch Command","1995","Shuttle Transcon 2",3,342,,38.5,,,"https://images.brickset.com/sets/images/6544-1.jpg",1957,891
+3423,"6562","1","Town","Shops and Services","1995","Gas Stop Shop",3,221,,24.5,,,"https://images.brickset.com/sets/images/6562-1.jpg",1441,614
+3451,"6596","1","Town","Boats","1995","Wave Master",1,134,,12,,,"https://images.brickset.com/sets/images/6596-1.jpg",1677,430
+3471,"6614","1","Town","Launch Command","1995","Launch Evac 1",1,122,,9.25,,,"https://images.brickset.com/sets/images/6614-1.jpg",2934,518
+3493,"6639","1","Town","Racing","1995","Raven Racer",1,66,,7.25,,,"https://images.brickset.com/sets/images/6639-1.jpg",1428,219
+3503,"6649","1","Town","Maintenance","1995","Street Sweeper",1,63,,6.75,,,"https://images.brickset.com/sets/images/6649-1.jpg",4092,624
+4144,"8210","1","Technic","","1995","Nitro GTX bike",,86,,20,,,"https://images.brickset.com/sets/images/8210-1.jpg",1993,176
+4154,"8225","1","Technic","","1995","Road Rally V",1,96,,,,,"https://images.brickset.com/sets/images/8225-1.jpg",1554,200
+4160,"8235","1","Technic","","1995","Front End Loader",1,165,,30,,,"https://images.brickset.com/sets/images/8235-1.jpg",969,223
+4184,"8280","1","Technic","","1995","Fire Engine",2,424,,55,,,"https://images.brickset.com/sets/images/8280-1.jpg",663,252
+4246,"8412","1","Technic","","1995","Nighthawk",,286,,29.75,,,"https://images.brickset.com/sets/images/8412-1.jpg",1011,258
+4250,"8422","1","Technic","","1995","Circuit Shock Racer",,315,,33,,,"https://images.brickset.com/sets/images/8422-1.jpg",1252,272
+4265,"8440","1","Technic","","1995","Formula Flash",,414,,54,,,"https://images.brickset.com/sets/images/8440-1.jpg",1135,328
+4283,"8460","1","Technic","","1995","Pneumatic Crane Truck",,850,,99,,,"https://images.brickset.com/sets/images/8460-1.jpg",1151,520
+4300,"8485","1","Technic","","1995","Control Centre II",,1079,,219,,,"https://images.brickset.com/sets/images/8485-1.jpg",877,832
+4854,"9170","1","Dacta","","1995","Community People Set",18,18,,28.6,,,"https://images.brickset.com/sets/images/9170-1.jpg",12,32
+4855,"9171","1","Dacta","","1995","World People",24,24,,38.5,,,"https://images.brickset.com/sets/images/9171-1.jpg",8,32
+9433,"9605","1","Dacta","Technic","1995","4.5V Technic Resource Set",,268,,,,,"https://images.brickset.com/sets/images/9605-1.jpg",15,41
+23267,"9609","1","Dacta","Technic","1995","Technology Resource Set",,1718,,,,,"https://images.brickset.com/sets/images/9609-1.jpg",11,52
+26366,"9652","1","Dacta","Duplo","1995","Fun Time Gears",,27,,,,,"https://images.brickset.com/sets/images/9652-1.jpg",3,7
+9432,"9653","1","Dacta","Duplo","1995","Mechanical Toy Shop",2,32,,,,,4,18
+4838,"9660","1","Dacta","","1995","Early Structures",2,107,,69,,,"https://images.brickset.com/sets/images/9660-1.jpg",10,27
+9399,"9701","1","Dacta","Technic","1995","Control Lab Building Set",,557,,,,,"https://images.brickset.com/sets/images/9701-1.jpg",23,55
+22875,"9751","1","Dacta","Technic","1995","Control Lab Serial Interface & Adapter",,2,,,,,"https://images.brickset.com/sets/images/9751-1.jpg",37,49
+5378,"9891","1","Dacta","","1995","Angle Sensor",,1,,25,,,"https://images.brickset.com/sets/images/9891-1.jpg",51,54
+9299,"9938","1","Dacta","","1995","Conveyor Belt Links",,36,,6.25,,,16,21

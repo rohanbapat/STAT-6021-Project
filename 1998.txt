@@ -1,0 +1,335 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+248,"1298","1","Classic","","1998","Advent Calendar",,216,,20,,,"https://images.brickset.com/sets/images/1298-1.jpg",206,98
+597,"1800","1","Duplo","","1998","Turtle",,6,,,,,"https://images.brickset.com/sets/images/1800-1.jpg",11,19
+709,"2000","1","Primo","","1998","Sally Starfish",,1,,,,,"https://images.brickset.com/sets/images/2000-1.jpg",16,17
+710,"2001","1","Primo","","1998","Sun Set",,3,,7,,,18,17
+4929,"2002","1","Primo","","1998","Jumbo Building Bag",,80,,20,,,6,16
+711,"2007","1","Primo","","1998","Singing Camel",1,1,,13,,,"https://images.brickset.com/sets/images/2007-1.jpg",32,16
+713,"2011","1","Primo","","1998","My Home Stack 'n' Learn Set",1,5,,,,,7,16
+9405,"2012","1","Primo","","1998","Lucy Ladybug",,13,,,,,7,12
+714,"2013","1","Primo","","1998","My First Train Stack 'n' Learn Set",1,9,,,,,13,20
+4932,"2017","1","Primo","","1998","Choo Choo Train",1,13,,20,,,11,21
+717,"2018","1","Primo","","1998","Little Brother Stack 'n' Learn Set",1,19,,15,,,13,17
+6653,"2019","1","Primo","","1998","Bumper Stack and Learn Set",,30,,,,,"https://images.brickset.com/sets/images/2019-1.jpg",8,18
+719,"2021","1","Primo","","1998","Gift Set",,7,,,,,11,17
+720,"2022","1","Primo","","1998","Amy Elephant",,11,,30,,,15,19
+4933,"2028","2","Primo","","1998","Try-Me-Set with Bee",,5,,,,,7,16
+827,"2198","1","Duplo","","1998","Building Plates",,3,8.49,6.99,9.99,11.99,"https://images.brickset.com/sets/images/2198-1.jpg",183,21
+831,"2222","1","Duplo","","1998","Tunnel Fun",1,33,,18,,,"https://images.brickset.com/sets/images/2222-1.jpg",52,23
+832,"2223","1","Duplo","","1998","Spooky House",2,39,,24,,,8,17
+833,"2224","1","Duplo","","1998","Duplo Tub",2,118,,,,,"https://images.brickset.com/sets/images/2224-1.jpg",19,17
+834,"2226","1","Duplo","","1998","Duplo Bucket",,50,,,,,12,14
+836,"2234","1","Town","Special","1998","Police Chase",5,146,,,,,"https://images.brickset.com/sets/images/2234-1.jpg",73,312
+847,"2268","1","Duplo","","1998","Katie Cat Bucket",1,49,,,,,12,13
+848,"2269","1","Duplo","","1998","Build a Zoo",1,89,,,,,7,13
+5379,"2270","1","Duplo","","1998","Spotty Dog Set",,6,,,,,"https://images.brickset.com/sets/images/2270-1.jpg",30,14
+9406,"2271","1","Duplo","","1998","Boy with Barrow",1,4,,,,,6,11
+9407,"2277","1","Duplo","","1998","Boy with Cat",1,8,,,,,7,10
+25914,"2279","1","Duplo","Basic Set","1998","Tubular Motion",2,73,,,,,5,7
+914,"2431","1","Duplo","","1998","Big Chief's Canoe",1,2,,5,,,31,17
+915,"2433","1","Duplo","","1998","Stagecoach",2,8,,13,,,"https://images.brickset.com/sets/images/2433-1.jpg",35,17
+916,"2434","1","Duplo","","1998","Sheriff Jake",2,31,,,,,10,18
+6885,"2435","1","Duplo","","1998","Western Town",4,37,,30,,,7,18
+917,"2436","1","Duplo","","1998","Big Chief's Camp",4,41,,35,,,23,18
+923,"2490","1","Space","Bonus/Value Pack","1998","Insectoids Combined Set",,172,,,,,"https://images.brickset.com/sets/images/2490-1.jpg",58,114
+932,"2531","1","Town","Special","1998","Rescue Chopper",2,99,,,,,"https://images.brickset.com/sets/images/2531-1.jpg",222,325
+933,"2532","1","Town","Special","1998","Aircraft and Ground Crew",3,143,,19.75,,,"https://images.brickset.com/sets/images/2532-1.jpg",158,470
+934,"2535","1","Town","Racing","1998","Formula 1 Racing Car",1,30,,2,,,"https://images.brickset.com/sets/images/2535-1.jpg",859,202
+935,"2536","1","Town","Divers","1998","Divers Jet Ski",1,23,,2,,,"https://images.brickset.com/sets/images/2536-1.jpg",1042,254
+936,"2537","1","Town","Extreme Team","1998","Extreme Team Raft",1,24,,2,,,"https://images.brickset.com/sets/images/2537-1.jpg",1177,244
+937,"2538","1","Castle","Fright Knights","1998","Fire-Cart",1,20,,2,,,"https://images.brickset.com/sets/images/2538-1.jpg",1224,443
+938,"2539","1","Castle","Fright Knights","1998","Flying Machine",1,21,,2,,,"https://images.brickset.com/sets/images/2539-1.jpg",1203,428
+939,"2540","1","Castle","Fright Knights","1998","Catapault Cart",1,28,,2,,,"https://images.brickset.com/sets/images/2540-1.jpg",1374,402
+940,"2541","1","Adventurers","Desert","1998","Adventurers Car",1,24,,2,,,"https://images.brickset.com/sets/images/2541-1.jpg",1246,413
+941,"2542","1","Adventurers","Desert","1998","Adventurers Aeroplane",1,21,,2,,,"https://images.brickset.com/sets/images/2542-1.jpg",1207,421
+942,"2543","1","Space","UFO","1998","Spacecraft",1,18,,2,,,"https://images.brickset.com/sets/images/2543-1.jpg",1095,329
+943,"2544","1","Technic","","1998","Motorcycle",,27,,1.5,,,"https://images.brickset.com/sets/images/2544-1.jpg",880,163
+945,"2554","1","Town","Racing","1998","Formula 1 Pit Stop",5,168,,,,,"https://images.brickset.com/sets/images/2554-1.jpg",536,316
+946,"2555","1","Belville","","1998","Belville Swing Set",2,47,,9,,,"https://images.brickset.com/sets/images/2555-1.jpg",147,84
+947,"2556","1","Model Team","","1998","Ferrari Formula 1 Racing Car",,580,,,,,"https://images.brickset.com/sets/images/2556-1.jpg",896,418
+948,"2580","1","Duplo","","1998","Friendly Animal Bus",5,103,,,,,"https://images.brickset.com/sets/images/2580-1.jpg",16,18
+949,"2584","1","Town","Special","1998","Biker Bob",1,22,,,,,"https://images.brickset.com/sets/images/2584-1.jpg",841,260
+950,"2585","1","Trains","9 V","1998","Track Buggy with Station Master and Cool Kid",2,32,,,,,"https://images.brickset.com/sets/images/2585-1.jpg",620,502
+951,"2586","1","Castle","Miscellaneous","1998","The Crazy LEGO King",1,26,,,,,"https://images.brickset.com/sets/images/2586-1.jpg",539,615
+651,"2599","1","Duplo","","1998","Racing Team",2,13,,13,,,"https://images.brickset.com/sets/images/2599-1.jpg",23,15
+650,"2600","1","Duplo","","1998","Bronto Dinosaurs",2,30,,25,,,6,15
+6646,"2763","1","Duplo","","1998","Playground Bucket",,50,,,,,"https://images.brickset.com/sets/images/2763-1.jpg",8,15
+1126,"2815","1","Duplo","","1998","Bike Ride",1,5,,5,,,9,16
+1127,"2817","1","Duplo","","1998","Birthday",3,30,,25,,,8,15
+1128,"2818","1","Duplo","","1998","Family Home",4,56,,,,,13,16
+5004,"2838","1","Duplo","","1998","Native American Family",4,77,,,,,"https://images.brickset.com/sets/images/2838-1.jpg",13,18
+1145,"2854","1","Technic","Competition","1998","Bungee Chopper",,72,,7,,,"https://images.brickset.com/sets/images/2854-1.jpg",516,141
+6092,"2855","1","Primo","","1998","Baby tiger",,,,,,,"https://images.brickset.com/sets/images/2855-1.jpg",14,22
+1147,"2862","1","Duplo","","1998","Zoo Babies",,8,,6,,,18,16
+1148,"2864","1","Duplo","","1998","Wild Animals",,16,,12,,,"https://images.brickset.com/sets/images/2864-1.jpg",35,21
+5006,"2865","1","Duplo","","1998","Children's Zoo",2,25,,25,,,9,15
+1149,"2866","1","Duplo","","1998","Animal Playground",2,43,,,,,10,16
+1154,"2879","1","Adventurers","Desert","1998","Desert Expedition",5,196,,20,,,"https://images.brickset.com/sets/images/2879-1.jpg",809,911
+1163,"2889","1","Castle","Crusaders","1998","Treasure Cart",1,23,,,,,"https://images.brickset.com/sets/images/2889-1.jpg",259,415
+1164,"2890","1","Castle","Black Knights","1998","Stone Bomber",1,22,,,,,"https://images.brickset.com/sets/images/2890-1.jpg",171,425
+1165,"2891","1","Castle","Dragon Knights","1998","Wizard Trader",1,17,,,,,"https://images.brickset.com/sets/images/2891-1.jpg",295,403
+1166,"2892","1","Castle","Royal Knights","1998","Thunder Arrow Boat",1,21,,,,,"https://images.brickset.com/sets/images/2892-1.jpg",261,340
+23555,"2895","1","Duplo","","1998","Rooster on Wheels",,19,,,,,"https://images.brickset.com/sets/images/2895-1.jpg",8,10
+25862,"2898","1","Primo","","1998","Flower",,,,,,,"https://images.brickset.com/sets/images/2898-1.jpg",6,9
+5019,"2907","1","Freestyle","","1998","Play Desk Set, Blue",,303,,,,,"https://images.brickset.com/sets/images/2907-1.jpg",23,31
+5023,"2922","1","Duplo","","1998","Dinosaur Blocks",,28,,,,,3,17
+1203,"2962","1","Town","Res-Q","1998","Res-Q Lifeguard",2,70,,6.75,,,"https://images.brickset.com/sets/images/2962-1.jpg",478,335
+1204,"2963","1","Town","Extreme Team","1998","Extreme Team Racer",1,84,,6,,,"https://images.brickset.com/sets/images/2963-1.jpg",852,272
+1205,"2964","1","Space","Insectoids","1998","Space Spider",1,46,,6,,,"https://images.brickset.com/sets/images/2964-1.jpg",400,385
+1206,"2965","1","Space","Insectoids","1998","Hornet Scout",2,73,,8,,,"https://images.brickset.com/sets/images/2965-1.jpg",559,388
+1228,"2995","1","Adventurers","Desert","1998","Adventurers Car",2,70,,,,,"https://images.brickset.com/sets/images/2995-1.jpg",1209,870
+1229,"2996","1","Adventurers","Desert","1998","Adventurers Tomb",2,81,,8,,,"https://images.brickset.com/sets/images/2996-1.jpg",486,856
+1230,"2997","1","Duplo","","1998","Duplo Bucket",1,40,,8,,,34,14
+1231,"2998","1","Promotional","Ferries","1998","Stena Line Ferry",1,197,,,,,"https://images.brickset.com/sets/images/2998-1.jpg",92,228
+1240,"3012","1","Space","UFO","1998","Space Hover",1,20,,,,,"https://images.brickset.com/sets/images/3012-1.jpg",397,252
+1241,"3013","1","Space","Spyrius","1998","Space Jet",1,23,,,,,"https://images.brickset.com/sets/images/3013-1.jpg",233,241
+1242,"3014","1","Space","Ice Planet 2002","1998","Ice Planet Scooter",1,19,,,,,"https://images.brickset.com/sets/images/3014-1.jpg",304,301
+1243,"3015","1","Space","Space Police 2","1998","Space Police Car",1,23,,,,,"https://images.brickset.com/sets/images/3015-1.jpg",210,331
+1244,"3016","1","Castle","Ninja","1998","Master and Heavy Gun",1,24,,,,,"https://images.brickset.com/sets/images/3016-1.jpg",208,367
+1245,"3017","1","Castle","Ninja","1998","Ninpo Water Spider",1,25,,2,,,"https://images.brickset.com/sets/images/3017-1.jpg",276,384
+1246,"3018","1","Castle","Ninja","1998","LEGO Shogun Go!",1,25,,,,,"https://images.brickset.com/sets/images/3018-1.jpg",179,407
+1247,"3019","1","Castle","Ninja","1998","Ninpo Big Bat",1,23,,2,,,"https://images.brickset.com/sets/images/3019-1.jpg",405,413
+1249,"3020","1","Adventurers","Desert","1998","Jones' Raft",1,18,,,,,"https://images.brickset.com/sets/images/3020-1.jpg",194,389
+1250,"3021","1","Adventurers","Desert","1998","King Farao Third",1,17,,,,,"https://images.brickset.com/sets/images/3021-1.jpg",237,422
+1251,"3022","1","Adventurers","Desert","1998","Harry Caine's Airplane",1,23,,,,,"https://images.brickset.com/sets/images/3022-1.jpg",152,357
+1252,"3023","1","Adventurers","Desert","1998","Sly Boot's Car",1,24,,,,,"https://images.brickset.com/sets/images/3023-1.jpg",142,415
+1256,"3027","1","Freestyle","","1998","Limited Edition Silver Freestyle Bucket",,411,,10,,,"https://images.brickset.com/sets/images/3027-1.jpg",120,64
+1257,"3028","1","Freestyle","","1998","Limited Edition Silver Freestyle Tub",,836,,20,,,"https://images.brickset.com/sets/images/3028-1.jpg",111,56
+1258,"3029","1","Duplo","","1998","Limited Edition Silver Duplo Bucket",1,71,,10,,,9,16
+1260,"3030","1","Duplo","","1998","Limited Edition Tub with Silver Brick",,141,,20,,,"https://images.brickset.com/sets/images/3030-1.jpg",19,20
+1264,"3037","1","Duplo","","1998","Strata Tub",,140,,20,,,7,14
+1265,"3038","1","Technic","Competition","1998","Super Challenge",2,366,,70,,,"https://images.brickset.com/sets/images/3038-1.jpg",227,131
+1270,"3047","1","Freestyle","","1998","Halloween Bucket",1,251,,10,,,"https://images.brickset.com/sets/images/3047-1.jpg",98,65
+1278,"3054","1","Technic","","1998","Motorcycle",,30,,,,,"https://images.brickset.com/sets/images/3054-1.jpg",182,158
+1279,"3055","1","Adventurers","Desert","1998","Adventurers Car",1,21,,,,,"https://images.brickset.com/sets/images/3055-1.jpg",442,397
+1280,"3056","1","Town","Racing","1998","Go-Kart",1,23,,,,,"https://images.brickset.com/sets/images/3056-1.jpg",207,169
+1318,"3100","1","Scala","","1998","Sporty SCALA Girl",,14,,,,,"https://images.brickset.com/sets/images/3100-1.jpg",30,24
+1319,"3101","1","Scala","","1998","Dressing Up",,11,,,,,"https://images.brickset.com/sets/images/3101-1.jpg",31,21
+1320,"3102","1","Scala","","1998","Leisure Wear for Christian",,11,,,,,16,21
+1321,"3103","1","Scala","","1998","Christian in Blue Blazer",1,9,,7.75,,,24,24
+1322,"3104","1","Scala","","1998","Ashley",1,7,,7.75,,,14,22
+1323,"3105","1","Scala","","1998","Emma in Flower Dress",1,8,,,,,12,20
+1324,"3106","1","Scala","","1998","Marie in Rainbow Skirt",1,10,,,,,12,22
+1325,"3107","1","Scala","","1998","Andrea in Sun Dress",1,8,,,,,11,22
+1326,"3108","1","Scala","","1998","Birthday Accessories",,25,,4.5,,,"https://images.brickset.com/sets/images/3108-1.jpg",26,22
+1329,"3110","1","Scala","","1998","Four Animal Friends",,16,,7,,,"https://images.brickset.com/sets/images/3110-1.jpg",67,36
+1330,"3112","1","Scala","","1998","Baby's Nursery",1,32,,,,,"https://images.brickset.com/sets/images/3112-1.jpg",31,29
+1331,"3114","1","Scala","","1998","My Place",,49,,,,,"https://images.brickset.com/sets/images/3114-1.jpg",27,22
+1332,"3115","1","Scala","","1998","Kitchen",,41,,13.75,,,"https://images.brickset.com/sets/images/3115-1.jpg",59,27
+1333,"3116","1","Scala","","1998","Cool Ice Cream Café",1,65,,,,,"https://images.brickset.com/sets/images/3116-1.jpg",37,29
+1334,"3117","1","Scala","","1998","SCALA Flashy Pool",2,83,,38,,,"https://images.brickset.com/sets/images/3117-1.jpg",38,33
+1335,"3118","1","Scala","","1998","Fun Fashion Boutique",1,116,,54,,,"https://images.brickset.com/sets/images/3118-1.jpg",38,28
+1336,"3119","1","Scala","","1998","Sunshine Home",3,168,,96,,,"https://images.brickset.com/sets/images/3119-1.jpg",54,36
+1338,"3120","1","Scala","","1998","Additional Room",,1,,,,,"https://images.brickset.com/sets/images/3120-1.jpg",22,22
+1388,"3204","1","Scala","","1998","Auntie Jane and Cousin Sophie",2,27,,,,,10,23
+1389,"3205","1","Scala","","1998","Julie's Picnic Lunch",1,26,,,,,15,22
+1390,"3206","1","Scala","","1998","Ashley's Snack Time",1,18,,,,,8,23
+1391,"3210","1","Scala","","1998","Party Dress and Accessories",,22,,,,,10,21
+1392,"3211","1","Scala","","1998","Accessories for Anna",,21,,,,,11,21
+1396,"3220","1","Scala","","1998","My Dad",1,16,,,,,"https://images.brickset.com/sets/images/3220-1.jpg",15,22
+1398,"3225","1","Trains","9 V","1998","Classic Train",3,281,,66,,,"https://images.brickset.com/sets/images/3225-1.jpg",383,759
+1399,"3226","1","Freestyle","","1998","Cars and Planes Set",2,311,,,,,"https://images.brickset.com/sets/images/3226-1.jpg",19,59
+1411,"3244","1","Scala","","1998","Boutique",,,,,,,7,22
+1412,"3245","1","Scala","","1998","Ice Cream Parlour",,,,,,,9,23
+1416,"3260","1","Scala","","1998","Swimming Pool",,,,,,,8,25
+1442,"3302","1","Town","Football","1998","Field Bases",,2,,,,,"https://images.brickset.com/sets/images/3302-1.jpg",449,347
+1443,"3303","1","Town","Football","1998","Goals and Linesmen",3,63,,,,,"https://images.brickset.com/sets/images/3303-1.jpg",517,276
+1444,"3304","1","Town","Football","1998","Dutch Footballer",1,4,,,,,"https://images.brickset.com/sets/images/3304-1.jpg",326,208
+1445,"3305","1","Town","Football","1998","World Team / Scottish Footballer",1,4,,,,,"https://images.brickset.com/sets/images/3305-1.jpg",351,192
+1446,"3306","1","Town","Football","1998","Goalkeepers",2,8,,,,,"https://images.brickset.com/sets/images/3306-1.jpg",270,219
+1447,"3308","1","Town","Football","1998","Side Stand",3,84,,,,,"https://images.brickset.com/sets/images/3308-1.jpg",327,362
+1448,"3309","1","Town","Football","1998","Head Stand",3,96,,,,,"https://images.brickset.com/sets/images/3309-1.jpg",360,361
+1449,"3310","1","Town","Football","1998","Press Box",2,93,,,,,"https://images.brickset.com/sets/images/3310-1.jpg",398,372
+1450,"3311","1","Town","Football","1998","Television Tower",2,99,,,,,"https://images.brickset.com/sets/images/3311-1.jpg",284,410
+1451,"3312","1","Town","Football","1998","Paramedic Unit",2,78,,,,,"https://images.brickset.com/sets/images/3312-1.jpg",278,429
+1452,"3313","1","Town","Football","1998","Lighting Towers",1,96,,,,,"https://images.brickset.com/sets/images/3313-1.jpg",386,441
+1453,"3314","1","Town","Football","1998","Police Unit",4,143,,,,,"https://images.brickset.com/sets/images/3314-1.jpg",341,405
+1454,"3317","1","Town","Football","1998","German Footballer",1,4,,,,,"https://images.brickset.com/sets/images/3317-1.jpg",98,179
+1455,"3318","1","Town","Football","1998","English Footballer",1,4,,,,,"https://images.brickset.com/sets/images/3318-1.jpg",88,191
+1456,"3320","1","Town","Football","1998","Austrian Footballer",1,4,,,,,"https://images.brickset.com/sets/images/3320-1.jpg",37,178
+1457,"3323","1","Town","Football","1998","German Footballer and Ball",1,5,,,,,"https://images.brickset.com/sets/images/3323-1.jpg",23,173
+1458,"3324","1","Town","Football","1998","World Footballer and Ball",1,5,,,,,"https://images.brickset.com/sets/images/3324-1.jpg",63,178
+1539,"3442","1","Town","Vehicles","1998","LEGOLAND California Truck",1,106,,10,,,"https://images.brickset.com/sets/images/3442-1.jpg",634,567
+1601,"3501","1","Znap","","1998","Jet-Car",,26,,,,,"https://images.brickset.com/sets/images/3501-1.jpg",152,52
+1602,"3502","1","Znap","","1998","Bi-Wing",,24,,,,,"https://images.brickset.com/sets/images/3502-1.jpg",128,46
+1603,"3503","1","Znap","","1998","Mini-Sonic",,22,,,,,"https://images.brickset.com/sets/images/3503-1.jpg",127,49
+1604,"3504","1","Znap","","1998","Hook-Truck",,30,,,,,"https://images.brickset.com/sets/images/3504-1.jpg",119,46
+1609,"3510","1","Znap","","1998","Promotional Set",,25,,1,,,"https://images.brickset.com/sets/images/3510-1.jpg",121,46
+1622,"3531","1","Znap","","1998","Tri-Bike",,29,,,,,"https://images.brickset.com/sets/images/3531-1.jpg",65,45
+1623,"3532","1","Znap","","1998","Jet-Ski",,25,,,,,"https://images.brickset.com/sets/images/3532-1.jpg",92,45
+1638,"3551","1","Znap","","1998","Dino-Jet",,80,,10,,,"https://images.brickset.com/sets/images/3551-1.jpg",82,46
+1639,"3552","1","Znap","","1998","Hover Sub",,126,,20,,,"https://images.brickset.com/sets/images/3552-1.jpg",168,51
+1653,"3571","1","Znap","","1998","Blackmobile",,142,,20,,,"https://images.brickset.com/sets/images/3571-1.jpg",175,60
+1656,"3581","1","Znap","","1998","Red Formula 1 with Storage",,171,,20,,,"https://images.brickset.com/sets/images/3581-1.jpg",82,58
+1665,"3591","1","Znap","","1998","Rota-Beast",,265,,30,,,"https://images.brickset.com/sets/images/3591-1.jpg",73,55
+1768,"3722","1","Adventurers","Desert","1998","Treasure Tomb",3,164,,20,,,"https://images.brickset.com/sets/images/3722-1.jpg",509,860
+1806,"3760","1","Freestyle","","1998","Anniversary Bucket",,410,,,,,"https://images.brickset.com/sets/images/3760-1.jpg",20,35
+1807,"3761","1","Freestyle","","1998","Anniversary Tub",,835,,,,,21,28
+1808,"3762","1","Duplo","","1998","Limited Edition Duplo Bucket",1,70,,,,,7,15
+1838,"3888","1","Freestyle","","1998","Three '8's",,182,,,,,"https://images.brickset.com/sets/images/3888-1.jpg",25,27
+1864,"3978","1","Gear","Key Chains/Castle","1998","Magic Wizard Key Chain ",,,,3,,,"https://images.brickset.com/sets/images/3978-1.jpg",181,102
+4946,"4232","1","Freestyle","","1998","Trial Size Bag 3+",,30,,2,,,"https://images.brickset.com/sets/images/4232-1.jpg",28,36
+4947,"4239","1","Freestyle","","1998","Trial Size Bag 5+",1,37,,2,,,"https://images.brickset.com/sets/images/4239-1.jpg",45,42
+2058,"4244","1","Freestyle","","1998","XL Bucket Red",,416,,,,,"https://images.brickset.com/sets/images/4244-1.jpg",33,34
+4948,"4254","1","Freestyle","","1998","Play Table with Cars and Planes",2,305,,15,,,31,28
+4949,"4255","1","Freestyle","","1998","Backpack Set Blue",,400,,25,,,"https://images.brickset.com/sets/images/4255-1.jpg",22,33
+4950,"4258","1","Freestyle","","1998","Imagination Celebration Playscape",,1010,,35,,,25,28
+6648,"4259","1","Freestyle","","1998","Value Bucket XL",,651,,,,,"https://images.brickset.com/sets/images/4259-1.jpg",31,48
+4951,"4267","1","Freestyle","","1998","Blue Bucket",,468,,,,,"https://images.brickset.com/sets/images/4267-1.jpg",47,44
+6649,"4269","1","Freestyle","","1998","Value Bucket",,316,,,,,"https://images.brickset.com/sets/images/4269-1.jpg",41,42
+4952,"4271","1","Freestyle","","1998","Boxed Set Medium",,180,,6,,,17,28
+6650,"4273","1","Freestyle","","1998","Play Table Set",,248,,,,,"https://images.brickset.com/sets/images/4273-1.jpg",9,30
+4953,"4274","1","Freestyle","","1998","Play Desk Blue",1,509,,,,,15,24
+4954,"4276","1","Freestyle","","1998","Build and Store Chest",,801,,,,,9,25
+4955,"4280","1","Freestyle","","1998","Trial Size Bag 3+",,39,,3,,,21,31
+4974,"4304","1","Town","Special","1998","Chopper Cop",1,17,,,,,"https://images.brickset.com/sets/images/4304-1.jpg",397,130
+4975,"4305","1","Space","UFO","1998","Cyborg Scout",1,36,,,,,"https://images.brickset.com/sets/images/4305-1.jpg",489,213
+2411,"5022","1","Service Packs","Primo","1998","Primo / Duplo Converter Bricks",,4,,,,,"https://images.brickset.com/sets/images/5022-1.jpg",16,23
+2412,"5023","1","Service Packs","Duplo","1998","Duplo Farm Fences",,4,,,,,"https://images.brickset.com/sets/images/5023-1.jpg",18,20
+2615,"5225","1","Service Packs","Technic","1998","Technic Geared Motor",,1,,15.75,,,"https://images.brickset.com/sets/images/5225-1.jpg",94,52
+2616,"5226","1","Service Packs","Technic","1998","Technic Assorted Cross Axles",,18,,4,,,"https://images.brickset.com/sets/images/5226-1.jpg",20,42
+2688,"5294","1","Service Packs","Technic","1998","Toggle Joints and Connectors",,60,,4,,,"https://images.brickset.com/sets/images/5294-1.jpg",21,44
+2689,"5295","1","Service Packs","Technic","1998","Steering Accessories",,12,,,,,"https://images.brickset.com/sets/images/5295-1.jpg",15,45
+2732,"5381","1","Service Packs","Adventurers","1998","Adventure Accessories",,27,,4,,,"https://images.brickset.com/sets/images/5381-1.jpg",70,134
+2733,"5382","1","Service Packs","Aquazone","1998","Aquazone Accessories",,19,,4,,,"https://images.brickset.com/sets/images/5382-1.jpg",42,111
+2734,"5383","1","Service Packs","Castle","1998","Castle Accessories",1,34,,3,,,"https://images.brickset.com/sets/images/5383-1.jpg",57,147
+2735,"5384","1","Service Packs","Space","1998","Space Accessories",,21,,4.5,,,"https://images.brickset.com/sets/images/5384-1.jpg",48,102
+2737,"5386","1","Service Packs","","1998","Antenna and Control Sticks",,38,,3,,,"https://images.brickset.com/sets/images/5386-1.jpg",30,55
+2738,"5387","1","Service Packs","Belville","1998","Belville Beach Accessories",,13,,3.5,,,"https://images.brickset.com/sets/images/5387-1.jpg",14,37
+2739,"5388","1","Service Packs","","1998","Hinges, Couplings, Turntables",,26,,3,,,"https://images.brickset.com/sets/images/5388-1.jpg",27,43
+2740,"5389","1","Service Packs","Divers","1998","Diving Accessories",,37,,4.5,,,"https://images.brickset.com/sets/images/5389-1.jpg",41,118
+2741,"5390","1","Service Packs","","1998","Crane and Digger Accessories",,14,,4,,,"https://images.brickset.com/sets/images/5390-1.jpg",26,54
+2754,"5400","1","Service Packs","Scala","1998","LEGO Scala Fashion Accessories",,12,,,,,"https://images.brickset.com/sets/images/5400-1.jpg",6,37
+2755,"5401","1","Service Packs","Scala","1998","LEGO Scala Kitchen Accessories",,14,,,,,"https://images.brickset.com/sets/images/5401-1.jpg",6,60
+2756,"5402","1","Service Packs","Scala","1998","LEGO Scala Floor Plate 17.5 x 35 cm",,1,,,,,"https://images.brickset.com/sets/images/5402-1.jpg",4,29
+2757,"5403","1","Service Packs","Scala","1998","LEGO Scala Floor Plate 35 x 35 cm",,1,,,,,"https://images.brickset.com/sets/images/5403-1.jpg",4,32
+2758,"5404","1","Service Packs","Scala","1998","LEGO Scala Basic House",,28,,,,,"https://images.brickset.com/sets/images/5404-1.jpg",7,29
+2759,"5405","1","Service Packs","Scala","1998","LEGO Scala Floor Plate 17.5 x 35 cm",,1,,,,,"https://images.brickset.com/sets/images/5405-1.jpg",7,29
+2805,"5542","1","Model Team","","1998","Black Thunder",,483,,40,,,"https://images.brickset.com/sets/images/5542-1.jpg",625,615
+2822,"5600","1","Racers","","1998","Radio Control Racer",1,298,,80,,,"https://images.brickset.com/sets/images/5600-1.jpg",613,161
+2826,"5700","1","Gear","Video Games/PC","1998","LEGO Creator",,,,,,,"https://images.brickset.com/sets/images/5700-1.jpg",685,92
+2827,"5701","1","Gear","Video Games/PC","1998","LEGO Loco",,,,10,,,"https://images.brickset.com/sets/images/5701-1.jpg",549,93
+2828,"5702","1","Gear","Video Games/PC","1998","LEGO Chess",,,,10,,,"https://images.brickset.com/sets/images/5702-1.jpg",432,104
+2893,"5841","1","Belville","","1998","Beach Fun",1,41,,,,,"https://images.brickset.com/sets/images/5841-1.jpg",108,60
+2896,"5844","1","Belville","","1998","Dolphin Windsurfer",1,16,,5,,,"https://images.brickset.com/sets/images/5844-1.jpg",127,68
+2897,"5845","1","Belville","","1998","Dolphin Show",1,50,,11,,,"https://images.brickset.com/sets/images/5845-1.jpg",106,60
+2898,"5846","1","Belville","","1998","Desert Island",2,87,,,,,"https://images.brickset.com/sets/images/5846-1.jpg",86,68
+2899,"5847","1","Belville","","1998","Surfers' Paradise",3,130,,,,,"https://images.brickset.com/sets/images/5847-1.jpg",74,70
+2900,"5848","1","Belville","","1998","The Belville Luxury Cruiser",3,223,,44,,,"https://images.brickset.com/sets/images/5848-1.jpg",87,96
+2926,"5900","1","Adventurers","Desert","1998","Adventurer - Johnny Thunder",1,13,,4.25,,,"https://images.brickset.com/sets/images/5900-1.jpg",1083,471
+2933,"5909","1","Adventurers","Desert","1998","Treasure Raiders",5,197,,3.75,,,"https://images.brickset.com/sets/images/5909-1.jpg",446,659
+2938,"5918","1","Adventurers","Desert","1998","Scorpion Tracker",1,35,,4,,,"https://images.brickset.com/sets/images/5918-1.jpg",4541,693
+2939,"5919","1","Adventurers","Desert","1998","The Valley of the Kings",3,164,,20,,,"https://images.brickset.com/sets/images/5919-1.jpg",677,793
+2946,"5928","1","Adventurers","Desert","1998","Bi-Wing Baron",1,70,,6,,,"https://images.brickset.com/sets/images/5928-1.jpg",3427,720
+2950,"5938","1","Adventurers","Desert","1998","Oasis Ambush",3,77,,8,,,"https://images.brickset.com/sets/images/5938-1.jpg",3589,869
+2956,"5948","1","Adventurers","Desert","1998","Desert Expedition",5,196,,20,,,"https://images.brickset.com/sets/images/5948-1.jpg",523,646
+2963,"5958","1","Adventurers","Desert","1998","Mummy's Tomb",4,260,,30,,,"https://images.brickset.com/sets/images/5958-1.jpg",1517,1098
+2966,"5978","1","Adventurers","Desert","1998","Sphinx Secret Surprise",7,347,,50,,,"https://images.brickset.com/sets/images/5978-1.jpg",2429,1226
+2969,"5988","1","Adventurers","Desert","1998","The Temple of Anubis",10,711,,80,,,"https://images.brickset.com/sets/images/5988-1.jpg",2095,1487
+2983,"6013","1","Castle","Ninja","1998","Samurai Swordsman",1,13,,3,,,"https://images.brickset.com/sets/images/6013-1.jpg",1739,607
+2995,"6028","1","Castle","Fright Knights","1998","Treasure Cart",1,22,,,,,"https://images.brickset.com/sets/images/6028-1.jpg",809,464
+2996,"6029","1","Castle","Fright Knights","1998","Treasure Guard",1,22,,2,,,"https://images.brickset.com/sets/images/6029-1.jpg",250,311
+2999,"6031","1","Castle","Fright Knights","1998","Fright Force",4,30,,6,,,"https://images.brickset.com/sets/images/6031-1.jpg",631,586
+3001,"6033","1","Castle","Ninja","1998","Treasure Transport",3,54,,6,,,"https://images.brickset.com/sets/images/6033-1.jpg",1630,539
+3014,"6045","1","Castle","Ninja","1998","Ninja Surprise",3,112,,13,,,"https://images.brickset.com/sets/images/6045-1.jpg",1793,674
+3046,"6083","2","Castle","Ninja","1998","Samurai Stronghold",3,198,,20,,,"https://images.brickset.com/sets/images/6083-2.jpg",1389,870
+3051,"6088","1","Castle","Ninja","1998","Robber's Retreat",4,277,,30,,,"https://images.brickset.com/sets/images/6088-1.jpg",1156,861
+3052,"6089","1","Castle","Ninja","1998","Stone Tower Bridge",5,409,,50,,,"https://images.brickset.com/sets/images/6089-1.jpg",919,1057
+3055,"6093","1","Castle","Ninja","1998","Flying Ninja Fortress",9,694,,90,,,"https://images.brickset.com/sets/images/6093-1.jpg",1002,1074
+3064,"6100","1","Aquazone","Aquasharks","1998","Aquashark Dart",1,24,,,,,"https://images.brickset.com/sets/images/6100-1.jpg",791,350
+3069,"6107","1","Aquazone","Stingrays","1998","Recon Ray",1,20,,3,,,"https://images.brickset.com/sets/images/6107-1.jpg",1426,426
+3070,"6109","1","Aquazone","Stingrays","1998","Sea Creeper",1,79,,10,,,"https://images.brickset.com/sets/images/6109-1.jpg",838,398
+3071,"6110","1","Aquazone","Hydronauts","1998","Solo Sub",1,25,,4,,,"https://images.brickset.com/sets/images/6110-1.jpg",1796,394
+3076,"6140","1","Aquazone","Stingrays","1998","Crab",1,78,,10,,,"https://images.brickset.com/sets/images/6140-1.jpg",616,330
+3078,"6150","1","Aquazone","Hydronauts","1998","Crystal Detector",1,104,,20,,,"https://images.brickset.com/sets/images/6150-1.jpg",692,435
+3080,"6159","1","Aquazone","Hydronauts","1998","Crystal Detector",1,104,,,,,"https://images.brickset.com/sets/images/6159-1.jpg",170,293
+3081,"6160","1","Aquazone","Stingrays","1998","Sea Scorpion",3,301,,35,,,"https://images.brickset.com/sets/images/6160-1.jpg",883,593
+3083,"6180","1","Aquazone","Hydronauts","1998","Hydro Search Sub",4,297,,50,,,"https://images.brickset.com/sets/images/6180-1.jpg",666,637
+3086,"6198","1","Aquazone","Stingrays","1998","Stingray Stormer",4,408,,70,,,"https://images.brickset.com/sets/images/6198-1.jpg",594,707
+3087,"6199","1","Aquazone","Hydronauts","1998","Hydro Crystallisation Station",5,482,,90,,,"https://images.brickset.com/sets/images/6199-1.jpg",493,791
+3173,"6324","1","Town","Police","1998","Chopper Cop",1,17,,3,,,"https://images.brickset.com/sets/images/6324-1.jpg",2104,182
+3174,"6325","1","Town","Vehicles","1998","Package Pick-Up",1,28,,4.75,,,"https://images.brickset.com/sets/images/6325-1.jpg",1167,251
+3175,"6326","1","Town","Accessories","1998","Town Folk",6,35,,6,,,"https://images.brickset.com/sets/images/6326-1.jpg",967,369
+3176,"6327","1","Town","Vehicles","1998","Turbo Champ",2,48,,10,,,"https://images.brickset.com/sets/images/6327-1.jpg",985,184
+3177,"6328","1","Town","Police","1998","Helicopter Transport",2,102,,15,,,"https://images.brickset.com/sets/images/6328-1.jpg",1101,309
+3178,"6329","1","Town","City","1998","Truck Stop",3,137,,25,,,"https://images.brickset.com/sets/images/6329-1.jpg",406,355
+3180,"6330","1","Town","City","1998","Cargo Center",5,242,,49.75,,,"https://images.brickset.com/sets/images/6330-1.jpg",288,436
+3182,"6332","1","Town","Police","1998","Command Post Central",7,272,,60,,,"https://images.brickset.com/sets/images/6332-1.jpg",886,424
+3183,"6333","1","Town","Vehicles","1998","Race and Chase",2,50,,,,,"https://images.brickset.com/sets/images/6333-1.jpg",330,166
+3270,"6415","1","Town","Res-Q","1998","Res-Q Jet-Ski",1,18,,,,,"https://images.brickset.com/sets/images/6415-1.jpg",1187,218
+3276,"6420","1","Town","Postal","1998","Mail Carrier",1,12,,2,,,"https://images.brickset.com/sets/images/6420-1.jpg",1227,636
+3277,"6422","1","Town","Maintenance","1998","Telephone Repair",1,43,,8.75,,,"https://images.brickset.com/sets/images/6422-1.jpg",1173,356
+3279,"6424","1","Town","Vehicles","1998","Rig Racers",3,101,,20,,,"https://images.brickset.com/sets/images/6424-1.jpg",369,207
+3281,"6426","1","Town","City","1998","Super Cycle Center",4,137,,30,,,"https://images.brickset.com/sets/images/6426-1.jpg",696,376
+3283,"6428","1","Town","Res-Q","1998","Wave Saver",1,18,,2,,,"https://images.brickset.com/sets/images/6428-1.jpg",405,171
+3287,"6431","1","Town","Res-Q","1998","Road Rescue",1,48,,4,,,"https://images.brickset.com/sets/images/6431-1.jpg",2237,320
+3300,"6445","1","Town","Res-Q","1998","Emergency Evac",1,101,,8,,,"https://images.brickset.com/sets/images/6445-1.jpg",3186,348
+3305,"6451","1","Town","Res-Q","1998","River Response",3,153,,20,,,"https://images.brickset.com/sets/images/6451-1.jpg",1756,445
+3316,"6462","1","Town","Res-Q","1998","Aerial Recovery",3,194,,25,,,"https://images.brickset.com/sets/images/6462-1.jpg",2040,549
+3326,"6473","1","Town","Res-Q","1998","Res-Q Cruiser",3,305,,35,,,"https://images.brickset.com/sets/images/6473-1.jpg",1124,661
+3330,"6479","1","Town","Res-Q","1998","Emergency Response Center",5,423,,60,,,"https://images.brickset.com/sets/images/6479-1.jpg",846,624
+3428,"6567","1","Town","Extreme Team","1998","Speed Splash",1,29,,3,,,"https://images.brickset.com/sets/images/6567-1.jpg",1995,259
+3429,"6568","1","Town","Extreme Team","1998","Drag Race Rally",4,292,,30,,,"https://images.brickset.com/sets/images/6568-1.jpg",544,268
+3432,"6572","1","Town","Extreme Team","1998","Wind Runners",2,52,,6,,,"https://images.brickset.com/sets/images/6572-1.jpg",1509,234
+3438,"6580","1","Town","Extreme Team","1998","Land Jet 7",2,109,,12,,,"https://images.brickset.com/sets/images/6580-1.jpg",1447,335
+3440,"6582","1","Town","Extreme Team","1998","Daredevil Flight Squad",3,287,,30,,,"https://images.brickset.com/sets/images/6582-1.jpg",534,423
+3441,"6584","1","Town","Extreme Team","1998","Extreme Team Challenge",4,350,,50,,,"https://images.brickset.com/sets/images/6584-1.jpg",711,534
+3442,"6585","1","Town","Extreme Team","1998","Hang-Glider",1,19,,2.5,,,"https://images.brickset.com/sets/images/6585-1.jpg",1069,258
+3444,"6589","1","Town","Extreme Team","1998","Radical Racer",1,82,,10,,,"https://images.brickset.com/sets/images/6589-1.jpg",393,225
+3632,"6817","1","Space","Insectoids","1998","Beta Buzzer",1,33,,4,,,"https://images.brickset.com/sets/images/6817-1.jpg",1693,326
+3651,"6837","1","Space","Insectoids","1998","Cosmic Creeper",1,58,,8,,,"https://images.brickset.com/sets/images/6837-1.jpg",1555,338
+3698,"6901","2","Space","UFO","1998","Space Plane",1,20,,,,,"https://images.brickset.com/sets/images/6901-2.jpg",799,297
+3700,"6902","1","Space","UFO","1998","Space Plane",1,20,,2,,,"https://images.brickset.com/sets/images/6902-1.jpg",318,211
+3701,"6903","1","Space","Insectoids","1998","Bug Blaster",1,25,,3,,,"https://images.brickset.com/sets/images/6903-1.jpg",2034,309
+3702,"6905","1","Space","Insectoids","1998","Bi-Wing Blaster",2,114,,15,,,"https://images.brickset.com/sets/images/6905-1.jpg",681,390
+3703,"6907","1","Space","Insectoids","1998","Sonic Stinger",1,96,,22,,,"https://images.brickset.com/sets/images/6907-1.jpg",1278,392
+3704,"6909","1","Space","Insectoids","1998","Sonic Stinger (Promotional Pack)",1,96,,20,,,"https://images.brickset.com/sets/images/6909-1.jpg",300,205
+3706,"6919","1","Space","Insectoids","1998","Planetary Prowler",2,250,,35,,,"https://images.brickset.com/sets/images/6919-1.jpg",1036,431
+3738,"6969","1","Space","Insectoids","1998","Celestial Stinger",3,256,,50,,,"https://images.brickset.com/sets/images/6969-1.jpg",955,474
+3745,"6977","1","Space","Insectoids","1998","Arachnoid Star Base",4,437,,80,,,"https://images.brickset.com/sets/images/6977-1.jpg",839,524
+4136,"8202","1","Technic","Competition","1998","Bungee Chopper",,72,,7,,,"https://images.brickset.com/sets/images/8202-1.jpg",1077,117
+4137,"8203","1","Technic","Microtechnic","1998","Rover Discovery",,37,,,,,"https://images.brickset.com/sets/images/8203-1.jpg",369,120
+4138,"8204","1","Technic","Microtechnic","1998","Sky Flyer 1",,41,,,,,"https://images.brickset.com/sets/images/8204-1.jpg",299,130
+4141,"8208","1","Technic","Microtechnic","1998","Custom Cruiser",,53,,,,,"https://images.brickset.com/sets/images/8208-1.jpg",540,220
+4142,"8209","1","Technic","Microtechnic","1998","Future F1",,49,,,,,"https://images.brickset.com/sets/images/8209-1.jpg",392,169
+4145,"8213","1","Technic","","1998","Spy Runner",,98,,10,,,"https://images.brickset.com/sets/images/8213-1.jpg",830,130
+4148,"8217","1","Technic","Microtechnic","1998","The Wasp",,64,,,,,"https://images.brickset.com/sets/images/8217-1.jpg",263,157
+4149,"8218","1","Technic","Microtechnic","1998","Trike Tourer",,70,,,,,"https://images.brickset.com/sets/images/8218-1.jpg",384,151
+4150,"8219","1","Technic","","1998","Racer",,103,,,,,"https://images.brickset.com/sets/images/8219-1.jpg",233,208
+4155,"8226","1","Technic","","1998","Mud Masher",,127,,13,,,"https://images.brickset.com/sets/images/8226-1.jpg",1397,175
+4159,"8233","1","Technic","Competition","1998","Blue Thunder vs. The Stinger",1,120,,,,,"https://images.brickset.com/sets/images/8233-1.jpg",670,127
+4164,"8239","1","Technic","Competition","1998","Cyber Slam Spider",1,120,,,,,"https://images.brickset.com/sets/images/8239-1.jpg",271,113
+4169,"8245","1","Technic","Competition","1998","Robots Revenge",1,222,,30,,,"https://images.brickset.com/sets/images/8245-1.jpg",453,130
+4172,"8248","1","Technic","","1998","Forklift",1,231,,33,,,"https://images.brickset.com/sets/images/8248-1.jpg",589,247
+4178,"8257","1","Technic","Competition","1998","Cyber Strikers",2,367,,50,,,"https://images.brickset.com/sets/images/8257-1.jpg",797,146
+4179,"8266","1","Technic","Competition","1998","Spyder Slayer",2,366,,70,,,"https://images.brickset.com/sets/images/8266-1.jpg",291,116
+4248,"8417","1","Technic","","1998","Mag Wheel Master",,317,,30,,,"https://images.brickset.com/sets/images/8417-1.jpg",1065,281
+4252,"8428","1","Technic","","1998","Concept Car",,471,,44,,,"https://images.brickset.com/sets/images/8428-1.jpg",725,278
+4257,"8432","1","Technic","","1998","Concept Car",,471,,,,,"https://images.brickset.com/sets/images/8432-1.jpg",524,310
+4285,"8462","1","Technic","","1998","Tow Truck",,774,,122,,,"https://images.brickset.com/sets/images/8462-1.jpg",1256,527
+4299,"8482","1","Technic","Competition","1998","CyberMaster",1,900,,,,,"https://images.brickset.com/sets/images/8482-1.jpg",367,149
+4996,"8483","1","Technic","","1998","CyberMaster",1,900,,,,,"https://images.brickset.com/sets/images/8483-1.jpg",139,113
+4873,"9020","1","Dacta","","1998","LEGO Soft Starter Set",,84,,235.75,,,"https://images.brickset.com/sets/images/9020-1.jpg",16,37
+4865,"9071","1","Dacta","","1998","Building Plates",,2,,18.5,,,"https://images.brickset.com/sets/images/9071-1.jpg",42,41
+4890,"9137","1","Dacta","","1998","Farm Animals Set",2,32,,30.25,,,"https://images.brickset.com/sets/images/9137-1.jpg",14,26
+4891,"9139","1","Dacta","","1998","Push Train Set",2,74,,76.5,,,"https://images.brickset.com/sets/images/9139-1.jpg",19,26
+4876,"9203","2","Dacta","","1998","Tech Machines",6,117,,105,,,"https://images.brickset.com/sets/images/9203-2.jpg",10,35
+4867,"9243","1","Dacta","","1998","Doors, Windows and Roof Tiles",,240,,,,,"https://images.brickset.com/sets/images/9243-1.jpg",64,66
+4842,"9251","1","Dacta","","1998","Big Bulk Set",,576,,23.75,,,"https://images.brickset.com/sets/images/9251-1.jpg",33,41
+9300,"9265","1","Dacta","","1998","Roof Tiles",,250,,25.25,,,"https://images.brickset.com/sets/images/9265-1.jpg",23,27
+4868,"9269","1","Dacta","","1998","Wheels and Axles",,288,,34,,,"https://images.brickset.com/sets/images/9269-1.jpg",24,53
+4869,"9286","1","Dacta","","1998","Building Plates Set",,4,,21,,,"https://images.brickset.com/sets/images/9286-1.jpg",164,115
+9394,"9370","1","Dacta","Town","1998","Lego System Road Plates",,10,,,,,"https://images.brickset.com/sets/images/9370-1.jpg",16,35
+4730,"9377","1","Dacta","Adventurers","1998","Adventurers combined set",,3,,89.25,,,"https://images.brickset.com/sets/images/9377-1.jpg",21,153
+4556,"9713","1","Mindstorms","1.0","1998","Infrared Transmission Tower",,2,,25,,,"https://images.brickset.com/sets/images/9713-1.jpg",130,85
+4557,"9719","1","Mindstorms","1.0","1998","Robotics Invention System",,733,,200,,,"https://images.brickset.com/sets/images/9719-1.jpg",793,106
+4909,"9725","1","Dacta","","1998","Amusement Park Set",5,301,,100,,,"https://images.brickset.com/sets/images/9725-1.jpg",18,76
+4558,"9730","1","Mindstorms","1.0","1998","Robo Sports",,91,,50,,,"https://images.brickset.com/sets/images/9730-1.jpg",298,109
+4560,"9732","1","Mindstorms","1.0","1998","Extreme Creatures",,148,,50,,,"https://images.brickset.com/sets/images/9732-1.jpg",315,126
+26512,"9780","1","Education","","1998","ROBOLAB Starter Building Set",4,1701,,,,,5,10
+4862,"9806","1","Gear","Furniture","1998","Play Table",,,,,,,"https://images.brickset.com/sets/images/9806-1.jpg",8,43
+9298,"9937","1","Dacta","","1998","Small Chain Links",,108,,7.5,,,13,20
+9418,"78579","1","Town","Product Collection","1998","Action Pack",,93,,9.99,,,"https://images.brickset.com/sets/images/78579-1.jpg",22,43
+5204,"880001","1","Technic","Product collection","1998","Competition Racers and Stop Watch",,3,,,,,"https://images.brickset.com/sets/images/880001-1.jpg",46,91
+5462,"880002","1","Town","Product Collection","1998","World Cup Starter Set",,7,,,,,"https://images.brickset.com/sets/images/880002-1.jpg",94,147
+25781,"ISBN1570541574","1","Books","Klutz","1998","Crazy Action Contraptions: A LEGO Ideas Book",,,,,,,"https://images.brickset.com/sets/images/ISBN1570541574-1.jpg",162,31

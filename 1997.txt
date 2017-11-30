@@ -1,0 +1,226 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+9581,"54","1","Space","UFO","1997","UFO Action Pack",,96,,,,,"https://images.brickset.com/sets/images/54-1.jpg",16,76
+3739,"697","2","Books","LEGO","1997","Building Ideas Book",,,,,,,"https://images.brickset.com/sets/images/697-2.jpg",554,157
+558,"1739","1","Duplo","","1997","Penguin",,8,,,,,"https://images.brickset.com/sets/images/1739-1.jpg",29,31
+22454,"1781","1","Duplo","","1997","Dino Babies",,90,,,,,5,13
+581,"1782","1","Town","Divers","1997","Discovery Station",5,322,,50,,,"https://images.brickset.com/sets/images/1782-1.jpg",460,794
+582,"1783","1","Primo","","1997","Primo Rattle",,2,,1,,,"https://images.brickset.com/sets/images/1783-1.jpg",32,26
+4930,"2003","1","Primo","","1997","Jumbo Building Bag",1,80,,20,,,11,16
+22456,"2009","2","Primo","","1997","Large Bulk Box",,25,,,,,4,12
+712,"2010","1","Primo","","1997","Baby Walker",1,14,,30,,,"https://images.brickset.com/sets/images/2010-1.jpg",47,24
+763,"2081","1","Primo","","1997","Stack 'n' Learn Starter Set",,6,,4,,,12,16
+4938,"2083","1","Primo","","1997","Medium Stack 'n' Learn Set",1,8,,8,,,6,16
+766,"2085","1","Primo","","1997","Frederick Frog",,13,,10,,,9,16
+4939,"2087","1","Primo","","1997","Polly Parrot Storage Bird",,18,,15,,,"https://images.brickset.com/sets/images/2087-1.jpg",12,16
+768,"2089","1","Primo","","1997","Stack 'n' Learn Gift Set",1,23,,20,,,7,17
+771,"2093","1","Primo","","1997","The Ladybird Rattle",,1,,,,,"https://images.brickset.com/sets/images/2093-1.jpg",19,19
+772,"2094","1","Primo","","1997","Cozy Duck",,2,,,,,"https://images.brickset.com/sets/images/2094-1.jpg",13,17
+773,"2095","1","Primo","","1997","Roll 'n' Play Ball",,2,,5,,,24,16
+774,"2096","1","Primo","","1997","Stack-a-Mouse",,6,,9,,,"https://images.brickset.com/sets/images/2096-1.jpg",13,16
+775,"2097","1","Primo","","1997","Caterpillar and Friends",,3,,10,,,"https://images.brickset.com/sets/images/2097-1.jpg",63,19
+776,"2098","1","Primo","","1997","Bathtime Boat",1,2,,10,,,21,18
+777,"2099","1","Primo","","1997","The Shape Sorter",,10,,15,,,"https://images.brickset.com/sets/images/2099-1.jpg",15,18
+787,"2124","1","Duplo","","1997","Green Bucket",1,39,,,,,"https://images.brickset.com/sets/images/2124-1.jpg",36,16
+22457,"2125","1","Duplo","","1997","Large Bucket",1,70,,,,,5,10
+788,"2126","1","Trains","9 V","1997","Train Cars",5,378,,69.5,,,"https://images.brickset.com/sets/images/2126-1.jpg",491,771
+790,"2129","1","Technic","","1997","Blast-Off Dragster",,63,,7,,,"https://images.brickset.com/sets/images/2129-1.jpg",725,155
+802,"2147","1","Town","Special","1997","Dragon Fly",2,183,,28,,,"https://images.brickset.com/sets/images/2147-1.jpg",299,315
+803,"2148","1","Town","Vehicles","1997","LEGO Truck",1,105,,11,,,"https://images.brickset.com/sets/images/2148-1.jpg",1024,627
+804,"2149","1","Town","Special","1997","Color Line Container Lorry",1,191,,,,,"https://images.brickset.com/sets/images/2149-1.jpg",190,660
+806,"2151","1","Space","RoboForce","1997","Robo Raider",1,136,,12,,,"https://images.brickset.com/sets/images/2151-1.jpg",990,357
+807,"2152","1","Space","RoboForce","1997","Robo Raptor",1,221,,20,,,"https://images.brickset.com/sets/images/2152-1.jpg",892,407
+808,"2153","1","Space","RoboForce","1997","Robo Stalker",2,280,,30,,,"https://images.brickset.com/sets/images/2153-1.jpg",648,380
+809,"2154","1","Space","RoboForce","1997","Robo Master",2,366,,36,,,"https://images.brickset.com/sets/images/2154-1.jpg",497,482
+814,"2160","1","Aquazone","Aquaraiders","1997","Crystal Scavenger",1,110,,15,,,"https://images.brickset.com/sets/images/2160-1.jpg",916,504
+815,"2161","1","Aquazone","Aquaraiders","1997","Aqua Dozer",1,136,,25,,,"https://images.brickset.com/sets/images/2161-1.jpg",728,489
+816,"2162","1","Aquazone","Aquaraiders","1997","Hydro Reef Wrecker",2,287,,40,,,"https://images.brickset.com/sets/images/2162-1.jpg",514,527
+22458,"2168","1","Primo","","1997","Rattle",,2,,,,,"https://images.brickset.com/sets/images/2168-1.jpg",9,15
+822,"2181","1","Town","Special","1997","Infomaniac",1,4,,,,,"https://images.brickset.com/sets/images/2181-1.jpg",166,355
+823,"2186","1","Freestyle","","1997","Freestyle Set",1,73,,,,,"https://images.brickset.com/sets/images/2186-1.jpg",43,47
+824,"2187","1","Freestyle","","1997","Freestyle Set",1,60,,,,,"https://images.brickset.com/sets/images/2187-1.jpg",35,45
+825,"2188","1","Freestyle","","1997","Freestyle Set",1,56,,,,,"https://images.brickset.com/sets/images/2188-1.jpg",16,43
+6898,"2189","1","Duplo","","1997","Pony Set",,3,,,,,4,13
+837,"2241","1","Duplo","","1997","Basic Set",,32,,,,,"https://images.brickset.com/sets/images/2241-1.jpg",16,13
+838,"2242","1","Duplo","","1997","Extra Bricks (S)",,50,,,,,"https://images.brickset.com/sets/images/2242-1.jpg",34,16
+839,"2245","1","Duplo","","1997","Farmhouse Bucket",1,46,,,,,9,14
+22461,"2246","1","Duplo","","1997","Large Basic Set",,,,,,,2,10
+840,"2247","1","Duplo","","1997","Extra Bricks (M)",,99,,,,,"https://images.brickset.com/sets/images/2247-1.jpg",12,13
+22540,"2249","1","Duplo","","1997","Basic Set",,,,,,,2,11
+843,"2251","1","Duplo","","1997","Horse 'n' Home",,72,,,,,5,14
+844,"2252","1","Duplo","","1997","Basic Cannister Set",1,36,,,,,5,14
+846,"2261","1","Duplo","","1997","Happy Gardener",1,10,,4,,,"https://images.brickset.com/sets/images/2261-1.jpg",12,14
+22463,"2262","1","Duplo","","1997","Basic Set",1,20,,,,,3,11
+22462,"2264","1","Duplo","","1997","Medium Bucket",1,48,,,,,8,10
+22464,"2265","1","Duplo","","1997","Large Puppy Clearpack",,71,,,,,5,10
+5800,"2266","1","Duplo","","1997","Extra Large Value Bucket",2,91,,20,,,"https://images.brickset.com/sets/images/2266-1.jpg",19,16
+22465,"2581","1","Duplo","","1997","School Bus",,70,,,,,6,10
+957,"2601","1","Duplo","","1997","Mother & Baby",,7,,7,,,23,15
+958,"2602","1","Duplo","","1997","Family Home",2,27,,18,,,17,16
+649,"2603","1","Duplo","","1997","Dinosaur Tub",2,70,,20,,,"https://images.brickset.com/sets/images/2603-1.jpg",32,25
+959,"2604","1","Duplo","","1997","Dino World",4,58,,70,,,27,18
+545,"2605","1","Duplo","","1997","Dinosaur Park",4,42,,40,,,15,19
+960,"2606","1","Duplo","","1997","Dump Truck",1,6,,8.75,,,"https://images.brickset.com/sets/images/2606-1.jpg",48,16
+961,"2607","1","Duplo","","1997","Speed Car",1,4,,,,,"https://images.brickset.com/sets/images/2607-1.jpg",73,18
+9344,"2684","1","Duplo","","1997","Dinghy",1,3,,,,,"https://images.brickset.com/sets/images/2684-1.jpg",40,14
+1035,"2687","1","Duplo","","1997","Harbour",3,47,,52,,,12,19
+5010,"2761","1","Duplo","","1997","Pony Stables",2,41,,20,,,3,13
+5011,"2762","1","Duplo","","1997","Family Fun Playground",3,46,,27,,,5,13
+1120,"2805","1","Duplo","","1997","Pony Club",2,13,,,,,10,14
+1121,"2806","1","Duplo","","1997","Dino Mini Set",1,4,,3,,,"https://images.brickset.com/sets/images/2806-1.jpg",45,20
+1140,"2845","1","Western","Indians","1997","Indian Chief",1,20,0,0,,,"https://images.brickset.com/sets/images/2845-1.jpg",895,626
+1141,"2846","1","Western","Indians","1997","Indian Kayak",1,18,0,0,,,"https://images.brickset.com/sets/images/2846-1.jpg",641,586
+1142,"2847","1","Space","UFO","1997","Flyer",1,15,,,,,"https://images.brickset.com/sets/images/2847-1.jpg",855,380
+1143,"2848","1","Castle","Fright Knights","1997","Flying Machine",1,19,,,,,"https://images.brickset.com/sets/images/2848-1.jpg",833,441
+1144,"2849","1","Town","Flight","1997","Helicopter",1,20,,,,,"https://images.brickset.com/sets/images/2849-1.jpg",690,150
+22541,"2851","1","Duplo","","1997","Medium Dino Bucket",1,31,,,,,6,13
+22542,"2852","1","Duplo","","1997","Large Dino Bucket",2,57,,,,,7,13
+1150,"2870","1","Town","Paradisa","1997","Paradisa Barbeque",1,19,,,,,"https://images.brickset.com/sets/images/2870-1.jpg",610,481
+1151,"2871","1","Town","Divers","1997","Diver and Shark",1,16,,,,,"https://images.brickset.com/sets/images/2871-1.jpg",534,413
+1152,"2872","1","Castle","Fright Knights","1997","Witch and Fireplace",1,19,,,,,"https://images.brickset.com/sets/images/2872-1.jpg",1128,627
+1155,"2880","1","Town","Vehicles","1997","Open-Top Jeep",,29,,,,,"https://images.brickset.com/sets/images/2880-1.jpg",543,184
+1156,"2881","1","Town","Vehicles","1997","Parking Gate Attendant",1,19,,,,,"https://images.brickset.com/sets/images/2881-1.jpg",436,333
+1157,"2882","1","Town","Boats","1997","Speedboat",1,22,,,,,"https://images.brickset.com/sets/images/2882-1.jpg",459,192
+1158,"2883","1","Town","Boats","1997","Boat",,28,,,,,"https://images.brickset.com/sets/images/2883-1.jpg",107,183
+1159,"2884","1","Town","Flight","1997","Microlight",1,20,,,,,"https://images.brickset.com/sets/images/2884-1.jpg",441,157
+1160,"2885","1","Town","Shops and Services","1997","Ice Cream Seller",1,27,,,,,"https://images.brickset.com/sets/images/2885-1.jpg",531,459
+1161,"2886","1","Town","Racing","1997","Formula 1 Racing Car",,25,,2,,,"https://images.brickset.com/sets/images/2886-1.jpg",723,199
+1162,"2887","1","Town","Shops and Services","1997","Petrol Station Attendant and Pump",1,15,,,,,"https://images.brickset.com/sets/images/2887-1.jpg",350,239
+1384,"3200","1","Scala","","1997","Beauty Studio",1,31,,16.5,,,"https://images.brickset.com/sets/images/3200-1.jpg",29,22
+1385,"3201","1","Scala","","1997","Living Room",1,31,,,,,"https://images.brickset.com/sets/images/3201-1.jpg",26,21
+1386,"3202","1","Scala","","1997","Laundry Room",1,42,,,,,"https://images.brickset.com/sets/images/3202-1.jpg",22,22
+1387,"3203","1","Scala","","1997","Dressing Table",1,18,,,,,"https://images.brickset.com/sets/images/3203-1.jpg",33,23
+1407,"3240","1","Scala","","1997","Ashley's Miniature Garden",1,54,,,,,"https://images.brickset.com/sets/images/3240-1.jpg",23,23
+1408,"3241","1","Scala","","1997","Nursery",2,54,,22,,,"https://images.brickset.com/sets/images/3241-1.jpg",26,21
+1409,"3242","1","Scala","","1997","Bathroom",1,76,,,,,"https://images.brickset.com/sets/images/3242-1.jpg",29,23
+1410,"3243","1","Scala","","1997","Kitchen",2,92,,26.5,,,"https://images.brickset.com/sets/images/3243-1.jpg",27,24
+1422,"3270","1","Scala","","1997","Dream Cottage",1,120,,76,,,"https://images.brickset.com/sets/images/3270-1.jpg",23,25
+1440,"3290","1","Scala","","1997","The Big Family House",3,265,,,,,"https://images.brickset.com/sets/images/3290-1.jpg",37,26
+4992,"4055","1","Freestyle","","1997","Value Bucket Medium",,322,,10,,,"https://images.brickset.com/sets/images/4055-1.jpg",102,43
+4991,"4128","1","Freestyle","","1997","XL Value Bucket",,650,,,,,"https://images.brickset.com/sets/images/4128-1.jpg",160,52
+4984,"4129","1","Freestyle","","1997","Trial Size Bag",,27,,1.5,,,23,24
+1973,"4137","1","Freestyle","","1997","Freestyle Clearpack (S), 3+",,131,,15,,,30,24
+4986,"4138","1","Freestyle","","1997","Value Set with Carry Bag",,400,,20,,,18,29
+1974,"4139","1","Freestyle","","1997","Freestyle Bucket, 3+",,249,,23,,,"https://images.brickset.com/sets/images/4139-1.jpg",59,34
+4987,"4148","1","Freestyle","","1997","Large Clearpack",,220,,20,,,"https://images.brickset.com/sets/images/4148-1.jpg",12,27
+4989,"4157","1","Freestyle","","1997","Trial Size Bag 5+",,34,,1.5,,,27,30
+4990,"4158","1","Freestyle","","1997","Building Set 5+",1,128,,6,,,"https://images.brickset.com/sets/images/4158-1.jpg",27,38
+4981,"4168","1","Freestyle","","1997","Funimal",,,,,,,"https://images.brickset.com/sets/images/4168-1.jpg",12,28
+1994,"4169","1","Freestyle","","1997","Freestyle Gift Item, 3+",,,,,,,"https://images.brickset.com/sets/images/4169-1.jpg",18,29
+2413,"5024","1","Service Packs","Duplo","1997","Duplo Start / Stop Rail, Single Rail, Change of Direction Switch",,4,,,,,"https://images.brickset.com/sets/images/5024-1.jpg",19,23
+2415,"5026","1","Service Packs","Toolo","1997","Toolo Loader, Hook and Turntable",,3,,5.5,,,"https://images.brickset.com/sets/images/5026-1.jpg",5,31
+2596,"5201","1","Service Packs","Technic","1997","Angle Bricks Assorted",,20,,4,,,"https://images.brickset.com/sets/images/5201-1.jpg",31,40
+2597,"5202","1","Service Packs","Technic","1997","Angle Beams, Red and Blue",,8,,4,,,"https://images.brickset.com/sets/images/5202-1.jpg",20,37
+2617,"5227","1","Service Packs","","1997","Fibre Optic Cables",,8,,3,,,"https://images.brickset.com/sets/images/5227-1.jpg",26,45
+2618,"5228","1","Service Packs","Technic","1997","Technic Beams and Plates with Holes, Black",,26,,4.5,,,"https://images.brickset.com/sets/images/5228-1.jpg",22,39
+2619,"5229","1","Service Packs","Technic","1997","Technic Gear Wheels and Differential Housing",,23,,4,,,"https://images.brickset.com/sets/images/5229-1.jpg",37,50
+2742,"5391","1","Service Packs","","1997","Battery Box 9 V For Electric System",,1,,5,,,"https://images.brickset.com/sets/images/5391-1.jpg",50,40
+2743,"5392","1","Service Packs","Western","1997","Western Accessories",,34,,5,,,"https://images.brickset.com/sets/images/5392-1.jpg",56,139
+2744,"5393","1","Service Packs","","1997","Headgear (Hats and Hair)",,31,,3,,,"https://images.brickset.com/sets/images/5393-1.jpg",59,86
+2745,"5394","1","Service Packs","","1997","3 Horses and Saddles",,12,,4.5,,,"https://images.brickset.com/sets/images/5394-1.jpg",64,118
+2810,"5561","1","Model Team","","1997","Big Foot 4 x 4",,761,,88,,,"https://images.brickset.com/sets/images/5561-1.jpg",569,545
+2849,"5731","1","Gear","Video Games/PC","1997","LEGO Island",,,,,,,"https://images.brickset.com/sets/images/5731-1.jpg",664,90
+2876,"5821","1","Belville","","1997","Pamela's Picnic Time",1,9,,,,,"https://images.brickset.com/sets/images/5821-1.jpg",103,42
+2877,"5822","1","Belville","","1997","Jennifer and Foal",1,5,,,,,"https://images.brickset.com/sets/images/5822-1.jpg",82,44
+2902,"5853","1","Belville","","1997","Lucinda and Cressida",1,5,,,,,"https://images.brickset.com/sets/images/5853-1.jpg",92,48
+2903,"5854","1","Belville","","1997","Pony Trekking",2,47,,,,,"https://images.brickset.com/sets/images/5854-1.jpg",87,61
+2904,"5855","1","Belville","","1997","Riding Stables",3,148,,,,,"https://images.brickset.com/sets/images/5855-1.jpg",60,50
+2916,"5874","1","Belville","","1997","Nursery",3,62,,,,,"https://images.brickset.com/sets/images/5874-1.jpg",75,53
+2975,"6004","1","Castle","Fright Knights","1997","Crossbow Cart",1,20,,,,,"https://images.brickset.com/sets/images/6004-1.jpg",1132,488
+6895,"6006","1","Castle","Fright Knights","1997","Crossbow Cart",,20,,,,,111,218
+2976,"6007","1","Castle","Fright Knights","1997","Bat Lord",1,12,,4.5,,,"https://images.brickset.com/sets/images/6007-1.jpg",3115,698
+2994,"6027","1","Castle","Fright Knights","1997","Bat Lord's Catapult",2,55,,6.75,,,"https://images.brickset.com/sets/images/6027-1.jpg",1716,546
+3005,"6037","1","Castle","Fright Knights","1997","Witch's Windship",1,56,,8,,,"https://images.brickset.com/sets/images/6037-1.jpg",2429,643
+3016,"6047","1","Castle","Fright Knights","1997","Traitor Transport",3,139,,,,,"https://images.brickset.com/sets/images/6047-1.jpg",1256,633
+3050,"6087","1","Castle","Fright Knights","1997","Witch's Magic Manor",6,250,,44,,,"https://images.brickset.com/sets/images/6087-1.jpg",1252,810
+3059,"6097","1","Castle","Fright Knights","1997","Night Lord's Castle",8,601,,80,,,"https://images.brickset.com/sets/images/6097-1.jpg",1459,1077
+3061,"6099","1","Castle","Fright Knights","1997","Traitor Transport",3,140,,20,,,"https://images.brickset.com/sets/images/6099-1.jpg",416,428
+3090,"6204","1","Pirates","Accessories","1997","Buccaneers",5,36,,6,,,"https://images.brickset.com/sets/images/6204-1.jpg",399,939
+3105,"6249","1","Pirates","","1997","Pirates Ambush",3,156,,22,,,"https://images.brickset.com/sets/images/6249-1.jpg",553,1137
+3107,"6250","1","Pirates","","1997","Cross Bone Clipper",3,154,,33,,,"https://images.brickset.com/sets/images/6250-1.jpg",590,1228
+3137,"6281","1","Pirates","","1997","Pirates Perilous Pitfall",6,395,,73,,,"https://images.brickset.com/sets/images/6281-1.jpg",374,1405
+3169,"6320","1","Town","Accessories","1997","Road Plates, Junction",,2,,6,,,"https://images.brickset.com/sets/images/6320-1.jpg",660,272
+3170,"6321","1","Town","Accessories","1997","Road Plates, Curved",,2,,6,,,"https://images.brickset.com/sets/images/6321-1.jpg",719,272
+3171,"6322","1","Town","Accessories","1997","Road Plates, Straight",,2,,6,,,"https://images.brickset.com/sets/images/6322-1.jpg",777,265
+3172,"6323","1","Town","Accessories","1997","Road Plates, Cross",,2,,6.99,,,"https://images.brickset.com/sets/images/6323-1.jpg",595,267
+3257,"6400","1","Town","Racing","1997","Go-Kart",1,23,,,,,"https://images.brickset.com/sets/images/6400-1.jpg",886,172
+3263,"6406","1","Town","Racing","1997","Go-Kart",1,23,,2,,,"https://images.brickset.com/sets/images/6406-1.jpg",268,115
+3264,"6407","1","Town","Fire","1997","Fire Chief",1,26,,5.5,,,"https://images.brickset.com/sets/images/6407-1.jpg",1297,195
+3272,"6417","1","Town","Paradisa","1997","Show Jumping Event",1,36,,4,,,"https://images.brickset.com/sets/images/6417-1.jpg",466,371
+3297,"6441","1","Town","Divers","1997","Deep Sea Refuge",5,449,,60,,,"https://images.brickset.com/sets/images/6441-1.jpg",1313,1004
+3298,"6442","1","Town","Divers","1997","Sting Ray Explorer",3,152,,20,,,"https://images.brickset.com/sets/images/6442-1.jpg",2196,638
+3299,"6444","1","Town","Outback","1997","Outback Airstrip",3,167,,20,,,"https://images.brickset.com/sets/images/6444-1.jpg",823,755
+3336,"6486","1","Town","Fire","1997","Fire Engine",1,66,,10,,,"https://images.brickset.com/sets/images/6486-1.jpg",708,219
+3337,"6487","1","Town","Outback","1997","Mountain Rescue",1,68,,6,,,"https://images.brickset.com/sets/images/6487-1.jpg",840,288
+3338,"6489","1","Town","Paradisa","1997","Seaside Holiday Cottage",2,86,,13.25,,,"https://images.brickset.com/sets/images/6489-1.jpg",351,496
+3339,"6490","1","Town","Outback","1997","Amazon Crossing",1,116,,15,,,"https://images.brickset.com/sets/images/6490-1.jpg",1678,779
+3344,"6495","1","Time Cruisers","Time Twisters","1997","Time Tunnelator",1,81,,10,,,"https://images.brickset.com/sets/images/6495-1.jpg",946,284
+3345,"6496","1","Time Cruisers","Time Twisters","1997","Whirling Time Warper",2,152,,22,,,"https://images.brickset.com/sets/images/6496-1.jpg",675,357
+3346,"6497","1","Time Cruisers","Time Twisters","1997","Twisted Time Train",4,300,,38.5,,,"https://images.brickset.com/sets/images/6497-1.jpg",678,418
+3348,"6499","1","Time Cruisers","Time Twisters","1997","Time Tunnelator",1,81,,10,,,"https://images.brickset.com/sets/images/6499-1.jpg",316,205
+3406,"6547","1","Town","Paradisa","1997","Fun Fair",5,193,,27.5,,,"https://images.brickset.com/sets/images/6547-1.jpg",258,512
+3407,"6548","1","Town","City","1997","Octan Gas Station",3,125,,24,,,"https://images.brickset.com/sets/images/6548-1.jpg",420,331
+3408,"6549","1","Town","Vehicles","1997","Roadblock Runners",4,183,,30,,,"https://images.brickset.com/sets/images/6549-1.jpg",426,308
+3409,"6550","1","Town","Outback","1997","Outback Racer",1,49,,4,,,"https://images.brickset.com/sets/images/6550-1.jpg",2335,355
+3412,"6553","1","Town","Outback","1997","Crisis News Crew",3,136,,12,,,"https://images.brickset.com/sets/images/6553-1.jpg",1405,621
+3415,"6554","1","Town","Fire","1997","Blaze Brigade",4,255,,44,,,"https://images.brickset.com/sets/images/6554-1.jpg",728,350
+3416,"6555","1","Town","Divers","1997","Sea Hunter",1,30,,4.5,,,"https://images.brickset.com/sets/images/6555-1.jpg",2716,445
+3417,"6556","1","Town","Divers","1997","Scuba Squad",2,77,,8.75,,,"https://images.brickset.com/sets/images/6556-1.jpg",2479,497
+3418,"6557","1","Town","Divers","1997","Treasure Hunters",3,150,,22,,,"https://images.brickset.com/sets/images/6557-1.jpg",370,716
+3419,"6558","1","Town","Divers","1997","Shark Cage Cove",3,187,,30,,,"https://images.brickset.com/sets/images/6558-1.jpg",1338,761
+3420,"6559","1","Town","Divers","1997","Deep Sea Bounty",5,348,,44,,,"https://images.brickset.com/sets/images/6559-1.jpg",873,927
+3421,"6560","1","Town","Divers","1997","Diving Expedition Explorer",7,471,,79,,,"https://images.brickset.com/sets/images/6560-1.jpg",635,967
+3425,"6564","1","Town","Maintenance","1997","Recycle Truck",1,35,,7.25,,,"https://images.brickset.com/sets/images/6564-1.jpg",1394,267
+3426,"6565","1","Town","Construction","1997","Construction Crew",3,78,,16.5,,,"https://images.brickset.com/sets/images/6565-1.jpg",1019,292
+3427,"6566","1","Town","City","1997","Bank",2,99,,15,,,"https://images.brickset.com/sets/images/6566-1.jpg",1240,482
+3454,"6599","1","Town","Divers","1997","Shark Attack",2,58,,10,,,"https://images.brickset.com/sets/images/6599-1.jpg",827,365
+3561,"6706","1","Western","Cowboys","1997","Frontier Patrol",3,30,,6,,,"https://images.brickset.com/sets/images/6706-1.jpg",2085,946
+3563,"6709","1","Western","Indians","1997","Tribal Chief",1,16,,4,,,"https://images.brickset.com/sets/images/6709-1.jpg",2043,803
+3571,"6718","1","Western","Indians","1997","Raindance Ridge",2,74,,8,,,"https://images.brickset.com/sets/images/6718-1.jpg",1973,834
+3589,"6746","1","Western","Indians","1997","Chief's Tepee",3,134,,20,,,"https://images.brickset.com/sets/images/6746-1.jpg",1866,1001
+3590,"6748","1","Western","Indians","1997","Boulder Cliff Canyon",6,256,,40,,,"https://images.brickset.com/sets/images/6748-1.jpg",1098,1205
+3599,"6766","1","Western","Indians","1997","Rapid River Village",7,353,,60,,,"https://images.brickset.com/sets/images/6766-1.jpg",1238,1079
+3612,"6790","1","Western","Cowboys","1997","Bandit with Gun",1,21,,2,,,"https://images.brickset.com/sets/images/6790-1.jpg",2209,660
+3613,"6791","1","Western","Cowboys","1997","Bandit's Wheelgun",1,21,,2,,,"https://images.brickset.com/sets/images/6791-1.jpg",702,413
+3614,"6799","1","Western","Cowboys","1997","Showdown Canyon",4,75,,10,,,"https://images.brickset.com/sets/images/6799-1.jpg",905,667
+3615,"6800","1","Space","UFO","1997","Cyber Blaster",1,20,,,,,"https://images.brickset.com/sets/images/6800-1.jpg",1267,297
+3631,"6816","1","Space","UFO","1997","Cyber Blaster",1,20,,2,,,"https://images.brickset.com/sets/images/6816-1.jpg",490,218
+3633,"6818","1","Space","UFO","1997","Cyborg Scout",1,36,,3,,,"https://images.brickset.com/sets/images/6818-1.jpg",2040,304
+3643,"6829","1","Space","UFO","1997","Radon Rover",1,53,,6,,,"https://images.brickset.com/sets/images/6829-1.jpg",2188,387
+3650,"6836","1","Space","UFO","1997","V-Wing Fighter",1,40,,4,,,"https://images.brickset.com/sets/images/6836-1.jpg",2368,448
+3697,"6900","1","Space","UFO","1997","Cyber Saucer",1,114,,22,,,"https://images.brickset.com/sets/images/6900-1.jpg",1793,572
+3705,"6915","1","Space","UFO","1997","Warp Wing Fighter",2,236,,30,,,"https://images.brickset.com/sets/images/6915-1.jpg",2016,655
+3744,"6975","1","Space","UFO","1997","Alien Avenger",4,369,,60,,,"https://images.brickset.com/sets/images/6975-1.jpg",1733,821
+3746,"6979","1","Space","UFO","1997","Interstellar Starfighter",3,292,,80,,,"https://images.brickset.com/sets/images/6979-1.jpg",1334,748
+3760,"6999","1","Space","UFO","1997","Cyber Saucer",1,114,,20,,,"https://images.brickset.com/sets/images/6999-1.jpg",588,362
+4139,"8205","1","Technic","","1997","Bungee Blaster",,63,,7,,,"https://images.brickset.com/sets/images/8205-1.jpg",1581,137
+4146,"8215","1","Technic","","1997","Gyro Copter",,107,,8,,,"https://images.brickset.com/sets/images/8215-1.jpg",813,144
+4147,"8216","1","Technic","","1997","Turbo 1",,97,,10,,,"https://images.brickset.com/sets/images/8216-1.jpg",1123,164
+4152,"8222","1","Technic","","1997","VTOL",1,138,,,,,"https://images.brickset.com/sets/images/8222-1.jpg",831,193
+4156,"8229","1","Technic","","1997","Tread Trekker",1,185,,22,,,"https://images.brickset.com/sets/images/8229-1.jpg",1081,187
+4158,"8232","1","Technic","","1997","Chopper Force",1,289,,25,,,"https://images.brickset.com/sets/images/8232-1.jpg",568,197
+4173,"8250","1","Technic","","1997","Search Sub",1,383,,49.5,,,"https://images.brickset.com/sets/images/8250-1.jpg",1002,395
+4182,"8277","1","Technic","","1997","Giant Model Set",,554,,40,,,"https://images.brickset.com/sets/images/8277-1.jpg",647,267
+4186,"8299","1","Technic","","1997","Search Sub",1,0,,50,,,"https://images.brickset.com/sets/images/8299-1.jpg",708,295
+4247,"8414","1","Technic","","1997","Mountain Rambler",,244,,30,,,"https://images.brickset.com/sets/images/8414-1.jpg",796,225
+4262,"8437","1","Technic","","1997","Future Car",,419,,54,,,"https://images.brickset.com/sets/images/8437-1.jpg",710,228
+4281,"8459","1","Technic","","1997","Pneumatic Front-End Loader",,591,,82,,,"https://images.brickset.com/sets/images/8459-1.jpg",1076,467
+4297,"8479","1","Technic","","1997","Barcode Multi-Set",,1280,,164,,,"https://images.brickset.com/sets/images/8479-1.jpg",1558,722
+4440,"8735","1","Technic","Supplementary","1997","Motor Set, 9 V",,60,,40,,,"https://images.brickset.com/sets/images/8735-1.jpg",1181,146
+23776,"8760","1","Gear","Digital media","1997","Search Sub CD-ROM",,,,,,,"https://images.brickset.com/sets/images/8760-1.jpg",39,24
+4689,"9279","1","Dacta","System","1997","Small Building Plates",,9,,14.99,,,"https://images.brickset.com/sets/images/9279-1.jpg",45,60
+9295,"9291","1","Dacta","","1997","Medium LEGO DACTA Basic Set",,822,,59.5,,,4,20
+9296,"9366","1","Dacta","","1997","Town Set",,413,,67,,,5,29
+7007,"9376","1","Dacta","Castle","1997","Castle Set",14,321,,63.5,,,"https://images.brickset.com/sets/images/9376-1.jpg",35,278
+4917,"9453","1","Dacta","","1997","Universal School Set",,716,,73.75,,,"https://images.brickset.com/sets/images/9453-1.jpg",13,45
+4897,"9615","1","Dacta","Technic","1997","Motor Add-On for Simple Mechanisms",,3,,32,,,"https://images.brickset.com/sets/images/9615-1.jpg",166,52
+4898,"9616","1","Dacta","Technic","1997","Wheels and Axles Set",1,74,,15,,,"https://images.brickset.com/sets/images/9616-1.jpg",45,57
+22775,"9617","1","Dacta","","1997","Introducing Air Power ",,89,,,,,"https://images.brickset.com/sets/images/9617-1.jpg",14,46
+4899,"9618","1","Dacta","Technic","1997","Structures Set",,463,,,,,"https://images.brickset.com/sets/images/9618-1.jpg",26,65
+4900,"9630","1","Dacta","Technic","1997","Simple Mechanisms Set",,277,,80,,,"https://images.brickset.com/sets/images/9630-1.jpg",52,64
+4902,"9654","1","Dacta","","1997","Early Simple Machines II Set",2,99,,92.75,,,"https://images.brickset.com/sets/images/9654-1.jpg",19,40
+4903,"9655","1","Dacta","","1997","Fun Time Gears II Set",,50,,52.25,,,"https://images.brickset.com/sets/images/9655-1.jpg",11,32
+6655,"9708","1","Gear","Education","1997","Intelligent House Activity Pack",,,,12,,,"https://images.brickset.com/sets/images/9708-1.jpg",7,29
+24349,"9848","1","Dacta","","1997","9v Lamps",,9,,,,,"https://images.brickset.com/sets/images/9848-1.jpg",7,24
+9485,"4117463","1","Space","UFO","1997","Cyber Saucer ",,114,,,,,9,56
+9583,"ORLANDO","1","Promotional","LEGO brand store opening set","1997","{Bag of Bricks} ",,3,,0,,,6,29
+9372,"VP-5","1","Space","UFO","1997","UFO Value Pack",,,,,,,7,53

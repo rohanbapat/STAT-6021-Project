@@ -1,0 +1,244 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,OwnedBy,WantedBy
+27724,"10260","1","Advanced Models","Modular Buildings","2018","Downtown Diner",,2480,129.99,169.99,,149.99,"https://images.brickset.com/sets/images/10260-1.jpg",13,1286
+27454,"10401","1","Building Bigger Thinking","","2018","Rainbow Fun",,,,,,,"https://images.brickset.com/sets/images/10401-1.jpg",2,206
+27455,"10402","1","Building Bigger Thinking","","2018","Fun Future",,,,,,,"https://images.brickset.com/sets/images/10402-1.jpg",2,205
+27456,"10403","1","Building Bigger Thinking","","2018","World Fun",,,,,,,"https://images.brickset.com/sets/images/10403-1.jpg",2,225
+27457,"10404","1","Building Bigger Thinking","","2018","Ocean's Bottom",,,,,,,"https://images.brickset.com/sets/images/10404-1.jpg",2,207
+27458,"10405","1","Building Bigger Thinking","","2018","Mission to Mars",,,,,,,"https://images.brickset.com/sets/images/10405-1.jpg",2,205
+27664,"10712","1","Classic","","2018","Bricks and Gears",,,,,,,1,42
+27665,"10713","1","Classic","","2018","Creative Suitcase",,,,,,,1,38
+27666,"10714","1","Classic","","2018","Blue Baseplate",,,,,,,1,85
+27667,"10715","1","Classic","","2018","Bricks on a Roll",,,,,,,1,38
+27627,"10748","1","Juniors","Friends","2018","Emma's Pet Party",,67,,9.99,12.99,,"https://images.brickset.com/sets/images/10748-1.jpg",1,49
+27628,"10749","1","Juniors","Friends","2018","Mia's Organic Food Market",,115,,19.99,24.99,,"https://images.brickset.com/sets/images/10749-1.jpg",2,67
+27629,"10750","1","Juniors","City","2018","Road Repair Truck",,73,,9.99,12.99,,"https://images.brickset.com/sets/images/10750-1.jpg",11,107
+27630,"10751","1","Juniors","City","2018","Mountain Police Chase",,115,,19.99,24.99,,"https://images.brickset.com/sets/images/10751-1.jpg",4,62
+27422,"10753","1","Juniors","DC Comics Super Heroes","2018","The Joker Batcave Attack",,,,,,,"https://images.brickset.com/sets/images/10753-1.jpg",3,132
+27421,"10754","1","Juniors","Marvel Super Heroes","2018","Spider-Man vs. Scorpion Street Showdown",,,,,,,"https://images.brickset.com/sets/images/10754-1.jpg",3,116
+27420,"10755","1","Juniors","Ninjago","2018","Zane's Ninja Boat Pursuit",,,,,,,"https://images.brickset.com/sets/images/10755-1.jpg",3,63
+27471,"10756","1","Juniors","Jurassic World: Fallen Kingdom","2018","{?}",,,,,,,3,88
+27472,"10757","1","Juniors","Jurassic World: Fallen Kingdom","2018","{?}",,,,,,,2,87
+27473,"10758","1","Juniors","Jurassic World: Fallen Kingdom","2018","{?}",,,,,,,2,87
+27451,"10759","1","Juniors","Incredibles 2","2018","{?}",,,,,,,2,86
+27452,"10760","1","Juniors","Incredibles 2","2018","{?}",,,,,,,2,88
+27453,"10761","1","Juniors","Incredibles 2","2018","{?}",,,,,,,2,87
+27715,"10858","1","Duplo","","2018","My First Puzzle Pets",,,,,,,1,5
+27714,"10859","1","Duplo","","2018","My First Ladybird",,,,,,,1,6
+27713,"10860","1","Duplo","","2018","My First Race Car",,,,,,,1,6
+27712,"10861","1","Duplo","","2018","My First Emotions",,,,,,,1,6
+27711,"10862","1","Duplo","","2018","My First Celebration",,,,,,,1,4
+27710,"10863","1","Duplo","","2018","My First Animal Brick Box",,,,,,,1,6
+27709,"10864","1","Duplo","","2018","Large Playground Brick Box",,,,,,,1,5
+27708,"10865","1","Duplo","","2018","Fun Creations",,,,,,,1,4
+27707,"10867","1","Duplo","","2018","Farmers' Market",,,,,,,1,10
+27706,"10868","1","Duplo","","2018","Farm Pony Stable",,,,,,,1,7
+27705,"10869","1","Duplo","","2018","Farm Adventures",,,,,,,1,6
+27704,"10870","1","Duplo","","2018","Farm Animals",,,,,,,1,8
+27703,"10871","1","Duplo","","2018","Airport",,,,,,,1,7
+27702,"10876","1","Duplo","Spider-Man","2018","Spider-Man & Hulk Adventures",,,,,,,1,19
+27701,"10877","1","Duplo","Disney Princess","2018","Belle's Tea Party",,,,,,,1,11
+27700,"10878","1","Duplo","Disney Princess","2018","Rapunzel's Tower",,,,,,,1,12
+27469,"10879","1","Duplo","Jurassic World: Fallen Kingdom","2018","{?}",,,,,,,1,34
+27470,"10880","1","Duplo","Jurassic World: Fallen Kingdom","2018","{?}",,,,,,,1,34
+27445,"21038","1","Architecture","Skylines","2018","Las Vegas",,,,,,,1,468
+27446,"21039","1","Architecture","Skylines","2018","Shanghai",,,,,,,3,499
+27507,"21138","1","Minecraft","Minifig-scale","2018","The Melon Farm",,,,,,,"https://images.brickset.com/sets/images/21138-1.jpg",3,187
+27508,"21139","1","Minecraft","Minifig-scale","2018","The Nether Fight",,,,,,,"https://images.brickset.com/sets/images/21139-1.jpg",3,145
+27509,"21140","1","Minecraft","Minifig-scale","2018","The Chicken Coop",,,,,,,"https://images.brickset.com/sets/images/21140-1.jpg",4,194
+27510,"21141","1","Minecraft","Minifig-scale","2018","The Zombie Cave",,,,,,,"https://images.brickset.com/sets/images/21141-1.jpg",2,145
+27511,"21142","1","Minecraft","Minifig-scale","2018","The Polar Igloo",,,,,,,"https://images.brickset.com/sets/images/21142-1.jpg",3,134
+27512,"21143","1","Minecraft","Minifig-scale","2018","The Nether Portal",,,,,,,"https://images.brickset.com/sets/images/21143-1.jpg",2,133
+27513,"21144","1","Minecraft","Minifig-scale","2018","The Farm Cottage ",,,,,,,"https://images.brickset.com/sets/images/21144-1.jpg",2,149
+27669,"30326","0","Duplo","","2018","Farm {Random bag}",,,,,,,"https://images.brickset.com/sets/images/30326-0.jpg",1,8
+27683,"30326","1","Duplo","","2018","Farm - Chicken",,,,,,,"https://images.brickset.com/sets/images/30326-1.jpg",1,10
+27684,"30326","2","Duplo","","2018","Farm - Girl",,,,,,,"https://images.brickset.com/sets/images/30326-1.jpg",1,6
+27685,"30326","3","Duplo","","2018","Farm - Goat",,,,,,,"https://images.brickset.com/sets/images/30326-1.jpg",1,10
+27686,"30326","4","Duplo","","2018","Farm - Boy",,,,,,,"https://images.brickset.com/sets/images/30326-1.jpg",1,6
+27687,"30326","5","Duplo","","2018","Farm - Calf",,,,,,,"https://images.brickset.com/sets/images/30326-1.jpg",1,9
+27670,"30339","1","Juniors","","2018","Traffic Light Patrol",,,,,,,"https://images.brickset.com/sets/images/30339-1.jpg",1,73
+27671,"30356","1","City","","2018","Hot Dog Stand",,,,,,,"https://images.brickset.com/sets/images/30356-1.jpg",3,637
+27672,"30357","1","City","Construction","2018","Road Worker",,,,,,,"https://images.brickset.com/sets/images/30357-1.jpg",3,392
+27673,"30358","1","City","","2018","Dragster",,,,,,,"https://images.brickset.com/sets/images/30358-1.jpg",1,183
+27668,"30380","1","Star Wars","The Last Jedi","2018","Kylo Ren's Shuttle",,,,,,,"https://images.brickset.com/sets/images/30380-1.jpg",2,324
+27674,"30403","1","Friends","","2018","Olivia's Remote Control Boat",,,,,,,"https://images.brickset.com/sets/images/30403-1.jpg",1,86
+27675,"30404","1","Friends","","2018","Friendship Flower",,,,,,,"https://images.brickset.com/sets/images/30404-1.jpg",2,126
+27676,"30405","1","Friends","","2018","Stephanie's Hockey Practice",,,,,,,"https://images.brickset.com/sets/images/30405-1.jpg",1,82
+27677,"30450","1","Marvel Super Heroes","Black Panther","2018","Royal Talon Fighter",,,,,,,"https://images.brickset.com/sets/images/30450-1.jpg",3,172
+27678,"30530","1","Ninjago","Sons of Garmadon","2018","WU-CRU Target Training",,,,,,,"https://images.brickset.com/sets/images/30530-1.jpg",2,148
+27679,"30531","1","Ninjago","Sons of Garmadon","2018","Sons of Garmadon",,,,,,,"https://images.brickset.com/sets/images/30531-1.jpg",1,117
+27680,"30540","1","Creator","","2018","Yellow Flyer",,,,,,,"https://images.brickset.com/sets/images/30540-1.jpg",1,105
+27681,"30542","1","Creator","","2018","Cute Pug",,,,,,,"https://images.brickset.com/sets/images/30542-1.jpg",2,183
+27682,"30552","1","Disney","The Little Mermaid","2018","Ariel's Underwater Symphony",,,,,,,"https://images.brickset.com/sets/images/30552-1.jpg",1,154
+27465,"31071","1","Creator","","2018","Drone Explorer",,109,,9.99,12.99,,"https://images.brickset.com/sets/images/31071-1.jpg",15,294
+27466,"31072","1","Creator","","2018","Extreme Engines",,109,,9.99,12.99,,"https://images.brickset.com/sets/images/31072-1.jpg",9,244
+27462,"31073","1","Creator","","2018","Mythical Creatures",,,,,,,"https://images.brickset.com/sets/images/31073-1.jpg",1,298
+27467,"31074","1","Creator","","2018","Rocket Rally Car",,,,,,,"https://images.brickset.com/sets/images/31074-1.jpg",2,200
+27468,"31075","1","Creator","","2018","Outback Adventures",,225,,19.99,24.99,,"https://images.brickset.com/sets/images/31075-1.jpg",17,511
+27464,"31076","1","Creator","","2018","Daredevil Stunt Plane",,200,,19.99,24.99,,"https://images.brickset.com/sets/images/31076-1.jpg",23,488
+27460,"31079","1","Creator","","2018","Sunshine Surfer Van",,,,,,,"https://images.brickset.com/sets/images/31079-1.jpg",5,695
+27461,"31080","1","Creator","Modular","2018","Modular Winter Vacation",,,,,,,"https://images.brickset.com/sets/images/31080-1.jpg",2,474
+27463,"31081","1","Creator","Modular","2018","Modular Skate House",,422,,39.99,49.99,,"https://images.brickset.com/sets/images/31081-1.jpg",16,670
+27723,"40301","1","DC Comics Super Heroes","","2018","{?}",,,,,,,1,83
+27722,"40302","1","City","","2018","{?}",,,,,,,1,64
+27721,"40304","1","Duplo","","2018","{?}",,,,,,,2,6
+27659,"41151","1","Disney","Miscellaneous","2018","Mulan's Training Day",,,,,,,"https://images.brickset.com/sets/images/41151-1.jpg",2,168
+27660,"41152","1","Disney","Sleeping Beauty","2018","Sleeping Beauty's Fairytale Castle",,,,,,,"https://images.brickset.com/sets/images/41152-1.jpg",3,133
+27661,"41153","1","Disney","The Little Mermaid","2018","Ariel's Royal Celebration Boat",,,,,,,"https://images.brickset.com/sets/images/41153-1.jpg",1,118
+27662,"41154","1","Disney","Cinderella","2018","Cinderella's Dream Castle",,,,,,,"https://images.brickset.com/sets/images/41154-1.jpg",1,116
+27663,"41155","1","Disney","Frozen","2018","Elsa's Market Adventure",,,,,,,"https://images.brickset.com/sets/images/41155-1.jpg",1,97
+27601,"41190","1","Elves","","2018","Emily Jones' Eagle Escape",,,,,,,1,99
+27600,"41191","1","Elves","","2018","{?}",,,,,,,1,91
+27598,"41192","1","Elves","","2018","Azari and the Capture of the Pound Lion",,,,,,,1,96
+27599,"41193","1","Elves","","2018","Aira and the Wind Song Dragon",,,,,,,1,107
+27602,"41194","1","Elves","","2018","The Noctura Tower and the Rescue of the Earth Fox",,,,,,,1,95
+27720,"41327","1","Friends","","2018","Mia's Bedroom",,,,,,,"https://images.brickset.com/sets/images/41327-1.jpg",1,89
+27169,"41328","1","Friends","","2018","Stephanie's Bedroom",,,,,,,"https://images.brickset.com/sets/images/41328-1.jpg",4,122
+27170,"41329","1","Friends","","2018","Olivia's Deluxe Bedroom",,,,,,,"https://images.brickset.com/sets/images/41329-1.jpg",4,139
+27171,"41330","1","Friends","","2018","Stephanie's Football Practice",,,,,,,"https://images.brickset.com/sets/images/41330-1.jpg",4,139
+27719,"41332","1","Friends","","2018","Emma's Art Stand",,,,,,,"https://images.brickset.com/sets/images/41332-1.jpg",1,136
+27718,"41333","1","Friends","","2018","Olivia's Mission Vehicle",,,,,,,"https://images.brickset.com/sets/images/41333-1.jpg",1,102
+27717,"41334","1","Friends","","2018","Andrea's Park Performance",,,,,,,"https://images.brickset.com/sets/images/41334-1.jpg",1,104
+27716,"41335","1","Friends","","2018","Mia's Tree House",,,,,,,"https://images.brickset.com/sets/images/41335-1.jpg",1,124
+27525,"41336","1","Friends","","2018","Emma's Art Café",,,,,,,"https://images.brickset.com/sets/images/41336-1.jpg",2,146
+27526,"41338","1","Friends","","2018","Stephanie's Sports Arena",,,,,,,"https://images.brickset.com/sets/images/41338-1.jpg",2,100
+27527,"41339","1","Friends","Summer","2018","Mia's Camper Van",,,,,,,"https://images.brickset.com/sets/images/41339-1.jpg",2,252
+27524,"41340","1","Friends","","2018","Friendship House",,,,,,,"https://images.brickset.com/sets/images/41340-1.jpg",2,166
+27626,"41489","1","BrickHeadz","Star Wars","2018","Rey & Kylo Ren",,0,,19.99,,,"https://images.brickset.com/sets/images/41489-1.jpg",57,332
+27484,"41597","1","BrickHeadz","","2018","{?}",,,,,,,1,229
+27413,"41598","1","BrickHeadz","DC Comics Super Heroes","2018","The Flash",,,,,,,"https://images.brickset.com/sets/images/41598-1.jpg",2,446
+27414,"41599","1","BrickHeadz","DC Comics Super Heroes","2018","Wonder Woman",,,,,,,"https://images.brickset.com/sets/images/41599-1.jpg",1,463
+27689,"41600","1","BrickHeadz","DC Comics Super Heroes","2018","Aquaman",,,,,,,"https://images.brickset.com/sets/images/41600-1.jpg",1,324
+27690,"41601","1","BrickHeadz","DC Comics Super Heroes","2018","Cyborg",,,,,,,"https://images.brickset.com/sets/images/41601-1.jpg",1,314
+27480,"41602","1","BrickHeadz","Star Wars","2018","Rey",,,,9.99,,,4,371
+27481,"41603","1","BrickHeadz","Star Wars","2018","Kylo Ren",,,,9.99,,,4,369
+27406,"41604","1","BrickHeadz","Marvel Super Heroes","2018","{?}",,,,,,,1,264
+27407,"41605","1","BrickHeadz","Marvel Super Heroes","2018","{?}",,,,,,,1,262
+27408,"41606","1","BrickHeadz","Marvel Super Heroes","2018","{?}",,,,,,,1,263
+27409,"41607","1","BrickHeadz","Marvel Super Heroes","2018","{?}",,,,,,,1,263
+27482,"41608","1","BrickHeadz","Star Wars","2018","{?}",,,,,,,1,297
+27483,"41609","1","BrickHeadz","Star Wars","2018","{?}",,,,,,,1,294
+27529,"42071","1","Technic","","2018","Dozer Compactor",,171,,19.99,24.99,,"https://images.brickset.com/sets/images/42071-1.jpg",5,248
+27530,"42072","1","Technic","","2018","WHACK!",,135,,19.99,24.99,,"https://images.brickset.com/sets/images/42072-1.jpg",6,183
+27528,"42073","1","Technic","","2018","BASH!",,139,,19.99,24.99,,"https://images.brickset.com/sets/images/42073-1.jpg",7,188
+27610,"42074","1","Technic","","2018","Racing Yacht",,330,,39.99,49.99,,"https://images.brickset.com/sets/images/42074-1.jpg",14,540
+27692,"42075","1","Technic","","2018","First Responder",,,,,,,"https://images.brickset.com/sets/images/42075-1.jpg",1,189
+27693,"42076","1","Technic","","2018","Hovercraft",,,,,,,"https://images.brickset.com/sets/images/42076-1.jpg",2,225
+27691,"42077","1","Technic","","2018","Rally Car",,,,,,,"https://images.brickset.com/sets/images/42077-1.jpg",3,467
+27532,"42078","1","Technic","","2018","Mack Anthem",,,,,,,"https://images.brickset.com/sets/images/42078-1.jpg",7,912
+27531,"42084","1","Technic","","2018","Hook Loader",,176,,14.99,18.99,,"https://images.brickset.com/sets/images/42084-1.jpg",7,172
+27516,"60170","1","City","Mountain Police","2018","Off-Road Chase",,37,,,,,"https://images.brickset.com/sets/images/60170-1.jpg",2,296
+27517,"60171","1","City","Mountain Police","2018","Mountain Fugitives",,,,,,,"https://images.brickset.com/sets/images/60171-1.jpg",2,511
+27518,"60172","1","City","Mountain Police","2018","Dirt Road Pursuit",,297,,39.99,49.99,,"https://images.brickset.com/sets/images/60172-1.jpg",8,325
+27520,"60173","1","City","Mountain Police","2018","Mountain Arrest",,303,,59.99,79.99,,"https://images.brickset.com/sets/images/60173-1.jpg",11,544
+27519,"60174","1","City","Mountain Police","2018","Mountain Police Headquarters",,,,,,,"https://images.brickset.com/sets/images/60174-1.jpg",4,410
+27521,"60175","1","City","Mountain Police","2018","Mountain River Heist",,,,,,,"https://images.brickset.com/sets/images/60175-1.jpg",2,287
+27694,"60176","1","City","Mountain Police","2018","Wild River Escape",,,,,,,"https://images.brickset.com/sets/images/60176-1.jpg",1,273
+27695,"60177","1","City","","2018","Airshow Jet",,,,,,,"https://images.brickset.com/sets/images/60177-1.jpg",3,255
+27522,"60178","1","City","","2018","Speed Record Car",,,,,,,"https://images.brickset.com/sets/images/60178-1.jpg",1,287
+27611,"60179","1","City","Medical","2018","Ambulance Helicopter",,190,,19.99,24.99,,"https://images.brickset.com/sets/images/60179-1.jpg",20,539
+27523,"60180","1","City","","2018","Monster Truck",,192,,19.99,24.99,,"https://images.brickset.com/sets/images/60180-1.jpg",16,466
+27607,"60181","1","City","General","2018","Forest Tractor",,174,,19.99,24.99,,"https://images.brickset.com/sets/images/60181-1.jpg",35,864
+27608,"60182","1","City","","2018","Pickup & Caravan",,344,,29.99,39.99,,"https://images.brickset.com/sets/images/60182-1.jpg",50,1091
+27609,"60183","1","City","Traffic","2018","Heavy Cargo Transport",,310,,29.99,39.99,,"https://images.brickset.com/sets/images/60183-1.jpg",19,578
+27696,"60184","1","City","Mining","2018","Mining Team",,,,,,,"https://images.brickset.com/sets/images/60184-1.jpg",2,419
+27697,"60185","1","City","Mining","2018","Mining Power Splitter",,,,,,,"https://images.brickset.com/sets/images/60185-1.jpg",2,264
+27698,"60186","1","City","Mining","2018","Mining Heavy Driller",,,,,,,"https://images.brickset.com/sets/images/60186-1.jpg",2,316
+27699,"60188","1","City","Mining","2018","Mining Experts Site",,,,,,,"https://images.brickset.com/sets/images/60188-1.jpg",2,401
+27419,"70633","1","Ninjago","Spinjitzu Masters","2018","Kai - Spinjitzu Master",,,,9.99,,,"https://images.brickset.com/sets/images/70633-1.jpg",3,116
+27415,"70634","1","Ninjago","Spinjitzu Masters","2018","Nya - Spinjitzu Master",,,,,,,"https://images.brickset.com/sets/images/70634-1.jpg",1,117
+27416,"70635","1","Ninjago","Spinjitzu Masters","2018","Jay - Spinjitzu Master",,,,,,,"https://images.brickset.com/sets/images/70635-1.jpg",2,122
+27417,"70636","1","Ninjago","Spinjitzu Masters","2018","Zane - Spinjitzu Master",,,,,,,"https://images.brickset.com/sets/images/70636-1.jpg",2,118
+27418,"70637","1","Ninjago","Spinjitzu Masters","2018","Cole - Spinjitzu Master",,,,,,,"https://images.brickset.com/sets/images/70637-1.jpg",1,114
+27427,"70638","1","Ninjago","Sons of Garmadon","2018","Katana V11",,,,19.99,,,"https://images.brickset.com/sets/images/70638-1.jpg",1,169
+27428,"70639","1","Ninjago","Sons of Garmadon","2018","Street Race of Snake Jaguar",,,,29.99,,,"https://images.brickset.com/sets/images/70639-1.jpg",1,201
+27423,"70640","1","Ninjago","Sons of Garmadon","2018","S.O.G. Headquarters",,,,39.99,,,"https://images.brickset.com/sets/images/70640-1.jpg",1,161
+27424,"70641","1","Ninjago","Sons of Garmadon","2018","Ninja Nightcrawler",,,,39.99,,,"https://images.brickset.com/sets/images/70641-1.jpg",1,199
+27425,"70642","1","Ninjago","Sons of Garmadon","2018","Killow vs. Samurai X",,,,49.99,,,"https://images.brickset.com/sets/images/70642-1.jpg",1,220
+27426,"70643","1","Ninjago","Sons of Garmadon","2018","Temple of Resurrection",,,,69.99,,,"https://images.brickset.com/sets/images/70643-1.jpg",1,371
+27429,"70918","1","The LEGO Batman Movie","","2018","The Bat-Dune Buggy",,198,,19.99,,,"https://images.brickset.com/sets/images/70918-1.jpg",3,756
+27432,"70919","1","The LEGO Batman Movie","","2018","The Justice League Anniversary Party",,267,,29.99,,,"https://images.brickset.com/sets/images/70919-1.jpg",3,972
+27433,"70920","1","The LEGO Batman Movie","","2018","Egghead Mech Food Fight",,293,,29.99,,,"https://images.brickset.com/sets/images/70920-1.jpg",2,902
+27431,"70921","1","The LEGO Batman Movie","","2018","Harley Quinn Cannonball Attack",,425,,49.99,,,"https://images.brickset.com/sets/images/70921-1.jpg",4,764
+27430,"70923","1","The LEGO Batman Movie","","2018","The Bat-Space Shuttle",,643,,79.99,,,"https://images.brickset.com/sets/images/70923-1.jpg",3,982
+27632,"71020","0","Collectable Minifigures","The LEGO Batman Movie series 2","2018","LEGO Minifigures - The LEGO Batman Movie Series 2 - Random bag",,,,,,,1,100
+27635,"71020","1","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Friends are Family Harley Quinn",,7,,3.99,,,2,201
+27636,"71020","2","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Friends are Family Alfred",,7,,3.99,,,2,200
+27637,"71020","3","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Clock King",,6,,3.99,,,2,235
+27638,"71020","4","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Professor Hugo Strange",,6,,3.99,,,2,246
+27639,"71020","5","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Mermaid Batman",,5,,3.99,,,2,219
+27640,"71020","6","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Swimming Pool Batman",,6,,3.99,,,2,233
+27641,"71020","7","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Tropical Joker",,8,,3.99,,,2,218
+27642,"71020","8","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Vacation Robin",,7,,3.99,,,2,201
+27643,"71020","9","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Vacation Batgirl",,7,,3.99,,,2,203
+27644,"71020","10","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Vacation Alfred",,7,,3.99,,,2,205
+27645,"71020","11","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Soccer Mom Batgirl",,8,,3.99,,,2,217
+27646,"71020","12","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Killer Moth",,6,,3.99,,,2,219
+27647,"71020","13","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Wonder Twin (Jayna)",,7,,3.99,,,2,230
+27648,"71020","14","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Wonder Twin (Zan)",,8,,3.99,,,2,225
+27649,"71020","15","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Apache Chief",,5,,3.99,,,2,228
+27650,"71020","16","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Jor-El",,7,,3.99,,,2,246
+27651,"71020","17","Collectable Minifigures","The LEGO Batman Movie series 2","2018","General Zod",,5,,3.99,,,2,233
+27652,"71020","18","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Doctor Phosphorus",,5,,3.99,,,3,232
+27653,"71020","19","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Black Canary",,8,,3.99,,,3,255
+27654,"71020","20","Collectable Minifigures","The LEGO Batman Movie series 2","2018","Black Vulcan",,6,,3.99,,,2,222
+27633,"71020","21","Collectable Minifigures","The LEGO Batman Movie series 2","2018","LEGO Minifigures - The LEGO Batman Movie Series 2 - Complete",,,,,,,1,133
+27634,"71020","22","Collectable Minifigures","The LEGO Batman Movie series 2","2018","LEGO Minifigures - The LEGO Batman Movie Series 2 - Sealed Box",,,,,,,1,36
+27474,"72001","1","Nexo Knights","Season 5","2018","Lance's Hover Jouster",,,,19.99,,,3,131
+27475,"72002","1","Nexo Knights","Season 5","2018","Twinfector",,191,,19.99,27.99,,"https://images.brickset.com/sets/images/72002-1.jpg",12,228
+27479,"72003","1","Nexo Knights","Season 5","2018","Berserker Bomber",,369,,29.99,39.99,,"https://images.brickset.com/sets/images/72003-1.jpg",15,259
+27476,"72004","1","Nexo Knights","Season 5","2018","Tech Wizard Showdown",,506,,39.99,54.99,,"https://images.brickset.com/sets/images/72004-1.jpg",17,247
+27477,"72005","1","Nexo Knights","Season 5","2018","Aaron's X-bow",,569,,49.99,69.99,,"https://images.brickset.com/sets/images/72005-1.jpg",11,172
+27478,"72006","1","Nexo Knights","Season 5","2018","Axl's Rolling Arsenal",,604,,59.99,79.99,,"https://images.brickset.com/sets/images/72006-1.jpg",6,220
+27009,"75193","1","Star Wars","MicroFighters","2018","Millennium Falcon Microfighter",,,,9.99,,,"https://images.brickset.com/sets/images/75193-1.jpg",1,222
+27491,"75194","1","Star Wars","MicroFighters","2018","First Order TIE Fighter Microfighter",,,,9.99,,,1,657
+27494,"75195","1","Star Wars","MicroFighters","2018","Ski Speeder vs. First Order Walker Microfighters",,,,19.99,,,1,760
+27495,"75196","1","Star Wars","MicroFighters","2018","A-Wing vs. TIE Silencer Microfighters",,,,19.99,,,2,771
+27447,"75197","1","Star Wars","The Last Jedi","2018","First Order Specialists Battle Pack",,,,,,,4,881
+27397,"75198","1","Star Wars","Episode IV","2018","Tatooine Battle Pack",,,,14.99,,,2,1102
+27396,"75199","1","Star Wars","The Clone Wars","2018","General Grievous' Combat Speeder",,157,,19.99,,,2,731
+27448,"75200","1","Star Wars","The Last Jedi","2018","Ahch-To Island Training",,,,29.99,,,4,1085
+27449,"75201","1","Star Wars","The Last Jedi","2018","First Order AT-ST",,,,,,,2,488
+27450,"75202","1","Star Wars","The Last Jedi","2018","Defense of Crait",,,,84.99,,,3,730
+27399,"75206","1","Star Wars","","2018","{?}",,,,,,,1,454
+27498,"75207","1","Star Wars","Solo","2018","{?}",,,,,,,1,394
+27398,"75208","1","Star Wars","Episode V","2018","Yoda's Home",,,,,,,2,823
+27499,"75209","1","Star Wars","Solo","2018","{?}",,,,,,,1,397
+27500,"75210","1","Star Wars","Solo","2018","{?}",,,,,,,1,395
+27501,"75211","1","Star Wars","Solo","2018","{?}",,,,,,,1,394
+27502,"75212","1","Star Wars","Solo","2018","{?}",,,,,,,1,393
+27391,"75533","1","Star Wars","Buildable Figures","2018","Boba Fett",,,,,,,5,754
+27392,"75534","1","Star Wars","Buildable Figures","2018","Darth Vader",,,,,,,6,617
+27393,"75535","1","Star Wars","Buildable Figures","2018","{?}",,,,,,,1,330
+27394,"75536","1","Star Wars","Buildable Figures","2018","{?}",,,,,,,1,330
+27395,"75537","1","Star Wars","Buildable Figures","2018","{?}",,,,,,,1,389
+27732,"75884","1","Speed Champions","Ford","2018","{?}",,,,,,,1,128
+27733,"75885","1","Speed Champions","Ford","2018","{?}",,,,,,,1,128
+27734,"75886","1","Speed Champions","Ferrari","2018","{?}",,,,,,,2,123
+27736,"75887","1","Speed Champions","Porsche","2018","{?}",,,,,,,1,124
+27737,"75888","1","Speed Champions","Porsche","2018","{?}",,,,,,,1,123
+27735,"75889","1","Speed Champions","Ferrari","2018","{?}",,,,,,,1,119
+27440,"75926","1","Jurassic World","Fallen Kingdom","2018","{?}",,,,,,,2,210
+27441,"75927","1","Jurassic World","Fallen Kingdom","2018","{?}",,,,,,,2,206
+27442,"75928","1","Jurassic World","Fallen Kingdom","2018","{?}",,,,,,,2,205
+27443,"75929","1","Jurassic World","Fallen Kingdom","2018","{?}",,,,,,,2,206
+27444,"75930","1","Jurassic World","Fallen Kingdom","2018","{?}",,,,,,,2,206
+27405,"76089","3","Marvel Super Heroes","Mighty Micros","2018","Mighty Micros: Spider-Man vs. Sandman",,,,,,,2,294
+27403,"76090","1","Marvel Super Heroes","Mighty Micros","2018","Mighty Micros: Star-Lord vs. Nebula",,,,,,,1,332
+27404,"76091","2","Marvel Super Heroes","Mighty Micros","2018","Mighty Micros: Thor vs. Loki",,,,,,,1,314
+27400,"76092","1","DC Comics Super Heroes","Mighty Micros","2018","Mighty Micros: Batman vs. Harley Quinn",,,,,,,1,296
+27401,"76093","1","DC Comics Super Heroes","Mighty Micros","2018","Mighty Micros: Nightwing vs. The Joker",,,,,,,1,303
+27402,"76094","1","DC Comics Super Heroes","Mighty Micros","2018","Mighty Micros: Supergirl vs. Brainiac",,,,,,,1,295
+27305,"76096","1","DC Comics Super Heroes","Justice League","2018","Superman & Krypto Team-Up",,,,19.99,,,"https://images.brickset.com/sets/images/76096-1.jpg",5,956
+27306,"76097","1","DC Comics Super Heroes","Justice League","2018","Lex Luthor Mech Takedown",,,,39.99,,,"https://images.brickset.com/sets/images/76097-1.jpg",3,907
+27307,"76098","1","DC Comics Super Heroes","Justice League","2018","Speed Force Freeze Pursuit",,,,29.99,,,"https://images.brickset.com/sets/images/76098-1.jpg",5,960
+27514,"76099","1","Marvel Super Heroes","Black Panther","2018","Rhino Face-Off by the Mine",,229,,19.99,,,1,383
+27515,"76100","1","Marvel Super Heroes","Black Panther","2018","Royal Talon Fighter Attack",,358,,29.99,,,1,377
+27434,"76101","1","Marvel Super Heroes","Avengers: Infinity War","2018","{Attack of Riders}",,,,,,,1,385
+27435,"76102","1","Marvel Super Heroes","Avengers: Infinity War","2018","{The Search for Thor's Weapon}",,,,,,,1,394
+27436,"76103","1","Marvel Super Heroes","Avengers: Infinity War","2018","{Corvis Glaive Attacks}",,,,,,,1,385
+27437,"76104","1","Marvel Super Heroes","Avengers: Infinity War","2018","{The Hulkbuster Fight}",,,,,,,1,393
+27438,"76107","1","Marvel Super Heroes","Avengers: Infinity War","2018","{Thanos: The Last Battle}",,,,,,,1,396
+27439,"76108","1","Marvel Super Heroes","Avengers: Infinity War","2018","{The Battle in the Sanctum Sanctorum}",,,,,,,1,389
+27740,"5005249","1","Seasonal","Easter","2018","Iconic Easter 2018",,6,,,,,0,72
+27211,"ISBN1593278217","1","Books","No Starch Press","2018","The LEGO Architecture Ideas Book",,,,,,,"https://images.brickset.com/sets/images/ISBN1593278217-1.jpg",6,360
+27625,"SOB","1","Books","","2018","The Shops of Brickingdon",,,,,,,"https://images.brickset.com/sets/images/SOB-1.jpg",1,63
