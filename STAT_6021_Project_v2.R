@@ -18,17 +18,22 @@ prices_df <- read.csv(text =getURL('https://raw.githubusercontent.com/rohanbapat
 colnames(partcategories_df)[colnames(partcategories_df) == "name"] <- "partcat_name"
 colnames(parts_df)[colnames(parts_df) == "name"] <- "part_name"
 colnames(colors_df)[colnames(colors_df) == "name"] <- "color_name"
-colnames(themes_df)[colnames(themes_df) == "name"] <- "theme_name"
+colnames(themes_df)[colnames(themes_df) == "name"] <- "sub_theme"
 colnames(themes_df)[colnames(themes_df) == "id"] <- "sub_theme_id"
 colnames(themes_df)[colnames(themes_df) == "parent_id"] <- "theme_id"
 colnames(sets_df)[colnames(sets_df) == "name"] <- "set_name"
 colnames(inventoryparts_df)[colnames(inventoryparts_df) == "quantity"] <- "inventorypart_quantity"
 colnames(inventorysets_df)[colnames(inventorysets_df) == "quantity"] <- "inventorysets_quantity"
-colnames(prices_df)[colnames(prices_df) == "theme"] <- "theme_name"
+colnames(prices_df)[colnames(prices_df) == "Theme"] <- "theme_name"
+colnames(prices_df)[colnames(prices_df) == "Subtheme"] <- "sub_theme"
+colnames(prices_df)[colnames(prices_df) == "Pieces"] <- "num_parts"
+colnames(prices_df)[colnames(prices_df) == "Name"] <- "set_name"
+colnames(prices_df)[colnames(prices_df) == "Year"] <- "year"
+colnames(sets_df)[colnames(sets_df) == "theme_id"] <- "sub_theme_id"
 
 ## dropping columns from prices that are unnecessary
-prices_df <- subset(prices_df, select=-c(UKPrice,CAPrice, EUPrice, ImageURL, OwnedBy, WantedBy))
-sum(is.na(prices_df$Pieces))
+prices_df <- subset(prices_df, select=-c(UKPrice,CAPrice, EUPrice, ImageURL, OwnedBy, WantedBy, Variant, SetID, Minifigs, Number))
+sum(is.na(prices_df$num_parts))
 #[1] 3070
 
 # determine if we have enough data to drop any sets without prices
@@ -56,13 +61,19 @@ parts_partcat_merge <- merge(x = parts_df, y = partcategories_df, by.x = "part_c
 master_df <- merge(master_df, parts_partcat_merge, by = "part_num", all.x = TRUE)
 
 # 4. Merge sets and themes on theme_id <> id
-sets_themes_merge <- merge(x = sets_df, y = themes_df, by.x = "theme_id", by.y = "id")
+sets_themes_merge <- merge(x = sets_df, y = themes_df, by.x = "sub_theme_id", by.y = "sub_theme_id")
 
-# 5. Merge inventories with inventorysets on (id, set_num)<>(inventory_id, set_num)
+# 5. Merge set_themes_merge with the prices dta on set_name, year
+
+set_themes_merge2 <- merge(sets_themes_merge, price_df, by=c('set_name', 'year'))
+
+# 6. Merge inventories with inventorysets on (id, set_num)<>(inventory_id, set_num)
 inventories_invset_merge <- merge(x = inventories_df, y = inventorysets_df, by.x = c("id","set_num"), by.y = c("inventory_id","set_num"), all = TRUE)
 
-# 6. Merge inventory sets with inventories_st_merge on set_num
-inventorysets_settheme_merge <- merge(inventories_invset_merge, sets_themes_merge, by = "set_num")
+# 7. Merge inventory sets with inventories_st_merge on set_num
+inventorysets_settheme_merge <- merge(inventories_invset_merge, set_themes_merge2, by = "set_num")
 
-# 7. Merge master with inventories_st_merge on inventory_id <> id
+# 8. Merge master with inventories_st_merge on inventory_id <> id
 master_df2 <- merge(x = master_df, y = inventorysets_settheme_merge, by.x = "inventory_id", by.y = "id", all = T)
+
+
