@@ -76,4 +76,5 @@ inventorysets_settheme_merge <- merge(inventories_invset_merge, set_themes_merge
 # 8. Merge master with inventories_st_merge on inventory_id <> id
 master_df2 <- merge(x = master_df, y = inventorysets_settheme_merge, by.x = "inventory_id", by.y = "id", all = T)
 
-
+# 9. Master with no set_num NAs
+master_df_final <- master_df2[!(is.na(master_df2$set_num)), ]
