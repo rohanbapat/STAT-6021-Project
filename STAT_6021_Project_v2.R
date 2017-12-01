@@ -1,4 +1,6 @@
 library(RCurl)
+library(readr)
+library(dplyr)
 
 # Read input dataframes from Github
 colors_df <- read.csv(text =getURL('https://raw.githubusercontent.com/rohanbapat/STAT-6021-Project/master/colors.csv'))
@@ -9,15 +11,31 @@ partcategories_df <- read.csv(text =getURL('https://raw.githubusercontent.com/ro
 parts_df <- read.csv(text =getURL('https://raw.githubusercontent.com/rohanbapat/STAT-6021-Project/master/parts.csv'))
 sets_df <- read.csv(text =getURL('https://raw.githubusercontent.com/rohanbapat/STAT-6021-Project/master/sets.csv'))
 themes_df <- read.csv(text =getURL('https://raw.githubusercontent.com/rohanbapat/STAT-6021-Project/master/themes.csv'))
+prices_df <- read.csv(text =getURL('https://raw.githubusercontent.com/rohanbapat/STAT-6021-Project/master/AllLegoPrices.csv'))
+
 
 # Rename columns with same name but different definition
 colnames(partcategories_df)[colnames(partcategories_df) == "name"] <- "partcat_name"
 colnames(parts_df)[colnames(parts_df) == "name"] <- "part_name"
 colnames(colors_df)[colnames(colors_df) == "name"] <- "color_name"
 colnames(themes_df)[colnames(themes_df) == "name"] <- "theme_name"
+colnames(themes_df)[colnames(themes_df) == "id"] <- "sub_theme_id"
+colnames(themes_df)[colnames(themes_df) == "parent_id"] <- "theme_id"
 colnames(sets_df)[colnames(sets_df) == "name"] <- "set_name"
 colnames(inventoryparts_df)[colnames(inventoryparts_df) == "quantity"] <- "inventorypart_quantity"
 colnames(inventorysets_df)[colnames(inventorysets_df) == "quantity"] <- "inventorysets_quantity"
+colnames(prices_df)[colnames(prices_df) == "theme"] <- "theme_name"
+
+## dropping columns from prices that are unnecessary
+prices_df <- subset(prices_df, select=-c(UKPrice,CAPrice, EUPrice, ImageURL, OwnedBy, WantedBy))
+sum(is.na(prices_df$Pieces))
+#[1] 3070
+
+# determine if we have enough data to drop any sets without prices
+nrow(prices_df) - sum(is.na(prices_df$USPrice))
+#[1] 7989
+price_df <- prices_df[!(is.na(prices_df$USPrice)), ]
+#price_df <- price_df[!(is.na(price_df$Pieces)), ]
 
 # Merge all dataframes to master dataframe
 
