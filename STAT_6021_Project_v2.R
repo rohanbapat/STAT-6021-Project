@@ -34,8 +34,14 @@ sum(is.na(prices_df$Pieces))
 # determine if we have enough data to drop any sets without prices
 nrow(prices_df) - sum(is.na(prices_df$USPrice))
 #[1] 7989
+# drop price NAs
 price_df <- prices_df[!(is.na(prices_df$USPrice)), ]
+# Could drop piece NA  - takes down to 6000 obs - not sure if aligns with set data 
 #price_df <- price_df[!(is.na(price_df$Pieces)), ]
+
+# impute the theme ids for those theme_id = NA (will equal the subtheme)
+themes_df$theme_id[is.na(themes_df$theme_id)] <- themes_df$sub_theme_id[is.na(themes_df$theme_id)]
+
 
 # Merge all dataframes to master dataframe
 
