@@ -72,7 +72,7 @@ set_themes_merge2 <- merge(sets_themes_merge, price_df, by=c('set_name', 'year')
 set_themes_merge2 <- subset(set_themes_merge2, select=-c(num_parts.y, sub_theme.y))
 # rename the columns that got changed
 colnames(set_themes_merge2 )[colnames(set_themes_merge2 ) == "num_parts.x"] <- "num_parts"
-colnames(set_themes_merge2 )[colnames(set_themes_merge2 ) == "sub_theme.y"] <- "sub_theme"
+colnames(set_themes_merge2 )[colnames(set_themes_merge2 ) == "sub_theme.x"] <- "sub_theme"
 
 # 6. Merge inventories with inventorysets on (id, set_num)<>(inventory_id, set_num)
 inventories_invset_merge <- merge(x = inventories_df, y = inventorysets_df, by.x = c("id","set_num"), by.y = c("inventory_id","set_num"), all = TRUE)
@@ -87,4 +87,13 @@ master_df2 <- merge(x = master_df, y = inventorysets_settheme_merge, by.x = "inv
 master_df_final <- master_df2[!(is.na(master_df2$set_num)), ]
 
 
-
+### check data types
+sapply(master_df_final, typeof)
+# some columns need to be updated
+master_df_final$is_spare <- as.factor(master_df_final$is_spare)
+master_df_final$color_name <- as.factor(master_df_final$color_name)
+master_df_final$rgb <- as.factor(master_df_final$rgb)
+master_df_final$set_name <- as.factor(master_df_final$set_name)
+master_df_final$sub_theme <- as.factor(master_df_final$sub_theme)
+master_df_final$theme_name <- as.factor(master_df_final$theme_name)
+master_df_final$is_trans <- as.factor(master_df_final$is_trans)
