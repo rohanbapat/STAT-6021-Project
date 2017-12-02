@@ -87,33 +87,4 @@ master_df2 <- merge(x = master_df, y = inventorysets_settheme_merge, by.x = "inv
 master_df_final <- master_df2[!(is.na(master_df2$set_num)), ]
 
 
-####### Couple of Log Reg Approaches to predicting certain themes #########
 
-#look at the possible themes to look at 
-unique(set_themes_merge2$theme_name)
-# see the count in each theme
-table(set_themes_merge2$theme_name)
-# Some themes that are sufficiently large to explore
-#Bionicle - 220
-# City -287
-# Duplo - 174
-#Castle - 139
-# ninjago - 123
-# star wars- 313
-# town - 235
-
-# decided to use just the set_themes_merge2 data instead of the master to reduce complexity  - also,looking to identify the set theme (not individual pieces)
-# since using set theme, need to impute any NAs in the 
-
-
-
-# create new dataframe with column y/n for star wars as theme
-#sw_master <- master_df_final
-#for (i in 1:nrow(sw_master)){
-#  if (sw_master$theme_name[i] == 'Star Wars'){
-#    sw_master$sw[i] <- 1
-#  }
-#  else {
-#    sw_master$sw[i] <- 0
-#  }
-#}
