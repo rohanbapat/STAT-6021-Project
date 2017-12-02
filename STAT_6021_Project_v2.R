@@ -14,6 +14,8 @@ themes_df <- read.csv(text =getURL('https://raw.githubusercontent.com/rohanbapat
 prices_df <- read.csv(text =getURL('https://raw.githubusercontent.com/rohanbapat/STAT-6021-Project/master/AllLegoPrices.csv'))
 
 
+###### Data Cleaning #############
+
 # Rename columns with same name but different definition
 colnames(partcategories_df)[colnames(partcategories_df) == "name"] <- "partcat_name"
 colnames(parts_df)[colnames(parts_df) == "name"] <- "part_name"
@@ -66,6 +68,11 @@ sets_themes_merge <- merge(x = sets_df, y = themes_df, by.x = "sub_theme_id", by
 # 5. Merge set_themes_merge with the prices dta on set_name, year
 
 set_themes_merge2 <- merge(sets_themes_merge, price_df, by=c('set_name', 'year'))
+#part numbers were close to not identical, dropping the second column that was created, ditto with the subtheme
+set_themes_merge2 <- subset(set_themes_merge2, select=-c(num_parts.y, sub_theme.y))
+# rename the columns that got changed
+colnames(set_themes_merge2 )[colnames(set_themes_merge2 ) == "num_parts.x"] <- "num_parts"
+colnames(set_themes_merge2 )[colnames(set_themes_merge2 ) == "sub_theme.y"] <- "sub_theme"
 
 # 6. Merge inventories with inventorysets on (id, set_num)<>(inventory_id, set_num)
 inventories_invset_merge <- merge(x = inventories_df, y = inventorysets_df, by.x = c("id","set_num"), by.y = c("inventory_id","set_num"), all = TRUE)
@@ -78,3 +85,35 @@ master_df2 <- merge(x = master_df, y = inventorysets_settheme_merge, by.x = "inv
 
 # 9. Master with no set_num NAs
 master_df_final <- master_df2[!(is.na(master_df2$set_num)), ]
+
+
+####### Couple of Log Reg Approaches to predicting certain themes #########
+
+#look at the possible themes to look at 
+unique(set_themes_merge2$theme_name)
+# see the count in each theme
+table(set_themes_merge2$theme_name)
+# Some themes that are sufficiently large to explore
+#Bionicle - 220
+# City -287
+# Duplo - 174
+#Castle - 139
+# ninjago - 123
+# star wars- 313
+# town - 235
+
+# decided to use just the set_themes_merge2 data instead of the master to reduce complexity  - also,looking to identify the set theme (not individual pieces)
+# since using set theme, need to impute any NAs in the 
+
+
+
+# create new dataframe with column y/n for star wars as theme
+#sw_master <- master_df_final
+#for (i in 1:nrow(sw_master)){
+#  if (sw_master$theme_name[i] == 'Star Wars'){
+#    sw_master$sw[i] <- 1
+#  }
+#  else {
+#    sw_master$sw[i] <- 0
+#  }
+#}
