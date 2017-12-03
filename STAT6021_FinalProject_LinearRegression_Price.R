@@ -92,81 +92,35 @@ master_df_final <- master_df2[!(is.na(master_df2$set_num)), ]
 dim(master_df_final)
 str(master_df_final)
 
-#
-master_df_final$inventory_id <- as.factor(master_df_final$inventory_id)
-master_df_final$color_id <- as.factor(master_df_final$color_id)
-master_df_final$color_name <- as.factor(master_df_final$color_name)
-master_df_final$rgb <- as.factor(master_df_final$rgb)
-master_df_final$is_spare <- as.factor(master_df_final$is_spare)
-master_df_final$is_trans <- as.factor(master_df_final$is_trans)
-master_df_final$part_name <- as.factor(master_df_final$part_name)
-master_df_final$part_cat_id <- as.factor(master_df_final$part_cat_id)
-master_df_final$partcat_name <- as.factor(master_df_final$partcat_name)
-master_df_final$set_num <- as.factor(master_df_final$set_num)
-master_df_final$set_name <- as.factor(master_df_final$set_name)
-master_df_final$version <- as.factor(master_df_final$version)
-master_df_final$sub_theme_id <- as.factor(master_df_final$sub_theme_id)
-master_df_final$sub_theme.x <- as.factor(master_df_final$sub_theme.x)
-master_df_final$theme_id <- as.factor(master_df_final$theme_id)
-master_df_final$theme_name <- as.factor(master_df_final$theme_name)
+#Convert respective columsn to factor/numeric
+colnames(master_df_final)
+num <- c("num_parts","inventorypart_quantity","inventorysets_quantity","part_num","year","USPrice")
 
+master_df_final[num] <- lapply(master_df_final[num], as.numeric)
 
-master_df_final$num_parts <- as.factor(master_df_final$num_parts)
-master_df_final$inventorypart_quantity <- as.numeric(master_df_final$inventorypart_quantity)
-master_df_final$inventorysets_quantity <- as.numeric(master_df_final$inventorysets_quantity)
-master_df_final$part_num <- as.factor(master_df_final$part_num)
-master_df_final$year <- as.nemeric(master_df_final$year)
-master_df_final$USPrice <- as.numeric(master_df_final$USPrice)
+cat <- c("inventory_id","color_id", "is_spare", "color_name" ,"rgb","is_trans","part_name","partcat_name",
+         "set_num","version","set_name","sub_theme_id", "sub_theme.x","theme_id",              
+         "theme_name")
 
+master_df_final[cat] <- lapply(master_df_final[cat], as.factor)
 
 
 ###### 2. Data Partition and Data Cleaning  #############
-sam <- sample(357281, 357281/2)
+sam <- sample(357281, 357281/2, replace =F)
 train <- master_df_final[sam, ]
 test <- master_df_final[-sam, ]
 
 # Data Cleaning
-sum(is.na(train$year))
-sum(is.na(train$USPrice))
-sum(is.na(train$theme_name))
-sum(is.na(train$sub_theme.x))
-sum(is.na(train$version))
-sum(is.na(train$is_trans))
-sum(is.na(train$partcat_name))
+
+na_count_train <-data.frame(sapply(train, function(y) sum(length(which(is.na(y))))))
 
 train <- train[!is.na(train$version),]
 train <- train[!is.na(train$is_trans),]
 train <- train[!is.na(train$partcat_name),]
 
-#Check factor levels in factor variables between test and train
-str(test$theme_name)
-str(test$sub_theme.x)
-str(test$partcat_name)
-str(test$is_trans)
-str(test$version)
-str(test$year)
-
-str(train$theme_name)
-str(train$sub_theme.x)
-str(train$partcat_name)
-str(train$is_trans)
-str(train$version)
-str(train$year)
-
-train$year <- as.numeric(train$year)
-test$year <- as.numeric(test$year)
-train$USPrice <- as.numeric(train$USPrice)
-test$USPrice <- as.numeric(test$USPrice)
-
-
 #Cleaning Test data
-sum(is.na(test$year))
-sum(is.na(test$USPrice))
-sum(is.na(test$theme_name))
-sum(is.na(test$sub_theme.x))
-sum(is.na(test$version))
-sum(is.na(test$is_trans))
-sum(is.na(test$partcat_name))
+
+na_count_test <-data.frame(sapply(test, function(y) sum(length(which(is.na(y))))))
 
 test <- test[!is.na(test$version),]
 test <- test[!is.na(test$is_trans),]
@@ -219,16 +173,12 @@ yr1<-unique(train$year)
 ye1[!(ye1 %in% yr1)]
 yr1[!(ye1 %in% yr1)]
 
-test <- test[!test$year=="1964",]
-test <- test[!test$year=="1966",]
-train <- train[!train$year=="1964",]
-train <- train[!train$year=="1966",]
+test <- test[!test$year==c("1964","1966"),]
+train <- train[!train$year==c("1964","1966"),]
 dim(test)
 dim(train)
 
 #remove NAs in USPrice
-sum(is.na(train$USPrice))
-sum(is.na(test$USPrice))
 train <- train[!is.na(train$USPrice),]
 
 
@@ -403,7 +353,6 @@ test <- test[!test$sub_theme.x == "The Lord of the Rings",]
 
 pred0 <- predict(price0_trans.lm, newdata = test)
     ## error message: prediction from a rank-deficient fit may be misleading
-
 
 
 ###### 9. Summary of the Final Linear Regression Mode  ############# 

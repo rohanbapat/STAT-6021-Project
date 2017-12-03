@@ -1,0 +1,136 @@
+color_id,name,rgb,is_trans,color_map
+75,Speckle Black-Copper,0,f,black
+132,Speckle Black-Silver,0,f,silver
+133,Speckle Black-Gold,0,f,gold
+288,Dark Green,184632,f,green
+2,Green,237841,f,green
+308,Dark Brown,352100,f,brown
+148,Pearl Dark Gray,575857,f,gray
+6,Brown,583927,f,brown
+179,Flat Silver,898788,f,silver
+26,Magenta,923978,f,violet
+1001,Medium Violet,9.39E+07,f,violet
+373,Sand Purple,8.45E+86,f,purple
+33,Trans-Dark Blue,0020A0,t,blue
+-1,Unknown,0033B2,f,other
+1,Blue,0055BF,f,blue
+3,Dark Turquoise,008F9B,f,blue
+0,Black,05131D,f,black
+9999,[No Color],05131D,f,black
+321,Dark Azure,078BC9,f,blue
+272,Dark Blue,0A3463,f,blue
+64,Chrome Black,1B2A34,f,black
+23,Dark Blue-Violet,2032B0,f,violet
+313,Maersk Blue,3592C3,f,blue
+322,Medium Azure,36AEBF,f,blue
+62,Chrome Green,3CB371,f,green
+85,Dark Purple,3F3691,f,purple
+110,Violet,4354A3,f,violet
+10,Bright Green,4B9F4A,f,green
+89,Royal Blue,4C61DB,f,blue
+11,Light Turquoise,55A5AF,f,blue
+70,Reddish Brown,582A12,f,brown
+73,Medium Blue,5A93DB,f,blue
+379,Sand Blue,6074A1,f,blue
+32,Trans-Black IR Lens,635F52,t,black
+40,Trans-Black,635F52,t,black
+76,Speckle DBGray-Silver,635F61,f,silver
+60,Chrome Antique Brass,645A4C,f,brown
+112,Blue-Violet,6874CA,f,violet
+1003,Glitter Trans-Light Blue,68BCC5,t,blue
+72,Dark Bluish Gray,6C6E68,f,gray
+61,Chrome Blue,6C96BF,f,blue
+8,Dark Gray,6D6E5C,f,gray
+320,Dark Red,720E0F,f,red
+74,Medium Green,73DCA1,f,green
+137,Metal Blue,7988A1,f,blue
+86,Dark Flesh,7C503A,f,pink
+232,Sky Blue,7DBFDD,f,blue
+22,Purple,81007B,f,purple
+34,Trans-Green,84B68D,t,green
+81,Metallic Green,899B5F,f,green
+1007,Reddish Lilac,8E5597,f,red
+28,Dark Tan,958A73,f,brown
+236,Trans-Light Purple,96709F,t,purple
+326,Olive Green,9B9A5A,f,green
+7,Light Gray,9BA19D,f,gray
+135,Pearl Light Gray,9CA3A8,f,gray
+212,Bright Light Blue,9FC3E9,f,blue
+71,Light Bluish Gray,A0A5A9,f,gray
+378,Sand Green,A0BCAC,f,green
+52,Trans-Purple,A5A5CB,t,purple
+129,Glitter Trans-Purple,A5A5CB,t,purple
+80,Metallic Silver,A5A9B4,f,silver
+484,Dark Orange,A95500,f,orange
+63,Chrome Pink,AA4D8E,f,pink
+297,Pearl Gold,AA7F2E,f,gold
+150,Pearl Very Light Gray,ABADAC,f,gray
+30,Medium Lavender,AC78BA,f,pink
+323,Light Aqua,ADC3C0,f,blue
+134,Copper,AE7A59,f,other
+41,Trans-Light Blue,AEEFEC,t,blue
+216,Rust,B31004,f,brown
+118,Aqua,B3D7D1,f,blue
+178,Flat Dark Gold,B48455,f,gold
+9,Light Blue,B4D2E3,f,blue
+1006,Trans Light Royal Blue,B4D4F7,t,blue
+450,Fabuland Brown,B67B50,f,brown
+334,Chrome Gold,BBA53D,f,gold
+27,Lime,BBE90B,f,yellow
+294,Glow In Dark Trans,BDC6AD,t,other
+1002,Glitter Trans-Neon Green,C0F500,t,green
+43,Trans-Very Lt Blue,C1DFF0,t,blue
+17,Light Green,C2DAB8,f,green
+115,Medium Lime,C7D23C,f,yellow
+5,Dark Pink,C870A0,f,pink
+4,Red,C91A09,f,red
+36,Trans-Red,C91A09,t,red
+20,Light Violet,C9CAE2,f,violet
+84,Medium Dark Flesh,CC702A,f,pink
+69,Light Purple,CD6298,f,purple
+143,Trans-Medium Blue,CFE2F7,t,blue
+92,Flesh,D09168,f,pink
+21,Glow In Dark Opaque,D4D5C9,f,other
+335,Sand Red,D67572,f,red
+1000,Glow in Dark White,D9D9D9,f,white
+35,Trans-Bright Green,D9E4A7,t,green
+120,Light Lime,D9E4A7,f,green
+54,Trans-Neon Yellow,DAB000,t,yellow
+82,Metallic Gold,DBAC34,f,gold
+142,Pearl Light Gold,DCBC81,f,gold
+45,Trans-Dark Pink,DF6695,t,pink
+114,Glitter Trans-Dark Pink,DF6695,t,pink
+158,Yellowish Green,DFEEA5,f,green
+383,Chrome Silver,E0E0E0,f,silver
+31,Lavender,E1D5ED,f,pink
+29,Bright Pink,E4ADC8,f,pink
+230,Trans-Pink,E4ADC8,t,pink
+19,Tan,E4CD9E,f,brown
+503,Very Light Gray,E6E3DA,f,gray
+151,Very Light Bluish Gray,E6E3E0,f,gray
+182,Trans-Orange,F08F1C,t,orange
+12,Salmon,F2705E,f,pink
+14,Yellow,F2CD37,f,yellow
+183,Pearl White,F2F3F2,f,white
+68,Very Light Orange,F3CF9B,f,orange
+46,Trans-Yellow,F5CD2F,t,yellow
+78,Light Flesh,F6D7B3,f,pink
+351,Medium Dark Pink,F785B1,f,pink
+191,Bright Light Orange,F8BB3D,f,orange
+42,Trans-Neon Green,F8F184,t,green
+125,Light Orange,F9BA61,f,orange
+366,Earth Orange,FA9C1C,f,orange
+18,Light Yellow,FBE696,f,yellow
+1005,Trans Fire Yellow,FBE890,t,yellow
+13,Pink,FC97AC,f,pink
+1004,Trans Flame Yellowish Orange,FCB76D,t,orange
+47,Trans-Clear,FCFCFC,t,other
+25,Orange,FE8A18,f,orange
+100,Light Salmon,FEBABD,f,pink
+77,Light Pink,FECCCF,f,pink
+57,Trans-Neon Orange,FF800D,t,orange
+462,Medium Orange,FFA70B,f,orange
+226,Bright Light Yellow,FFF03A,f,yellow
+15,White,FFFFFF,f,white
+79,Milky White,FFFFFF,f,white
+117,Glitter Trans-Clear,FFFFFF,t,white
