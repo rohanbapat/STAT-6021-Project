@@ -8548,7 +8548,7 @@ SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CA
 22666,LOTRDVDBD,1,Gear,Digital media,2013,The Hobbit - An Unexpected Journey Blu-ray with Bilbo Baggins Minifigure,1,,,,,,https://images.brickset.com/sets/images/LOTRDVDBD-1.jpg,520,320
 25967,LSMMBE1,1,Promotional,LEGO brand stores,2013,Castle,,,,,,,https://images.brickset.com/sets/images/LSMMBE1-1.jpg,21,40
 25966,LSMMBE2,1,Promotional,LEGO brand stores,2013,Aircraft,,,,,,,https://images.brickset.com/sets/images/LSMMBE2-1.jpg,16,23
-22772,May-13,1,Star Wars,Original Content,2013,Holocron Droid,,31,,,,,https://images.brickset.com/sets/images/MAY2013-1.jpg,275,880
+22772,13-May,1,Star Wars,Original Content,2013,Holocron Droid,,31,,,,,https://images.brickset.com/sets/images/MAY2013-1.jpg,275,880
 25849,MINECON,1,Minecraft,Miscellaneous,2013,Steve,,19,,,,,https://images.brickset.com/sets/images/MINECON-1.jpg,17,112
 22583,MUNICH,1,Promotional,LEGO brand store opening set,2013,"Munich Pasing, Germany, Exclusive Minifigure Pack",3,12,0,0,,,https://images.brickset.com/sets/images/MUNICH-1.jpg,16,209
 23131,MURRAY,1,Promotional,LEGO brand store opening set,2013,Murray Exclusive Minifigure Pack,,,,,,,https://images.brickset.com/sets/images/MURRAY-1.jpg,21,146
@@ -12858,3 +12858,961 @@ SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CA
 7871,1091,1,Dacta,,1979,Lego Educational Storage Cloth,,1,,10,,,https://images.brickset.com/sets/images/1091-1.jpg,27,36
 26898,1236,3,Service Packs,Technic,1979,12v Technic motor,,1,,,,,7,7,
 22925,7170,1,Samsonite,Educational,1979,Educational Refill Pack,,1112,,,,,10,16,
+4382,858,1,Technic,,1980,Auto Engines,,242,,,,,https://images.brickset.com/sets/images/858-1.jpg,117,385
+7836,1041,2,Dacta,,1980,Educational Duplo Building Set,,68,,36.5,,,https://images.brickset.com/sets/images/1041-2.jpg,7,21
+7842,1050,2,Dacta,,1980,Universal set for boys and girls,,,,,,,https://images.brickset.com/sets/images/1050-2.jpg,10,31
+7853,1062,1,Dacta,,1980,{Town Vehicles},6,172,,,,,https://images.brickset.com/sets/images/1062-1.jpg,26,70
+7859,1075,1,Dacta,,1980,LEGO People Supplementary Set,,304,,14.5,,,https://images.brickset.com/sets/images/1075-1.jpg,27,30
+7860,1076,2,Dacta,,1980,LEGO Car and Truck Supplementary Set,,,,14.5,,,https://images.brickset.com/sets/images/1076-2.jpg,6,33
+143,1101,1,Service Packs,,1980,Replacement 4.5V Motor,,1,,5.65,,,16,31,
+144,1102,1,Service Packs,,1980,Four Motor Wheel Bushes,,4,,,,,https://images.brickset.com/sets/images/1102-1.jpg,22,29
+145,1103,1,Service Packs,,1980,Battery Box,,1,,,,,21,33,
+146,1104,1,Service Packs,,1980,Two Connector Leads,,2,,,,,13,30,
+147,1105,1,Service Packs,,1980,Two Rubber Crawler Tracks,,2,,,,,https://images.brickset.com/sets/images/1105-1.jpg,31,41
+148,1106,1,Service Packs,Trains,1980,Battery Tender for Trains,,2,,,,,18,44,
+150,1107,1,Service Packs,Trains,1980,Two Shunting Trip-Posts and One Signal,,4,,,,,https://images.brickset.com/sets/images/1107-1.jpg,25,40
+151,1108,1,Service Packs,Trains,1980,Two Pairs of Magnetic Couplings,,4,,,,,11,41,
+153,1110,1,Service Packs,Trains,1980,Four Locomotive Wheels,,8,,,,,23,40,
+154,1111,1,Service Packs,Trains,1980,Eight Rubber Rims for Locomotive Wheels,,8,,,,,13,42,
+155,1113,1,Service Packs,,1980,Motor Frame 6 x 16 Stud Plus Four Buffers,,5,,,,,9,33,
+156,1114,1,Service Packs,,1980,Motor Frame 6 x 22 Stud,,1,,,,,8,32,
+157,1115,1,Service Packs,,1980,"Lighting Brick, 4.5V",,1,,,,,29,34,
+160,1120,1,Service Packs,,1980,"Two Tyres, 42 mm Diameter",,2,,,,,https://images.brickset.com/sets/images/1120-1.jpg,13,34
+162,1122,1,Service Packs,,1980,Hinge Units,,3,,,,,17,36,
+163,1123,1,Service Packs,,1980,Ball and Socket Couplings & One Articulated Joint,,8,,16,,,https://images.brickset.com/sets/images/1123-1.jpg,15,37
+165,1125,1,Service Packs,,1980,Crane Grab Assembly,,3,,,,,16,39,
+169,1129,2,Service Packs,,1980,Spread Bag,,34,,,,,14,33,
+171,1130,1,Service Packs,,1980,Plastic Folder for Building Instructions,,1,,14,,,https://images.brickset.com/sets/images/1130-1.jpg,41,58
+437,1591,1,Town,Special,1980,Danone Delivery Truck,,40,,,,,https://images.brickset.com/sets/images/1591-1.jpg,63,238
+439,1592,1,Town,Classic,1980,Town Square - Castle Scene,11,471,,,,,https://images.brickset.com/sets/images/1592-1.jpg,509,814
+486,1651,2,Town,Special,1980,Maersk Line Container Lorry,1,305,,,,,https://images.brickset.com/sets/images/1651-2.jpg,45,491
+747,2053,1,Duplo,,1980,Rock 'n' Roll Pull-Toy,1,4,,,,,13,18,
+750,2056,1,Duplo,,1980,Rock 'n' Rattle Pull-Toy,1,6,,,,,22,19,
+973,2620,1,Duplo,,1980,Sports Car,1,2,,,,,27,20,
+975,2623,1,Duplo,,1980,Delivery Van,1,6,,,,,43,20,
+977,2625,1,Duplo,,1980,Car with Boat and Trailer,1,6,,,,,17,21,
+978,2627,1,Duplo,,1980,Pony Trailer,1,5,,,,,40,18,
+982,2630,1,Duplo,,1980,Family Room,3,9,,13.25,,,8,18,
+992,2640,1,Duplo,,1980,Grocery Store,2,23,,,,,31,19,
+994,2643,2,Duplo,,1980,Playbox,,1,,,,,10,17,
+996,2645,1,Duplo,,1980,Nursery School,6,29,,,,,32,19,
+1002,2650,1,Duplo,,1980,Farm,5,60,,14.75,,,17,18,
+1667,3602,1,Fabuland,,1980,Pram - Lisa Lamb Goes Walking,1,3,,,,,https://images.brickset.com/sets/images/3602-1.jpg,243,65
+1669,3604,1,Fabuland,,1980,Mark Monkey with his Fruit Stall,1,3,,,,,https://images.brickset.com/sets/images/3604-1.jpg,232,65
+1670,3605,1,Fabuland,,1980,Ricky Racoon and his Scooter,1,1,,,,,https://images.brickset.com/sets/images/3605-1.jpg,189,58
+1700,3634,1,Fabuland,,1980,Charlie Crow's Carry-All,1,17,,,,,https://images.brickset.com/sets/images/3634-1.jpg,407,80
+1726,3665,1,Fabuland,,1980,Harry Horse and Clara Cow's Ice Cream Shoppe,2,36,,,,,https://images.brickset.com/sets/images/3665-1.jpg,214,75
+2071,4306,1,Scala,Jewellery,1980,Rings,,15,,,,,https://images.brickset.com/sets/images/4306-1.jpg,17,29
+2072,4307,1,Scala,Jewellery,1980,Rings,,15,,,,,https://images.brickset.com/sets/images/4307-1.jpg,14,31
+2077,4336,1,Scala,Jewellery,1980,Picture Frame and Mirror,,52,,,,,https://images.brickset.com/sets/images/4336-1.jpg,17,27
+2625,5233,2,Homemaker,,1980,Bedroom,,26,,4.5,,,https://images.brickset.com/sets/images/5233-2.jpg,57,75
+2973,6000,1,Books,LEGO,1980,LEGOLAND Idea Book,,,,2,,,https://images.brickset.com/sets/images/6000-1.jpg,1604,258
+3151,6304,1,Town,Accessories,1980,"Road Plates, Cross",,2,,,,,https://images.brickset.com/sets/images/6304-1.jpg,858,197
+3152,6305,1,Town,Accessories,1980,Trees and Flowers,,12,,3.75,,,https://images.brickset.com/sets/images/6305-1.jpg,1434,287
+3153,6306,1,Town,Accessories,1980,Road Signs,,12,,2.5,,,https://images.brickset.com/sets/images/6306-1.jpg,1593,361
+3215,6363,1,Town,Shops and Services,1980,Auto Repair Shop,1,141,,,,,https://images.brickset.com/sets/images/6363-1.jpg,1843,466
+3216,6364,1,Town,Medical,1980,Paramedic Unit,2,137,,,,,https://images.brickset.com/sets/images/6364-1.jpg,1399,505
+3228,6375,2,Town,Shops and Services,1980,Exxon Gas Station,3,267,,20,,,https://images.brickset.com/sets/images/6375-2.jpg,613,556
+3246,6390,1,Town,Shops and Services,1980,Main Street,8,591,,40,,,https://images.brickset.com/sets/images/6390-1.jpg,496,706
+3466,6609,1,Town,Racing,1980,Race Car,1,17,,,,,https://images.brickset.com/sets/images/6609-1.jpg,2158,232
+3484,6627,1,Town,Vehicles,1980,Convertible,1,37,,,,,https://images.brickset.com/sets/images/6627-1.jpg,1699,313
+3500,6647,1,Town,Maintenance,1980,Highway Repair,1,55,,,,,https://images.brickset.com/sets/images/6647-1.jpg,1479,331
+3502,6648,2,Town,Construction,1980,Dump Truck,1,42,,,,,https://images.brickset.com/sets/images/6648-2.jpg,905,308
+3532,6678,1,Town,Construction,1980,Pneumatic Crane,1,60,,,,,https://images.brickset.com/sets/images/6678-1.jpg,1764,328
+3533,6679,2,Town,Vehicles,1980,Exxon Tow Truck,1,79,,,,,https://images.brickset.com/sets/images/6679-2.jpg,537,328
+3545,6690,1,Town,Fire,1980,Snorkel Pumper,2,91,,,,,https://images.brickset.com/sets/images/6690-1.jpg,1637,274
+3635,6821,1,Space,Classic,1980,Shovel Buggy,1,28,,,,,https://images.brickset.com/sets/images/6821-1.jpg,2680,506
+3652,6841,1,Space,Classic,1980,Mineral Detector,1,44,,,,,https://images.brickset.com/sets/images/6841-1.jpg,2326,532
+3666,6861,1,Space,Classic,1980,X1 Patrol Craft,1,55,,4,,,https://images.brickset.com/sets/images/6861-1.jpg,1297,695
+3699,6901,1,Space,Classic,1980,Mobile Lab,2,135,,,,,https://images.brickset.com/sets/images/6901-1.jpg,894,694
+3740,6970,1,Space,Classic,1980,Beta I Command Base,4,264,,37,,,https://images.brickset.com/sets/images/6970-1.jpg,2235,921
+3993,7710,1,Trains,4.5/12 V,1980,Push-Along Passenger Steam Train,5,447,,,,,https://images.brickset.com/sets/images/7710-1.jpg,795,367
+3995,7720,1,Trains,4.5/12 V,1980,Diesel Freight Train Set,3,425,,,,,https://images.brickset.com/sets/images/7720-1.jpg,622,331
+3999,7730,1,Trains,4.5/12 V,1980,Electric Goods Train Set,2,512,,,,,https://images.brickset.com/sets/images/7730-1.jpg,308,441
+4001,7740,1,Trains,4.5/12 V,1980,Inter-City Passenger Train Set,10,786,,,,,https://images.brickset.com/sets/images/7740-1.jpg,879,755
+4004,7750,1,Trains,4.5/12 V,1980,Steam Engine with Tender,2,263,,,,,https://images.brickset.com/sets/images/7750-1.jpg,231,495
+4006,7760,1,Trains,4.5/12 V,1980,Diesel Shunter Locomotive,2,150,,,,,https://images.brickset.com/sets/images/7760-1.jpg,380,551
+4008,7810,1,Trains,4.5/12 V,1980,Push-Along Steam Engine,1,97,,,,,https://images.brickset.com/sets/images/7810-1.jpg,262,331
+4010,7814,1,Trains,4.5/12 V,1980,Crane Wagon,2,113,,,,,https://images.brickset.com/sets/images/7814-1.jpg,438,436
+4012,7816,1,Trains,4.5/12 V,1980,Shell Tanker Wagon,1,120,,,,,https://images.brickset.com/sets/images/7816-1.jpg,369,447
+4014,7818,1,Trains,4.5/12 V,1980,Passenger Coach,2,114,,,,,https://images.brickset.com/sets/images/7818-1.jpg,388,332
+4016,7820,1,Trains,4.5/12 V,1980,Mail Van,2,212,,,,,https://images.brickset.com/sets/images/7820-1.jpg,425,463
+4018,7822,1,Trains,4.5/12 V,1980,Railway Station,3,384,,,,,https://images.brickset.com/sets/images/7822-1.jpg,545,621
+4025,7834,1,Trains,4.5/12 V,1980,Level Crossing,1,91,,,,,https://images.brickset.com/sets/images/7834-1.jpg,680,452
+4031,7850,1,Trains,4.5/12 V,1980,8 Straight Rails Grey 4.5 V,,32,,,,,https://images.brickset.com/sets/images/7850-1.jpg,843,177
+4032,7851,1,Trains,4.5/12 V,1980,8 Curved Rails Grey 4.5 V,,32,,,,,https://images.brickset.com/sets/images/7851-1.jpg,818,163
+4033,7852,1,Trains,4.5/12 V,1980,Left and Right Points Manual Grey 4.5 V,,14,,,,,https://images.brickset.com/sets/images/7852-1.jpg,594,145
+4034,7853,1,Trains,4.5/12 V,1980,"Crossing, Grey 4.5 V",,5,,,,,https://images.brickset.com/sets/images/7853-1.jpg,286,151
+4035,7854,1,Trains,4.5/12 V,1980,8 Straight Electric Rails Grey 12 V,,8,,,,,https://images.brickset.com/sets/images/7854-1.jpg,614,163
+4036,7855,1,Trains,4.5/12 V,1980,8 Curved Electric Rails Grey 12 V,,8,,,,,https://images.brickset.com/sets/images/7855-1.jpg,602,156
+4037,7856,1,Trains,4.5/12 V,1980,Left and Right Manual Points with Electric Rails Grey 12 V,,16,,,,,https://images.brickset.com/sets/images/7856-1.jpg,636,158
+4038,7857,1,Trains,4.5/12 V,1980,"Crossing, Electric Rails Grey 12 V",,5,,,,,https://images.brickset.com/sets/images/7857-1.jpg,665,166
+4039,7858,1,Trains,4.5/12 V,1980,Remote Controlled Points Right 12 V,,12,,,,,https://images.brickset.com/sets/images/7858-1.jpg,627,191
+4040,7859,1,Trains,4.5/12 V,1980,Remote Controlled Points Left 12 V,,12,,,,,https://images.brickset.com/sets/images/7859-1.jpg,600,197
+4042,7860,1,Trains,4.5/12 V,1980,Remote Controlled Signal 12 V,,24,,,,,https://images.brickset.com/sets/images/7860-1.jpg,707,222
+4043,7861,1,Trains,4.5/12 V,1980,Lighting Set Electric 12 V,,28,,,,,https://images.brickset.com/sets/images/7861-1.jpg,508,161
+4045,7863,1,Trains,4.5/12 V,1980,Remote Controlled Point Motor 12 V,,7,,,,,https://images.brickset.com/sets/images/7863-1.jpg,258,157
+4046,7864,1,Trains,4.5/12 V,1980,Transformer / Speed Controller 12 V,,33,,,,,https://images.brickset.com/sets/images/7864-1.jpg,1070,163
+4047,7865,1,Trains,4.5/12 V,1980,Motor Replacement Unit for Battery or Motor-Less Trains 12 V,,19,,,,,https://images.brickset.com/sets/images/7865-1.jpg,429,179
+4500,8857,2,Technic,,1980,Motorcycles,,377,,49.5,,,https://images.brickset.com/sets/images/8857-2.jpg,165,239
+4502,8858,2,Technic,,1980,Auto Engines,,460,,69,,,https://images.brickset.com/sets/images/8858-2.jpg,182,337
+4506,8860,1,Technic,,1980,Car Chassis,,668,,59,,,https://images.brickset.com/sets/images/8860-1.jpg,2711,491
+4512,8888,1,Books,LEGO,1980,Ideas Book,,,,,,,https://images.brickset.com/sets/images/8888-1.jpg,764,152
+9437,KCP03,1,Gear,Key Chains/Promotional,1980,WWF Female Minifigure Key Chain,,,0,0,,,5,37,
+845,226,2,Books,LEGO,1981,Building Ideas Book,,,,2.4,,,https://images.brickset.com/sets/images/226-2.jpg,566,103
+7852,1060,1,Dacta,,1981,Road Plates and Signs,,30,,,,,https://images.brickset.com/sets/images/1060-1.jpg,160,118
+7854,1064,1,Dacta,,1981,Dacta Buildings,,,,,,,https://images.brickset.com/sets/images/1064-1.jpg,15,95
+26967,1134,1,Service Packs,Trains,1981,Battery Wagon,,4,,,,,8,10,
+26968,1135,1,Service Packs,Trains,1981, Battery Cable Kit,,13,,,,,3,10,
+26969,1136,1,Service Packs,Trains,1981,"Buffers, Magnetic Couplers",,6,,,,,5,9,
+26970,1137,1,Service Packs,Trains,1981,Train Couplings,,4,,,,,5,9,
+26971,1138,1,Service Packs,Trains,1981,Replacement Rubber Wheel Treads for Trains,,8,,,,,8,8,
+26972,1139,1,Service Packs,Trains,1981,Motor-Mount Plate with Magnetic Couplers,,5,,,,,5,7,
+26973,1140,1,Service Packs,Trains,1981,12V Light Bricks,,2,,,,,8,10,
+26974,1141,1,Service Packs,Trains,1981,Wheel Bricks with Small Red Train Wheels,,2,,,,,5,7,
+26975,1142,1,Service Packs,Trains,1981,Wheel Bricks with Small Black Train-Wheels,,2,,,,,6,7,
+26976,1143,1,Service Packs,Trains,1981,Wheel Bricks with Large Red Train Wheels,,2,,,,,4,8,
+26977,1144,1,Service Packs,Trains,1981,Train Baseplate,,2,,,,,6,8,
+26978,1145,1,Service Packs,Trains,1981, Bogie Plate,,2,,,,,5,8,
+26979,1146,1,Service Packs,Trains,1981,"Pushrods, Cylinder Housings",,6,,,,,6,8,
+26980,1147,1,Service Packs,Trains,1981,"Light Prisms & Holder, Red/Yellow Light Covers",,7,,,,,https://images.brickset.com/sets/images/1147-1.jpg,7,8
+432,1581,1,Promotional,Ferries,1981,Silja Line Ferry,,182,,,,,https://images.brickset.com/sets/images/1581-1.jpg,53,170
+872,2330,1,Duplo,,1981,Basic Set,1,9,,,,,https://images.brickset.com/sets/images/2330-1.jpg,25,18
+880,2340,1,Duplo,,1981,Basic Set,1,17,,,,,13,19,
+886,2350,1,Duplo,,1981,Basic Building Set,2,22,,,,,https://images.brickset.com/sets/images/2350-1.jpg,32,17
+889,2360,1,Duplo,,1981,Basic Set,3,32,,,,,9,16,
+894,2370,1,Duplo,,1981,Basic Set,4,45,,,,,17,18,
+976,2624,1,Duplo,,1981,Helicopter,1,2,,,,,19,21,
+995,2644,1,Duplo,,1981,Service Station,2,14,,,,,19,16,
+1666,3601,1,Fabuland,,1981,Elton Elephant,1,6,,,,,https://images.brickset.com/sets/images/3601-1.jpg,293,79
+1668,3603,1,Fabuland,,1981,Boris Bulldog and Mailbox,1,5,,,,,https://images.brickset.com/sets/images/3603-1.jpg,397,70
+4993,3615,1,Fabuland,,1981,Percy Pig,1,4,,,,,https://images.brickset.com/sets/images/3615-1.jpg,144,63
+1695,3628,1,Fabuland,,1981,Perry Panda and Chester Chimp,2,3,,,,,https://images.brickset.com/sets/images/3628-1.jpg,258,78
+1696,3629,1,Fabuland,,1981,Barney Bear,1,16,,,,,https://images.brickset.com/sets/images/3629-1.jpg,284,66
+1701,3635,1,Fabuland,,1981,Bonnie Bunny's Camper,1,25,,,,,https://images.brickset.com/sets/images/3635-1.jpg,262,85
+3036,6075,2,Castle,Classic,1981,Castle,14,767,,48,,,https://images.brickset.com/sets/images/6075-2.jpg,670,549
+3038,6077,1,Castle,Classic,1981,Knight's Procession,6,48,,5,,,https://images.brickset.com/sets/images/6077-1.jpg,527,430
+3047,6083,1,Castle,Classic,1981,Knight's Joust,6,211,,16,,,https://images.brickset.com/sets/images/6083-1.jpg,351,422
+3217,6365,1,Town,Leisure,1981,Summer Cottage,1,144,,,,,https://images.brickset.com/sets/images/6365-1.jpg,1207,633
+3237,6382,1,Town,Fire,1981,Fire Station,4,390,,25,,,https://images.brickset.com/sets/images/6382-1.jpg,2746,579
+3238,6383,1,Town,Maintenance,1981,Public Works Center,4,421,,30,,,https://images.brickset.com/sets/images/6383-1.jpg,469,693
+3455,6600,1,Town,Classic,1981,Police Patrol,1,23,,,,,https://images.brickset.com/sets/images/6600-1.jpg,500,168
+3459,6602,1,Town,Classic,1981,Fire Unit I,1,29,,,,,https://images.brickset.com/sets/images/6602-1.jpg,372,165
+3467,6610,1,Town,Shops and Services,1981,Gas Pumps,1,29,,,,,https://images.brickset.com/sets/images/6610-1.jpg,1256,336
+3468,6611,1,Town,Fire,1981,Fire Chief's Car,1,20,,,,,https://images.brickset.com/sets/images/6611-1.jpg,2482,255
+3483,6626,1,Town,Classic,1981,Rescue Helicopter,,37,,,,,https://images.brickset.com/sets/images/6626-1.jpg,264,150
+3485,6628,1,Town,Vehicles,1981,Shell Tow Truck,,38,,,,,https://images.brickset.com/sets/images/6628-1.jpg,2186,343
+3486,6629,1,Town,Medical,1981,Ambulance,1,39,,,,,https://images.brickset.com/sets/images/6629-1.jpg,1820,333
+3487,6630,1,Town,Construction,1981,Bucket Loader,1,34,,,,,https://images.brickset.com/sets/images/6630-1.jpg,2003,275
+3504,6650,1,Town,Fire,1981,Fire and Rescue Van,1,46,,,,,https://images.brickset.com/sets/images/6650-1.jpg,2399,334
+3535,6680,1,Town,Medical,1981,Ambulance,2,63,,,,,https://images.brickset.com/sets/images/6680-1.jpg,2022,399
+3536,6681,1,Town,Police,1981,Police Van,1,82,,,,,https://images.brickset.com/sets/images/6681-1.jpg,1988,314
+3546,6691,1,Town,Medical,1981,Red Cross Helicopter,2,107,,,,,https://images.brickset.com/sets/images/6691-1.jpg,1163,308
+3616,6801,1,Space,Classic,1981,Moon Buggy,1,22,,,,,https://images.brickset.com/sets/images/6801-1.jpg,3142,470
+3636,6822,1,Space,Classic,1981,Space Digger,1,33,,,,,https://images.brickset.com/sets/images/6822-1.jpg,3657,487
+3653,6842,1,Space,Classic,1981,Small Space Shuttle Craft,1,46,,,,,https://images.brickset.com/sets/images/6842-1.jpg,3398,457
+3669,6870,1,Space,Classic,1981,Space Probe Launcher,1,60,,,,,https://images.brickset.com/sets/images/6870-1.jpg,2904,500
+3711,6927,1,Space,Classic,1981,All-Terrain Vehicle,2,170,,14.5,,,https://images.brickset.com/sets/images/6927-1.jpg,2597,679
+3713,6929,1,Space,Classic,1981,Star Fleet Voyager,1,242,,15,,,https://images.brickset.com/sets/images/6929-1.jpg,2797,680
+3997,7725,1,Trains,4.5/12 V,1981,Electric Passenger Train Set,1,485,,70,,,https://images.brickset.com/sets/images/7725-1.jpg,524,517
+4007,7777,1,Books,LEGO,1981,Trains Ideas Book,,,,,,,https://images.brickset.com/sets/images/7777-1.jpg,661,300
+4044,7862,1,Trains,4.5/12 V,1981,Remote Controlled Decoupling and Signal 12 V,,16,,,,,https://images.brickset.com/sets/images/7862-1.jpg,294,222
+4434,8710,1,Technic,Supplementary,1981,Technical Elements,,124,,,,,https://images.brickset.com/sets/images/8710-1.jpg,467,142
+4486,8844,1,Technic,,1981,Helicopter,,316,,,,,https://images.brickset.com/sets/images/8844-1.jpg,1254,228
+4487,8845,1,Technic,,1981,Dune Buggy,,174,,20,,,https://images.brickset.com/sets/images/8845-1.jpg,1655,204
+4490,8848,1,Technic,,1981,Power Truck,,398,,,,,https://images.brickset.com/sets/images/8848-1.jpg,942,327
+4504,8859,1,Technic,,1981,Tractor,,610,,,,,https://images.brickset.com/sets/images/8859-1.jpg,912,399
+6513,1066,1,Dacta,Town,1982,Little People with Accessories,36,174,,,,,https://images.brickset.com/sets/images/1066-1.jpg,23,215
+7864,1082,1,Dacta,,1982,Roof Bricks,,336,,,,,https://images.brickset.com/sets/images/1082-1.jpg,24,41
+26888,1201,1,Service Packs,,1982,Hooks,,,,,,,4,7,
+22614,1205,1,Service Packs,,1982,Keys for wind-up motor,,2,,,,,https://images.brickset.com/sets/images/1205-1.jpg,24,29
+9119,1209,1,Service Packs,,1982,{Fences and Gates},,10,,,,,https://images.brickset.com/sets/images/1209-1.jpg,41,45
+195,1211,1,Service Packs,Space,1982,Space Stands and Brackets,,8,,2.25,,,18,36,
+24044,1221,1,Service Packs,Technic,1982,Yellow beams,,8,,,,,4,23,
+24046,1222,1,Service Packs,Technic,1982,Blue beams,,8,,,,,5,25,
+24047,1223,1,Service Packs,Technic,1982,Black beams,,8,,,,,5,24,
+24045,1224,1,Service Packs,Technic,1982,Red beams,,8,,,,,6,23,
+22615,1226,1,Service Packs,,1982,Tractor wheels and tyres,,12,,,,,https://images.brickset.com/sets/images/1226-1.jpg,12,35
+436,1590,2,Town,Special,1982,Breakdown Assistance,4,233,,,,,https://images.brickset.com/sets/images/1590-2.jpg,279,535
+22544,1600,1,Duplo,,1982,Pampers Gift Pack,1,5,,,,,https://images.brickset.com/sets/images/1600-1.jpg,7,12
+489,1656,2,Promotional,Ferries,1982,Viking Line Ferry,,244,,,,,https://images.brickset.com/sets/images/1656-2.jpg,61,187
+492,1658,1,Promotional,Ferries,1982,Viking Line Ferry 'Viking Saga',,207,,,,,https://images.brickset.com/sets/images/1658-1.jpg,29,180
+22547,2302,1,Duplo,,1982,Building Plate Red,,1,,,,,8,12,
+22548,2306,2,Duplo,,1982,Supplementary Bricks,,18,,,,,6,12,
+860,2308,1,Duplo,,1982,Basic Set,,,,,,,7,17,
+7144,2622,1,Duplo,,1982,Little Plane,1,2,,,,,26,17,
+22403,2635,1,Duplo,,1982,Fire Engine,1,4,,,,,17,17,
+22549,2641,1,Duplo,,1982,Barnyard,1,21,,,,,10,13,
+22550,2642,1,Duplo,,1982,Living Room,4,26,,,,,7,13,
+998,2648,1,Duplo,,1982,Play-Box Home and Garage,2,18,,,,,11,16,
+1716,3654,1,Fabuland,,1982,Lisa Lamb's House,1,32,,10,,,https://images.brickset.com/sets/images/3654-1.jpg,311,74
+1727,3666,1,Fabuland,,1982,Billy Bear and Mortimer Mouse's  Service Station,2,28,,,,,https://images.brickset.com/sets/images/3666-1.jpg,138,72
+1728,3667,1,Fabuland,,1982,Pat and Freddy's Shop,2,58,,,,,https://images.brickset.com/sets/images/3667-1.jpg,193,74
+1730,3669,1,Fabuland,,1982,Fire Station,3,33,,,,,https://images.brickset.com/sets/images/3669-1.jpg,118,78
+1733,3672,1,Fabuland,,1982,The Motel,3,60,,,,,https://images.brickset.com/sets/images/3672-1.jpg,89,81
+1738,3678,1,Fabuland,,1982,Lionel Lion's Lodge,4,123,,,,,https://images.brickset.com/sets/images/3678-1.jpg,77,95
+7679,3694,1,Fabuland,,1982,Figure collection,,,,,,,https://images.brickset.com/sets/images/3694-1.jpg,7,53
+7680,3695,1,Fabuland,,1982,Figure collection,80,,,,,,https://images.brickset.com/sets/images/3695-1.jpg,10,54
+1749,3701,1,Fabuland,,1982,Charlie Cat the fisherman,1,2,,1.5,,,https://images.brickset.com/sets/images/3701-1.jpg,264,73
+1750,3703,1,Fabuland,,1982,Peter Pig the Cook,1,2,,,,,https://images.brickset.com/sets/images/3703-1.jpg,215,71
+1751,3704,1,Fabuland,,1982,Marjorie Mouse,1,2,,1.5,,,https://images.brickset.com/sets/images/3704-1.jpg,250,68
+1752,3706,1,Fabuland,,1982,Ernie Elephant,1,2,,,,,https://images.brickset.com/sets/images/3706-1.jpg,288,73
+1753,3707,1,Fabuland,,1982,Clara Cow,1,2,,,,,https://images.brickset.com/sets/images/3707-1.jpg,246,71
+1754,3708,1,Fabuland,,1982,Rufus Rabbit,1,3,,,,,https://images.brickset.com/sets/images/3708-1.jpg,309,76
+1810,3781,1,Fabuland,,1982,Maximillian Mouse,1,4,,,,,https://images.brickset.com/sets/images/3781-1.jpg,212,68
+1811,3782,1,Fabuland,,1982,Paul Parrot,1,4,,,,,https://images.brickset.com/sets/images/3782-1.jpg,302,88
+1812,3784,1,Fabuland,,1982,Hugo Hog the Tinker,1,4,,,,,https://images.brickset.com/sets/images/3784-1.jpg,147,67
+1813,3786,1,Fabuland,,1982,Boris Bulldog,1,8,,,,,https://images.brickset.com/sets/images/3786-1.jpg,310,68
+1868,4005,1,Boats,,1982,Tug Boat,1,66,,10,,,https://images.brickset.com/sets/images/4005-1.jpg,1568,603
+1876,4015,1,Boats,,1982,Freighter,2,80,,,,,https://images.brickset.com/sets/images/4015-1.jpg,1163,617
+1886,4025,1,Boats,,1982,Fire Boat,3,150,,,,,https://images.brickset.com/sets/images/4025-1.jpg,909,506
+9816,5235,2,Homemaker,,1982,Schoolroom,,231,,,,,https://images.brickset.com/sets/images/5235-2.jpg,32,95
+3150,6302,1,Town,Accessories,1982,Mini-Figure Set,6,31,,,,,https://images.brickset.com/sets/images/6302-1.jpg,764,352
+3155,6308,1,Town,Accessories,1982,Policemen,4,20,,,,,https://images.brickset.com/sets/images/6308-1.jpg,162,262
+3214,6362,1,Town,Postal,1982,Post Office,1,133,,,,,https://images.brickset.com/sets/images/6362-1.jpg,1921,805
+3225,6372,1,Town,Leisure,1982,Town House,2,217,,,,,https://images.brickset.com/sets/images/6372-1.jpg,1352,867
+3464,6607,1,Town,Maintenance,1982,Service Truck,1,25,,,,,https://images.brickset.com/sets/images/6607-1.jpg,1694,274
+3465,6608,1,Town,Maintenance,1982,Tractor,1,21,,,,,https://images.brickset.com/sets/images/6608-1.jpg,1676,288
+3505,6651,1,Town,Postal,1982,Mail Truck,1,47,,,,,https://images.brickset.com/sets/images/6651-1.jpg,2542,577
+3507,6653,1,Town,Maintenance,1982,Highway Maintenance Truck,1,56,,,,,https://images.brickset.com/sets/images/6653-1.jpg,2567,397
+3540,6685,1,Town,Fire,1982,Fire Copter 1,1,99,,,,,https://images.brickset.com/sets/images/6685-1.jpg,2446,333
+3678,6880,1,Space,Classic,1982,Surface Explorer,1,82,,7.5,,,https://images.brickset.com/sets/images/6880-1.jpg,2912,510
+3687,6890,1,Space,Classic,1982,Cosmic Cruiser,1,115,,11,,,https://images.brickset.com/sets/images/6890-1.jpg,2334,575
+3725,6950,1,Space,Classic,1982,Mobile Rocket Transport,2,209,,,,,https://images.brickset.com/sets/images/6950-1.jpg,2170,696
+4102,8030,1,Technic,Universal,1982,Universal Set,,141,,,,,https://images.brickset.com/sets/images/8030-1.jpg,975,191
+4111,8050,1,Technic,Universal,1982,Universal Motor Set,,141,,,,,https://images.brickset.com/sets/images/8050-1.jpg,653,199
+4122,8090,1,Technic,Universal,1982,Universal Set,,266,,,,,https://images.brickset.com/sets/images/8090-1.jpg,231,208
+4432,8700,1,Technic,Supplementary,1982,Power Pack,,26,,,,,https://images.brickset.com/sets/images/8700-1.jpg,1407,165
+4488,8846,1,Technic,,1982,Tow Truck,,379,,,,,https://images.brickset.com/sets/images/8846-1.jpg,606,271
+26383,50YOP,1,Books,LEGO,1982,50 Years of Play,,,,,,,https://images.brickset.com/sets/images/50YOP-1.jpg,21,29
+22555,757,1,Gear,Storage,1983,Storage Tray Red,,,,,,,https://images.brickset.com/sets/images/757-1.jpg,68,87
+22556,758,1,Gear,Storage,1983,Storage Tray Blue,,,,,,,https://images.brickset.com/sets/images/758-1.jpg,75,96
+7831,1031,1,Dacta,,1983,Building Cards - 1030,,20,,15.75,,,https://images.brickset.com/sets/images/1031-1.jpg,108,38
+7850,1055,1,Dacta,,1983,Mini Basic Pack,,,,,,,8,27,
+22612,1126,1,Service Packs,,1983,Jack,,2,,,,,https://images.brickset.com/sets/images/1126-1.jpg,39,40
+22613,1161,1,Service Packs,Technic,1983,Pump cylinder,,1,,,,,https://images.brickset.com/sets/images/1161-1.jpg,17,38
+440,1593,1,Space,Classic,1983,Super Model Building Instructions,2,313,,,,,https://images.brickset.com/sets/images/1593-1.jpg,358,504
+22551,1907,1,Duplo,,1983,Crecer Feliz Giftbox,,2,,,,,3,11,
+26994,1916,2,Duplo,,1983,Animal,,6,,,,,https://images.brickset.com/sets/images/1916-2.jpg,2,7
+26995,1917,2,Duplo,,1983,Animal,,5,,,,,https://images.brickset.com/sets/images/1917-2.jpg,2,7
+22553,1918,1,Duplo,,1983,Bird,,5,,,,,https://images.brickset.com/sets/images/1918-1.jpg,15,24
+5874,1919,1,Duplo,,1983,Duplo Promotional Set,1,4,,,,,https://images.brickset.com/sets/images/1919-1.jpg,23,24
+664,1924,1,Technic,,1983,Motorcycle,,103,,,,,https://images.brickset.com/sets/images/1924-1.jpg,287,225
+691,1977,1,Space,Bonus/Value Pack,1983,Special Three-Set Space Pack,,82,,,,,https://images.brickset.com/sets/images/1977-1.jpg,73,153
+693,1978,2,Town,Bonus/Value Pack,1983,Town Value Pack,,100,,,,,https://images.brickset.com/sets/images/1978-2.jpg,43,120
+716,2015,1,Duplo,Baby,1983,Oval Rattle,,1,,,,,https://images.brickset.com/sets/images/2015-1.jpg,58,24
+721,2023,1,Duplo,Baby,1983,Square Rattle,,1,,,,,https://images.brickset.com/sets/images/2023-1.jpg,36,21
+722,2024,1,Duplo,Baby,1983,Duck Rattle,,1,,,,,https://images.brickset.com/sets/images/2024-1.jpg,63,21
+735,2037,1,Duplo,Baby,1983,Spin-A-Coaster,,2,,,,,24,17,
+736,2038,1,Duplo,Baby,1983,Activity and Bath Toy,,2,,,,,18,18,
+891,2365,1,Duplo,,1983,Basic Set Safari,,34,,,,,10,17,
+22557,2401,1,Duplo,,1983,Racer,1,3,,,,,4,12,
+22558,2402,1,Duplo,,1983,Police Car,1,5,,,,,5,14,
+22559,2411,1,Duplo,,1983,Camping,2,11,,,,,5,12,
+984,2634,1,Duplo,,1983,Tip Truck,1,7,,,,,45,18,
+22554,2646,1,Duplo,,1983,Crane Set,1,23,,,,,6,13,
+1048,2700,1,Duplo,Trains,1983,Train Set,1,31,,,,,https://images.brickset.com/sets/images/2700-1.jpg,102,32
+1049,2705,1,Duplo,Trains,1983,Passenger Train,2,12,,,,,https://images.brickset.com/sets/images/2705-1.jpg,167,32
+1054,2711,1,Duplo,Trains,1983,Straight Tracks,,4,,4,,,55,26,
+1055,2712,1,Duplo,Trains,1983,Curved Tracks,,4,,4,,,64,25,
+1693,3626,1,Fabuland,,1983,Roger Racoon and his Sports Car,1,16,,,,,https://images.brickset.com/sets/images/3626-1.jpg,125,69
+1694,3627,1,Fabuland,,1983,Bonnie Bunny ,1,18,,,,,https://images.brickset.com/sets/images/3627-1.jpg,149,73
+1703,3637,1,Fabuland,,1983,Gertrude Goat the painter,1,14,,,,,https://images.brickset.com/sets/images/3637-1.jpg,137,79
+1704,3638,1,Fabuland,,1983,Fire Engine,1,17,,,,,https://images.brickset.com/sets/images/3638-1.jpg,206,74
+1755,3709,1,Fabuland,,1983,Henry Horse the carpenter,1,2,,,,,https://images.brickset.com/sets/images/3709-1.jpg,155,71
+1756,3710,1,Fabuland,,1983,Patrick Panda,1,2,,,,,https://images.brickset.com/sets/images/3710-1.jpg,187,65
+1814,3787,1,Fabuland,,1983,Hannah Hippopotamus the public gardener,1,8,,,,,https://images.brickset.com/sets/images/3787-1.jpg,176,68
+1815,3788,1,Fabuland,,1983,Paulette Poodles' Living Room,1,12,,,,,https://images.brickset.com/sets/images/3788-1.jpg,171,74
+2974,6002,1,Town,Accessories,1983,Town Figures,4,20,,,,,https://images.brickset.com/sets/images/6002-1.jpg,66,269
+4924,6002,2,Castle,Classic,1983,Castle Figures,4,22,,,,,https://images.brickset.com/sets/images/6002-2.jpg,95,522
+3154,6307,1,Town,Accessories,1983,Firemen,4,22,,,,,https://images.brickset.com/sets/images/6307-1.jpg,110,236
+3224,6371,1,Town,Shops and Services,1983,Shell Service Station,3,261,,,,,https://images.brickset.com/sets/images/6371-1.jpg,1266,648
+3227,6374,1,Town,Leisure,1983,Holiday Home,2,257,,,,,https://images.brickset.com/sets/images/6374-1.jpg,1513,967
+3239,6384,1,Town,Police,1983,Police Station,4,389,,,,,https://images.brickset.com/sets/images/6384-1.jpg,2262,547
+3463,6606,1,Town,Maintenance,1983,Road Repair Set,1,27,,,,,https://images.brickset.com/sets/images/6606-1.jpg,1788,295
+3479,6623,1,Town,Police,1983,Police Car,1,39,,,,,https://images.brickset.com/sets/images/6623-1.jpg,2656,350
+3480,6624,1,Town,Vehicles,1983,Delivery Van,1,41,,,,,https://images.brickset.com/sets/images/6624-1.jpg,2435,378
+3506,6652,1,Town,Construction,1983,Construction Truck,1,44,,,,,https://images.brickset.com/sets/images/6652-1.jpg,1894,298
+3508,6654,1,Town,Vehicles,1983,Motorcycle Transport,1,50,,,,,https://images.brickset.com/sets/images/6654-1.jpg,2440,328
+3538,6683,1,Town,Shops and Services,1983,Hamburger Stand,2,69,,,,,https://images.brickset.com/sets/images/6683-1.jpg,1523,927
+3547,6692,1,Town,Vehicles,1983,Tractor Trailer,1,96,,,,,https://images.brickset.com/sets/images/6692-1.jpg,1598,473
+3556,6701,1,Space,Classic,1983,Minifig Pack,6,36,,,,,https://images.brickset.com/sets/images/6701-1.jpg,834,476
+3566,6711,1,Space,Classic,1983,Minifig Pack,4,24,,4.5,,,https://images.brickset.com/sets/images/6711-1.jpg,123,388
+3618,6803,1,Space,Classic,1983,Space Patrol,1,25,,,,,https://images.brickset.com/sets/images/6803-1.jpg,2277,482
+3637,6823,1,Space,Classic,1983,Surface Transport,1,27,,,,,https://images.brickset.com/sets/images/6823-1.jpg,3063,462
+3654,6844,1,Space,Classic,1983,Sismobile,1,46,,,,,https://images.brickset.com/sets/images/6844-1.jpg,1993,445
+3714,6930,1,Space,Classic,1983,Space Supply Station,4,206,,,,,https://images.brickset.com/sets/images/6930-1.jpg,2180,746
+3748,6980,1,Space,Classic,1983,Galaxy Commander,5,443,,,,,https://images.brickset.com/sets/images/6980-1.jpg,1821,942
+3998,7727,1,Trains,4.5/12 V,1983,Freight Steam Train Set,2,570,,,,,https://images.brickset.com/sets/images/7727-1.jpg,292,457
+4005,7755,1,Trains,4.5/12 V,1983,Diesel Heavy Shunting Locomotive,1,164,,,,,https://images.brickset.com/sets/images/7755-1.jpg,360,486
+4011,7815,1,Trains,4.5/12 V,1983,Passenger Carriage / Sleeper,2,228,,,,,https://images.brickset.com/sets/images/7815-1.jpg,467,541
+4015,7819,1,Trains,4.5/12 V,1983,Postal Container Wagon,1,183,,,,,https://images.brickset.com/sets/images/7819-1.jpg,490,585
+4017,7821,1,Trains,4.5/12 V,1983,Track & Lighting Maintenance Wagon,2,90,,,,,https://images.brickset.com/sets/images/7821-1.jpg,476,455
+4020,7824,1,Trains,4.5/12 V,1983,Railway Station,9,478,,44.75,,,https://images.brickset.com/sets/images/7824-1.jpg,970,600
+4029,7838,1,Trains,4.5/12 V,1983,Freight Loading Depot,3,315,,,,,https://images.brickset.com/sets/images/7838-1.jpg,448,508
+4048,7866,1,Trains,4.5/12 V,1983,Remote Controlled Road Crossing 12 V,1,191,,,,,https://images.brickset.com/sets/images/7866-1.jpg,777,521
+4049,7867,1,Trains,4.5/12 V,1983,4 Lighting Standards Electric 12 V,,52,,,,,https://images.brickset.com/sets/images/7867-1.jpg,759,359
+4483,8841,1,Technic,,1983,Dune Buggy,,180,,,,,https://images.brickset.com/sets/images/8841-1.jpg,1241,193
+4489,8847,1,Technic,,1983,Dragster,,250,,,,,https://images.brickset.com/sets/images/8847-1.jpg,286,238
+23464,15,1,Castle,Classic,1984,Castle Minifigures,6,10,,,,,18,99,
+123,105,1,Town,Special,1984,Mail Van,1,65,,,,,https://images.brickset.com/sets/images/105-1.jpg,248,425
+27121,226,4,Books,LEGO,1984,The Building Book,,,,,,,https://images.brickset.com/sets/images/226-4.jpg,6,18
+8417,759,1,Gear,Storage,1984,Storage Cabinet,,,,,,,https://images.brickset.com/sets/images/759-1.jpg,63,79
+10172,760,1,Gear,Storage,1984,Storage Cabinet,,,,,,,10,43,
+10090,801,4,Fabuland,,1984,Fabuland Characters,2,,,,,,https://images.brickset.com/sets/images/801-4.jpg,21,38
+7814,1012,1,Dacta,,1984,Mosaic Set,,,,,,,https://images.brickset.com/sets/images/1012-1.jpg,7,38
+5048,1032,1,Dacta,Technic,1984,Technic II Powered Machines Set,,278,,80,,,https://images.brickset.com/sets/images/1032-1.jpg,126,79
+7847,1051,1,Dacta,,1984,Basic Pack,,,,,,,https://images.brickset.com/sets/images/1051-1.jpg,33,37
+7848,1052,1,Dacta,,1984,{Spare Elements},,,,,,,https://images.brickset.com/sets/images/1052-1.jpg,12,38
+7849,1053,1,Dacta,,1984,Community Buildings,,914,,,,,https://images.brickset.com/sets/images/1053-1.jpg,33,82
+7867,1084,1,Dacta,,1984,{Spare Elements - Structures},,,,,,,https://images.brickset.com/sets/images/1084-1.jpg,15,45
+22450,1900,1,Duplo,,1984,"Trial Pack Duck""""",,6,,,,,5,12,
+8427,1976,1,Town,Bonus/Value Pack,1984,Town 3-Pack,,97,,,,,https://images.brickset.com/sets/images/1976-1.jpg,25,93
+22453,1979,2,Town,Product Collection,1984,Town Value Pack,,78,,,,,9,46,
+696,1983,1,Space,Bonus/Value Pack,1984,Space Value Pack,,97,,,,,https://images.brickset.com/sets/images/1983-1.jpg,35,133
+748,2054,1,Duplo,Baby,1984,Squirrel Rattle,,2,,,,,16,19,
+749,2055,1,Duplo,Baby,1984,Rocking Horse,1,2,,,,,12,17,
+857,2305,1,Duplo,,1984,"Base Plate, Red",,1,,10,,,35,18,
+859,2307,1,Duplo,,1984,Supplementary Set,,18,,,,,5,16,
+861,2309,1,Duplo,,1984,Supplementary Set,,25,,,,,5,17,
+876,2335,1,Duplo,,1984,Basic Set Animal,,9,,,,,https://images.brickset.com/sets/images/2335-1.jpg,31,19
+883,2345,1,Duplo,,1984,Basic Set House,2,15,,,,,14,17,
+887,2355,1,Duplo,,1984,Basic Set Vehicles,2,25,,,,,13,17,
+897,2375,1,Duplo,,1984,Basic Set Town,4,53,,,,,8,15,
+971,2618,1,Duplo,,1984,Deep Sea Diver,1,2,,,,,62,19,
+972,2619,1,Duplo,,1984,Helicopter,1,2,,,,,49,21,
+985,2636,1,Duplo,,1984,Tow Truck,1,3,,,,,28,18,
+991,2639,1,Duplo,,1984,Petrol Station,2,12,,,,,https://images.brickset.com/sets/images/2639-1.jpg,45,16
+999,2649,1,Duplo,,1984,Sea Explorer,3,36,,,,,https://images.brickset.com/sets/images/2649-1.jpg,106,42
+1056,2713,1,Duplo,Trains,1984,Train Points,,10,,,,,39,22,
+1058,2717,1,Duplo,Trains,1984,Train Bridge,,5,,9,,,49,25,
+1697,3630,1,Fabuland,,1984,Percy Pilot,1,8,,,,,https://images.brickset.com/sets/images/3630-1.jpg,206,71
+1705,3639,1,Fabuland,,1984,"Paddy"" Wagon""",2,9,,,,,https://images.brickset.com/sets/images/3639-1.jpg,203,65
+1725,3664,1,Fabuland,,1984,Bertie Bulldog (Police Chief) and Constable Bulldog,2,63,,,,,https://images.brickset.com/sets/images/3664-1.jpg,207,76
+1731,3670,1,Fabuland,,1984,Service Station,2,52,,20,,,https://images.brickset.com/sets/images/3670-1.jpg,106,74
+1732,3671,1,Fabuland,,1984,Airport,3,49,,22.25,,,https://images.brickset.com/sets/images/3671-1.jpg,169,88
+1757,3711,1,Fabuland,,1984,Tubby and Tuba,1,4,,,,,https://images.brickset.com/sets/images/3711-1.jpg,140,82
+1758,3712,1,Fabuland,,1984,Robby Rabbit,1,4,,,,,https://images.brickset.com/sets/images/3712-1.jpg,101,82
+1759,3713,1,Fabuland,,1984,Mike Monkey,1,7,,,,,https://images.brickset.com/sets/images/3713-1.jpg,77,87
+1816,3789,1,Fabuland,,1984,Constable Clarke,1,5,,,,,https://images.brickset.com/sets/images/3789-1.jpg,157,71
+1818,3791,1,Fabuland,,1984,Wally Walrus,1,6,,,,,https://images.brickset.com/sets/images/3791-1.jpg,146,76
+2980,6010,1,Castle,Lion Knights,1984,Supply Wagon,1,35,,3,,,https://images.brickset.com/sets/images/6010-1.jpg,2416,766
+2989,6021,1,Castle,Lion Knights,1984,Jousting Knights,2,37,,5.25,,,https://images.brickset.com/sets/images/6021-1.jpg,2102,742
+2990,6022,1,Castle,Lion Knights,1984,Horse Cart,2,42,,5,,,https://images.brickset.com/sets/images/6022-1.jpg,2662,686
+2998,6030,1,Castle,Black Falcons,1984,Catapult,2,83,,6,,,https://images.brickset.com/sets/images/6030-1.jpg,3317,718
+3009,6040,1,Castle,Lion Knights,1984,Blacksmith Shop,2,92,,9.25,,,https://images.brickset.com/sets/images/6040-1.jpg,2311,1063
+3027,6061,1,Castle,Lion Knights,1984,Siege Tower,4,216,,17.5,,,https://images.brickset.com/sets/images/6061-1.jpg,2428,1056
+3033,6073,1,Castle,Black Falcons,1984,Knight's Castle,6,410,,27,,,https://images.brickset.com/sets/images/6073-1.jpg,2156,1162
+3043,6080,1,Castle,Lion Knights,1984,King's Castle,12,674,,52.75,,,https://images.brickset.com/sets/images/6080-1.jpg,3748,1499
+4997,6103,2,Castle,Accessories,1984,Castle Figures,4,25,,,,,https://images.brickset.com/sets/images/6103-2.jpg,256,603
+3218,6366,1,Town,Fire,1984,Fire & Rescue Squad,3,112,,,,,https://images.brickset.com/sets/images/6366-1.jpg,1267,381
+3219,6367,1,Town,Vehicles,1984,Semi Truck,1,155,,,,,https://images.brickset.com/sets/images/6367-1.jpg,1079,461
+3226,6373,1,Town,Shops and Services,1984,Motorcycle Shop,2,171,,17.5,,,https://images.brickset.com/sets/images/6373-1.jpg,2302,809
+3247,6391,1,Town,Shops and Services,1984,Cargo Center,5,553,,43,,,https://images.brickset.com/sets/images/6391-1.jpg,550,761
+3462,6605,1,Town,Racing,1984,Road Racer,1,20,,,,,https://images.brickset.com/sets/images/6605-1.jpg,1690,225
+3477,6621,1,Town,Fire,1984,Fire Truck,1,38,,,,,https://images.brickset.com/sets/images/6621-1.jpg,1891,260
+3478,6622,1,Town,Postal,1984,Mailman on Motorcycle,2,26,,,,,https://images.brickset.com/sets/images/6622-1.jpg,2142,511
+4925,6628,2,Town,Accessories,1984,Construction Workers,4,20,,,,,https://images.brickset.com/sets/images/6628-2.jpg,38,257
+3509,6655,1,Town,Shops and Services,1984,Auto & Tire Repair,1,58,,,,,https://images.brickset.com/sets/images/6655-1.jpg,2343,395
+3539,6684,1,Town,Police,1984,Police Patrol Squad,2,77,,6.5,,,https://images.brickset.com/sets/images/6684-1.jpg,2266,356
+3541,6686,1,Town,Construction,1984,Backhoe,1,88,,,,,https://images.brickset.com/sets/images/6686-1.jpg,1504,336
+3549,6694,1,Town,Leisure,1984,Car with Camper,2,109,,,,,https://images.brickset.com/sets/images/6694-1.jpg,1843,568
+3550,6695,1,Town,Vehicles,1984,Tanker Truck,1,106,,,,,https://images.brickset.com/sets/images/6695-1.jpg,1426,523
+3551,6696,1,Town,Vehicles,1984,Fuel Tanker,1,106,,,,,https://images.brickset.com/sets/images/6696-1.jpg,294,400
+3619,6804,1,Space,Classic,1984,Surface Rover,1,21,,0.99,,,https://images.brickset.com/sets/images/6804-1.jpg,2347,460
+3638,6824,1,Space,Classic,1984,Space Dart I,1,48,,,,,https://images.brickset.com/sets/images/6824-1.jpg,2848,524
+3656,6846,1,Space,Classic,1984,Tri-Star Voyager,1,69,,4.45,,,https://images.brickset.com/sets/images/6846-1.jpg,1961,448
+3670,6871,1,Space,Classic,1984,Star Patrol Launcher,2,70,,,,,https://images.brickset.com/sets/images/6871-1.jpg,1384,487
+3679,6881,1,Space,Classic,1984,Lunar Rocket Launcher,1,97,,,,,https://images.brickset.com/sets/images/6881-1.jpg,1976,569
+3712,6928,1,Space,Classic,1984,Uranium Search Vehicle,2,199,,,,,https://images.brickset.com/sets/images/6928-1.jpg,1664,559
+3726,6951,1,Space,Classic,1984,Robot Command Center,3,295,,,,,https://images.brickset.com/sets/images/6951-1.jpg,1875,676
+3741,6971,1,Space,Classic,1984,Inter-Galactic Command Base,3,328,,,,,https://images.brickset.com/sets/images/6971-1.jpg,1487,893
+4098,8020,1,Technic,Universal,1984,Universal Set,,119,,,,,https://images.brickset.com/sets/images/8020-1.jpg,2050,178
+4107,8040,1,Technic,Universal,1984,Universal Set,,163,,,,,https://images.brickset.com/sets/images/8040-1.jpg,1796,203
+4485,8843,1,Technic,,1984,Fork-Lift Truck,,269,,,,,https://images.brickset.com/sets/images/8843-1.jpg,1145,250
+4494,8851,1,Technic,,1984,Excavator,,347,,,,,https://images.brickset.com/sets/images/8851-1.jpg,1754,387
+4513,8889,1,Books,LEGO,1984,Ideas Book,,,,5,,,https://images.brickset.com/sets/images/8889-1.jpg,658,145
+125,106,1,Town,Special,1985,UNICEF Van,1,59,,,,,https://images.brickset.com/sets/images/106-1.jpg,96,512
+129,107,2,Town,Special,1985,Mail Truck,1,31,,,,,https://images.brickset.com/sets/images/107-2.jpg,122,534
+708,200,2,Books,LEGO,1985,Building Ideas Book,,,,,,,https://images.brickset.com/sets/images/200-2.jpg,781,182
+10171,783,1,Gear,Storage,1985,Storage Case,,,,,,,https://images.brickset.com/sets/images/783-1.jpg,177,50
+7815,1013,1,Dacta,,1985,Numbers - 6 symbols,,,,,,,https://images.brickset.com/sets/images/1013-1.jpg,10,79
+7817,1015,1,Dacta,,1985,Letters Large,,192,,,,,https://images.brickset.com/sets/images/1015-1.jpg,8,74
+7818,1016,1,Dacta,,1985,Letter Bricks for Wall Board,,,,,,,https://images.brickset.com/sets/images/1016-1.jpg,7,61
+7820,1018,1,Dacta,,1985,Letters Small,,,,,,,https://images.brickset.com/sets/images/1018-1.jpg,7,68
+7826,1024,1,Dacta,,1985,Animals - 32 elements,,32,,,,,6,25,
+7827,1025,1,Dacta,,1985,Figures and Furniture,6,35,,,,,https://images.brickset.com/sets/images/1025-1.jpg,13,20
+7828,1026,1,Dacta,,1985,Play Boxes from 2 yrs,,2,,,,,https://images.brickset.com/sets/images/1026-1.jpg,30,21
+7829,1027,1,Dacta,,1985,Vehicles,6,30,,,,,https://images.brickset.com/sets/images/1027-1.jpg,12,18
+5047,1030,1,Dacta,Technic,1985,Technic I Simple Machines Set,,179,,75,,,https://images.brickset.com/sets/images/1030-1.jpg,156,88
+7832,1033,1,Dacta,,1985,Building Cards - 1032,,20,,,,,https://images.brickset.com/sets/images/1033-1.jpg,95,39
+5049,1034,1,Dacta,Technic,1985,Teachers Resource Set,,1501,,,,,https://images.brickset.com/sets/images/1034-1.jpg,44,105
+5016,1038,1,Dacta,Technic,1985,Universal Buggy,,119,,,,,https://images.brickset.com/sets/images/1038-1.jpg,36,53
+7845,1049,1,Dacta,,1985,Ships,3,241,,,,,https://images.brickset.com/sets/images/1049-1.jpg,22,70
+7851,1056,1,Dacta,,1985,Basic School Pack - Topical/Thematic work,,809,,,,,https://images.brickset.com/sets/images/1056-1.jpg,16,50
+6512,1063,1,Dacta,Town,1985,Community Workers,24,115,,,,,https://images.brickset.com/sets/images/1063-1.jpg,29,210
+7855,1065,1,Dacta,,1985,House Accessories,,184,,,,,https://images.brickset.com/sets/images/1065-1.jpg,20,70
+7868,1085,1,Dacta,,1985,Large Baseplate 48 x 48,,1,,,,,37,33,
+7869,1087,1,Dacta,,1985,6 Lego Baseplates 8 x 16 Green,,6,,,,,https://images.brickset.com/sets/images/1087-1.jpg,75,51
+7870,1089,1,Dacta,,1985,Lego Basic Figures,24,24,,,,,https://images.brickset.com/sets/images/1089-1.jpg,19,24
+22561,1537,2,Duplo,,1985,Rattle Round with Ball,,,,,,,6,15,
+22562,1538,2,Duplo,,1985,Building Bricks,,10,,,,,3,14,
+22563,1539,2,Duplo,,1985,Building Bricks with Figure,,10,,,,,3,16,
+24248,1546,1,Universal Building Set,,1985,Aircraft,1,26,,,,,https://images.brickset.com/sets/images/1546-1.jpg,6,43
+22564,1550,2,Duplo,,1985,Basic Set,,6,,,,,4,12,
+410,1552,1,Town,Special,1985,Maersk Truck and Trailer Unit,1,352,,,,,https://images.brickset.com/sets/images/1552-1.jpg,56,662
+488,1655,1,Promotional,Ferries,1985,Viking Line Ferry,,176,,,,,https://images.brickset.com/sets/images/1655-1.jpg,39,190
+22566,1957,1,Duplo,,1985,Building Set with Storage Bunny,2,29,,,,,9,11,
+22567,1958,2,Duplo,,1985,Basic Model,,5,,,,,3,12,
+22568,1959,2,Duplo,,1985,Basic Model,,5,,,,,2,12,
+675,1966,1,Town,Special,1985,Car Repair Shop,2,296,,,,,https://images.brickset.com/sets/images/1966-1.jpg,395,658
+22571,1967,2,Town,Bonus/Value Pack,1985,Town Value Pack,,155,,,,,https://images.brickset.com/sets/images/1967-2.jpg,19,77
+681,1968,1,Space,Classic,1985,(Unnamed),2,193,,,,,https://images.brickset.com/sets/images/1968-1.jpg,392,557
+683,1969,2,Space,Bonus/Value Pack,1985,Space Value Pack,,151,,,,,https://images.brickset.com/sets/images/1969-2.jpg,41,133
+686,1972,1,Technic,,1985,Go-Kart,,98,,,,,https://images.brickset.com/sets/images/1972-1.jpg,1254,243
+22572,1975,1,Duplo,Bonus/Value Pack,1985,Combi Pack,,,,,,,2,11,
+703,1997,1,Town,Bonus/Value Pack,1985,Town Value Pack,,103,,,,,https://images.brickset.com/sets/images/1997-1.jpg,17,127
+705,1999,1,Space,Bonus/Value Pack,1985,Space Value Pack,,89,,,,,https://images.brickset.com/sets/images/1999-1.jpg,50,139
+732,2033,1,Duplo,Baby,1985,Clown Shape Sorter,,7,,,,,10,16,
+854,2301,1,Duplo,,1985,"Baseplates, Red",,2,,5,,,14,16,
+22573,2315,1,Duplo,,1985,Pre-School Basic Building Set,,6,,,,,4,11,
+22574,2403,1,Duplo,,1985,Fire Chief Building Set,1,4,,,,,7,17,
+22575,2412,1,Duplo,,1985,Boat Yard Building Set,2,10,,,,,8,13,
+965,2610,1,Duplo,,1985,Yellow Car,1,2,,,,,31,16,
+966,2611,1,Duplo,,1985,Fire Engine,1,3,,,,,23,21,
+980,2629,1,Duplo,,1985,Tractor and Farm Machinery,1,7,,,,,https://images.brickset.com/sets/images/2629-1.jpg,80,22
+22576,2631,1,Duplo,,1985,Stunt Pilot and Plane,1,2,,,,,17,11,
+997,2647,1,Duplo,,1985,Farm Animals,1,17,,12,,,45,18,
+1005,2655,1,Duplo,,1985,Farm Set,2,54,,,,,50,14,
+7677,3624,1,Fabuland,,1985,Flower Car,1,19,,,,,https://images.brickset.com/sets/images/3624-1.jpg,150,67
+1692,3625,1,Fabuland,,1985,Sandy Seagull's Aeroplane,1,8,,5.25,,,https://images.brickset.com/sets/images/3625-1.jpg,300,78
+1698,3631,1,Fabuland,,1985,The Fabuland Big Band Peter Pig and Gabriel Gorilla,2,30,,5.25,,,https://images.brickset.com/sets/images/3631-1.jpg,131,88
+1706,3641,1,Fabuland,,1985,Car and Camper,1,22,,6.55,,,https://images.brickset.com/sets/images/3641-1.jpg,173,79
+7678,3642,1,Fabuland,,1985,Fire Engine,1,18,,,,,https://images.brickset.com/sets/images/3642-1.jpg,133,65
+1707,3643,1,Fabuland,,1985,Police Van,2,9,,6.55,,,https://images.brickset.com/sets/images/3643-1.jpg,148,65
+1722,3660,1,Fabuland,,1985,Fisherman's Wharf,1,25,,11,,,https://images.brickset.com/sets/images/3660-1.jpg,194,81
+1734,3673,1,Fabuland,,1985,Paddle Steamer,3,61,,20,,,https://images.brickset.com/sets/images/3673-1.jpg,219,99
+1741,3681,1,Fabuland,,1985,Amusement Park,4,99,,33.35,,,https://images.brickset.com/sets/images/3681-1.jpg,171,90
+1760,3714,1,Fabuland,,1985,Workman and Barrow,1,6,,2.25,,,https://images.brickset.com/sets/images/3714-1.jpg,108,68
+1761,3715,1,Fabuland,,1985,Hannah's Flower Stand,1,14,,2.25,,,https://images.brickset.com/sets/images/3715-1.jpg,134,70
+1762,3716,1,Fabuland,,1985,Telephone,1,8,,2.25,,,https://images.brickset.com/sets/images/3716-1.jpg,129,66
+1763,3717,1,Fabuland,,1985,Mouse in a Tub Fishing,1,9,,,,,https://images.brickset.com/sets/images/3717-1.jpg,67,68
+1819,3792,1,Fabuland,,1985,Bedroom,1,14,,3.35,,,https://images.brickset.com/sets/images/3792-1.jpg,115,59
+1820,3793,1,Fabuland,,1985,Boris Bulldog and Mailbox,1,12,,,,,https://images.brickset.com/sets/images/3793-1.jpg,99,66
+1821,3794,1,Fabuland,,1985,Police Motorcycle,1,14,,3.35,,,https://images.brickset.com/sets/images/3794-1.jpg,129,70
+1822,3795,1,Fabuland,,1985,Catherine Cat in her Kitchen,1,28,,3.35,,,https://images.brickset.com/sets/images/3795-1.jpg,156,71
+2981,6011,1,Castle,Black Falcons,1985,Black Knight's Treasure,1,25,,,,,https://images.brickset.com/sets/images/6011-1.jpg,1582,685
+3021,6055,1,Castle,Lion Knights,1985,Prisoner Convoy,4,115,,,,,https://images.brickset.com/sets/images/6055-1.jpg,1700,823
+3065,6102,1,Castle,Accessories,1985,Castle Mini Figures,6,36,,5.5,,,https://images.brickset.com/sets/images/6102-1.jpg,1277,732
+3220,6368,1,Town,Flight,1985,Jet Airliner,2,136,,12.75,,,https://images.brickset.com/sets/images/6368-1.jpg,3146,515
+3221,6369,1,Town,Shops and Services,1985,Auto Workshop,1,134,,,,,https://images.brickset.com/sets/images/6369-1.jpg,1297,651
+3223,6370,1,Town,Leisure,1985,Weekend Home,2,177,,,,,https://images.brickset.com/sets/images/6370-1.jpg,1053,837
+3231,6377,1,Town,Flight,1985,Delivery Center,4,305,,25.5,,,https://images.brickset.com/sets/images/6377-1.jpg,550,628
+3240,6385,1,Town,Fire,1985,Fire House-I,3,407,,43,,,https://images.brickset.com/sets/images/6385-1.jpg,1866,579
+3248,6392,1,Town,Flight,1985,Airport,8,530,,52.75,,,https://images.brickset.com/sets/images/6392-1.jpg,3117,866
+3457,6601,1,Town,Leisure,1985,Ice Cream Cart,1,30,,,,,https://images.brickset.com/sets/images/6601-1.jpg,1933,599
+3460,6603,1,Town,Construction,1985,Shovel Truck,1,27,,,,,https://images.brickset.com/sets/images/6603-1.jpg,1726,289
+3461,6604,1,Town,Racing,1985,Formula 1 Racer,1,31,,,,,https://images.brickset.com/sets/images/6604-1.jpg,2732,243
+3488,6631,1,Town,Construction,1985,Steam Shovel,1,47,,,,,https://images.brickset.com/sets/images/6631-1.jpg,1776,305
+3489,6632,1,Town,Police,1985,Tactical Patrol Truck,1,44,,,,,https://images.brickset.com/sets/images/6632-1.jpg,1484,279
+3490,6633,1,Town,Vehicles,1985,Family Car,1,46,,,,,https://images.brickset.com/sets/images/6633-1.jpg,586,418
+3510,6656,1,Town,Maintenance,1985,Tow Truck,1,53,,,,,https://images.brickset.com/sets/images/6656-1.jpg,2088,341
+3511,6657,1,Town,Fire,1985,Fire Patrol Copter,1,66,,,,,https://images.brickset.com/sets/images/6657-1.jpg,2458,311
+3537,6682,1,Town,Construction,1985,Cement Mixer,1,90,,,,,https://images.brickset.com/sets/images/6682-1.jpg,2630,447
+3543,6688,1,Town,Medical,1985,Ambulance,2,72,,6.6,,,https://images.brickset.com/sets/images/6688-1.jpg,1777,381
+3544,6689,1,Town,Postal,1985,Post-Station,2,53,,,,,https://images.brickset.com/sets/images/6689-1.jpg,1533,659
+3552,6697,1,Town,Emergency,1985,Rescue-I Helicopter,2,82,,,,,https://images.brickset.com/sets/images/6697-1.jpg,2197,372
+3620,6805,1,Space,Classic,1985,Astro Dasher,1,29,,,,,https://images.brickset.com/sets/images/6805-1.jpg,2255,487
+3621,6806,1,Space,Classic,1985,Surface Hopper,1,23,,,,,https://images.brickset.com/sets/images/6806-1.jpg,1779,500
+3622,6807,1,Space,Classic,1985,(Unnamed),2,29,,,,,https://images.brickset.com/sets/images/6807-1.jpg,768,544
+3639,6825,1,Space,Classic,1985,Cosmic Comet,1,40,,,,,https://images.brickset.com/sets/images/6825-1.jpg,2109,529
+3640,6826,1,Space,Classic,1985,Crater Crawler,1,32,,,,,https://images.brickset.com/sets/images/6826-1.jpg,1869,471
+3657,6847,1,Space,Classic,1985,Space Dozer,1,49,,,,,https://images.brickset.com/sets/images/6847-1.jpg,1790,473
+3658,6848,2,Space,Classic,1985,Inter-Planetary Shuttle,1,62,,,,,https://images.brickset.com/sets/images/6848-2.jpg,581,530
+3671,6872,1,Space,Classic,1985,Xenon X-Craft,2,86,,,,,https://images.brickset.com/sets/images/6872-1.jpg,2253,516
+3680,6882,1,Space,Classic,1985,Walking Astro Grappler,1,92,,,,,https://images.brickset.com/sets/images/6882-1.jpg,2108,524
+3688,6891,1,Space,Classic,1985,Gamma V Laser Craft,2,144,,,,,https://images.brickset.com/sets/images/6891-1.jpg,2057,580
+3715,6931,1,Space,Classic,1985,FX Star Patroller,2,239,,,,,https://images.brickset.com/sets/images/6931-1.jpg,1526,733
+3727,6952,1,Space,Classic,1985,Solar Power Transporter,5,317,,36.5,,,https://images.brickset.com/sets/images/6952-1.jpg,1592,679
+3994,7715,1,Trains,4.5/12 V,1985,Push-Along Passenger Steam Train,5,449,,,,,https://images.brickset.com/sets/images/7715-1.jpg,836,415
+3996,7722,1,Trains,4.5/12 V,1985,Steam Cargo Train Set,3,495,,68.5,,,https://images.brickset.com/sets/images/7722-1.jpg,1224,425
+4000,7735,1,Trains,4.5/12 V,1985,Freight Train Set,2,509,,,,,https://images.brickset.com/sets/images/7735-1.jpg,746,476
+4002,7745,1,Trains,4.5/12 V,1985,High-Speed City Express Passenger Train Set,10,736,,,,,https://images.brickset.com/sets/images/7745-1.jpg,925,601
+4013,7817,1,Trains,4.5/12 V,1985,Crane Wagon,1,147,,25.5,,,https://images.brickset.com/sets/images/7817-1.jpg,549,400
+4026,7835,1,Trains,4.5/12 V,1985,Road Crossing,1,129,,18.15,,,https://images.brickset.com/sets/images/7835-1.jpg,985,504
+22926,70012,1,Service Packs,Technic,1985,V-belts / Rubber Bands,,20,,,,,13,21,
+7812,1000,1,Dacta,,1986,Mosaic Set,,191,,46.75,,,https://images.brickset.com/sets/images/1000-1.jpg,8,25
+7816,1014,2,Dacta,,1986,"Mosaic Set (Pets: dogs, cats, hens, rabbits)",,80,,29.15,,,https://images.brickset.com/sets/images/1014-2.jpg,8,25
+7821,1019,1,Dacta,,1986,Mosaic Set (Lion),,20,,8.25,,,https://images.brickset.com/sets/images/1019-1.jpg,7,25
+7822,1020,1,Dacta,,1986,Basic Bricks - 90 elements,,86,,,,,https://images.brickset.com/sets/images/1020-1.jpg,13,21
+7823,1021,1,Dacta,,1986,Basic Vehicles - 78 elements,12,94,,,,,https://images.brickset.com/sets/images/1021-1.jpg,15,19
+7824,1022,1,Dacta,,1986,Mini Basic Bricks - 29 elements,2,29,,,,,https://images.brickset.com/sets/images/1022-1.jpg,18,22
+7825,1023,1,Dacta,,1986,Giant Red Baseplate,,1,,,,,10,24,
+7830,1028,1,Dacta,,1986,6 x 12 Base Bricks,,6,,,,,https://images.brickset.com/sets/images/1028-1.jpg,8,22
+7833,1039,1,Dacta,,1986,Manual Control Set 1,,46,,,,,https://images.brickset.com/sets/images/1039-1.jpg,39,60
+5050,1040,2,Dacta,,1986,Farm Set,4,82,,,,,https://images.brickset.com/sets/images/1040-2.jpg,44,28
+7835,1041,1,Dacta,,1986,Harbour,6,77,,,,,https://images.brickset.com/sets/images/1041-1.jpg,8,24
+7837,1042,1,Dacta,,1986,Community People,12,12,,,,,https://images.brickset.com/sets/images/1042-1.jpg,8,19
+5051,1043,1,Dacta,,1986,Farm Animals Set,,30,,,,,https://images.brickset.com/sets/images/1043-1.jpg,27,27
+7838,1044,1,Dacta,,1986,Community Vehicles,6,33,,,,,https://images.brickset.com/sets/images/1044-1.jpg,10,20
+7839,1045,1,Dacta,,1986,Industrial Elements,,20,,,,,https://images.brickset.com/sets/images/1045-1.jpg,8,22
+7841,1046,1,Dacta,,1986,Train Set,6,61,,,,,https://images.brickset.com/sets/images/1046-1.jpg,35,25
+7843,1047,1,Dacta,,1986,Extra Track,,12,,,,,https://images.brickset.com/sets/images/1047-1.jpg,16,23
+7844,1048,1,Dacta,,1986,Bridge and Crossing Tracks,,12,,,,,https://images.brickset.com/sets/images/1048-1.jpg,35,23
+7846,1050,1,Dacta,,1986,Basic Pack,6,,,,,,https://images.brickset.com/sets/images/1050-1.jpg,14,25
+7857,1071,1,Dacta,,1986,Bricks 2 x 2 and 2 x 4,,56,,,,,https://images.brickset.com/sets/images/1071-1.jpg,8,21
+7865,1083,1,Dacta,,1986,Supplementary Pack,,128,,,,,https://images.brickset.com/sets/images/1083-1.jpg,14,38
+6516,1090,1,Dacta,,1986,Technic Control 1,,404,,140,,,https://images.brickset.com/sets/images/1090-1.jpg,34,98
+7872,1092,1,Dacta,,1986,Technic Control II,,463,,191,,,https://images.brickset.com/sets/images/1092-1.jpg,24,125
+23130,1093,1,Dacta,,1986,Interface A,,,,,,,https://images.brickset.com/sets/images/1093-1.jpg,11,23
+26886,1179,1,Service Packs,Space,1986,Replacement Space Siren,,,,,,,6,10,
+23553,1343,1,Service Packs,Technic,1986,Optosensors (4.5V) and Discs,,4,,,,,https://images.brickset.com/sets/images/1343-1.jpg,3,44
+9767,1503,1,Duplo,,1986,Car Building Set,1,7,,,,,8,11,
+9768,1504,2,Duplo,,1986,House Building Set,1,13,,,,,7,12,
+9766,1505,1,Duplo,Bonus/Value Pack,1986,House and Car Building Sets,,20,,,,,https://images.brickset.com/sets/images/1505-1.jpg,8,13
+365,1506,1,Town,Bonus/Value Pack,1986,Town Value Pack,,100,,,,,https://images.brickset.com/sets/images/1506-1.jpg,101,140
+366,1507,1,Space,Bonus/Value Pack,1986,Special Two-Set Space Pack,,96,,,,,https://images.brickset.com/sets/images/1507-1.jpg,124,170
+383,1525,1,Town,Vehicles,1986,LEGO Container Lorry,1,154,,,,,https://images.brickset.com/sets/images/1525-1.jpg,118,559
+385,1526,1,Space,Classic,1986, Unknown,,104,,,,,https://images.brickset.com/sets/images/1526-1.jpg,134,464
+386,1528,1,Town,Racing,1986,Dragster,1,21,,,,,https://images.brickset.com/sets/images/1528-1.jpg,450,255
+411,1554,1,Promotional,Ferries,1986,Silja Line Ferry,,176,,,,,https://images.brickset.com/sets/images/1554-1.jpg,57,195
+414,1557,1,Space,Classic,1986,Scooter,1,26,,,,,https://images.brickset.com/sets/images/1557-1.jpg,924,496
+415,1558,1,Space,Classic,1986,Mobile Command Trailer,2,70,,,,,https://images.brickset.com/sets/images/1558-1.jpg,905,570
+10091,1570,1,Fabuland,,1986,Fabuland Character Polybag,,4,,,,,https://images.brickset.com/sets/images/1570-1.jpg,12,59
+426,1572,1,Town,Vehicles,1986,Super Tow Truck,1,79,,,,,https://images.brickset.com/sets/images/1572-1.jpg,732,426
+430,1580,1,Space,Classic,1986,Lunar Scout,1,72,,,,,https://images.brickset.com/sets/images/1580-1.jpg,521,676
+4922,1589,2,Town,Special,1986,"Breakdown Assistance, Touring Club Schweiz Edition",4,245,,,,,https://images.brickset.com/sets/images/1589-2.jpg,47,351
+22436,1618,1,Duplo,,1986,Storage Container,3,47,,,,,6,12,
+666,1926,1,Duplo,,1986,DUPLO Combination Pack,,6,,,,,6,14,
+715,2014,1,Duplo,Baby,1986,Oval Rattle,,1,,,,,9,18,
+744,2050,1,Duplo,Baby,1986,Squirrel Rattle,,2,,,,,12,16,
+745,2051,1,Duplo,Baby,1986,Spin-A-Coaster,,2,,,,,9,16,
+746,2052,1,Duplo,Baby,1986,Clown Shape Sorter,,7,,,,,9,17,
+751,2057,1,Duplo,Baby,1986,Rocking Horse Push-Along,1,2,,,,,8,16,
+752,2059,1,Duplo,Baby,1986,Activity and Bath Toy,,2,,,,,6,19,
+1080,2750,1,Duplo,,1986,DUPLO Family,6,1,,,,,30,16,
+1082,2752,1,Duplo,,1986,Bedroom,2,28,,,,,32,19,
+1083,2754,1,Duplo,,1986,Bathroom,1,10,,,,,33,18,
+1084,2756,1,Duplo,,1986,Kitchen,1,20,,15,,,29,16,
+1086,2758,1,Duplo,,1986,Living Room,1,29,,,,,24,15,
+1089,2760,1,Duplo,,1986,House Supplementary Set,,11,,,,,14,15,
+1092,2770,1,Duplo,,1986,Play House,5,64,,69,,,https://images.brickset.com/sets/images/2770-1.jpg,77,31
+1699,3633,1,Fabuland,,1986,Motor Boat with Walter Walrus,1,13,,5.25,,,https://images.brickset.com/sets/images/3633-1.jpg,179,86
+1708,3644,1,Fabuland,,1986,Mike Monkey and his Taxi,2,10,,6.55,,,https://images.brickset.com/sets/images/3644-1.jpg,181,71
+1729,3668,1,Fabuland,,1986,Merry-Go-Round with Ticket Booth,3,42,,17.75,,,https://images.brickset.com/sets/images/3668-1.jpg,217,82
+1739,3679,1,Fabuland,,1986,Flour Mill and Shop,2,73,,26.75,,,https://images.brickset.com/sets/images/3679-1.jpg,121,84
+1764,3718,1,Fabuland,,1986,Outdoor Cafe with Bonnie Bunny,1,6,,2.25,,,https://images.brickset.com/sets/images/3718-1.jpg,119,73
+1823,3796,1,Fabuland,,1986,Patricia Piglet at her Bakery,1,30,,3.35,,,https://images.brickset.com/sets/images/3796-1.jpg,173,70
+2797,5510,1,Model Team,,1986,Off-Road 4 x 4,,285,,,,,https://images.brickset.com/sets/images/5510-1.jpg,1510,479
+2803,5540,1,Model Team,,1986,Formula 1 Racer,,451,,,,,https://images.brickset.com/sets/images/5540-1.jpg,788,400
+2815,5580,1,Model Team,,1986,Highway Rig,,667,,,,,https://images.brickset.com/sets/images/5580-1.jpg,1968,851
+2982,6012,1,Castle,Lion Knights,1986,Siege Cart,2,54,2.5,3.5,,,https://images.brickset.com/sets/images/6012-1.jpg,2215,683
+2991,6023,1,Castle,Lion Knights,1986,Maiden's Cart,2,43,3.75,5.5,,,https://images.brickset.com/sets/images/6023-1.jpg,1721,769
+3010,6041,1,Castle,Lion Knights,1986,Armor Shop,2,114,,,,,https://images.brickset.com/sets/images/6041-1.jpg,1981,1173
+3030,6067,1,Castle,Lion Knights,1986,Guarded Inn,4,230,,19.75,,,https://images.brickset.com/sets/images/6067-1.jpg,1720,1382
+3034,6074,1,Castle,Black Falcons,1986,Black Falcon's Fortress,6,430,25,35,,,https://images.brickset.com/sets/images/6074-1.jpg,3076,1282
+3149,6301,1,Town,Accessories,1986,Town Mini-Figures,6,32,,5.5,,,https://images.brickset.com/sets/images/6301-1.jpg,719,367
+3158,6310,1,Town,Accessories,1986,"Road Plates, Junction",,2,,5.75,,,https://images.brickset.com/sets/images/6310-1.jpg,1611,221
+3159,6311,1,Town,Accessories,1986,"Road Plates, Curved",,2,3.75,5.75,,,https://images.brickset.com/sets/images/6311-1.jpg,1726,227
+3160,6312,1,Town,Accessories,1986,"Road Plates, Straight",,2,3.75,5.75,,,https://images.brickset.com/sets/images/6312-1.jpg,1699,227
+3161,6313,1,Town,Accessories,1986,"Road Plates, Cross",,2,,5.75,,,https://images.brickset.com/sets/images/6313-1.jpg,1223,220
+3210,6359,1,Town,Leisure,1986,Horse Trailer,1,141,,12.75,,,https://images.brickset.com/sets/images/6359-1.jpg,1094,444
+3212,6360,1,Town,Leisure,1986,Weekend Cottage,2,113,,12.75,,,https://images.brickset.com/sets/images/6360-1.jpg,964,764
+3213,6361,1,Town,Vehicles,1986,Mobile Crane,1,163,,12.75,,,https://images.brickset.com/sets/images/6361-1.jpg,2729,584
+3232,6378,1,Town,Shops and Services,1986,Shell Service Station,2,291,,25.5,,,https://images.brickset.com/sets/images/6378-1.jpg,2211,816
+3233,6379,1,Town,Leisure,1986,Riding Stable,2,275,,26,,,https://images.brickset.com/sets/images/6379-1.jpg,1573,604
+3241,6386,1,Town,Police,1986,Police Command Base,4,381,,,,,https://images.brickset.com/sets/images/6386-1.jpg,2959,590
+3304,6450,1,Town,Police,1986,Mobile Police Truck,1,84,,,,,https://images.brickset.com/sets/images/6450-1.jpg,2489,396
+3331,6480,1,Town,Fire,1986,Hook and Ladder Truck,1,118,,20,,,https://images.brickset.com/sets/images/6480-1.jpg,2430,438
+3469,6612,1,Town,Fire,1986,Fire Chief's Car,1,29,,,,,https://images.brickset.com/sets/images/6612-1.jpg,1623,245
+3470,6613,1,Town,Shops and Services,1986,Telephone Booth,1,24,,,,,https://images.brickset.com/sets/images/6613-1.jpg,2009,518
+3491,6634,1,Town,Racing,1986,Stock Car,1,47,,,,,https://images.brickset.com/sets/images/6634-1.jpg,2373,404
+3512,6658,1,Town,Construction,1986,Bulldozer,1,65,,,,,https://images.brickset.com/sets/images/6658-1.jpg,2439,388
+3513,6659,1,Town,Vehicles,1986,TV Camera Crew,2,64,,,,,https://images.brickset.com/sets/images/6659-1.jpg,2392,369
+3530,6676,1,Town,Police,1986,Mobile Command Unit,2,100,,,,,https://images.brickset.com/sets/images/6676-1.jpg,2248,372
+3531,6677,1,Town,Racing,1986,Motocross Racing,1,72,,,,,https://images.brickset.com/sets/images/6677-1.jpg,1989,398
+3553,6698,1,Town,Leisure,1986,RV with Speedboat,1,129,,,,,https://images.brickset.com/sets/images/6698-1.jpg,2893,521
+3557,6702,1,Space,Classic,1986,Minifig Pack,6,56,,5,,,https://images.brickset.com/sets/images/6702-1.jpg,836,572
+3592,6750,1,Space,Classic,1986,Sonic Robot,2,103,,,,,https://images.brickset.com/sets/images/6750-1.jpg,1029,482
+3609,6780,1,Space,Classic,1986,XT Starship,1,201,,,,,https://images.brickset.com/sets/images/6780-1.jpg,1236,552
+3611,6783,1,Space,Classic,1986,Sonar Transmitting Cruiser,3,363,,50,,,https://images.brickset.com/sets/images/6783-1.jpg,1008,620
+3617,6802,1,Space,Classic,1986,Space Probe,2,31,,,,,https://images.brickset.com/sets/images/6802-1.jpg,817,540
+3634,6820,1,Space,Classic,1986,Starfire I,1,34,,,,,https://images.brickset.com/sets/images/6820-1.jpg,2569,458
+3655,6845,1,Space,Classic,1986,Cosmic Charger,1,51,,,,,https://images.brickset.com/sets/images/6845-1.jpg,1553,455
+3672,6874,1,Space,Classic,1986,Moon Rover,2,66,,,,,https://images.brickset.com/sets/images/6874-1.jpg,1241,469
+3689,6892,1,Space,Classic,1986,Modular Space Transport,2,150,,,,,https://images.brickset.com/sets/images/6892-1.jpg,974,516
+3710,6926,1,Space,Classic,1986,Mobile Recovery Vehicle,2,150,,,,,https://images.brickset.com/sets/images/6926-1.jpg,984,598
+3720,6940,1,Space,Classic,1986,Alien Moon Stalker,2,263,,,,,https://images.brickset.com/sets/images/6940-1.jpg,1370,768
+3753,6985,1,Space,Classic,1986,Cosmic Fleet Voyager,4,413,,,,,https://images.brickset.com/sets/images/6985-1.jpg,1157,954
+4009,7813,1,Trains,4.5/12 V,1986,Shell Tanker Wagon,1,121,,,,,https://images.brickset.com/sets/images/7813-1.jpg,617,634
+4019,7823,1,Trains,4.5/12 V,1986,Container Crane Depot,2,487,,,,,https://images.brickset.com/sets/images/7823-1.jpg,645,636
+4030,7839,1,Trains,4.5/12 V,1986,Car Transport Depot,2,340,,,,,https://images.brickset.com/sets/images/7839-1.jpg,560,590
+4105,8035,1,Technic,Universal,1986,Universal Set,,174,,,,,https://images.brickset.com/sets/images/8035-1.jpg,972,155
+4113,8055,1,Technic,Universal,1986,Universal Motor Set,,191,,34.99,,,https://images.brickset.com/sets/images/8055-1.jpg,742,180
+4424,8620,1,Technic,Arctic,1986,Snow Scooter,1,100,,,,,https://images.brickset.com/sets/images/8620-1.jpg,1403,257
+4428,8640,1,Technic,Arctic,1986,Polar Copter,1,238,,,,,https://images.brickset.com/sets/images/8640-1.jpg,1250,303
+4429,8660,1,Technic,Arctic,1986,Arctic Rescue Unit,2,385,,,,,https://images.brickset.com/sets/images/8660-1.jpg,1178,354
+4430,8680,1,Technic,Arctic,1986,Arctic Rescue Base,2,523,,,,,https://images.brickset.com/sets/images/8680-1.jpg,488,348
+4484,8842,1,Technic,,1986,Go-Kart,,281,,25,,,https://images.brickset.com/sets/images/8842-1.jpg,1505,288
+4491,8849,1,Technic,,1986,Tractor,,346,,,,,https://images.brickset.com/sets/images/8849-1.jpg,607,288
+23228,9006,1,Dacta,Duplo,1986,Play and Build Centre,,14,,,,,3,11,
+22618,9060,1,Dacta,Duplo,1986,Building plates,,6,,,,,https://images.brickset.com/sets/images/9060-1.jpg,4,21
+22622,9150,1,Dacta,Duplo,1986,Duplo furniture,4,74,,,,,https://images.brickset.com/sets/images/9150-1.jpg,8,22
+22621,9151,1,Dacta,Duplo,1986,Duplo family,10,10,,,,,https://images.brickset.com/sets/images/9151-1.jpg,10,20
+9392,9356,1,Dacta,Town,1986,Town Environment,8,605,,,,,https://images.brickset.com/sets/images/9356-1.jpg,6,58
+9393,9360,1,Dacta,Town,1986,Roadplates and Scenery,,85,,,,,https://images.brickset.com/sets/images/9360-1.jpg,52,122
+5024,11,3,Castle,Bonus/Value Pack,1987,2 For 1 Bonus Offer,,151,,1.5,,,https://images.brickset.com/sets/images/0011-3.jpg,62,227
+924,250,1,Books,LEGO,1987,Building Ideas Book,,,,3,,,https://images.brickset.com/sets/images/250-1.jpg,938,130
+3063,610,2,Town,Special,1987,Rescue Helicopter,,39,,,,,https://images.brickset.com/sets/images/610-2.jpg,35,145
+22620,952,2,Dacta,,1987,TC logo - Activity Book Box Set,,,,,,,https://images.brickset.com/sets/images/952-2.jpg,10,64
+7862,1078,1,Dacta,,1987,Animal Mosaic Puzzle,,80,,,,,https://images.brickset.com/sets/images/1078-1.jpg,7,23
+7863,1079,1,Dacta,,1987,Animal Mosaic Puzzle,,80,,,,,https://images.brickset.com/sets/images/1079-1.jpg,7,23
+23552,1346,1,Service Packs,Technic,1987,"Touch sensors, 4.5v",,2,,,,,https://images.brickset.com/sets/images/1346-1.jpg,3,34
+22619,1460,1,Dacta,,1987,Pre-school activities with LEGO bricks,,,,,,,https://images.brickset.com/sets/images/1460-1.jpg,4,19
+333,1467,1,Town,Special,1987,Race Car,1,46,,,,,https://images.brickset.com/sets/images/1467-1.jpg,115,186
+334,1468,1,Town,Special,1987,Petrol Tanker,1,40,,,,,https://images.brickset.com/sets/images/1468-1.jpg,63,194
+339,1469,1,Town,Special,1987,Helicopter,,40,,,,,https://images.brickset.com/sets/images/1469-1.jpg,102,137
+341,1470,1,Town,Special,1987,Petrol Pumps and Garage Staff,2,32,,,,,https://images.brickset.com/sets/images/1470-1.jpg,106,261
+342,1472,1,Town,Leisure,1987,Vacation House,4,353,,,,,https://images.brickset.com/sets/images/1472-1.jpg,545,823
+22427,1473,1,Duplo,,1987,Combi Pack,,,,,,,3,11,
+355,1484,1,Town,Special,1987,Houses,2,197,,,,,https://images.brickset.com/sets/images/1484-1.jpg,315,729
+22428,1488,1,Duplo,,1987,Building Set,,,,,,,3,11,
+360,1496,1,Town,Racing,1987,Rally Car,1,52,,,,,https://images.brickset.com/sets/images/1496-1.jpg,675,430
+361,1497,1,Town,Racing,1987,Pitstop and Crew,2,124,,,,,https://images.brickset.com/sets/images/1497-1.jpg,702,460
+362,1498,1,Space,Classic,1987,Spy-Bot,,62,,,,,https://images.brickset.com/sets/images/1498-1.jpg,591,520
+363,1499,1,Space,Classic,1987,Twin Starfire,2,89,,,,,https://images.brickset.com/sets/images/1499-1.jpg,798,559
+5001,1501,1,Duplo,,1987,Yellow Bucket,,68,,,,,https://images.brickset.com/sets/images/1501-1.jpg,58,18
+364,1502,1,Town,Bonus/Value Pack,1987,Two Pick Set,,176,,,,,8,72,
+367,1509,1,Town,Bonus/Value Pack,1987,Town Value Pack,,176,,,,,https://images.brickset.com/sets/images/1509-1.jpg,74,133
+368,1510,1,Space,Bonus/Value Pack,1987,Special Two-Set Space Pack,,151,,,,,https://images.brickset.com/sets/images/1510-1.jpg,91,157
+372,1516,1,Fabuland,,1987,Promotional Set,2,23,,,,,https://images.brickset.com/sets/images/1516-1.jpg,25,58
+22429,1529,2,Duplo,,1987,Rattle,,1,,,,,3,12,
+22433,1585,1,Duplo,,1987,Combi Pack,,,,,,,3,11,
+23531,1608,1,Universal Building Set,,1987,Aeroplane,,24,,,,,https://images.brickset.com/sets/images/1608-1.jpg,22,41
+10105,1685,1,Duplo,,1987,Pre-School Building Set,6,67,,,,,5,11,
+718,2020,1,Duplo,Baby,1987,Duck Rattle - Teether,,1,,5,,,https://images.brickset.com/sets/images/2020-1.jpg,99,26
+755,2070,1,Duplo,Baby,1987,Telephone Rattle,,3,,18.5,,,https://images.brickset.com/sets/images/2070-1.jpg,50,21
+757,2072,1,Duplo,Baby,1987,Touch and Learn Cot Toy,,6,,,,,https://images.brickset.com/sets/images/2072-1.jpg,31,19
+863,2310,1,Duplo,,1987,Supplementary Bricks,,28,,,,,5,16,
+864,2312,1,Duplo,,1987,Supplementary Bricks,,39,,,,,8,16,
+875,2333,1,Duplo,,1987,Basic Set Animal,,12,,,,,https://images.brickset.com/sets/images/2333-1.jpg,24,17
+882,2344,1,Duplo,,1987,Basic Set Circus,,19,,,,,https://images.brickset.com/sets/images/2344-1.jpg,11,16
+892,2366,1,Duplo,,1987,Basic Set House and Car,2,24,,,,,https://images.brickset.com/sets/images/2366-1.jpg,20,17
+899,2377,1,Duplo,,1987,Basic Set Safari,,45,,,,,6,18,
+904,2388,1,Duplo,,1987,Basic Set Harbour,3,45,,,,,7,18,
+910,2399,1,Duplo,,1987,Basic Set Town,4,63,,,,,5,16,
+979,2628,1,Duplo,,1987,Transport Truck,1,4,,,,,25,18,
+983,2632,1,Duplo,,1987,Delivery Truck,1,4,,,,,20,14,
+986,2637,1,Duplo,,1987,Fire Engine,1,5,,15.5,,,26,19,
+990,2638,1,Duplo,,1987,Container Truck,1,9,,,,,15,15,
+1057,2714,1,Duplo,Trains,1987,Train Crossings,,4,,7.5,,,https://images.brickset.com/sets/images/2714-1.jpg,41,27
+1702,3636,1,Fabuland,,1987,Lucy Lamb's Bedroom,1,21,,,,,https://images.brickset.com/sets/images/3636-1.jpg,206,62
+1709,3645,1,Fabuland,,1987,School Room,3,24,,,,,https://images.brickset.com/sets/images/3645-1.jpg,179,69
+1720,3659,1,Fabuland,,1987,Playground,2,16,,,,,https://images.brickset.com/sets/images/3659-1.jpg,179,76
+1723,3662,1,Fabuland,,1987,Double-Decker Bus,2,32,,,,,https://images.brickset.com/sets/images/3662-1.jpg,220,85
+1735,3674,1,Fabuland,,1987,Bonny Bunny's New House,2,44,,14.75,,,https://images.brickset.com/sets/images/3674-1.jpg,179,80
+1736,3675,1,Fabuland,,1987,General Store,3,103,,,,,https://images.brickset.com/sets/images/3675-1.jpg,136,87
+1742,3682,1,Fabuland,,1987,Fire Station,3,149,,39.75,,,https://images.brickset.com/sets/images/3682-1.jpg,101,92
+1765,3719,1,Fabuland,,1987,Bus Stop with Maximilian Mouse,1,5,,,,,https://images.brickset.com/sets/images/3719-1.jpg,171,74
+1824,3797,1,Fabuland,,1987,Fire Chief Boris Bulldog,1,8,,,,,https://images.brickset.com/sets/images/3797-1.jpg,179,56
+1871,4010,1,Boats,,1987,Police Rescue Boat,2,83,,15.5,,,https://images.brickset.com/sets/images/4010-1.jpg,2504,592
+1881,4020,1,Boats,,1987,Fire Fighter,3,206,,28.5,,,https://images.brickset.com/sets/images/4020-1.jpg,1065,541
+1891,4030,1,Boats,,1987,Cargo Carrier,3,323,,44,,,https://images.brickset.com/sets/images/4030-1.jpg,962,879
+2392,5000,1,Service Packs,,1987,Replacement Motor 4.5 V,,1,,7,,,https://images.brickset.com/sets/images/5000-1.jpg,18,36
+2393,5001,1,Service Packs,,1987,4 Wheel Bushes for 4.5 V Basic Motor,,4,,,,,https://images.brickset.com/sets/images/5001-1.jpg,14,32
+2394,5002,1,Service Packs,,1987,2 Rubber Crawler Tracks,,2,,,,,https://images.brickset.com/sets/images/5002-1.jpg,21,35
+2395,5003,1,Service Packs,,1987,2 Lighting Bricks 4.5 V,,2,,,,,https://images.brickset.com/sets/images/5003-1.jpg,69,40
+2396,5004,1,Service Packs,,1987,2 Keys for Wind-Up Motor,,2,,,,,https://images.brickset.com/sets/images/5004-1.jpg,37,35
+2397,5005,1,Service Packs,,1987,Battery Box Grey 4.5 V for use with Basic set 816,,1,,5.75,,,https://images.brickset.com/sets/images/5005-1.jpg,66,40
+2398,5006,1,Service Packs,,1987,Replacement 2-Piece Battery Motor Housing,,2,,,,,https://images.brickset.com/sets/images/5006-1.jpg,29,32
+2421,5031,1,Service Packs,,1987,"2 Propellers, 3 Nose Wheels and Rotor Unit",,15,,,,,https://images.brickset.com/sets/images/5031-1.jpg,27,37
+2422,5032,1,Service Packs,Town,1987,Jack,,1,,,,,https://images.brickset.com/sets/images/5032-1.jpg,93,64
+2423,5033,1,Service Packs,,1987,Light and Sound 1 x 4 Lighting Brick and 4 Colour Globes,,5,,5.5,,,https://images.brickset.com/sets/images/5033-1.jpg,83,64
+2424,5034,1,Service Packs,,1987,Light and Sound 1 x 2 Lighting Brick and 4 Colour Globes,,5,,,,,https://images.brickset.com/sets/images/5034-1.jpg,54,60
+2425,5035,1,Service Packs,,1987,Town Siren,,1,,,,,https://images.brickset.com/sets/images/5035-1.jpg,65,46
+2426,5036,1,Service Packs,,1987,Space Siren,,1,,,,,https://images.brickset.com/sets/images/5036-1.jpg,50,50
+2452,5061,1,Service Packs,Trains,1987,Train Connector Leads 25 and 75 cm,,6,,3.5,,,https://images.brickset.com/sets/images/5061-1.jpg,40,46
+2453,5062,1,Service Packs,Trains,1987,Shunting Trip Posts and Signal 4.5 V,,4,,,,,https://images.brickset.com/sets/images/5062-1.jpg,47,56
+2454,5063,1,Service Packs,Trains,1987,Power Supply Rail for 12 V Trains,,1,,,,,https://images.brickset.com/sets/images/5063-1.jpg,40,46
+2455,5064,1,Service Packs,Trains,1987,Locomotive Wheels for Battery Train,,8,,,,,https://images.brickset.com/sets/images/5064-1.jpg,27,43
+2456,5065,1,Service Packs,Trains,1987,Two-Way Plugs and Cable 3.0 m,,11,,,,,https://images.brickset.com/sets/images/5065-1.jpg,33,51
+2457,5066,1,Service Packs,Trains,1987,Buffer Sets and Couplings,,6,,,,,https://images.brickset.com/sets/images/5066-1.jpg,43,59
+2458,5067,1,Service Packs,Trains,1987,Rubber Wheel Rims,,8,,,,,https://images.brickset.com/sets/images/5067-1.jpg,45,55
+2459,5068,1,Service Packs,Trains,1987,Locomotive Base Plate with Couplings (Motor Frame),,5,,,,,https://images.brickset.com/sets/images/5068-1.jpg,41,52
+2460,5069,1,Service Packs,,1987,2 Lighting Bricks 12 V,,2,,,,,https://images.brickset.com/sets/images/5069-1.jpg,42,40
+2462,5070,1,Service Packs,,1987,"Wheel Sets Small, Black",,2,,,,,https://images.brickset.com/sets/images/5070-1.jpg,32,33
+2463,5071,1,Service Packs,,1987,"Wheel Sets Large, Red",,2,,,,,https://images.brickset.com/sets/images/5071-1.jpg,27,33
+2464,5072,1,Service Packs,Trains,1987,Long Wagon or Carriage Base 6 x 28,,1,,,,,https://images.brickset.com/sets/images/5072-1.jpg,40,48
+2465,5073,1,Service Packs,Trains,1987,Light Transmitting Elements,,7,,,,,https://images.brickset.com/sets/images/5073-1.jpg,38,46
+2466,5074,1,Service Packs,Trains,1987,Bogie Plates,,2,,,,,https://images.brickset.com/sets/images/5074-1.jpg,42,52
+2467,5075,1,Service Packs,Trains,1987,Tender 4.5 V Battery Red. For Trains with Battery Motor 810,,2,,,,,https://images.brickset.com/sets/images/5075-1.jpg,68,49
+2494,5100,1,Service Packs,,1987,Battery Box (Tube) 4.5 V,,1,,8,,,https://images.brickset.com/sets/images/5100-1.jpg,86,37
+2495,5101,1,Service Packs,,1987,Motor 4.5 V,,1,,12.5,,,https://images.brickset.com/sets/images/5101-1.jpg,85,40
+2496,5102,1,Service Packs,Technic,1987,Pneumatic Tube Black and Grey 60 and 100 cm,,2,,2,,,https://images.brickset.com/sets/images/5102-1.jpg,28,49
+2497,5103,1,Service Packs,Technic,1987,Pneumatic Spring Cylinder 48 mm Red,,1,,2,,,https://images.brickset.com/sets/images/5103-1.jpg,24,54
+2498,5104,1,Service Packs,Technic,1987,Pneumatic Piston Cylinder 48 mm Yellow,,1,,2,,,https://images.brickset.com/sets/images/5104-1.jpg,28,53
+2499,5105,1,Service Packs,Technic,1987,Pneumatic Piston Cylinder 64 mm Yellow,,1,,2.5,,,https://images.brickset.com/sets/images/5105-1.jpg,29,60
+2500,5106,1,Service Packs,Technic,1987,Two-Way Valve and Non-Return Valve,,2,,3.5,,,https://images.brickset.com/sets/images/5106-1.jpg,27,51
+2541,5148,1,Service Packs,,1987,Wheels and Tyres,,40,,5.25,,,10,28,
+2555,5161,1,Service Packs,,1987,16 Inverted Slope Bricks,,16,,3,,,https://images.brickset.com/sets/images/5161-1.jpg,45,31
+2556,5162,1,Service Packs,,1987,6 Fences and 2 Gates,,10,,,,,https://images.brickset.com/sets/images/5162-1.jpg,34,50
+2557,5163,1,Service Packs,,1987,"2 Turntables 4 x 4, 2 Turntables 2 x 2",,4,,,,,https://images.brickset.com/sets/images/5163-1.jpg,33,37
+2561,5167,1,Service Packs,,1987,"4 Hinges, 4 Tilting Bearings",,16,,,,,5,31,
+2562,5168,1,Service Packs,,1987,Digger Bucket Assembly,,4,,3,,,https://images.brickset.com/sets/images/5168-1.jpg,38,59
+2563,5169,1,Service Packs,,1987,Crane Set Assembly,,7,,,,,https://images.brickset.com/sets/images/5169-1.jpg,63,64
+2564,5171,1,Service Packs,,1987,Decorated Elements,,28,,3,,,https://images.brickset.com/sets/images/5171-1.jpg,52,71
+2565,5172,1,Service Packs,,1987,"Round Bricks, Rocket Noses and Tails",,30,2.77,3.5,,,https://images.brickset.com/sets/images/5172-1.jpg,45,55
+2566,5173,1,Service Packs,Space,1987,"Space Wings, Sloping Frames, Space Motors and Seats",,19,,2.75,,,https://images.brickset.com/sets/images/5173-1.jpg,43,73
+2567,5174,1,Service Packs,,1987,Wheels and Bearings (Grooved Tyres and Hubs),,28,,2.75,,,https://images.brickset.com/sets/images/5174-1.jpg,30,40
+2568,5175,1,Service Packs,Space,1987,Space Equipment,,26,,3.5,,,https://images.brickset.com/sets/images/5175-1.jpg,45,70
+2569,5176,1,Service Packs,,1987,Transparent Bricks,,19,,2.75,,,https://images.brickset.com/sets/images/5176-1.jpg,35,56
+2570,5177,1,Service Packs,,1987,Town and Space Tools,,35,,2.75,,,https://images.brickset.com/sets/images/5177-1.jpg,43,67
+2571,5178,1,Service Packs,Town,1987,Plane Accessories,,23,,2.75,,,https://images.brickset.com/sets/images/5178-1.jpg,29,52
+2572,5179,1,Service Packs,,1987,Hinges and Couplings,,24,,,,,https://images.brickset.com/sets/images/5179-1.jpg,16,46
+2573,5180,1,Service Packs,,1987,Airport T-Junction and Circle Base Plates,,2,,6,,,https://images.brickset.com/sets/images/5180-1.jpg,66,130
+2574,5181,1,Service Packs,,1987,Two Straight Airport Runways,,2,,6,,,https://images.brickset.com/sets/images/5181-1.jpg,69,117
+2622,5231,1,Service Packs,,1987,20 Technic Beams and Plates Yellow,,20,,2.75,,,https://images.brickset.com/sets/images/5231-1.jpg,25,37
+2623,5232,1,Service Packs,,1987,20 Technic Beams and Plates Blue,,18,,2.75,,,https://images.brickset.com/sets/images/5232-1.jpg,18,40
+2626,5234,1,Service Packs,,1987,20 Technic Beams and Plates Black,,20,,,,,https://images.brickset.com/sets/images/5234-1.jpg,18,39
+2628,5236,1,Service Packs,,1987,8 Technic Beams Blue,,8,,,,,https://images.brickset.com/sets/images/5236-1.jpg,14,40
+2629,5237,1,Service Packs,,1987,8 Technic Beams Black,,8,,,,,https://images.brickset.com/sets/images/5237-1.jpg,17,41
+2630,5238,1,Service Packs,,1987,8 Technic Beams Red,,8,,,,,https://images.brickset.com/sets/images/5238-1.jpg,19,38
+2631,5239,1,Service Packs,,1987,34 Cross Axles,,34,,3.25,,,https://images.brickset.com/sets/images/5239-1.jpg,18,37
+2633,5240,1,Service Packs,,1987,6 Wheel Hubs and Tyres 24 mm (4) and 43 mm (2),,12,,2.75,,,https://images.brickset.com/sets/images/5240-1.jpg,19,38
+2634,5241,1,Service Packs,,1987,"Gear Rack and Wheels, Wedge-Belt and Crown Wheels",,20,,3.25,,,https://images.brickset.com/sets/images/5241-1.jpg,27,43
+2635,5242,1,Service Packs,,1987,Differential Housing and Steering Elements,,19,,3.5,,,https://images.brickset.com/sets/images/5242-1.jpg,32,38
+2636,5243,1,Service Packs,,1987,70 Chain Links,,70,,3.5,,,https://images.brickset.com/sets/images/5243-1.jpg,41,55
+2637,5244,1,Service Packs,,1987,54 Crawler Track Links,,54,,3,,,https://images.brickset.com/sets/images/5244-1.jpg,58,52
+2639,5246,1,Service Packs,,1987,2 Tyres and Hubs 81 mm,,4,,4.75,,,https://images.brickset.com/sets/images/5246-1.jpg,66,43
+2640,5247,1,Service Packs,,1987,"Bushes, Piston Rods and Toggle Joints",,66,,3,,,https://images.brickset.com/sets/images/5247-1.jpg,23,37
+2641,5248,1,Service Packs,,1987,2 Tyres and Hubs 62 mm,,4,,,,,https://images.brickset.com/sets/images/5248-1.jpg,30,40
+2642,5249,1,Service Packs,,1987,20 Technic Beams and Plates Red,,20,,2.75,,,https://images.brickset.com/sets/images/5249-1.jpg,20,38
+2644,5250,1,Service Packs,,1987,8 Technic Beams Yellow,,8,,,,,https://images.brickset.com/sets/images/5250-1.jpg,25,38
+2664,5270,1,Service Packs,,1987,2 Tyres and Hubs 43 mm,,4,,,,,https://images.brickset.com/sets/images/5270-1.jpg,17,35
+2985,6017,1,Castle,Lion Knights,1987,King's Oarsmen,2,45,2.5,3.75,,,https://images.brickset.com/sets/images/6017-1.jpg,2338,627
+3018,6049,1,Castle,Lion Knights,1987,Viking Voyager,5,99,,11,,,https://images.brickset.com/sets/images/6049-1.jpg,2099,775
+3028,6062,1,Castle,Black Falcons,1987,Battering Ram,6,236,,19.95,,,https://images.brickset.com/sets/images/6062-1.jpg,1747,1108
+3029,6066,1,Castle,Forestmen,1987,Camouflaged Outpost,6,225,,23,,,https://images.brickset.com/sets/images/6066-1.jpg,3829,1543
+3209,6358,1,Town,Fire,1987,Snorkel Squad,2,153,,13.5,,,https://images.brickset.com/sets/images/6358-1.jpg,2274,475
+3235,6380,1,Town,Medical,1987,Emergency Treatment Center,5,308,,29.75,,,https://images.brickset.com/sets/images/6380-1.jpg,3215,973
+3236,6381,1,Town,Racing,1987,Motor Speedway,5,205,,23,,,https://images.brickset.com/sets/images/6381-1.jpg,2852,409
+3249,6393,1,Town,Shops and Services,1987,Big Rig Truck Stop,5,621,,52.75,,,https://images.brickset.com/sets/images/6393-1.jpg,859,943
+3350,6501,1,Town,Vehicles,1987,Sport Convertible,1,30,1.5,,,,https://images.brickset.com/sets/images/6501-1.jpg,2038,353
+3351,6502,1,Town,Racing,1987,Turbo Racer,1,24,,,,,https://images.brickset.com/sets/images/6502-1.jpg,2138,249
+3376,6521,1,Town,Maintenance,1987,Emergency Repair Truck,1,58,,,,,https://images.brickset.com/sets/images/6521-1.jpg,2670,444
+3377,6522,1,Town,Police,1987,Highway Patrol,2,30,,,,,https://images.brickset.com/sets/images/6522-1.jpg,3612,394
+3379,6523,1,Town,Medical,1987,Red Cross,1,51,1.5,,,,https://images.brickset.com/sets/images/6523-1.jpg,1699,396
+3494,6641,1,Town,Vehicles,1987,4-Wheelin' Truck,1,81,,6.5,,,https://images.brickset.com/sets/images/6641-1.jpg,2457,341
+3542,6687,1,Town,Flight,1987,Turbo Prop I,2,78,5,6.48,,,https://images.brickset.com/sets/images/6687-1.jpg,2830,387
+3548,6693,1,Town,Maintenance,1987,Refuse Collection Truck,2,115,,,,,https://images.brickset.com/sets/images/6693-1.jpg,3648,659
+3554,6699,1,Town,Shops and Services,1987,Cycle Fix-It Shop,2,71,,,,,https://images.brickset.com/sets/images/6699-1.jpg,1693,710
+3623,6808,1,Space,Classic,1987,Galaxy Trekkor,1,29,1.5,,,,https://images.brickset.com/sets/images/6808-1.jpg,2261,438
+3624,6809,1,Space,Classic,1987,XT-5 and Droid,2,52,1.5,,,,https://images.brickset.com/sets/images/6809-1.jpg,2161,523
+3641,6827,1,Space,Classic,1987,Strata Scooter,1,35,2.5,,,,https://images.brickset.com/sets/images/6827-1.jpg,1850,476
+3660,6849,1,Space,Classic,1987,Satellite Patroller,1,46,,,,,https://images.brickset.com/sets/images/6849-1.jpg,1562,458
+3681,6883,1,Space,Classic,1987,Terrestrial Rover,1,109,,,,,https://images.brickset.com/sets/images/6883-1.jpg,1132,492
+3682,6884,1,Space,Futuron,1987,Aero Module,2,113,,,,,https://images.brickset.com/sets/images/6884-1.jpg,1569,492
+3690,6893,1,Space,Futuron,1987,Orion II Hyperspace,2,163,,,,,https://images.brickset.com/sets/images/6893-1.jpg,1000,595
+3691,6894,1,Space,Blacktron,1987,Invader,2,164,,,,,https://images.brickset.com/sets/images/6894-1.jpg,2790,754
+3716,6932,1,Space,Futuron,1987,Stardefender 200,2,251,,,,,https://images.brickset.com/sets/images/6932-1.jpg,1527,810
+3721,6941,1,Space,Blacktron,1987,Battrax,1,284,,,,,https://images.brickset.com/sets/images/6941-1.jpg,1953,837
+3728,6953,1,Space,Futuron,1987,Cosmic Laser Launcher,3,208,,30,,,https://images.brickset.com/sets/images/6953-1.jpg,948,736
+3729,6954,1,Space,Blacktron,1987,Renegade,2,313,,30,,,https://images.brickset.com/sets/images/6954-1.jpg,1043,1133
+3742,6972,1,Space,Classic,1987,Polaris I Space Lab,3,390,,,,,https://images.brickset.com/sets/images/6972-1.jpg,1055,760
+3758,6990,1,Space,Futuron,1987,Monorail Transport System,5,731,,155,,,https://images.brickset.com/sets/images/6990-1.jpg,1892,1564
+4495,8852,1,Technic,,1987,Robot,,327,,,,,https://images.brickset.com/sets/images/8852-1.jpg,1058,264
+4515,8890,1,Books,LEGO,1987,Ideas Book,,,,4.5,,,https://images.brickset.com/sets/images/8890-1.jpg,757,133
+23747,9700,1,Dacta,Technic,1987,Technic Control Centre,4,471,,,,,13,25,
+23391,951178,1,Dacta,,1987,Basic Bricks,,18,,,,,https://images.brickset.com/sets/images/951178-1.jpg,8,18
+25739,ISBN0810923629,1,Books,Harry N. Abrams Inc.,1987,The World of LEGO Toys,,,,,,,https://images.brickset.com/sets/images/ISBN0810923629-1.jpg,60,50
+5043,611,2,Town,Special,1988,Air Canada Jet Plane,,92,,,,,https://images.brickset.com/sets/images/611-2.jpg,36,318
+7856,1067,1,Dacta,,1988,Community Vehicles,14,203,,,,,https://images.brickset.com/sets/images/1067-1.jpg,37,87
+357,1490,1,Town,Shops and Services,1988,Town Bank,3,187,,,,,https://images.brickset.com/sets/images/1490-1.jpg,287,829
+5383,1530,2,Space,Bonus/Value Pack,1988,Space Value Pack,,91,,,,,https://images.brickset.com/sets/images/1530-2.jpg,59,124
+400,1544,1,Duplo,,1988,Duplo Building Set,2,55,,,,,https://images.brickset.com/sets/images/1544-1.jpg,50,18
+433,1584,1,Castle,Lion Knights,1988,Knight's Challenge,8,132,,,,,https://images.brickset.com/sets/images/1584-1.jpg,529,935
+452,1612,1,Town,Racing,1988,Victory Racer,1,25,,,,,https://images.brickset.com/sets/images/1612-1.jpg,614,255
+6376,2395,1,Duplo,,1988,{duplo box},,,,,,,5,16,
+547,2612,1,Duplo,,1988,Motorbike & Rider,1,1,,,,,https://images.brickset.com/sets/images/2612-1.jpg,135,19
+5022,2614,1,Duplo,,1988,Mother and Baby,2,1,,4.75,,,51,17,
+23103,2626,1,Duplo,,1988,Car and Boat Vacation Trailer,1,4,,,,,https://images.brickset.com/sets/images/2626-1.jpg,13,13
+23268,2641,2,Duplo,,1988,Jumbo Plane,1,10,,,,,11,13,
+5002,2652,1,Duplo,,1988,Circus Caravan,4,16,,35.25,,,https://images.brickset.com/sets/images/2652-1.jpg,56,23
+5007,2701,1,Duplo,Trains,1988,Train and Station Set,2,42,,44,,,40,22,
+5008,2706,1,Duplo,Trains,1988,Barnyard Express,1,10,,,,,16,21,
+5009,2720,1,Duplo,Trains,1988,Goods Station,1,32,,,,,8,19,
+1690,3622,1,Fabuland,,1988,Rowboat with Lionel Lion and Hannah Hippopotamus,2,12,,,,,https://images.brickset.com/sets/images/3622-1.jpg,177,69
+1691,3623,1,Fabuland,,1988,Beauty Salon,2,24,,,,,https://images.brickset.com/sets/images/3623-1.jpg,149,68
+1710,3646,1,Fabuland,,1988,Catherine Cat in her Kitchen,2,53,,,,,https://images.brickset.com/sets/images/3646-1.jpg,221,87
+1740,3680,1,Fabuland,,1988,Caravan and Rowboat,3,27,,,,,https://images.brickset.com/sets/images/3680-1.jpg,114,83
+1743,3683,1,Fabuland,,1988,Amusement Park,4,93,,,,,https://images.brickset.com/sets/images/3683-1.jpg,113,91
+1767,3721,1,Fabuland,,1988,Clive Crocodile on his Skateboard,1,10,,,,,https://images.brickset.com/sets/images/3721-1.jpg,213,79
+1825,3798,1,Fabuland,,1988,Hannah Hippopotamus on a Picnic,1,24,,,,,https://images.brickset.com/sets/images/3798-1.jpg,198,67
+2595,5200,1,Service Packs,Trains,1988,Signal Masts and Base Supports,,8,,,,,https://images.brickset.com/sets/images/5200-1.jpg,39,62
+2984,6016,1,Castle,Lion Knights,1988,Knights' Arsenal,1,37,,4.25,,,https://images.brickset.com/sets/images/6016-1.jpg,3046,610
+3003,6035,1,Castle,Black Falcons,1988,Castle Guard,2,52,,5.75,,,https://images.brickset.com/sets/images/6035-1.jpg,2332,783
+3007,6039,1,Castle,Lion Knights,1988,Twin-Arm Launcher,2,77,,8.5,,,https://images.brickset.com/sets/images/6039-1.jpg,3298,687
+3020,6054,1,Castle,Forestmen,1988,Forestmen's Hideout,2,201,,17.5,,,https://images.brickset.com/sets/images/6054-1.jpg,4175,1174
+3048,6085,1,Castle,Black Knights,1988,Black Monarch's Castle,12,702,,68,,,https://images.brickset.com/sets/images/6085-1.jpg,2536,1628
+3066,6103,1,Castle,Accessories,1988,Castle Mini Figures,6,42,3.75,6.75,,,https://images.brickset.com/sets/images/6103-1.jpg,2216,817
+3156,6309,1,Town,Accessories,1988,Town Mini-Figures,6,37,,6,,,https://images.brickset.com/sets/images/6309-1.jpg,1082,359
+3163,6315,1,Town,Accessories,1988,Road Signs,,11,1.5,3,,,https://images.brickset.com/sets/images/6315-1.jpg,2609,451
+3164,6316,1,Town,Accessories,1988,Flags and Fences,,38,2.5,4,,,https://images.brickset.com/sets/images/6316-1.jpg,920,294
+3165,6317,1,Town,Accessories,1988,Trees and Flowers,,24,2.5,4,,,https://images.brickset.com/sets/images/6317-1.jpg,1565,412
+3199,6349,1,Town,Leisure,1988,Holiday Villa,2,205,,,,,https://images.brickset.com/sets/images/6349-1.jpg,1259,1069
+3207,6356,1,Town,Medical,1988,Med-Star Rescue Plane,3,159,,15.5,,,https://images.brickset.com/sets/images/6356-1.jpg,2445,614
+3208,6357,1,Town,Vehicles,1988,Stunt 'Copter N' Truck,2,177,,17,,,https://images.brickset.com/sets/images/6357-1.jpg,3121,482
+3250,6394,1,Town,Shops and Services,1988,Metro Park & Service Tower,6,620,,58.25,,,https://images.brickset.com/sets/images/6394-1.jpg,1938,1180
+3251,6395,1,Town,Racing,1988,Victory Lap Raceway,13,606,,58.25,,,https://images.brickset.com/sets/images/6395-1.jpg,1456,833
+3352,6503,1,Town,Racing,1988,Sprint Racer,1,32,,,,,https://images.brickset.com/sets/images/6503-1.jpg,3641,298
+3353,6504,1,Town,Construction,1988,Tractor,1,25,,,,,https://images.brickset.com/sets/images/6504-1.jpg,1592,331
+3354,6505,1,Town,Fire,1988,Fire Chief's Car,1,29,,,,,https://images.brickset.com/sets/images/6505-1.jpg,1315,269
+3380,6524,1,Town,Maintenance,1988,Blizzard Blazer,1,50,2.5,4,,,https://images.brickset.com/sets/images/6524-1.jpg,2124,389
+3445,6590,1,Town,Leisure,1988,Vacation Camper,2,116,,,,,https://images.brickset.com/sets/images/6590-1.jpg,2656,654
+3495,6642,1,Town,Police,1988,Police Helicopter,1,66,,15,,,https://images.brickset.com/sets/images/6642-1.jpg,2456,314
+3496,6643,1,Town,Fire,1988,Fire Chief's Truck,1,74,,,,,https://images.brickset.com/sets/images/6643-1.jpg,1715,428
+3528,6674,1,Town,Vehicles,1988,Crane Truck,1,94,,,,,https://images.brickset.com/sets/images/6674-1.jpg,1633,435
+3529,6675,1,Town,Vehicles,1988,Road & Trail 4 x 4,1,81,,,,,https://images.brickset.com/sets/images/6675-1.jpg,2478,478
+3558,6703,1,Space,Miscellaneous,1988,Minifig Pack,6,42,,,,,https://images.brickset.com/sets/images/6703-1.jpg,1232,548
+3602,6770,1,Space,Futuron,1988,Lunar Transporter Patroller,1,117,,,,,https://images.brickset.com/sets/images/6770-1.jpg,782,554
+3642,6828,1,Space,Futuron,1988,Twin-Winged Spoiler,1,57,,,,,https://images.brickset.com/sets/images/6828-1.jpg,1664,424
+3644,6830,1,Space,Futuron,1988,Space Patroller,3,51,,,,,https://images.brickset.com/sets/images/6830-1.jpg,1966,540
+3659,6848,1,Space,Futuron,1988,Strategic Pursuer,1,54,,,,,https://images.brickset.com/sets/images/6848-1.jpg,2342,542
+3673,6875,1,Space,Futuron,1988,Hovercraft,1,93,,,,,https://images.brickset.com/sets/images/6875-1.jpg,1664,487
+3674,6876,1,Space,Blacktron,1988,Alienator,1,86,,,,,https://images.brickset.com/sets/images/6876-1.jpg,3480,671
+3683,6885,1,Space,Futuron,1988,Crater Crawler,1,100,,,,,https://images.brickset.com/sets/images/6885-1.jpg,927,516
+3707,6921,1,Space,Futuron,1988,Monorail Accessory Track,,46,,34.95,,,https://images.brickset.com/sets/images/6921-1.jpg,695,739
+3709,6925,1,Space,Futuron,1988,Interplanetary Rover,4,217,,,,,https://images.brickset.com/sets/images/6925-1.jpg,825,555
+3755,6987,1,Space,Blacktron,1988,Message Intercept Base,5,569,,,,,https://images.brickset.com/sets/images/6987-1.jpg,1331,1216
+4436,8712,1,Technic,Supplementary,1988,Technic Figures,3,10,,8.25,,,https://images.brickset.com/sets/images/8712-1.jpg,1087,279
+4476,8832,1,Technic,,1988,Roadster,,86,,,,,https://images.brickset.com/sets/images/8832-1.jpg,2451,205
+4496,8853,1,Technic,,1988,Excavator,,326,,,,,https://images.brickset.com/sets/images/8853-1.jpg,1188,301
+4498,8855,1,Technic,,1988,Prop Plane,1,569,,,,,https://images.brickset.com/sets/images/8855-1.jpg,1537,385
+4508,8865,1,Technic,,1988,Test Car,,900,,,,,https://images.brickset.com/sets/images/8865-1.jpg,2396,574
+4866,9058,1,Dacta,,1988,Large Building Plates,,2,,22,,,https://images.brickset.com/sets/images/9058-1.jpg,38,54
+22625,9155,1,Dacta,Duplo,1988,Circus,,,,,,,https://images.brickset.com/sets/images/9155-1.jpg,6,19
+22623,9220,1,Dacta,Duplo,1988,Farm Scene Mosaics,,81,,,,,https://images.brickset.com/sets/images/9220-1.jpg,4,17
+22624,9221,1,Dacta,Duplo,1988,Town Scene Mosaics,,81,,,,,https://images.brickset.com/sets/images/9221-1.jpg,4,17
+27347,9850,1,Gear,Furniture,1988,Duplo Play wall,,,,,,,2,2,
+356,1489,1,Town,Vehicles,1989,Mobile Car Crane,2,174,,12.75,,,https://images.brickset.com/sets/images/1489-1.jpg,226,563
+370,1515,2,Town,Bonus/Value Pack,1989,Town Value Pack,,105,,,,,https://images.brickset.com/sets/images/1515-2.jpg,33,151
+373,1517,1,Town,Racing,1989,Black Racing Car,1,32,,,,,https://images.brickset.com/sets/images/1517-1.jpg,865,385
+375,1518,1,Town,Racing,1989,Racing Service Crew,2,73,,,,,https://images.brickset.com/sets/images/1518-1.jpg,263,439
+454,1616,1,Space,Bonus/Value Pack,1989,Special Two-Set Space Pack,,132,,10,,,https://images.brickset.com/sets/images/1616-1.jpg,47,159
+458,1620,1,Space,Futuron,1989,Astro Dart,1,30,,,,,https://images.brickset.com/sets/images/1620-1.jpg,494,499
+459,1621,1,Space,Futuron,1989,Lunar MPV Vehicle,2,102,,,,,https://images.brickset.com/sets/images/1621-1.jpg,355,557
+474,1640,1,Duplo,,1989,Tuttle the Turtle,,6,,,,,https://images.brickset.com/sets/images/1640-1.jpg,18,33
+475,1641,1,Duplo,,1989,Crocodile,,6,,,,,https://images.brickset.com/sets/images/1641-1.jpg,33,28
+22419,1653,1,Duplo,,1989,Container Set,2,38,,,,,4,11,
+22422,1681,1,Duplo,,1989,Rattle,,1,,,,,5,12,
+654,1898,1,Town,Special,1989,Dragster,1,27,,,,,https://images.brickset.com/sets/images/1898-1.jpg,204,167
+655,1899,1,Town,Racing,1989,Race Car Number 1.,1,24,,,,,https://images.brickset.com/sets/images/1899-1.jpg,441,256
+663,1923,1,Promotional,Ferries,1989,Viking Line Ferry,,185,,,,,https://images.brickset.com/sets/images/1923-1.jpg,37,174
+668,1952,1,Town,Special,1989,Milk Truck,1,133,,,,,https://images.brickset.com/sets/images/1952-1.jpg,135,584
+687,1973,1,Town,Special,1989,Emirates Airliner,2,136,,,,,https://images.brickset.com/sets/images/1973-1.jpg,39,443
+24545,1974,1,Miscellaneous,,1989,Triple Pack,,159,,,,,https://images.brickset.com/sets/images/1974-1.jpg,87,42
+689,1974,2,Town,Flight,1989,Flyercracker USA,1,74,,,,,https://images.brickset.com/sets/images/1974-2.jpg,585,320
+690,1974,3,Castle,Forestmen,1989,Smuggler's Hayride,2,49,,,,,https://images.brickset.com/sets/images/1974-3.jpg,1013,968
+688,1974,4,Space,Futuron,1989,Star Quest,1,36,,,,,https://images.brickset.com/sets/images/1974-4.jpg,744,474
+738,2040,1,Duplo,Baby,1989,Rock 'n' Roller,,3,,10.25,,,https://images.brickset.com/sets/images/2040-1.jpg,14,16
+753,2066,1,Duplo,Baby,1989,Bath-Tub Buddies,,2,,12.25,,,9,16,
+758,2073,1,Duplo,Baby,1989,Baby Gift Pack,,5,,,,,8,16,
+4936,2074,1,Duplo,Baby,1989,Baby Bath Set,,10,,,,,4,16,
+913,2424,1,Duplo,,1989,Duplo Bucket,2,82,,,,,https://images.brickset.com/sets/images/2424-1.jpg,27,17
+9869,2426,1,Duplo,Farm,1989,Farm bucket,4,56,,,,,12,11,
+6366,2430,1,Duplo,,1989,{duplo box},2,18,,,,,https://images.brickset.com/sets/images/2430-1.jpg,8,19
+970,2617,1,Duplo,,1989,Tow Truck,1,3,,3.3,,,https://images.brickset.com/sets/images/2617-1.jpg,48,23
+993,2643,1,Duplo,,1989,Fishing Boat,2,15,,29.75,,,25,17,
+1001,2650,2,Duplo,,1989,Cannon Ball Clowns,2,5,,,,,https://images.brickset.com/sets/images/2650-2.jpg,58,22
+1003,2651,1,Duplo,,1989,Circus Artists and Elephant,3,6,,20.25,,,22,17,
+1006,2656,1,Duplo,,1989,Village Post Office,3,23,,,,,22,17,
+1007,2657,1,Duplo,,1989,Service Station,2,43,,42,,,https://images.brickset.com/sets/images/2657-1.jpg,23,21
+1008,2658,1,Duplo,,1989,Fire Station,4,57,,60.5,,,21,22,
+1711,3647,1,Fabuland,,1989,Lionel Lion's Classroom,3,42,,,,,https://images.brickset.com/sets/images/3647-1.jpg,147,71
+1724,3663,1,Fabuland,,1989,Merry-Go-Round,2,23,,,,,https://images.brickset.com/sets/images/3663-1.jpg,129,70
+1737,3676,1,Fabuland,,1989,Cathy Cat's Fun Park,4,43,,,,,https://images.brickset.com/sets/images/3676-1.jpg,90,84
+2399,5007,1,Service Packs,,1989,"Basic Motor 4.5 V, Motor and Gear Housing. For use with set 810",,1,,,,,https://images.brickset.com/sets/images/5007-1.jpg,50,39
+2427,5037,1,Service Packs,,1989,Current-Carrying Bricks 9 V Assorted Sizes,,9,,6,,,https://images.brickset.com/sets/images/5037-1.jpg,68,46
+2428,5038,1,Service Packs,,1989,Battery Box 9 V Electric System,,1,,5.5,,,https://images.brickset.com/sets/images/5038-1.jpg,92,49
+2429,5039,1,Service Packs,Monorail,1989,Monorail Stop / Reverse Switch,,3,,,,,https://images.brickset.com/sets/images/5039-1.jpg,46,91
+2431,5040,1,Service Packs,Monorail,1989,Monorail Motor 9 V,,1,,,,,https://images.brickset.com/sets/images/5040-1.jpg,65,90
+2432,5041,1,Service Packs,Monorail,1989,Space Track Connector Lead 9 V (10 cm),,1,,,,,https://images.brickset.com/sets/images/5041-1.jpg,45,79
+2469,5077,1,Service Packs,Trains,1989,Sliding Gates and Rails,,6,,,,,https://images.brickset.com/sets/images/5077-1.jpg,28,47
+2471,5079,1,Service Packs,Trains,1989,Change-Over Unit 12 V,,1,,,,,https://images.brickset.com/sets/images/5079-1.jpg,20,44
+2473,5080,1,Service Packs,Trains,1989,Remote Control for Points 12 V,,1,,,,,https://images.brickset.com/sets/images/5080-1.jpg,27,46
+2474,5081,1,Service Packs,Trains,1989,Remote Control for Signal 12 V,,1,,,,,https://images.brickset.com/sets/images/5081-1.jpg,34,48
+2475,5082,1,Service Packs,Trains,1989,Flashlight Unit 12 V,,1,,,,,https://images.brickset.com/sets/images/5082-1.jpg,24,48
+2476,5083,1,Service Packs,Trains,1989,Remote Control for Crossing 12 V,,1,,,,,https://images.brickset.com/sets/images/5083-1.jpg,26,49
+2477,5084,1,Service Packs,Trains,1989,Lighting Bricks 12 V for Signals,,1,,,,,https://images.brickset.com/sets/images/5084-1.jpg,23,50
+2478,5085,1,Service Packs,Trains,1989,Insulating Track Plus Socket 12 V (Isolating Rail),,1,,,,,https://images.brickset.com/sets/images/5085-1.jpg,19,44
+2487,5095,1,Service Packs,Duplo,1989,Duplo Fences,,5,,,,,https://images.brickset.com/sets/images/5095-1.jpg,11,21
+2488,5096,1,Service Packs,Duplo,1989,Duplo Millstone and Millwing,,2,,,,,https://images.brickset.com/sets/images/5096-1.jpg,7,21
+2501,5107,1,Service Packs,Technic,1989,Pneumatic Pump Cylinder 48 mm,,1,,3.25,,,https://images.brickset.com/sets/images/5107-1.jpg,59,54
+2502,5108,1,Service Packs,Technic,1989,Double-Acting Pneumatic Piston Cylinder 48 mm,,1,,3,,,https://images.brickset.com/sets/images/5108-1.jpg,61,51
+2503,5109,1,Service Packs,Technic,1989,Pneumatic Tubing and T-Junctions,,6,,3.25,,,https://images.brickset.com/sets/images/5109-1.jpg,49,55
+2575,5182,1,Service Packs,,1989,Hinges and Couplings,,15,,,,,https://images.brickset.com/sets/images/5182-1.jpg,24,39
+2576,5183,1,Service Packs,,1989,Hinges and Tilting Bearings,,30,,,,,https://images.brickset.com/sets/images/5183-1.jpg,22,41
+2577,5184,1,Service Packs,Castle,1989,Castle Elements,,34,,3.25,,,https://images.brickset.com/sets/images/5184-1.jpg,68,117
+2579,5186,1,Service Packs,,1989,Low Fences,,10,,,,,https://images.brickset.com/sets/images/5186-1.jpg,29,36
+2580,5187,1,Service Packs,,1989,"Bricks with Groove, Garage Panels",,26,,,,,https://images.brickset.com/sets/images/5187-1.jpg,35,57
+2581,5188,1,Service Packs,,1989,"Seats, Steering Wheels and Windscreens",,10,,,,,https://images.brickset.com/sets/images/5188-1.jpg,30,48
+2582,5189,1,Service Packs,,1989,Ladders / Stairs,,16,,,,,https://images.brickset.com/sets/images/5189-1.jpg,26,43
+2583,5190,1,Service Packs,,1989,Seats and Windscreens,,7,,,,,https://images.brickset.com/sets/images/5190-1.jpg,34,53
+2585,5192,1,Service Packs,Town,1989,Cypress Trees,,2,,,,,https://images.brickset.com/sets/images/5192-1.jpg,70,145
+2586,5193,1,Service Packs,,1989,Sloping Frames,,6,,,,,https://images.brickset.com/sets/images/5193-1.jpg,23,44
+2587,5194,1,Service Packs,,1989,Forklift Truck and Hinge Plates,,3,,,,,https://images.brickset.com/sets/images/5194-1.jpg,76,76
+2588,5195,1,Service Packs,,1989,Assorted Arches,,6,,,,,https://images.brickset.com/sets/images/5195-1.jpg,30,38
+2589,5196,1,Service Packs,Town,1989,"Crane, Crane Hooks and Ladders",,5,,,,,https://images.brickset.com/sets/images/5196-1.jpg,31,58
+2590,5197,1,Service Packs,,1989,"Lamp Holders, Tool Holder Plates",,24,,,,,https://images.brickset.com/sets/images/5197-1.jpg,22,40
+2591,5198,1,Service Packs,,1989,"Small Plates, Disks and Cones",,56,,,,,https://images.brickset.com/sets/images/5198-1.jpg,21,51
+2645,5251,1,Service Packs,Technic,1989,Shock Absorbers Small,,4,,5.25,,,https://images.brickset.com/sets/images/5251-1.jpg,64,50
+2647,5253,1,Service Packs,Technic,1989,"Cross Axles Sizes 2, 3, 4, 6",,12,,,,,https://images.brickset.com/sets/images/5253-1.jpg,20,38
+2648,5254,1,Service Packs,Technic,1989,"Cross Axles Sizes 8, 10, 12",,9,,,,,https://images.brickset.com/sets/images/5254-1.jpg,14,36
+2650,5256,1,Service Packs,Technic,1989,Suspension Pack,,12,,,,,https://images.brickset.com/sets/images/5256-1.jpg,28,46
+2658,5264,1,Service Packs,Technic,1989,Rotors and Bush / Cross Axles,,24,,,,,https://images.brickset.com/sets/images/5264-1.jpg,16,38
+2659,5265,1,Service Packs,,1989,Wheels with 43 and 24 mm Tyres,,16,,4,,,https://images.brickset.com/sets/images/5265-1.jpg,22,36
+2660,5266,1,Service Packs,Technic,1989,"Gear Racks, Gear Wheels and Pulley Wheels",,22,,,,,https://images.brickset.com/sets/images/5266-1.jpg,26,50
+3026,6060,1,Castle,Lion Knights,1989,Knight's Challenge,8,168,,22,,,https://images.brickset.com/sets/images/6060-1.jpg,749,873
+3039,6077,2,Castle,Forestmen,1989,Forestmen's River Fortress,6,357,,37.5,,,https://images.brickset.com/sets/images/6077-2.jpg,2058,1727
+9289,6200,1,Pirates,Bonus/Value Pack,1989,Double Pack,,45,,,,,https://images.brickset.com/sets/images/6200-1.jpg,270,185
+3096,6235,1,Pirates,,1989,Buried Treasure,1,20,,3.25,,,https://images.brickset.com/sets/images/6235-1.jpg,5567,720
+3101,6245,1,Pirates,Imperial Guards,1989,Harbour Sentry,1,25,,4.25,,,https://images.brickset.com/sets/images/6245-1.jpg,5551,705
+3108,6251,1,Pirates,Accessories,1989,Pirate Minifigures,5,33,,6.5,,,https://images.brickset.com/sets/images/6251-1.jpg,2924,819
+3111,6255,1,Pirates,,1989,Pirates Comic,2,12,,,,,https://images.brickset.com/sets/images/6255-1.jpg,573,288
+3113,6257,1,Pirates,,1989,Castaway's Raft,3,54,,8.5,,,https://images.brickset.com/sets/images/6257-1.jpg,5221,790
+3118,6260,1,Pirates,,1989,Shipwreck Island,2,71,,12,,,https://images.brickset.com/sets/images/6260-1.jpg,4404,900
+3123,6265,1,Pirates,,1989,Sabre Island,3,96,,15.5,,,https://images.brickset.com/sets/images/6265-1.jpg,4954,1181
+3128,6270,1,Pirates,,1989,Forbidden Island,4,182,,37.5,,,https://images.brickset.com/sets/images/6270-1.jpg,5627,1449
+3131,6274,1,Pirates,,1989,Caribbean Clipper,4,378,,54,,,https://images.brickset.com/sets/images/6274-1.jpg,3897,1688
+3132,6276,1,Pirates,,1989,Eldorado Fortress,8,506,,66,,,https://images.brickset.com/sets/images/6276-1.jpg,3288,2023
+3138,6285,1,Pirates,,1989,Black Seas Barracuda,8,909,,110,,,https://images.brickset.com/sets/images/6285-1.jpg,4387,2329
+3206,6355,1,Town,Leisure,1989,Derby Trotter,1,140,,14,,,https://images.brickset.com/sets/images/6355-1.jpg,1363,548
+3242,6387,1,Town,Coastguard,1989,Coastal Rescue Base,4,374,,35,,,https://images.brickset.com/sets/images/6387-1.jpg,1083,692
+3243,6388,1,Town,Leisure,1989,Holiday Home with Campervan,4,353,,,,,https://images.brickset.com/sets/images/6388-1.jpg,1332,1032
+3332,6481,1,Town,Construction,1989,Construction Crew,2,169,,27,,,https://images.brickset.com/sets/images/6481-1.jpg,1382,502
+3333,6482,1,Town,Rescue,1989,Rescue Helicopter,3,198,,35,,,https://images.brickset.com/sets/images/6482-1.jpg,1665,652
+3355,6506,1,Town,Police,1989,Precinct Cruiser,1,32,,2,,,https://images.brickset.com/sets/images/6506-1.jpg,3011,263
+3357,6507,1,Town,Construction,1989,Mini Dumper,1,30,,,,,https://images.brickset.com/sets/images/6507-1.jpg,2158,270
+3382,6526,1,Town,Racing,1989,Red Line Racer,1,47,,4,,,https://images.brickset.com/sets/images/6526-1.jpg,2219,248
+3383,6527,1,Town,Construction,1989,Tipper Truck,1,43,,,,,https://images.brickset.com/sets/images/6527-1.jpg,1441,312
+3384,6528,1,Town,Vehicles,1989,Sand Storm Racer,1,39,,3.75,,,https://images.brickset.com/sets/images/6528-1.jpg,2122,280
+3446,6591,1,Town,Racing,1989,Nitro-Dragsters,2,143,,12,,,https://images.brickset.com/sets/images/6591-1.jpg,640,319
+3514,6660,1,Town,Vehicles,1989,Hook & Haul Wrecker,1,52,,6,,,https://images.brickset.com/sets/images/6660-1.jpg,2921,421
+3515,6661,1,Town,Vehicles,1989,Mobile TV Studio,1,78,,,,,https://images.brickset.com/sets/images/6661-1.jpg,2834,605
+3525,6671,1,Town,Maintenance,1989,Utility Repair Lift,1,106,,8,,,https://images.brickset.com/sets/images/6671-1.jpg,3166,581
+3610,6781,1,Space,Space Police,1989,SP-Striker,2,230,,28,,,https://images.brickset.com/sets/images/6781-1.jpg,1481,951
+3625,6810,1,Space,Futuron,1989,Laser Ranger,1,41,,2,,,https://images.brickset.com/sets/images/6810-1.jpg,1916,473
+3645,6831,1,Space,Space Police,1989,Message Decoder,1,34,,3,,,https://images.brickset.com/sets/images/6831-1.jpg,3236,561
+3661,6850,1,Space,Futuron,1989,Auxiliary Patroller,1,46,,,,,https://images.brickset.com/sets/images/6850-1.jpg,2084,504
+3684,6886,1,Space,Space Police,1989,Galactic Peace Keeper,2,121,,12,,,https://images.brickset.com/sets/images/6886-1.jpg,3457,797
+3692,6895,1,Space,Space Police,1989,Spy Trak 1,2,148,,15,,,https://images.brickset.com/sets/images/6895-1.jpg,2321,752
+3730,6955,1,Space,Space Police,1989,Space Lock-Up Isolation Base,3,253,,26,,,https://images.brickset.com/sets/images/6955-1.jpg,776,1048
+3754,6986,1,Space,Space Police,1989,Mission Commander,3,478,,50,,,https://images.brickset.com/sets/images/6986-1.jpg,1299,1252
+4100,8024,1,Technic,Universal,1989,Universal Set,,113,,,,,https://images.brickset.com/sets/images/8024-1.jpg,1799,170
+4104,8034,1,Technic,Universal,1989,Universal Set,,187,,,,,https://images.brickset.com/sets/images/8034-1.jpg,1088,191
+4109,8044,1,Technic,Universal,1989,Universal Pneumatic Set,,198,,,,,https://images.brickset.com/sets/images/8044-1.jpg,1317,237
+4112,8054,1,Technic,Universal,1989,Universal Motor Set,,196,,,,,https://images.brickset.com/sets/images/8054-1.jpg,368,198
+4477,8835,1,Technic,,1989,Forklift,,240,,,,,https://images.brickset.com/sets/images/8835-1.jpg,1355,236
+4497,8854,1,Technic,,1989,Power Crane,,516,,,,,https://images.brickset.com/sets/images/8854-1.jpg,1088,342
+4507,8862,1,Technic,,1989,Backhoe Grader,,671,,,,,https://images.brickset.com/sets/images/8862-1.jpg,1805,618
+22626,9154,1,Dacta,Duplo,1989,Bridge and rails,,32,,,,,https://images.brickset.com/sets/images/9154-1.jpg,16,26
