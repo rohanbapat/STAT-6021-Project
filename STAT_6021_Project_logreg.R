@@ -72,7 +72,7 @@ set_themes_merge2 <- merge(sets_themes_merge, price_df, by=c('set_name', 'year')
 set_themes_merge2 <- subset(set_themes_merge2, select=-c(num_parts.y, sub_theme.y))
 # rename the columns that got changed
 colnames(set_themes_merge2 )[colnames(set_themes_merge2 ) == "num_parts.x"] <- "num_parts"
-colnames(set_themes_merge2 )[colnames(set_themes_merge2 ) == "sub_theme.y"] <- "sub_theme"
+colnames(set_themes_merge2 )[colnames(set_themes_merge2 ) == "sub_theme.x"] <- "sub_theme"
 
 # 6. Merge inventories with inventorysets on (id, set_num)<>(inventory_id, set_num)
 inventories_invset_merge <- merge(x = inventories_df, y = inventorysets_df, by.x = c("id","set_num"), by.y = c("inventory_id","set_num"), all = TRUE)
@@ -88,6 +88,8 @@ master_df_final <- master_df2[!(is.na(master_df2$set_num)), ]
 
 
 ####### Couple of Log Reg Approaches to predicting certain themes #########
+library(lmtest)
+library(pROC)
 
 #look at the possible themes to look at 
 unique(set_themes_merge2$theme_name)
@@ -113,4 +115,96 @@ for (i in 1:nrow(sw_master)){
     sw_master$sw[i] <- 0
   }
 }
+
+#Update types
+sapply(sw_master, typeof)
+sw_master$theme_name <- as.factor(sw_master$theme_name)
+sw_master$sub_theme_id <- as.factor(sw_master$sub_theme_id)
+sw_master$set_name <- as.factor(sw_master$set_name)
+sw_master$sub_theme_id <- as.factor(sw_master$sub_theme_id)
+sw_master$set_num <- as.factor(sw_master$set_num)
+sw_master$theme_id <- as.factor(sw_master$theme_id)
+sw_master$sw <- as.factor(sw_master$sw)
+
+colnames(sw_master)[colnames(sw_master) == "sub_theme.x"] <- "sub_theme"
+sw_master$sub_theme <- as.factor(sw_master$sub_theme)
+
+# drop the sub theme id, theme and theme id for model building
+sw_master2 <- subset(sw_master, select=-c(sub_theme, theme_id, theme_name))
+
+## randomly split the data to create training and testing sets
+sw_train = sample(1:nrow(sw_master2), nrow(sw_master2) * .75)
+sw.train <- sw_master2[sw_train, ]
+sw.test <- sw_master2[-sw_train, ]
+
+
+#basic model
+sw.glm <- glm(sw~ year + sub_theme_id + num_parts + USPrice, data=sw.train, family=binomial)
+summary(sw.glm)
+# subtheme id definitely not sinificant used this way, try model without it
+sw.glm <- glm(sw~ year + num_parts + USPrice, data=sw.train, family=binomial)
+summary(sw.glm)
+#Coefficients:
+ # Estimate Std. Error z value Pr(>|z|)    
+#(Intercept) -1.165e+02  2.256e+01  -5.163 2.44e-07 ***
+#  year         5.657e-02  1.122e-02   5.042 4.62e-07 ***
+#  num_parts    6.094e-04  2.261e-04   2.696  0.00703 ** 
+#  USPrice      7.735e-04  2.062e-03   0.375  0.70758    
+
+#Null deviance: 1690.2  on 3269  degrees of freedom
+#Residual deviance: 1624.6  on 3266  degrees of freedom
+#AIC: 1632.6
+# year and the number of parts are definitely the most significant 
+
+## assess the model based on deviance
+1-pchisq(1624.6, df=3266)
+#[1] 1
+# probably not the most predictive model
+
+## Predict the probability of success
+options(scipen=999)
+sw.pred <- predict(sw.glm, type="response")
+
+## Assess deviance residuals and influential point measures
+sw.resid <- residuals(sw.glm, type="deviance")
+plot(sw.pred,sw.resid)
+# plot shows two distinct groups. There are so outlying points
+
+summary(influence.measures(sw.glm))
+# there are a significant number of points showing statistically influential points via DFFITS
+
+# check the ROC curve - it does not look encouraging 
+sw.train$prob <- sw.pred
+sw.roc <- roc(sw ~ prob, data = sw.train)
+plot(sw.roc) 
+
+## try again the test set
+sw.predvect=predict(sw.glm, newdata = sw.test, type="response" ) 
+sw.predvect<- ifelse(sw.predvect> 0.7,1,0)
+misClasificError <- mean(sw.predvect != sw.test$sw)
+misClasificError
+#[1] 0.07155963
+
+## prediction far better than expected. 
+
+
+### Logistic Regression to find any theme related to movies
+## create dummy var for the movie themed legos
+unique(set_themes_merge2$theme_name)
+sw_movie <- set_themes_merge2
+for (i in 1:nrow(sw_movie)){
+  if (sw_movie$theme_name[i] == 'Star Wars'| sw_movie$theme_name[i] == 'SpongeBob SquarePants'| sw_movie$theme_name[i] == 'Avatar The Last Airbender'|sw_movie$theme_name[i] == 'Toy Story'
+      |sw_movie$theme_name[i] == 'The Hobbit' | sw_movie$theme_name[i] == 'Disney'|sw_movie$theme_name[i] == 'Marvel Super Heroes'|sw_movie$theme_name[i] == 'Harry Potter'
+      |sw_movie$theme_name[i] == 'DC Comics Super Heroes'|sw_movie$theme_name[i] == 'Batman'|sw_movie$theme_name[i] == 'The LEGO Batman Movie'|sw_movie$theme_name[i] == 'The LEGO Movie'
+      |sw_movie$theme_name[i] == 'DC Super Hero Girls'|sw_movie$theme_name[i] == 'The Lord of the Rings'|sw_movie$theme_name[i] == 'Prince of Persia'|sw_movie$theme_name[i] == 'Teenage Mutant Ninja Turtles'
+      |sw_movie$theme_name[i] == 'The Angry Birds Movie'|sw_movie$theme_name[i] == 'The Lone Ranger'|sw_movie$theme_name[i] == 'Indiana Jones'
+      |sw_movie$theme_name[i] == 'The LEGO Ninjago Movie'|sw_movie$theme_name[i] == 'Jurassic World'|sw_movie$theme_name[i] == 'Spider-Man'|sw_movie$theme_name[i] == 'Pirates of the Caribbean'
+      |sw_movie$theme_name[i] == 'Scooby-Doo'|sw_movie$theme_name[i] == 'Mickey Mouse'|sw_movie$theme_name[i] == 'The Simpsons'){
+    sw_movie$movie[i] <- 1
+  }
+  else {
+    sw_movie$movie[i] <- 0
+  }
+}
+
 
