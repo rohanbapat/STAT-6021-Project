@@ -189,22 +189,117 @@ misClasificError
 
 
 ### Logistic Regression to find any theme related to movies
+## the idea here is that the movie themes have different characteristics than the classic lego sets
 ## create dummy var for the movie themed legos
 unique(set_themes_merge2$theme_name)
-sw_movie <- set_themes_merge2
-for (i in 1:nrow(sw_movie)){
-  if (sw_movie$theme_name[i] == 'Star Wars'| sw_movie$theme_name[i] == 'SpongeBob SquarePants'| sw_movie$theme_name[i] == 'Avatar The Last Airbender'|sw_movie$theme_name[i] == 'Toy Story'
-      |sw_movie$theme_name[i] == 'The Hobbit' | sw_movie$theme_name[i] == 'Disney'|sw_movie$theme_name[i] == 'Marvel Super Heroes'|sw_movie$theme_name[i] == 'Harry Potter'
-      |sw_movie$theme_name[i] == 'DC Comics Super Heroes'|sw_movie$theme_name[i] == 'Batman'|sw_movie$theme_name[i] == 'The LEGO Batman Movie'|sw_movie$theme_name[i] == 'The LEGO Movie'
-      |sw_movie$theme_name[i] == 'DC Super Hero Girls'|sw_movie$theme_name[i] == 'The Lord of the Rings'|sw_movie$theme_name[i] == 'Prince of Persia'|sw_movie$theme_name[i] == 'Teenage Mutant Ninja Turtles'
-      |sw_movie$theme_name[i] == 'The Angry Birds Movie'|sw_movie$theme_name[i] == 'The Lone Ranger'|sw_movie$theme_name[i] == 'Indiana Jones'
-      |sw_movie$theme_name[i] == 'The LEGO Ninjago Movie'|sw_movie$theme_name[i] == 'Jurassic World'|sw_movie$theme_name[i] == 'Spider-Man'|sw_movie$theme_name[i] == 'Pirates of the Caribbean'
-      |sw_movie$theme_name[i] == 'Scooby-Doo'|sw_movie$theme_name[i] == 'Mickey Mouse'|sw_movie$theme_name[i] == 'The Simpsons'){
-    sw_movie$movie[i] <- 1
+lego_movie <- set_themes_merge2
+for (i in 1:nrow(lego_movie)){
+  if (lego_movie$theme_name[i] == 'Star Wars'| lego_movie$theme_name[i] == 'SpongeBob SquarePants'| lego_movie$theme_name[i] == 'Avatar The Last Airbender'|lego_movie$theme_name[i] == 'Toy Story'
+      |lego_movie$theme_name[i] == 'The Hobbit' | lego_movie$theme_name[i] == 'Disney'|lego_movie$theme_name[i] == 'Marvel Super Heroes'|lego_movie$theme_name[i] == 'Harry Potter'
+      |lego_movie$theme_name[i] == 'DC Comics Super Heroes'|lego_movie$theme_name[i] == 'Batman'|lego_movie$theme_name[i] == 'The LEGO Batman Movie'|lego_movie$theme_name[i] == 'The LEGO Movie'
+      |lego_movie$theme_name[i] == 'DC Super Hero Girls'|lego_movie$theme_name[i] == 'The Lord of the Rings'|lego_movie$theme_name[i] == 'Prince of Persia'|lego_movie$theme_name[i] == 'Teenage Mutant Ninja Turtles'
+      |lego_movie$theme_name[i] == 'The Angry Birds Movie'|lego_movie$theme_name[i] == 'The Lone Ranger'|lego_movie$theme_name[i] == 'Indiana Jones'
+      |lego_movie$theme_name[i] == 'The LEGO Ninjago Movie'|lego_movie$theme_name[i] == 'Jurassic World'|lego_movie$theme_name[i] == 'Spider-Man'|lego_movie$theme_name[i] == 'Pirates of the Caribbean'
+      |lego_movie$theme_name[i] == 'Scooby-Doo'|lego_movie$theme_name[i] == 'Mickey Mouse'|lego_movie$theme_name[i] == 'The Simpsons'){
+    lego_movie$movie[i] <- 1
   }
   else {
-    sw_movie$movie[i] <- 0
+    lego_movie$movie[i] <- 0
   }
 }
 
+#Update data types
+sapply(lego_movie, typeof)
+lego_movie$theme_name <- as.factor(lego_movie$theme_name)
+lego_movie$sub_theme_id <- as.factor(lego_movier$sub_theme_id)
+lego_movie$set_name <- as.factor(lego_movie$set_name)
+lego_movie$sub_theme_id <- as.factor(lego_movie$sub_theme_id)
+lego_movie$set_num <- as.factor(lego_movie$set_num)
+lego_movie$theme_id <- as.factor(lego_movie$theme_id)
+lego_movie$movie <- as.factor(lego_movie$movie)
+lego_movie$sub_theme <- as.factor(lego_movie$sub_theme)
+
+# drop the sub theme id, theme and theme id for model building
+lego_movie2 <- subset(lego_movie, select=-c(sub_theme, theme_id, theme_name))
+
+## randomly split the data to create training and testing sets
+set.seed(17)
+movie_train = sample(1:nrow(lego_movie2), nrow(lego_movie2) * .75)
+movie.train <- lego_movie2[movie_train, ]
+movie.test <- lego_movie2[-movie_train, ]
+movie.train <- subset(movie.train, select=-c(set_name))
+
+movie.glm <- glm(movie~., data=movie.train, family=binomial)
+summary(movie.glm)
+#including subtheme_id was a bad choice. It created unnecessary complexity and did not improve the model at all. 
+#Null deviance: 2699.507634814845  on 3269  degrees of freedom
+#Residual deviance:    0.000000017802  on   58  degrees of freedom
+#AIC: 6424
+
+## Assess goodness-of-fit using deviance 
+1-pchisq(0.000000017802 , df=58)
+#1
+
+## Test variables using the likelihood ratio test
+movie.glm.red <- glm(movie~.-sub_theme_id, data=movie.train, family=binomial)
+lrtest(movie.glm, movie.glm.red)
+#second model looks better but not by much
+
+#not trying the iterative approach as there are few explanatory variables and the two previous models have indicated focusing on 
+#year, num_parts and price
+
+movie.glm2 <- glm(movie~ num_parts+ year + USPrice, data=movie.train, family=binomial)
+summary(movie.glm2)
+#Estimate   Std. Error z value            Pr(>|z|)    
+#(Intercept) -166.9604980   17.7714604  -9.395 <0.0000000000000002 ***
+#  num_parts      0.0005147    0.0002141   2.404              0.0162 *  
+#  year           0.0821107    0.0088386   9.290 <0.0000000000000002 ***
+#  USPrice        0.0008225    0.0021337   0.385              0.6999    
+#Null deviance: 2699.5  on 3269  degrees of freedom
+#Residual deviance: 2550.4  on 3266  degrees of freedom
+#AIC: 2558.4
+
+### Again, number of parts and year are the most significant
+
+## assess goodness of fit using deviance
+1-pchisq(2550.4 , df=3266)
+#1
+
+## compare with a model that excludes price - there appears to be some colinearity between price and number of parts, which makes sense
+#however, the deviance wasn't vastly improved by the removal of price so we will continue to use the model that includes it. 
+movie.glm3 <- glm(movie~ num_parts+ year , data=movie.train, family=binomial)
+summary(movie.glm3)
+#Coefficients:
+#  Estimate   Std. Error z value             Pr(>|z|)    
+#(Intercept) -167.0586031   17.7696839  -9.401 < 0.0000000000000002 ***
+#  num_parts      0.0005861    0.0001075   5.454         0.0000000493 ***
+#  year           0.0821630    0.0088376   9.297 < 0.0000000000000002 ***#
+#Null deviance: 2699.5  on 3269  degrees of freedom
+#Residual deviance: 2550.5  on 3267  degrees of freedom
+#AIC: 2556.5
+
+## Predict the probability of success
+options(scipen=999)
+movie.pred <- predict(movie.glm2, type="response")
+
+## Assess deviance residuals and influential point measures
+movie.resid <- residuals(movie.glm2, type="deviance")
+plot(movie.pred,movie.resid)
+# plot shows two distinct groups. Overall looks good but not a perfect predicitor
+
+summary(influence.measures(movie.glm2))
+# there are a few  points showing statistically influential points via DFFITS. There are also some significance in the hat matrix, which
+#aligns with the suspected colinearity. 
+
+# check the ROC curve -  No terrible. Is an improvement over random guess. 
+movie.train$prob <- movie.pred
+movie.roc <- roc(movie ~ prob, data = movie.train)
+plot(movie.roc) 
+
+## try against the test set
+movie.predvect=predict(movie.glm2, newdata = movie.test, type="response" ) 
+movie.predvect<- ifelse(movie.predvect> 0.5,1,0)
+misClasificError_movie <- mean(movie.predvect != movie.test$movie)
+misClasificError_movie
+#0.146789
 
