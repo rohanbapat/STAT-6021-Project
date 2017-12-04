@@ -104,28 +104,20 @@ cat <- c("inventory_id","color_id", "is_spare", "color_name" ,"rgb","is_trans","
 
 master_df_final[cat] <- lapply(master_df_final[cat], as.factor)
 
-
 ###### 2. Data Partition and Data Cleaning  #############
+#Dropping unwanted columns
+master_wanted <- subset(master_df_final, select = -c(color_id,rgb,sub_theme_id,inventory_id, part_cat_id, theme_id,inventorysets_quantity))
+
+#Check for NA
+na_count <-data.frame(sapply(master_wanted, function(y) sum(length(which(is.na(y))))))
+
+#Remove all NAs
+master_wanted <- master_wanted[complete.cases(master_wanted), ]
+
+set.seed(1)
 sam <- sample(357281, 357281/2, replace =F)
-train <- master_df_final[sam, ]
-test <- master_df_final[-sam, ]
-
-# Data Cleaning
-
-na_count_train <-data.frame(sapply(train, function(y) sum(length(which(is.na(y))))))
-
-train <- train[!is.na(train$version),]
-train <- train[!is.na(train$is_trans),]
-train <- train[!is.na(train$partcat_name),]
-
-#Cleaning Test data
-
-na_count_test <-data.frame(sapply(test, function(y) sum(length(which(is.na(y))))))
-
-test <- test[!is.na(test$version),]
-test <- test[!is.na(test$is_trans),]
-test <- test[!is.na(test$partcat_name),]
-
+train <- master_wanted[sam, ]
+test <- master_wanted[-sam, ]
 
 ##Remove new levels in theme_name between test and train
 te1 <-unique(test$theme_name)
@@ -178,10 +170,6 @@ train <- train[!train$year==c("1964","1966"),]
 dim(test)
 dim(train)
 
-#remove NAs in USPrice
-train <- train[!is.na(train$USPrice),]
-
-
 ###### 3. Variable Selection #############
 
 library(leaps)
@@ -201,18 +189,10 @@ library(leaps)
 #Data Exploration and Variable Selection
 train <- subset(train, train$USPrice < 350)
 
-plot(train$USPrice ~ train$year)    #have high related positive relationship
-plot(train$USPrice ~ train$is_trans) # maybe related, not much, negative
-plot(train$USPrice ~ train$version)  #related 1, or 2, positive
+plot(USPrice~year+is_trans+version+theme_name+sub_theme.x+partcat_name+is_spare+rgb+color_name, data = train)
 
-plot(train$USPrice ~ train$theme_name) #related, top theme_name
-plot(train$USPrice ~ train$sub_theme.x) #related, top sub_theme.x 
-plot(train$USPrice ~ train$partcat_name) #maybe some, top partcat_name
-
-plot(train$USPrice ~ train$is_spare)  #not related
-plot(train$USPrice ~ train$rgb)       #no big association
-plot(train$USPrice ~ train$color_name) #no big association
-
+#Year seems to have a high related positive relationship
+#version - related 1, or 2, positive
 
     ## Variable Selection:
 
@@ -224,18 +204,24 @@ plot(train$USPrice ~ train$color_name) #no big association
     ## 6 Variables: year, version, in_trans, theme_name, sub_theme.x, partcat_nam, 
     ## which have high association with USPrice, are selected as predictors for modeling.
 
-
-
 ###### 4. Fit Linear Regression Models #############
 
 #1. Build linear model using year variable
+
 
 pricey.lm <-lm(USPrice ~ year, data = train)
 summary(pricey.lm) 
       # By year is significant
 
+null_model <- lm(USPrice~1, data = train)
 
-#2. Built linear regression model using the following 6 variables
+full_model <- lm(USPrice~., data = train)
+
+## Stepwise selection
+step(null_model,scope = list(lower=null_model, upper=full_model), direction="forward")
+
+
+#2. Built linear regression model using the following 6 variables based on step wise selection
 price.lm <- lm(USPrice~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, data = train)
 summary(price.lm)
 
@@ -384,9 +370,6 @@ mse
 
 
 # 4. The top 10 Part Name ("partcat_name") with highest price ("USPrice")
-
-
-
 
 
 
