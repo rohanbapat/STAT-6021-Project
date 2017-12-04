@@ -133,6 +133,7 @@ sw_master$sub_theme <- as.factor(sw_master$sub_theme)
 sw_master2 <- subset(sw_master, select=-c(sub_theme, theme_id, theme_name))
 
 ## randomly split the data to create training and testing sets
+set.seed(19)
 sw_train = sample(1:nrow(sw_master2), nrow(sw_master2) * .75)
 sw.train <- sw_master2[sw_train, ]
 sw.test <- sw_master2[-sw_train, ]
@@ -144,20 +145,24 @@ summary(sw.glm)
 # subtheme id definitely not sinificant used this way, try model without it
 sw.glm <- glm(sw~ year + num_parts + USPrice, data=sw.train, family=binomial)
 summary(sw.glm)
-#Coefficients:
- # Estimate Std. Error z value Pr(>|z|)    
-#(Intercept) -1.165e+02  2.256e+01  -5.163 2.44e-07 ***
-#  year         5.657e-02  1.122e-02   5.042 4.62e-07 ***
-#  num_parts    6.094e-04  2.261e-04   2.696  0.00703 ** 
-#  USPrice      7.735e-04  2.062e-03   0.375  0.70758    
+#Deviance Residuals: 
+#  Min       1Q   Median       3Q      Max  
+#-1.2542  -0.4173  -0.3598  -0.2733   2.6084  
 
-#Null deviance: 1690.2  on 3269  degrees of freedom
-#Residual deviance: 1624.6  on 3266  degrees of freedom
-#AIC: 1632.6
+#Coefficients:
+#  Estimate   Std. Error z value     Pr(>|z|)    
+#(Intercept) -124.2536099   21.8165813  -5.695 0.0000000123 ***
+#  year           0.0604580    0.0108537   5.570 0.0000000254 ***
+#  num_parts      0.0004578    0.0002139   2.140       0.0323 *  
+#  USPrice        0.0010714    0.0020575   0.521       0.6025    
+
+#Null deviance: 1672.9  on 3364  degrees of freedom
+#Residual deviance: 1609.1  on 3361  degrees of freedom
+#AIC: 1617.1
 # year and the number of parts are definitely the most significant 
 
 ## assess the model based on deviance
-1-pchisq(1624.6, df=3266)
+1-pchisq(1672.9, df=3361)
 #[1] 1
 # probably not the most predictive model
 
@@ -183,7 +188,7 @@ sw.predvect=predict(sw.glm, newdata = sw.test, type="response" )
 sw.predvect<- ifelse(sw.predvect> 0.7,1,0)
 misClasificError <- mean(sw.predvect != sw.test$sw)
 misClasificError
-#[1] 0.07155963
+#[1] 0.07486631
 
 ## prediction far better than expected. 
 
@@ -232,9 +237,9 @@ movie.train <- subset(movie.train, select=-c(set_name))
 movie.glm <- glm(movie~., data=movie.train, family=binomial)
 summary(movie.glm)
 #including subtheme_id was a bad choice. It created unnecessary complexity and did not improve the model at all. 
-#Null deviance: 2699.507634814845  on 3269  degrees of freedom
-#Residual deviance:    0.000000017802  on   58  degrees of freedom
-#AIC: 6424
+#Null deviance: 2706.823902697652  on 3364  degrees of freedom
+#Residual deviance:    0.000000022146  on   59  degrees of freedom
+#AIC: 6612
 
 ## Assess goodness-of-fit using deviance 
 1-pchisq(0.000000017802 , df=58)
@@ -250,14 +255,19 @@ lrtest(movie.glm, movie.glm.red)
 
 movie.glm2 <- glm(movie~ num_parts+ year + USPrice, data=movie.train, family=binomial)
 summary(movie.glm2)
-#Estimate   Std. Error z value            Pr(>|z|)    
-#(Intercept) -166.9604980   17.7714604  -9.395 <0.0000000000000002 ***
-#  num_parts      0.0005147    0.0002141   2.404              0.0162 *  
-#  year           0.0821107    0.0088386   9.290 <0.0000000000000002 ***
-#  USPrice        0.0008225    0.0021337   0.385              0.6999    
-#Null deviance: 2699.5  on 3269  degrees of freedom
-#Residual deviance: 2550.4  on 3266  degrees of freedom
-#AIC: 2558.4
+#Deviance Residuals: 
+#  Min       1Q   Median       3Q      Max  
+#-1.6936  -0.6225  -0.4852  -0.3126   2.4127  
+
+#Coefficients:
+#  Estimate   Std. Error z value             Pr(>|z|)    
+#(Intercept) -174.9453952   17.4839565 -10.006 < 0.0000000000000002 ***
+#  num_parts      0.0005622    0.0001950   2.883              0.00394 ** 
+#  year           0.0860753    0.0086955   9.899 < 0.0000000000000002 ***
+#  USPrice       -0.0002033    0.0019099  -0.106              0.91523    
+#Null deviance: 2706.8  on 3364  degrees of freedom
+#Residual deviance: 2535.0  on 3361  degrees of freedom
+#AIC: 2543
 
 ### Again, number of parts and year are the most significant
 
@@ -269,14 +279,18 @@ summary(movie.glm2)
 #however, the deviance wasn't vastly improved by the removal of price so we will continue to use the model that includes it. 
 movie.glm3 <- glm(movie~ num_parts+ year , data=movie.train, family=binomial)
 summary(movie.glm3)
+#Deviance Residuals: 
+#  Min       1Q   Median       3Q      Max  
+#-1.6727  -0.6227  -0.4848  -0.3127   2.4131  
+
 #Coefficients:
-#  Estimate   Std. Error z value             Pr(>|z|)    
-#(Intercept) -167.0586031   17.7696839  -9.401 < 0.0000000000000002 ***
-#  num_parts      0.0005861    0.0001075   5.454         0.0000000493 ***
-#  year           0.0821630    0.0088376   9.297 < 0.0000000000000002 ***#
-#Null deviance: 2699.5  on 3269  degrees of freedom
-#Residual deviance: 2550.5  on 3267  degrees of freedom
-#AIC: 2556.5
+#  Estimate    Std. Error z value             Pr(>|z|)    
+#(Intercept) -174.90818232   17.47966730 -10.006 < 0.0000000000000002 ***
+#  num_parts      0.00054431    0.00009947   5.472         0.0000000445 ***
+#  year           0.08605593    0.00869324   9.899 < 0.0000000000000002 ***
+#Null deviance: 2706.8  on 3364  degrees of freedom
+#Residual deviance: 2535.0  on 3362  degrees of freedom
+#AIC: 2541
 
 ## Predict the probability of success
 options(scipen=999)
@@ -301,5 +315,5 @@ movie.predvect=predict(movie.glm2, newdata = movie.test, type="response" )
 movie.predvect<- ifelse(movie.predvect> 0.5,1,0)
 misClasificError_movie <- mean(movie.predvect != movie.test$movie)
 misClasificError_movie
-#0.146789
+#0.1461676
 
