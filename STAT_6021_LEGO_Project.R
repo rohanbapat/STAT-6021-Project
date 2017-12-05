@@ -178,6 +178,18 @@ dim(test)
 dim(train)
 
 ###### 3. Data Exploration ######
+
+# Average Price per Theme
+
+#look at overall summary of the Prices
+summary(set_themes_merge2$USPrice)
+#Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#0.00    7.00   16.50   29.42   38.00  789.99 
+
+#too many themes to be overly helpful
+ggplot(set_themes_merge2, aes(x=factor(theme_name), y=USPrice)) + stat_summary(fun.y="mean", geom="bar")
+
+
 ###### 4. Variable Selection #############
 
 library(leaps)
