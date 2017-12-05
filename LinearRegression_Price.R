@@ -1,6 +1,3 @@
-
-install.packages("RCurl")
-
 library(RCurl)
 library(readr)
 library(dplyr)
@@ -92,14 +89,14 @@ master_df_final <- master_df2[!(is.na(master_df2$set_num)), ]
 dim(master_df_final)
 str(master_df_final)
 
-#Convert respective columsn to factor/numeric
+#Convert respective columns to factor/numeric
 colnames(master_df_final)
 num <- c("num_parts","inventorypart_quantity","inventorysets_quantity","part_num","year","USPrice")
 
 master_df_final[num] <- lapply(master_df_final[num], as.numeric)
 
-cat <- c("inventory_id","color_id", "is_spare", "color_name" ,"rgb","is_trans","part_name","partcat_name",
-         "set_num","version","set_name","sub_theme_id", "sub_theme.x","theme_id",              
+cat <- c("is_spare", "color_name","is_trans","part_name","partcat_name",
+         "set_num","version","set_name", "sub_theme.x",              
          "theme_name")
 
 master_df_final[cat] <- lapply(master_df_final[cat], as.factor)
@@ -111,6 +108,8 @@ master_wanted <- subset(master_df_final, select = -c(color_id,rgb,sub_theme_id,i
 #Check for NA
 na_count <-data.frame(sapply(master_wanted, function(y) sum(length(which(is.na(y))))))
 
+#Remove 0 Price values
+master_wanted <- master_wanted[!master_wanted$USPrice==0,]
 #Remove all NAs
 master_wanted <- master_wanted[complete.cases(master_wanted), ]
 
@@ -128,11 +127,8 @@ tr1[!(te1 %in% tr1)]
 
 dim(test)
 test <- test[!test$theme_name=="Power Functions",]
-test <- test[!test$theme_name=="Dinosaurs",]
-train <- train[!train$theme_name=="Power Functions",]
-train <- train[!train$theme_name=="Dinosaurs",]
-dim(test)
-dim(train)
+test <- test[!test$theme_name=="Dinasours",]
+train <- train[!train$theme_name==c("Power Functions","Dinosaurs"),]
 
 #Remove new levels in sub_theme.x between test and train
 se1 <-unique(test$sub_theme.x)
@@ -141,10 +137,13 @@ sr1<-unique(train$sub_theme.x)
 se1[!(se1 %in% sr1)]
 sr1[!(se1 %in% sr1)]
 
+train <- train[!train$sub_theme.x==c("Master Building Academy","Fusion"),]
+
 test <- test[!test$sub_theme.x=="Master Building Academy",]
 test <- test[!test$sub_theme.x=="Fusion",]
-train <- train[!train$sub_theme.x=="Master Building Academy",]
-train <- train[!train$sub_theme.x=="Fusion",]
+test <- test[!test$sub_theme.x == "The Lord of the Rings",]
+test <- test[!test$sub_theme.x == "Marvel Super Heroes" ,]
+
 dim(test)
 dim(train)
 
@@ -174,6 +173,17 @@ dim(train)
 
 library(leaps)
 
+#Data Exploration and Variable Selection
+
+plot(USPrice~year+is_trans+version+theme_name+sub_theme.x+partcat_name+is_spare+color_name, data = train)
+
+#Year seems to have a high related positive relationship
+#version - related 1, or 2, positive
+
+###### 4. Fit Linear Regression Models #############
+
+#1. Build linear model using year variable
+
 # s.null <- lm(USPrice~1, data=train)
 # s.full <- lm(USPrice~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, 
 #              data = train)
@@ -181,83 +191,31 @@ library(leaps)
 # Stepwise selection
 # step(s.null, scope=list(lower=s.null, upper=s.full), direction="both")
 
-     #I tried to do stepwise variable selection. But because there are too many factor variables 
-     #and too many levels in each factor variable, it is hard to run.
-     #So I decided to select variable in the following ways.
+## Variable Selection:
 
+## part_num, part_name, set_num, set_num, and num_part have thousands levels, not good for modeling
+## color_name, rgb, is_spares are not related much with USPrice.
 
-#Data Exploration and Variable Selection
-train <- subset(train, train$USPrice < 350)
+## Therefore,
+## 6 Variables: year, version, in_trans, theme_name, sub_theme.x, partcat_nam, 
+## which have high association with USPrice, are selected as predictors for modeling.
 
-plot(USPrice~year+is_trans+version+theme_name+sub_theme.x+partcat_name+is_spare+rgb+color_name, data = train)
-
-#Year seems to have a high related positive relationship
-#version - related 1, or 2, positive
-
-    ## Variable Selection:
-
-    ## inventary_id, theme_id, part_cat_id, sub_theme_id, color_id are not good variables for modeling.
-    ## part_num, part_name, set_num, set_num, and num_part have thousands levels, not good for modeling
-    ## color_name, rgb, is_spares are not related much with USPrice.
-
-    ## Therefore,
-    ## 6 Variables: year, version, in_trans, theme_name, sub_theme.x, partcat_nam, 
-    ## which have high association with USPrice, are selected as predictors for modeling.
-
-###### 4. Fit Linear Regression Models #############
-
-#1. Build linear model using year variable
-
-
-pricey.lm <-lm(USPrice ~ year, data = train)
-summary(pricey.lm) 
-      # By year is significant
-
-null_model <- lm(USPrice~1, data = train)
-
-full_model <- lm(USPrice~., data = train)
-
-## Stepwise selection
-step(null_model,scope = list(lower=null_model, upper=full_model), direction="forward")
-
-
-#2. Built linear regression model using the following 6 variables based on step wise selection
-price.lm <- lm(USPrice~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, data = train)
-summary(price.lm)
-
-     # All 6 variables year, version, is_trans, partcat_name, theme_name, sub_theme.x are significant.
-
-
-###### 4. Cross Validation: K=5 #############
-
-library(boot)
+library(MASS)
 set.seed(123)
 
+#2. Built linear regression model using the following 6 variables based on step wise selection
+
 #Check the full model
-price.lm <- glm(USPrice~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, data = train)
-cv.error = cv.glm(train, price.lm, K=5)
-cv.error$delata[1]
-   ## problem with CV, maybe because too many levels in each factor variables
-   ## error message: prediction from a rank-deficient fit may be misleading
+price.lm <- lm(USPrice~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, data = train,x = TRUE, y = TRUE)
+summary(price.lm)
 
-#Check the USPrice~year Model
-cv.error1 <- cv.glm(train, pricey.lm, K=5)
-cv.error1$delta
-   ## error message: prediction from a rank-deficient fit may be misleading
-
-#Calculate mean squared errro of the model
-mse <- mean(train$USPrice - yhat)^2
-mse  
-    ##[1] 6.495178e-22
-  
-  
 ###### 5. Check Model Accuracy  #############
 
 # Normal Probability Plot
 
 qqnorm(rstudent(price.lm))
 qqline(rstudent(price.lm))
-     ## The plot shows a linear pattern in general, although some fat tail at right-upper end.
+## The plot shows a linear pattern in general, although some fat tail at right-upper end.
 
 
 #Residual plot vs. fitted values
@@ -266,112 +224,84 @@ yhat <- fitted(price.lm)
 plot(yhat,ti)
 abline(h=0)
 
-     ## Plot shows balanced residual distribution.
+## Plot shows balanced residual distribution.
 
 
 ###### 6. Transformation  ############# 
 
-library(MASS)
-train0 <- train[!train$USPrice==0,]
-price0.lm <- glm(USPrice~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, data = train0)
-
-out <- boxcox(price0.lm)
+out <- boxcox(price.lm)
 range(out$x[out$y > max(out$y)-qchisq(0.95,1)/2])
-     ## alpha = 0.18
+     ## alpha = 0.14
      ## Try log transfomation of y response
 
 #Log transformation of response variable
 
-summary(train0$USPrice) 
-summary(log10(train0$USPrice))
+summary(train$USPrice) 
+summary(log10(train$USPrice))
 
-train0$USPrice_trans <- log(train0$USPrice)
+train$USPrice_trans <- log(train$USPrice)
 
 
 #Run linear regression again
-price0_trans.lm <- glm(USPrice_trans~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, data = train0)
+price_trans.lm <- lm(USPrice_trans~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, data = train, x =T, y =T)
 
 # Normal Probability Plot
 
-qqnorm(rstudent(price0_trans.lm))
-qqline(rstudent(price0_trans.lm))
+qqnorm(rstudent(price_trans.lm))
+qqline(rstudent(price_trans.lm))
 
-      ## The plot shows a better linear pattern in general.
+## The plot shows a better linear pattern in general.
 
 
 #Residual plot vs. fitted values
-ti <- rstudent(price0_trans.lm)
-yhat <- fitted(price0_trans.lm)
+ti <- rstudent(price_trans.lm)
+yhat <- fitted(price_trans.lm)
 plot(yhat,ti)
 abline(h=0)
 
-       ## The plot shows the residuals have balanced distributed.
+## The plot shows the residuals have balanced distribution
 
+###### 4. Cross Validation: K=5 #############
+library(lmvar)
+cv.error = cv.lm(price.lm, K=5, max_cores = 4)
+cv.error
+# Mean absolute error              :  28.77336 
+# Sample standard deviation        :  0.2601679 
+# 
+# Mean squared error               :  1877.226 
+# Sample standard deviation        :  58.14435 
+# 
+# Square root of mean squared error:  43.32227 
+# Sample standard deviation        :  0.6726511 
 
-###### 7. Muticollinearity  ##############
+cv.trans.error = cv.lm(price_trans.lm, K=5, max_cores = 4)
+cv.trans.error
 
-#multicollinearity check need to use numeric avariable, since our variables are factors, this doesn't apply here.
- 
-
+# Mean absolute error              :  0.5816995 
+# Sample standard deviation        :  0.00293064 
+# 
+# Mean squared error               :  0.5656086 
+# Sample standard deviation        :  0.005487647 
+# 
+# Square root of mean squared error:  0.7520616 
+# Sample standard deviation        :  0.003647294 
 
 ###### 8. Prediction of Test Data Set  ############# 
 
-#Predict using year predictor variable
-pred1 <- predict(pricey.lm, newdata = test)
-length(pred1)
-
-mse <- mean(test$USPrice - pred1)^2
-mse
-    #[1] 2.189539
-
 #Prediction of USPrice using all 6 variables
-pred <- predict(price0.lm, newdata = test)
+trans_pred <- predict(price_trans.lm, newdata = test)
+length(pred)
+
+trans_mse <- mean(log(test$USPrice) - trans_pred)^2
+
+#[1] 0.0001064955
+
+pred <- predict(price.lm, newdata = test)
 length(pred)
 
 mse <- mean(test$USPrice - pred)^2
 mse
-    #[1] 1.815016
+
+#[1] 0.003365837
 
 #prediction using log-tranformed model
-
-#remove the new level in test
-test <- test[!test$sub_theme.x == "The Lord of the Rings",]
-
-pred0 <- predict(price0_trans.lm, newdata = test)
-    ## error message: prediction from a rank-deficient fit may be misleading
-
-
-###### 9. Summary of the Final Linear Regression Mode  ############# 
-
-# Predictor variables: year, theme_name, sub_theme.x, version, partcat_name, is_trans
-# Response variables: USPrice
-
-# Final linear Regression Model:
-price.lm <- glm(USPrice~ is_trans + partcat_name + theme_name + sub_theme.x + version + year, data = train)
-
-#Prediction of USPrice using all 6 variables:
-pred <- predict(price0.lm, newdata = test)
-mse <- mean(test$USPrice - pred)^2
-mse
-
-#Test MSE is 1.815016
- 
-  
-
-###### 10. ggplot to show the variable relationships with USPrice  ############# 
-
-# 1. Plot to show that Lego Price ("USPrice") increases with Years ("year")
-
-
-# 2. The top 10 Theme Names ("theme_name") with highest price ("USPrice")
-
-
-# 3. The top 10 SUb_Theme names ("sub_theme.x") with highest price ("USPrice")
-
-
-# 4. The top 10 Part Name ("partcat_name") with highest price ("USPrice")
-
-
-
-
-
