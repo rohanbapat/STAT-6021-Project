@@ -179,7 +179,7 @@ dim(train)
 
 ###### 3. Data Exploration ######
 
-# Average Price per Theme
+#-------------- Average Price per Theme
 
 #look at overall summary of the Prices
 summary(set_themes_merge2$USPrice)
@@ -189,6 +189,10 @@ summary(set_themes_merge2$USPrice)
 #too many themes to be overly helpful
 ggplot(set_themes_merge2, aes(x=factor(theme_name), y=USPrice)) + stat_summary(fun.y="mean", geom="bar")
 
+# aggregate in new table
+theme_price <- aggregate( USPrice ~ theme_name, set_themes_merge2, mean )
+top_theme <- subset(theme_price, USPrice >= 75, select = c(theme_name, USPrice))
+ggplot(top_theme, aes(x=factor(theme_name), y=USPrice)) + stat_summary( geom="bar")
 
 ###### 4. Variable Selection #############
 
