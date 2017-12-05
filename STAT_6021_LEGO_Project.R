@@ -212,7 +212,20 @@ subtheme_price <- aggregate( USPrice ~ sub_theme, set_themes_merge2, mean )
 top_subtheme <- subset(subtheme_price, USPrice >= 150, select = c(sub_theme, USPrice))
 ggplot(top_subtheme, aes(x=factor(sub_theme), y=USPrice)) + stat_summary( geom="bar")
 
-#----------- Average Number of Parts per Theme 
+#----------- Average Number of Parts per Theme and most num_parts
+
+set_themes_merge2[order(set_themes_merge2$num_parts), ]
+
+#Taj Mahal	5922
+#Window Exploration Bag	5200
+#Tower Bridge	4295
+#Big Ben	4166
+#Death Star (2016)	4023
+#Assembly Square	4009
+#Bucket Wheel Excavator	3928
+#Death Star (2005)	3807
+#Death Star II	3460
+#Sandcrawler	3294
 
 summary(set_themes_merge2$num_parts)
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
@@ -222,6 +235,9 @@ summary(set_themes_merge2$num_parts)
 theme_parts <- aggregate( num_parts ~ theme_name, set_themes_merge2, mean )
 top_theme_parts <- subset(theme_parts, num_parts >= 700, select = c(theme_name, num_parts))
 ggplot(top_theme_parts, aes(x=factor(theme_name), y=num_parts)) + stat_summary( geom="bar")
+
+
+
 
 #----------- Price vs Num parts
 
