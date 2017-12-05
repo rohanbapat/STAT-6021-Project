@@ -237,9 +237,9 @@ top_theme_parts <- subset(theme_parts, num_parts >= 700, select = c(theme_name, 
 ggplot(top_theme_parts, aes(x=factor(theme_name), y=num_parts)) + stat_summary( geom="bar")
 
 
-
-
 #----------- Price vs Num parts
+
+
 
 ###### 4. Variable Selection #############
 
