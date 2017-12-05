@@ -179,12 +179,25 @@ dim(train)
 
 ###### 3. Data Exploration ######
 
-#-------------- Average Price per Theme
+#--------------  More expensive sets
 
 #look at overall summary of the Prices
 summary(set_themes_merge2$USPrice)
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 #0.00    7.00   16.50   29.42   38.00  789.99 
+
+set_themes_merge2[order(set_themes_merge2$USPrice), ]
+#Identity and Landscape Kit 2013 432 2000430-1 2844 Master Building Academy 432 Serious Play        789.99
+# Connections Kit           2013 432 2000431-1 2448 Master Building Academy 432 Serious Play        754.99
+# Death Star                2016 158 75159-1   4023 Star Wars               158 Star Wars           499.99
+# Window Exploration Bag    2010 507 2000409-1 5200 Educational and Dacta   507 Serious Play        484.99
+# Death Star                2008 174 10188-1   3807 Star Wars Episode 4/5/6 171 Star Wars           399.99
+#Mindstorms EV3             2013 262 31313-1   600  EV3                     258 Mindstorms          349.99
+# The SHIELD Helicarrier    2015 487 76042-1   2995 Avengers                482 Marvel Super Heroes 349.99
+# Sydney Opera House        2013 276 10234-1   2988 Sculptures              276 Advanced Models     319.99
+
+
+#-------------  Average Price per Theme and Subtheme
 
 #too many themes to be overly helpful
 ggplot(set_themes_merge2, aes(x=factor(theme_name), y=USPrice)) + stat_summary(fun.y="mean", geom="bar")
@@ -193,6 +206,18 @@ ggplot(set_themes_merge2, aes(x=factor(theme_name), y=USPrice)) + stat_summary(f
 theme_price <- aggregate( USPrice ~ theme_name, set_themes_merge2, mean )
 top_theme <- subset(theme_price, USPrice >= 75, select = c(theme_name, USPrice))
 ggplot(top_theme, aes(x=factor(theme_name), y=USPrice)) + stat_summary( geom="bar")
+
+# aggregate in new table
+subtheme_price <- aggregate( USPrice ~ sub_theme, set_themes_merge2, mean )
+top_subtheme <- subset(subtheme_price, USPrice >= 150, select = c(sub_theme, USPrice))
+ggplot(top_subtheme, aes(x=factor(sub_theme), y=USPrice)) + stat_summary( geom="bar")
+
+#----------- Average Number of Parts per Theme 
+
+summary(set_themes_merge2$num_parts)
+#Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#0.0    39.0   106.0   245.5   302.5  5922.0 
+
 
 ###### 4. Variable Selection #############
 
