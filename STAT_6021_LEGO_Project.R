@@ -202,12 +202,12 @@ set_themes_merge2[order(set_themes_merge2$USPrice), ]
 #too many themes to be overly helpful
 ggplot(set_themes_merge2, aes(x=factor(theme_name), y=USPrice)) + stat_summary(fun.y="mean", geom="bar")
 
-# aggregate in new table
+# aggregate in new table and plot
 theme_price <- aggregate( USPrice ~ theme_name, set_themes_merge2, mean )
 top_theme <- subset(theme_price, USPrice >= 75, select = c(theme_name, USPrice))
 ggplot(top_theme, aes(x=factor(theme_name), y=USPrice)) + stat_summary( geom="bar")
 
-# aggregate in new table
+# aggregate subthemes in new table and plots
 subtheme_price <- aggregate( USPrice ~ sub_theme, set_themes_merge2, mean )
 top_subtheme <- subset(subtheme_price, USPrice >= 150, select = c(sub_theme, USPrice))
 ggplot(top_subtheme, aes(x=factor(sub_theme), y=USPrice)) + stat_summary( geom="bar")
@@ -218,6 +218,12 @@ summary(set_themes_merge2$num_parts)
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 #0.0    39.0   106.0   245.5   302.5  5922.0 
 
+#theme parts aggregated
+theme_parts <- aggregate( num_parts ~ theme_name, set_themes_merge2, mean )
+top_theme_parts <- subset(theme_parts, num_parts >= 700, select = c(theme_name, num_parts))
+ggplot(top_theme_parts, aes(x=factor(theme_name), y=num_parts)) + stat_summary( geom="bar")
+
+#----------- Price vs Num parts
 
 ###### 4. Variable Selection #############
 
