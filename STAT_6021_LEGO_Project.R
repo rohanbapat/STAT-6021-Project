@@ -179,6 +179,67 @@ dim(train)
 
 ###### 3. Data Exploration ######
 
+# ------------ Number of sets released every year and size of sets
+
+# Remove sets for which number of parts is zero
+sets_df <- sets_df[sets_df['num_parts']>0,]
+
+# Summarize sets by year
+sets_by_year <- sets_df %>% group_by(year) %>% summarise(avg_parts = mean(num_parts), count_sets = length(set_name))
+plot(avg_parts~year, data = sets_by_year, type = 'line')
+
+
+# Plot of average number of parts in a set over the years
+exploratory_plot1 <- 
+  ggplot(sets_by_year,aes(x = year,y = avg_parts)) +
+  geom_point(color = "blue", size = 2) +
+  ggtitle('Plot of average number of parts') +
+  labs(y="Average number of parts", x = "year") + 
+  stat_smooth(method='lm',se = FALSE, color = "grey50")
+
+# Plot of number of lego sets released per year
+exploratory_plot2 <- 
+  ggplot(sets_by_year,aes(x = year,y = count_sets)) + 
+  geom_point(size = 2, color = "orange") +
+  ggtitle('Plot of number of sets released') +
+  labs(y="Total number of sets released", x = "year") + 
+  stat_smooth(method='lm',se = FALSE, color = "grey50")
+
+# Lay both the above plots side by side
+grid.arrange(exploratory_plot1, exploratory_plot2, ncol=2)
+
+
+# ---------------------Change in price over the years
+                             
+price_df <- prices_df[!(is.na(prices_df$num_parts)), ]
+price_df <- price_df[!(is.na(price_df$USPrice)), ]
+inflation_df <- read.csv('inflation_factor.csv')
+price_df['price_per_part'] <- price_df$USPrice/price_df$num_parts
+price_adj_df <- merge(price_df, inflation_df, by = 'year', how = 'all')
+price_adj_df['adj_price'] = price_adj_df$USPrice*price_adj_df$inflation_factor
+price_adj_df['adj_price_per_part'] = price_adj_df$price_per_part*price_adj_df$inflation_factor
+
+# Price per set
+setprice_over_years <- price_adj_df %>% group_by(year) %>% summarise(unadj_price = mean(USPrice),infl_adj_price = mean(adj_price))
+
+
+# Plot price per year without adjusting for inflation
+ggplot(setprice_over_years, aes(x = year,y = unadj_price)) + 
+  geom_point(size = 2, color = "blue") +
+  ggtitle('Price per part over the years') +
+  labs(y="Price per part ($)", x = "year") +
+  stat_smooth(method='lm',,se = FALSE, color = "grey50")
+
+# Plot price per year after adjusting for inflation
+ggplot(setprice_over_years, aes(x = year,y = infl_adj_price)) +
+  geom_point(size = 2, color = "orange") + 
+  ggtitle('Price per part over the years after adjusting for inflation') +
+  labs(y="Price per part ($)", x = "year") + 
+  stat_smooth(method='lm',se = FALSE, color = "grey50")
+
+                             
+                             
+
 #--------------  More expensive sets
 
 #look at overall summary of the Prices
