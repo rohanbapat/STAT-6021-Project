@@ -237,7 +237,13 @@ ggplot(setprice_over_years, aes(x = year,y = infl_adj_price)) +
   labs(y="Price per part ($)", x = "year") + 
   stat_smooth(method='lm',se = FALSE, color = "grey50")
 
-                             
+# ------ Adjusted price of set vs number of parts
+ggplot(price_adj_df,aes(x = num_parts, y =adj_price)) +
+  geom_point(size = 2, color = 'blue')+
+  ggtitle('Price of set by number of parts')+
+  labs(y="Price per set ($)", x = "Number of parts")+
+  stat_smooth(method='lm',se = FALSE, color = "grey50")
+
                              
 
 #--------------  More expensive sets
